@@ -22,7 +22,7 @@ export default function RootLayout({
         <header>
           <Navbar />
         </header>
-        <main className="m-4 mt-0 flex-grow">{children}</main>
+        <main className="m-4 mt-0 mb-8 flex-grow">{children}</main>
         <Footer />
       </body>
     </html>

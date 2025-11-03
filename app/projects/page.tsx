@@ -18,7 +18,7 @@ export default function ProjectsIndex() {
             slug={meta.slug}
             location={meta.location}
             attribution={meta.attribution}
-            img={meta.image}
+            images={meta.images}
           />
         ))}
       </div>

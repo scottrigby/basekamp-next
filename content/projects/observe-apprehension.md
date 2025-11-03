@@ -3,9 +3,11 @@ title: Observe the Apprehension
 date: 2010-10-25
 location: Basekamp, Philadelphia
 attribution: Per Hüttner & Fatos Ustek
-image:
-  src: dsc_8520.jpg
-  alt: Uniform closeup
+images:
+  - src: dsc_8520.jpg
+    alt: Uniform closeup
+  - src: dsc_8518.jpg
+    alt: Uniform
 ---
 
 You are invited to participate in a one-day performance by Per Hüttner and Fatos Ustek.

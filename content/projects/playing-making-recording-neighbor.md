@@ -3,9 +3,15 @@ title: "Playing Making Recording: NEIGHBOR"
 date: 2010-10-23
 location: Basekamp, Philadelphia
 attribution: Michael G. Bauer, Calpin Hoffman Williamson, David Smith
-image:
-  src: dsc_1139-small.jpg
-  alt: Recording session
+images:
+  - src: dsc_1139-small.jpg
+    alt: Recording session
+  - src: dsc_0164-small.jpg
+    alt: Guitar duet
+  - src: smimg_8549-small.jpg
+    alt: Group singing
+  - src: smimg_8450-small.jpg
+    alt: Duet singing
 ---
 
 Playing Making Recording is an ongoing class offered through The Public School, Philadelphia and exists as a series of concentrated music making and recording experiments. Each open door session invites a revolving group of partcipants to come play, compose and record a series of songs during the weekend long intensive. Musicians of all kinds and levels of proficiency were invited to attend and contribute.

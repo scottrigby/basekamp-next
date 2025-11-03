@@ -73,15 +73,16 @@ export default async function ProjectPage({
         </div>
         <div className="sm:col-span-1">
           <div className="size-50 aspect-square">
-            {meta.image && (
+            {meta.images.map(({ src, alt }) => (
               <Image
-                src={`/${meta.image.src}`}
-                alt={meta.image.alt}
+                key={src}
+                src={`/${src}`}
+                alt={alt}
                 width={200}
                 height={200}
-                className="object-cover w-full h-full"
+                className="object-cover w-full h-full mb-4"
               />
-            )}
+            ))}
           </div>
         </div>
       </div>

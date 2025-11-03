@@ -8,7 +8,7 @@ export type ProjectMeta = {
   location: string;
   attribution: string;
   slug: string;
-  image: { src: string; alt: string };
+  images: [{ src: string; alt: string }];
 };
 
 const contentDir = path.join(process.cwd(), "content", "projects");
@@ -41,7 +41,7 @@ export function getProjectBySlug(slug: string) {
     location: data.location,
     attribution: data.attribution,
     slug: finalSlug,
-    image: data.image,
+    images: data.images,
   };
 
   return { meta, content };

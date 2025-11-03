@@ -8,7 +8,7 @@ interface CardProps {
   slug: string;
   location: string;
   attribution?: string;
-  img: { src: string; alt: string };
+  images: [{ src: string; alt: string }];
 }
 
 export default function Card({
@@ -17,18 +17,19 @@ export default function Card({
   slug,
   location,
   attribution,
-  img,
+  images,
 }: CardProps) {
   const href = "/projects/" + slug; // TODO: refine this
   const formattedDate = formatDate(date);
+  const image = images[0];
 
   return (
     <div className="w-50">
       <div className="size-50 aspect-square">
         <Link href={href}>
           <Image
-            src={`/${img.src}`}
-            alt={img.alt}
+            src={`/${image.src}`}
+            alt={image.alt}
             width={200}
             height={200}
             className="object-cover w-full h-full"
