@@ -1,17 +1,19 @@
+# Basekamp Next.js website
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+First, instal the dependencies:
+
+```bash
+npm install
+```
+
+Then you can run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -20,17 +22,26 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Contact Form
 
-To learn more about Next.js, take a look at the following resources:
+This project uses [Resend](https://resend.com) for sending notification email from the contact form.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Set these variables and restart your app.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Environment variables
 
-## Deploy on Vercel
+    Add to your `.env` (local) or hosting provider’s env settings:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    ```bash
+    RESEND_API_KEY=your_resend_api_key
+    CONTACT_FROM="Webform <webform@mail.yourdomain.com>"
+    CONTACT_TO=you@yourdomain.com
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. Verify your sending domain
+
+    In Resend, add and verify a domain for better deliverability (domain for above example would be `mail.yourdomain.com`).
+
+3. Restart
+
+    After setting env vars, restart `npm run dev`.
