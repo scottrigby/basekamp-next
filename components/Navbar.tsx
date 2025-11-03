@@ -5,10 +5,9 @@ import { usePathname } from "next/navigation";
 import classNames from "classnames";
 
 const routes = [
-  { href: "/", name: "Home" },
-  { href: "/about", name: "About" },
-  { href: "/events", name: "Events" },
   { href: "/projects", name: "Projects" },
+  { href: "/events", name: "Events" },
+  { href: "/about", name: "About" },
   { href: "/contact", name: "Contact" },
 ];
 
@@ -47,13 +46,15 @@ export default function Navbar() {
         </ul>
       </nav>
       <div className="flex flex-row-reverse">
-        <Image
-          loading="eager"
-          src="/logo-orange.png"
-          alt="Basekamp"
-          width={350}
-          height={85}
-        />
+        <Link href="/">
+          <Image
+            loading="eager"
+            src="/logo-orange.png"
+            alt="Basekamp"
+            width={350}
+            height={85}
+          />
+        </Link>
       </div>
     </>
   );
