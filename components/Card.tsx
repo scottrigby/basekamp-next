@@ -1,0 +1,44 @@
+import Image from "next/image";
+import Link from "next/link";
+import { formatDate } from "@/lib/utils";
+
+interface CardProps {
+  title: string;
+  date: string;
+  slug: string;
+  location: string;
+  attribution?: string;
+  img: { src: string; alt: string };
+}
+
+export default function Card({
+  title,
+  date,
+  slug,
+  location,
+  attribution,
+  img,
+}: CardProps) {
+  const href = "/projects/" + slug; // TODO: refine this
+  const formattedDate = formatDate(date);
+
+  return (
+    <div className="w-50">
+      <div className="size-50 aspect-square">
+        <Link href={href}>
+          <Image
+            src={`/${img.src}`}
+            alt={img.alt}
+            width={200}
+            height={200}
+            className="object-cover w-full h-full"
+          />
+        </Link>
+      </div>
+      <Link href={href}>{title}</Link>
+      {date && <small className="block">{formattedDate}</small>}
+      {location && <small className="block">{location}</small>}
+      {attribution && <small className="block">{attribution}</small>}
+    </div>
+  );
+}
