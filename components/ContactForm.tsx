@@ -1,17 +1,44 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 type Props = { className?: string; endpoint?: string };
+type Status = { type: "idle" | "loading" | "success" | "error"; msg?: string };
+type StatusResponse = { devMode: boolean; missing?: string[] };
+type ApiResponse = {
+  ok: boolean;
+  error?: string;
+  devMode?: boolean;
+  missing?: string[];
+};
 
 export default function ContactForm({
   className,
   endpoint = "/api/contact",
 }: Props) {
   const [values, setValues] = useState({ name: "", email: "", message: "" });
-  const [status, setStatus] = useState<{
-    type: "idle" | "loading" | "success" | "error";
-    msg?: string;
-  }>({ type: "idle" });
+  const [status, setStatus] = useState<Status>({ type: "idle" });
+  const [devMode, setDevMode] = useState<boolean>(false);
+  const [missingVars, setMissingVars] = useState<string[]>([]);
+
+  // Show dev banner immediately on page load
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const res = await fetch(endpoint, { method: "GET" });
+        const data: StatusResponse | null = await res.json().catch(() => null);
+        if (!cancelled && data) {
+          setDevMode(Boolean(data.devMode));
+          setMissingVars(Array.isArray(data.missing) ? data.missing : []);
+        }
+      } catch {
+        // If status check fails, do nothing; banner will still show after first POST if dev
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [endpoint]);
 
   const validate = () => {
     if (!values.name.trim()) return "Name is required";
@@ -34,16 +61,29 @@ export default function ContactForm({
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(values),
       });
-      const data = await res.json().catch(() => null);
+      const data: ApiResponse | null = await res.json().catch(() => null);
 
-      if (!res.ok || data?.ok !== true) {
+      if (!res.ok || !data?.ok) {
         return setStatus({
           type: "error",
           msg: data?.error || `Request failed (${res.status})`,
         });
       }
 
-      setStatus({ type: "success", msg: "Thanks! We’ll be in touch soon." });
+      // Update dev banner state based on POST response too
+      setDevMode(Boolean(data.devMode));
+      setMissingVars(Array.isArray(data.missing) ? data.missing : missingVars);
+
+      // Use different success copy in dev mode
+      if (data.devMode) {
+        setStatus({
+          type: "success",
+          msg: "Submission logged to server console (no email sent).",
+        });
+      } else {
+        setStatus({ type: "success", msg: "Thanks! We’ll be in touch soon." });
+      }
+
       setValues({ name: "", email: "", message: "" });
     } catch {
       setStatus({ type: "error", msg: "Network error. Please try again." });
@@ -54,8 +94,20 @@ export default function ContactForm({
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
   ) => setValues((v) => ({ ...v, [e.target.name]: e.target.value }));
 
+  const devBannerMessage = devMode
+    ? `Development mode: Resend is not fully configured${
+        missingVars.length ? ` (missing: ${missingVars.join(", ")})` : ""
+      }. Form submissions are NOT emailed; data is logged to the server console.`
+    : null;
+
   return (
     <form onSubmit={onSubmit} className={className ?? ""}>
+      {devBannerMessage && (
+        <p className="mb-4 rounded-md border border-yellow-600 bg-yellow-50 p-3 text-sm text-yellow-800">
+          {devBannerMessage}
+        </p>
+      )}
+
       <div className="space-y-4">
         <div>
           <label htmlFor="name" className="block text-2xl">

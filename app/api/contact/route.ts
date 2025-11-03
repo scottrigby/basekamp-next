@@ -3,10 +3,28 @@ import { Resend } from "resend";
 
 export const runtime = "nodejs";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+const hasResendKey = Boolean(process.env.RESEND_API_KEY);
+const hasContactFrom = Boolean(process.env.CONTACT_FROM);
+const hasContactTo = Boolean(process.env.CONTACT_TO);
+const hasResendConfigured = hasResendKey && hasContactFrom && hasContactTo;
+
+const resend = hasResendConfigured
+  ? new Resend(process.env.RESEND_API_KEY)
+  : null;
 
 function isValidEmail(email: string): boolean {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+}
+
+// Status endpoint so the client can show a banner immediately
+export async function GET() {
+  const missing = [
+    !hasResendKey ? "RESEND_API_KEY" : null,
+    !hasContactFrom ? "CONTACT_FROM" : null,
+    !hasContactTo ? "CONTACT_TO" : null,
+  ].filter(Boolean) as string[];
+
+  return NextResponse.json({ devMode: !hasResendConfigured, missing });
 }
 
 export async function POST(req: NextRequest) {
@@ -39,22 +57,28 @@ export async function POST(req: NextRequest) {
       { status: 422 }
     );
   }
-  if (
-    !process.env.RESEND_API_KEY ||
-    !process.env.CONTACT_FROM ||
-    !process.env.CONTACT_TO
-  ) {
-    console.error("Contact: RESEND_API_KEY/CONTACT_FROM/CONTACT_TO not set");
-    return NextResponse.json(
-      { ok: false, error: "Server misconfigured" },
-      { status: 500 }
+
+  if (!hasResendConfigured) {
+    const missing = [
+      !hasResendKey ? "RESEND_API_KEY" : null,
+      !hasContactFrom ? "CONTACT_FROM" : null,
+      !hasContactTo ? "CONTACT_TO" : null,
+    ].filter(Boolean) as string[];
+
+    console.warn(
+      `Contact: Resend not fully configured → dev mode (console only). Missing: ${missing.join(
+        ", "
+      )}`
     );
+    console.log("Contact: submission (console-only)", { name, email, message });
+
+    return NextResponse.json({ ok: true, devMode: true, missing });
   }
 
   try {
-    const { error } = await resend.emails.send({
-      from: process.env.CONTACT_FROM,
-      to: process.env.CONTACT_TO,
+    const { error } = await resend!.emails.send({
+      from: process.env.CONTACT_FROM!,
+      to: process.env.CONTACT_TO!,
       replyTo: email,
       subject: `New contact message from ${name}`,
       text: [
@@ -75,7 +99,7 @@ export async function POST(req: NextRequest) {
     }
 
     console.log("Contact: submission delivered via Resend", { name, email });
-    return NextResponse.json({ ok: true });
+    return NextResponse.json({ ok: true, devMode: false });
   } catch (err) {
     console.error("Contact: unexpected error", err);
     return NextResponse.json(
