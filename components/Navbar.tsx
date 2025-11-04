@@ -49,7 +49,7 @@ export default function Navbar() {
         <Link href="/">
           <Image
             loading="eager"
-            src="/logo-orange.png"
+            src="/basekamp-ff8904.svg"
             alt="Basekamp"
             width={350}
             height={85}
