@@ -72,18 +72,17 @@ export default async function ProjectPage({
           <div dangerouslySetInnerHTML={{ __html: html }} className="mt-8" />
         </div>
         <div className="sm:col-span-1">
-          <div className="size-50 aspect-square">
-            {meta.images.map(({ src, alt }) => (
+          {meta.images.map(({ src, alt }) => (
+            <div key={src} className="size-50 aspect-square mb-4">
               <Image
-                key={src}
                 src={`/${src}`}
                 alt={alt}
                 width={200}
                 height={200}
-                className="object-cover w-full h-full mb-4"
+                className="object-cover w-full h-full"
               />
-            ))}
-          </div>
+            </div>
+          ))}
         </div>
       </div>
     </article>
