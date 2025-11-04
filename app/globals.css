@@ -18,10 +18,14 @@
   }
 
   p {
-    @apply mb-2
+    @apply mb-4;
   }
 
   a {
     @apply text-orange-500 hover:underline;
+  }
+
+  ol {
+    @apply list-decimal list-outside pl-8 mb-4;
   }
 }
