@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { marked } from "marked";
 import { getProjectBySlug, getProjectSlugs } from "../../../lib/projects";
 import { formatDate } from "@/lib/utils";
-import Image from "next/image";
+import ImageSlider from "@/components/ImageSlider";
 
 type Params = { slug: string };
 
@@ -61,7 +61,7 @@ export default async function ProjectPage({
     <article>
       <h1 className="mb-1">{meta.title}</h1>
       <div className="sm:grid sm:grid-cols-5">
-        <div className="sm:col-span-4 sm:mr-4">
+        <div className="sm:col-span-3 sm:mr-4">
           {meta.date && (
             <small className="block">{formatDate(meta.date)}</small>
           )}
@@ -71,18 +71,11 @@ export default async function ProjectPage({
           )}
           <div dangerouslySetInnerHTML={{ __html: html }} className="mt-8" />
         </div>
-        <div className="sm:col-span-1">
-          {meta.images.map(({ src, alt }) => (
-            <div key={src} className="min-size-50 aspect-square mb-4">
-              <Image
-                src={`/${src}`}
-                alt={alt}
-                width={200}
-                height={200}
-                className="object-cover w-full h-full"
-              />
-            </div>
-          ))}
+        <div className="sm:col-span-2">
+          <ImageSlider
+            images={meta.images}
+            className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4"
+          />
         </div>
       </div>
     </article>
