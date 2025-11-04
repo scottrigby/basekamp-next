@@ -10,8 +10,14 @@ images:
 
 This is an example project page.
 
+## Heading 2
+
 - one
 - two
 - three
+
+Another paragraph.
+
+### Heading 3
 
 Another paragraph.

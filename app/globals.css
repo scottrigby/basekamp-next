@@ -17,6 +17,10 @@
     @apply text-2xl font-normal mb-4 mt-4;
   }
 
+  h3 {
+    @apply text-xl font-normal mb-4 mt-4;
+  }
+
   p {
     @apply mb-4;
   }
