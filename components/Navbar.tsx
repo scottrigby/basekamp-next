@@ -17,7 +17,7 @@ export default function Navbar() {
   return (
     <>
       <nav className="bg-orange-400 text-white">
-        <ul className="flex p-2 pb-0 list-none">
+        <ul className="flex p-2 pb-0 list-none mb-0">
           {routes.map(({ href, name }) => {
             // only highlight home when directly on homepage
             // because every route starts with "/"
