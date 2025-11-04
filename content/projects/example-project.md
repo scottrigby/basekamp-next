@@ -9,3 +9,9 @@ images:
 ---
 
 This is an example project page.
+
+- one
+- two
+- three
+
+Another paragraph.

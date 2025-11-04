@@ -26,6 +26,10 @@
   }
 
   ol {
-    @apply list-decimal list-outside pl-8 mb-4;
+    @apply list-decimal pl-8 mb-4;
+  }
+
+  ul {
+    @apply list-disc pl-8 mb-4;
   }
 }
