@@ -112,11 +112,11 @@ We invite participation by sharing your stories about the Plausible Artworlds yo
 
 Our plan for this year is in process. We have slots open for our potluck and a collaborative workshop and exhibition space available for use. If you want to get involved, get in touch with us!
 
-- Propose a Potluck Topic or Guest
-- Learn how to “tune” in or visit the Basekamp space in person!
-- Submit your ideas and stories about a Plausible Artworld
-- Start a project at Basekamp
+* Propose a Potluck Topic or Guest
+* Learn how to “tune” in or visit the Basekamp space in person!
+* Submit your ideas and stories about a Plausible Artworld
+* Start a project at Basekamp
 
-[Contact »](/info/contact)
+[Contact »](/info/contact "/info/contact")
 
 Plausible Artworlds is a project organized by Basekamp and Stephen Wright, and has been funded by The Pew Center for Arts & Heritage through the Philadelphia Exhibitions Initiative.

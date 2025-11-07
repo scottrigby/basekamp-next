@@ -23,7 +23,7 @@ Talk by Douglas Repetto** (Dorkbot NYC, Columbia University)
 Friday, August 28th, 2009  
 5 - 9 PM  
 Showing of resident artists’ process and practice**  
-[Event info](http://basekamp.com/about/events/genesis-project-event-2-process-and-practice)
+[Event info](http://basekamp.com/about/events/genesis-project-event-2-process-and-practice "http://basekamp.com/about/events/genesis-project-event-2-process-and-practice")
 
 **Free admission**  
 Meet the artists-in-residence, and other Basekampers!

@@ -19,9 +19,9 @@ You are invited to participate in a one-day performance by Per Hüttner and Fato
 3 - 8 pm on Monday, October 25th, 2010
 
 **Location**  
-Basekamp space  
-723 Chestnut Street, 2nd floor  
-Philadelphia, Pennsylvania 19106
+ Basekamp space  
+ 723 Chestnut Street, 2nd floor  
+ Philadelphia, Pennsylvania 19106
 
 Following their ongoing investigation into the boundaries of artist, curator, critic and their audience, Hüttner and Ustek will invite the audience to be involved in a new performance.
 

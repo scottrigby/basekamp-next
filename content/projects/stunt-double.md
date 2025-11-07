@@ -38,10 +38,10 @@ dateRange:
 ---
 
 David Dempewolf, Scott Rigby, Philip Simmons, Megan Ganser  
-1999\. Basekamp Gallery, Philadelphia
-
-This show consisted of four full sized copies of Sol LeWitt’s “wall murals” from the artists exhibition of Black and Colors that was on exhibition concurrently at the ICA in Philadelphia. Accompanying these murals were life size dye sublimation prints of student laborers who were hired to help produce the original work.
-
-Several of these hired students were members of the Base Kamp. Within this time and experience at the ICA, they appropriated LeWitt’s mural plans and learned the technical skills to produce counterfeit copies in their own gallery. Both exhibitions were being fabricated simultaneously.
-
+1999. Basekamp Gallery, Philadelphia  
+  
+This show consisted of four full sized copies of Sol LeWitt’s “wall murals” from the artists exhibition of Black and Colors that was on exhibition concurrently at the ICA in Philadelphia. Accompanying these murals were life size dye sublimation prints of student laborers who were hired to help produce the original work.   
+  
+Several of these hired students were members of the Base Kamp. Within this time and experience at the ICA, they appropriated LeWitt’s mural plans and learned the technical skills to produce counterfeit copies in their own gallery. Both exhibitions were being fabricated simultaneously.  
+  
 Stunt Double addresses the questions of authorship where many of the participants mingle their individual identities into a collective endeavor. The roles of the students as anonymous labor is placed in the foreground, and comments on how there is often a strong element of collaborative effort behind the generation of many singular artists’ works.

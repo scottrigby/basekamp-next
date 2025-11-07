@@ -90,7 +90,7 @@ Open to exhibition Participants, Columbia University students, friends, and the 
 
 The CTD Symposium is an extension of the Connect The Dots exhibition. A selection of participants from the exhibition, along with the co-organizers David Dempewolf and Scott Rigby, will each give 10-15 minute oral/video presentations of the their contribution to the project, with an informal discussion to follow. This event is intended to enable participants to interact more directly and independently, to share strategies and developments, and to distribute information within a community of peers.
 
-For a schedule of events or additional press information please call or send inquiries to: Scott Rigby & David Dempewolf [scott@basekamp.com](mailto:scott@basekamp.com)
+For a schedule of events or additional press information please call or send inquiries to: Scott Rigby & David Dempewolf [scott@basekamp.com](mailto:scott@basekamp.com "mailto:scott@basekamp.com")
 
 …
 
@@ -182,17 +182,17 @@ What is your relationship to others in the network created by your curatorial pr
 Connect The Dots: Questionnaire Form  
 Please describe your exhibition by using the scientific method (below):
 
-1\. Problem or Question.  
+1. Problem or Question.  
 In the planning for one of your past exhibitions, please identify a problem or question you wanted to explore, that you then investigated through the use empirical observation and then documented in the form of the final exhibition or journal.  
-2\. Hypothesis.  
+2. Hypothesis.  
 Try to articulate your intentions or strategies you adopted employed for re-presenting the work produced by your peers. Also include the original press release or exhibition statement if available.  
-3\. Materials & Resources.  
+3. Materials & Resources.  
 List what was needed for the exhibition to take place; e.g. materials, equipment, grants, private support or personal financing, venue opportunities, volunteers, help or advice from colleagues, artists fulfilling specific needs or services within the exhibition.  
-4\. Procedure.  
+4. Procedure.  
 Your procedure was your plan of action or a list of what you did. Describe the events that took place throughout the planning, experimentation, and making of the exhibition.  
-5\. Data.  
+5. Data.  
 This is the basic information about the exhibition, such as its title, dates and location, names of co-curators, artists involved, support staff, special thanks, and any other credits or relevant information.  
-6\. Results.  
+6. Results.  
 Show what happened - the observations critical and documentation you or your peers have made . Provide a visual or textual description of the final exhibition (objects or events). Please include any critical reception of the exhibition (reviews, articles).  
-7\. Conclusions.  
+7. Conclusions.  
 Tell what you learned. Answer your original question and state whether your hypothesis was reflected in the final results, and if this illuminated anything new or valuable in your hypothesis.

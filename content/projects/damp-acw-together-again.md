@@ -61,7 +61,7 @@ Philadelphia, PA united states
 
 Exhibition dates: Dec 4th 2004 – Jan 15 2005
 
-**_Together Again_** is an exhibition by two related collaborative groups. The **DAMP** collective from Melbourne, and Torino-based collaborative art group **A Constructed World** have worked together and independently to create artworks that explore the relationship between art and audience through video, photography, painting, publishing and live events.
+***Together Again*** is an exhibition by two related collaborative groups. The **DAMP** collective from Melbourne, and Torino-based collaborative art group **A Constructed World** have worked together and independently to create artworks that explore the relationship between art and audience through video, photography, painting, publishing and live events.
 
 images: detail of Suddenly…A Face Melting Solo, interpolated cartoons and video by DAMP with various artists, 2004; and Explaining Contemporary Art To Live Eels, by A Constructed World, 2004.
 

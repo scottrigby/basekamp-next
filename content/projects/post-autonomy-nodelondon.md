@@ -16,5 +16,5 @@ dateRange:
 Image from meal / video conference between BASEKAMP and the Bureau for Research into Post Autonomy. For ‘Constructing a practice in the space of post autonomy” Node London, March 2006. Photo by Leran Schwartz.
 
 For more details see:  
-[http://nodel.org/](http://nodel.org/ "http://nodel.org/") \[Networked, Open, Distributed, Events. London\]  
-[http://postautonomy.co.uk/](http://postautonomy.co.uk/ "http://postautonomy.co.uk/") \[a website for promoting a discourse on the concept of Post Autonomy\].
+[http://nodel.org/](http://nodel.org/ "http://nodel.org/") [Networked, Open, Distributed, Events. London]  
+[http://postautonomy.co.uk/](http://postautonomy.co.uk/ "http://postautonomy.co.uk/") [a website for promoting a discourse on the concept of Post Autonomy].

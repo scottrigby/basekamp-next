@@ -46,4 +46,4 @@ I DEAL OPPORTUNITIES is a deck of oversized playing cards, designed by Artist Sc
 Each card in the deck is a surrogate for one artwork within the exhibition. Borrowing from an early Eames’ card system, the I Deal Opportunities cards are slotted to fit easily together, so that visitors may build any structure they wish, using any number of artist combinations; This allows gallery visitors to temporarily adopt the role of the Curator/Dealer, and opens up infinite hypothetical arrangements and relationships between the artists in the exhibition.  
 A version of the I Deal Opportunities cards is also available on the Chisenhale Gallery website (under Preview of Work section). These can be downloaded and printed, so online viewers can curate their own exhibition at home.  
 You can create you own set by going directly to:  
-[http://basekamp.com/bk_team/projects/iamacurator](http://basekamp.com/bk_team/projects/iamacurator "http://basekamp.com/bk_team/projects/iamacurator")
+[http://basekamp.com/bk\_team/projects/iamacurator](http://basekamp.com/bk_team/projects/iamacurator "http://basekamp.com/bk_team/projects/iamacurator")

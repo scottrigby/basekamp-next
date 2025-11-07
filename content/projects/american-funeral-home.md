@@ -28,4 +28,4 @@ In addition to selections from a photographic survey of American funerary facili
 These include Abolesco, which brings together industry and the sacred for the design of a contemporary mass-produceable coffin/ distribution system that is adaptable to today’s lifestyles. The Simetery is a computer application we have developed, using the latest cross platform technology, to help interactively design spaces of remembrance.  
 Inspired by funeral-home innovations, the entire exhibition is carefully lit using what we call the Natural Light system, which employs smart technology which we hope can be a foretaste of life and death alternatives to come.
 
-[The Institute for Advanced Architecture](http://institute.advancedarchitecture.org/Exhibition/Basekamp)
+[The Institute for Advanced Architecture](http://institute.advancedarchitecture.org/Exhibition/Basekamp "http://institute.advancedarchitecture.org/Exhibition/Basekamp")

@@ -42,9 +42,9 @@ Work on display by the following artists:
 Ross Sinclair - Giancarlo Norese - Richard Allalouf & Andy Cox - Arni Gudmundsson - Franco Angeloni - Marius Engh - Joan Jonas - Ellen Harvey - Ayreen Anastas - William Gerbracht - Mark Alan Stamaty - Joseph Krupczynski - Justin Spivey - Kevin Schmidt - Ludovic Burel - Rainer Ganahl - Claire Canning - Grady Gerbracht - Tone Hansen - Per Hüttner - Tone O Nielsen - Patrick Bernier - Cesare PietroIusti - Max Presneill - Reid Shier - Gavin Wade & Scott Rigby - Måns Malmborg.
 
 For more information about the project contact:  
-Per Hüttner: [pah@swipnet.se](mailto:pah@swipnet.se)  
+Per Hüttner: [pah@swipnet.se](mailto:pah@swipnet.se "mailto:pah@swipnet.se")  
 or  
-Paul Clay at Cuchifritos: [info@mail.fictive.net](mailto:info@mail.fictive.net)
+Paul Clay at Cuchifritos: [info@mail.fictive.net](mailto:info@mail.fictive.net "mailto:info@mail.fictive.net")
 
 CUCHIFRITOS and inside the Essex St. Food Market  
 120 Essex Street  
@@ -86,7 +86,7 @@ Paul Clay, the director of the Artist’s Alliance Incorporated (AAI) and the ma
 
 These opportunities are something the AAI wants to give back, not only through Cuchifritos. The AAI formed in 1998 and is based in a derelict school building on Suffolk Street, two blocks behind the market. It is now the largest long-term studio program in Manhattan, with sixty-five artists in residence. As well as a way to organise and galvanise its members, the AAI has always been focussed on disseminating art into the community. In the summer the AAI holds an outdoor event called SPLASH! where children paint anything they want on a huge canvas. “It’s a lot of fun,” says Clay, “and with Cuchifritos we’re giving a little taste of art for people in the market.”
 
-But Clay is cautious about the issue of gentrification and the imposition, the assumptions and the awkward questions of class and snobbery it raises, especially in the realm of art: “At first we weren’t even sure if we should pitch the idea \[to the EDC\], because we didn’t want to go in there and gentrify the market. Then a nice lounge and restaurant took up residency at the north end of the building. At that point we felt the addition of our space wasn’t a problem in comparison.”
+But Clay is cautious about the issue of gentrification and the imposition, the assumptions and the awkward questions of class and snobbery it raises, especially in the realm of art: “At first we weren’t even sure if we should pitch the idea [to the EDC], because we didn’t want to go in there and gentrify the market. Then a nice lounge and restaurant took up residency at the north end of the building. At that point we felt the addition of our space wasn’t a problem in comparison.”
 
 The AAI has had bitter experience of gentrification, having nearly been evicted from their studios. The city wanted to sell the building and the organization which manages the building also wanted them out. “But we’re now working with the city and with theater groups and resident organizations to set up an entirely new not-for-profit to manage the maintenance of the building and to raise funds for capital improvement. It will take on the bricks and mortar stuff, leaving AAI free to run the studio program and other activities.” The building needs millions of dollars worth of renovations: for a visitor its dank decay may be charming but to work there must be difficult. “Rents are subsidized to make affordable workspace,” Clay explains, “but the work that goes into defending the place and sustaining it is phenomenal.”
 
