@@ -4,7 +4,8 @@
 //   node scripts/scrape.mjs --type projects --out source-content/projects [--verbose] [--dry-run] [--concurrency 4]
 //
 // Scrapes Basekamp grid pages and converts each item to Markdown via markdownify console script in a managed venv.
-// Adds concurrent conversion and strips fixed navigation/footer blocks from the output.
+// Adds concurrent conversion, strips fixed navigation/footer blocks from the output,
+// and for projects prepends per-item attribution (from the grid) at the very top with a blank line afterward.
 
 import { mkdir, access, readFile, writeFile } from "node:fs/promises";
 import { createWriteStream } from "node:fs";
@@ -66,17 +67,14 @@ This site is licensed under a [Creative Commons Attribution-Noncommercial-Share 
 
 `;
 
-// Build safe regexes that match the exact blocks, including the blank lines around them
-const blockTopRe = new RegExp(escapeForRegex(BLOCK_TOP), "g");
-const blockBottomCalendarRe = new RegExp(
-  escapeForRegex(BLOCK_BOTTOM_CALENDAR),
-  "g"
-);
-const blockBottomRe = new RegExp(escapeForRegex(BLOCK_BOTTOM), "g");
-
 function escapeForRegex(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
+
+// Build safe regexes that match the exact blocks, including the blank lines around them
+const blockTopRe = new RegExp(escapeForRegex(BLOCK_TOP), "g");
+const blockBottomCalendarRe = new RegExp(escapeForRegex(BLOCK_BOTTOM_CALENDAR), "g");
+const blockBottomRe = new RegExp(escapeForRegex(BLOCK_BOTTOM), "g");
 
 function parseArgs(argv) {
   const args = new Map();
@@ -115,7 +113,7 @@ function normalizeUrl(href, base = BASE_URL) {
   try {
     const u = new URL(href, base);
     if (u.hostname.endsWith("basekamp.com")) {
-      u.protocol = "http:"; // force http
+      u.protocol = "http:"; // force http (site has no SSL)
       u.hash = "";
       u.search = "";
       return u.toString();
@@ -188,6 +186,29 @@ function extractLinks(html, type) {
   return normalized;
 }
 
+// Projects-only: collect attribution text from each grid item
+function extractProjectAttributionsFromGrid(html) {
+  // Map<absoluteItemUrl, attributionText>
+  const $ = load(html);
+  const map = new Map();
+  $("li.views-fluid-grid-item, li.views-row").each((_, li) => {
+    const $li = $(li);
+    // link for this item
+    const link = $li.find(".views-field-title .field-content a[href]").attr("href");
+    if (!link) return;
+    const abs = normalizeUrl(link);
+    // attribution in this grid item
+    const attr = $li
+      .find(".views-field-field-project-attribution-value .field-content")
+      .text()
+      .trim();
+    if (abs && attr) {
+      map.set(abs, attr);
+    }
+  });
+  return map;
+}
+
 async function ensureVenvMarkdownifyBin(venvDir) {
   const venvPython = resolvePath(venvDir, "bin", "python");
   const markdownifyBin = resolvePath(venvDir, "bin", "markdownify");
@@ -252,10 +273,16 @@ async function ensureVenvMarkdownifyBin(venvDir) {
   return { markdownifyBin };
 }
 
-async function convertPageToMarkdown(url, outfile, markdownifyBin) {
+async function convertPageToMarkdown(
+  url,
+  outfile,
+  markdownifyBin,
+  attributionTop
+) {
   const html = await fetchHtmlFollowRedirects(url);
   await ensureDir(dirname(outfile));
 
+  // Convert HTML -> Markdown
   await new Promise((resolve, reject) => {
     const child = spawn(
       markdownifyBin,
@@ -295,13 +322,18 @@ async function convertPageToMarkdown(url, outfile, markdownifyBin) {
     );
   });
 
-  // Strip fixed navigation/footer blocks
+  // Strip fixed navigation/footer blocks and prepend attribution if provided (projects only)
   try {
     let md = await readFile(outfile, "utf-8");
     md = md
       .replace(blockTopRe, "")
       .replace(blockBottomCalendarRe, "")
       .replace(blockBottomRe, "");
+
+    if (attributionTop && attributionTop.trim().length > 0) {
+      md = `${attributionTop.trim()}\n\n${md}`;
+    }
+
     await writeFile(outfile, md, "utf-8");
   } catch (err) {
     // Non-fatal; log and continue
@@ -309,31 +341,28 @@ async function convertPageToMarkdown(url, outfile, markdownifyBin) {
   }
 }
 
-async function runConcurrent(urls, concurrency, worker) {
-  const queue = urls.slice();
+async function runConcurrent(tasks, concurrency) {
+  const queue = tasks.slice();
   let active = 0;
-  let resolved = 0;
-  return new Promise((resolve, reject) => {
+  let done = 0;
+  return new Promise((resolve) => {
     const next = () => {
-      if (resolved === urls.length) return resolve();
       while (active < concurrency && queue.length) {
-        const url = queue.shift();
+        const fn = queue.shift();
         active++;
-        worker(url)
-          .then(() => {
-            active--;
-            resolved++;
-            next();
-          })
+        fn()
           .catch((err) => {
-            active--;
-            resolved++;
             console.error(err.message || err);
-            next();
+          })
+          .finally(() => {
+            active--;
+            done++;
+            if (done === tasks.length) {
+              resolve();
+            } else {
+              next();
+            }
           });
-      }
-      if (active === 0 && queue.length === 0 && resolved === urls.length) {
-        resolve();
       }
     };
     next();
@@ -361,15 +390,17 @@ async function main() {
     if (args.dryRun) console.log("Dry run: enabled");
   }
 
-  let html;
+  // Fetch grid HTML
+  let gridHtml;
   try {
-    html = await fetchHtmlFollowRedirects(sourceUrl);
+    gridHtml = await fetchHtmlFollowRedirects(sourceUrl);
   } catch (err) {
     console.error(`Failed to fetch source URL: ${err.message}`);
     process.exit(1);
   }
 
-  const links = extractLinks(html, args.type);
+  // Extract links
+  const links = extractLinks(gridHtml, args.type);
   if (args.verbose) {
     console.log(`Discovered ${links.length} ${args.type} URL(s):`);
     for (const u of links) console.log(`  - ${u}`);
@@ -381,6 +412,13 @@ async function main() {
     process.exit(0);
   }
 
+  // Projects: build attribution map from the grid
+  const attributionMap =
+    args.type === "projects"
+      ? extractProjectAttributionsFromGrid(gridHtml)
+      : new Map();
+
+  // Ensure venv markdownify console script
   const venvDir = resolvePath(__dirname, "..", ".venv");
   let markdownifyBin;
   try {
@@ -409,8 +447,11 @@ async function main() {
 
     if (args.dryRun) return;
 
+    const attributionTop =
+      args.type === "projects" ? attributionMap.get(url) ?? "" : "";
+
     try {
-      await convertPageToMarkdown(url, outfile, markdownifyBin);
+      await convertPageToMarkdown(url, outfile, markdownifyBin, attributionTop);
       converted++;
       await sleep(25);
     } catch (err) {
@@ -419,7 +460,7 @@ async function main() {
     }
   });
 
-  await runConcurrent(tasks, concurrency, (task) => task());
+  await runConcurrent(tasks, concurrency);
 
   console.log(`Done. Converted ${converted} file(s) to ${args.out}.`);
   if (errors > 0) console.log(`Completed with ${errors} error(s).`);
