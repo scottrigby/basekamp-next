@@ -1,11 +1,7 @@
-// Usage (run from anywhere):
-//   node scripts/convert-markdown-to-frontmatter.mjs <sourceDir> <outputDir> [downloadDir]
-//
-// Behavior:
-// - Args are interpreted relative to the project root (parent of scripts/).
-// - Converts template-formatted markdown headers into YAML frontmatter.
-// - Optionally downloads images to downloadDir and sets images[].src to only the filename.
-// - Idempotent: skips downloading images that already exist (non-empty file); only overwrites output files if conversion result changes.
+// filename: scripts/convert-markdown-to-frontmatter.mjs
+// Usage:
+//   node scripts/convert-markdown-to-frontmatter.mjs <sourceDir> <outputDir> <contentType> [downloadDir]
+// contentType: "projects" | "events"
 
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -15,8 +11,6 @@ import http from "node:http";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-// Project root is one directory up from scripts/
 const PROJECT_ROOT = path.resolve(__dirname, "..");
 
 const MONTHS = {
@@ -38,6 +32,7 @@ function normalizeLine(line) {
   return line.replace(/\r/g, "").trim();
 }
 
+// Parse "Month D, YYYY"
 function parseSingleDate(raw) {
   if (!raw) return null;
   const cleaned = raw.replace(/\(.*?\)/g, "").trim();
@@ -52,39 +47,140 @@ function parseSingleDate(raw) {
   return { year, month, day };
 }
 
-function formatISO({ year, month, day }) {
+function formatISODate({ year, month, day }) {
   const mm = String(month).padStart(2, "0");
   const dd = String(day).padStart(2, "0");
   return `${year}-${mm}-${dd}`;
 }
 
-function parseDateLine(line) {
+// Parse times like "6pm", "6:00pm", "12:30 AM"
+function parseTime(raw) {
+  if (!raw) return null;
+  const s = raw.trim().toLowerCase();
+  const m = s.match(/^(\d{1,2})(?::(\d{2}))?\s*([ap])m$/i);
+  if (!m) return null;
+  let hour = parseInt(m[1], 10);
+  const minute = m[2] ? parseInt(m[2], 10) : 0;
+  const ap = m[3];
+  if (hour === 12) {
+    hour = ap === "a" ? 0 : 12;
+  } else {
+    hour = ap === "p" ? hour + 12 : hour;
+  }
+  const hh = String(hour).padStart(2, "0");
+  const mm = String(minute).padStart(2, "0");
+  return `${hh}:${mm}`;
+}
+
+// Events date line parser (dates + optional times)
+function parseEventsDateLine(line) {
+  const parts = normalizeLine(line)
+    .split(" - ")
+    .map((s) => s.trim())
+    .filter(Boolean);
+  if (parts.length === 0) return { dateRange: { from: "", to: "" } };
+
+  const dateCandidates = [];
+  const timeCandidates = [];
+  for (const p of parts) {
+    const d = parseSingleDate(p);
+    if (d) {
+      dateCandidates.push(d);
+    } else {
+      const t = parseTime(p);
+      if (t) timeCandidates.push(t);
+    }
+  }
+
+  const fromDate = dateCandidates[0] || null;
+  const toDate = dateCandidates[1] || null;
+  const fromIsoDate = fromDate ? formatISODate(fromDate) : "";
+  const toIsoDate = toDate ? formatISODate(toDate) : fromIsoDate || "";
+
+  const fromTime = timeCandidates[0] || null;
+  const toTime = timeCandidates[1] || null;
+
+  const from = fromIsoDate
+    ? fromTime
+      ? `${fromIsoDate}T${fromTime}`
+      : fromIsoDate
+    : "";
+  const to = toIsoDate
+    ? toTime
+      ? `${toIsoDate}T${toTime}`
+      : timeCandidates.length
+      ? `${toIsoDate}T${fromTime || "00:00"}`
+      : toIsoDate
+    : "";
+
+  return { dateRange: { from, to } };
+}
+
+// Projects date line parser (previous behavior)
+function parseProjectsDateLine(line) {
   const normalized = normalizeLine(line);
   if (normalized.includes(" - ")) {
     const [fromRaw, toRaw] = normalized.split(" - ").map((s) => s.trim());
     const from = parseSingleDate(fromRaw);
     const to = parseSingleDate(toRaw);
-    const date = from ? formatISO(from) : "";
+    const date = from ? formatISODate(from) : "";
     const dateRange = {
-      from: from ? formatISO(from) : "",
-      to: to ? formatISO(to) : "",
+      from: from ? formatISODate(from) : "",
+      to: to ? formatISODate(to) : "",
     };
     return { date, dateRange };
   } else {
     const d = parseSingleDate(normalized);
-    const date = d ? formatISO(d) : "";
+    const date = d ? formatISODate(d) : "";
     return { date, dateRange: { from: date, to: "" } };
   }
 }
 
+// Robust image link parser:
+// [![ALT](innerImageUrl)](outerUrl ["optional title"])
+// We only need ALT and outerUrl; ignore title.
 function parseImageLink(line) {
-  // Pattern: [![ALT](innerImageUrl)](outerLinkUrl)
-  const normalized = normalizeLine(line);
-  const m = normalized.match(/^\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)$/);
-  if (!m) return null;
-  const alt = m[1].trim();
-  const outerHref = m[3].trim();
-  return { alt, href: outerHref };
+  const s = normalizeLine(line);
+
+  // Quick reject if not starting with expected pattern
+  if (!s.startsWith("[![")) return null;
+
+  // ALT
+  const altStart = s.indexOf("[![") + 3;
+  const altEnd = s.indexOf("]]", altStart); // this would be wrong; use proper bracket finding
+  // Instead, find alt up to the next "]("
+  const altClose = s.indexOf("](", altStart);
+  if (altClose === -1) return null;
+  const alt = s.slice(altStart, altClose);
+
+  // inner image url: starts after '(' following the previous altClose
+  const innerParenOpen = s.indexOf("(", altClose);
+  if (innerParenOpen === -1) return null;
+  const innerParenClose = s.indexOf(")", innerParenOpen);
+  if (innerParenClose === -1) return null;
+
+  // outer link: starts at "](" after inner ), then URL up to next space or ) if no title
+  const outerOpenMarker = s.indexOf("](", innerParenClose);
+  if (outerOpenMarker === -1) return null;
+  const outerParenOpen = outerOpenMarker + 1; // points to '('
+  // URL may be followed by space then quoted title before ')'
+  const outerParenClose = s.lastIndexOf(")");
+  if (outerParenClose === -1 || outerParenClose < outerParenOpen) return null;
+
+  // Extract the content inside outer parens, split into URL + optional title
+  const outerContent = s.slice(outerParenOpen + 1, outerParenClose).trim();
+  // If outerContent contains a quoted title, split at first space before quote
+  // e.g. 'http://... "http://..."'
+  let href = outerContent;
+  const quoteIdx = outerContent.indexOf('"');
+  if (quoteIdx > 0) {
+    href = outerContent.slice(0, quoteIdx).trim();
+    // const title = outerContent.slice(quoteIdx).trim().replace(/^"+|"+$/g, '');
+    // we ignore title
+  }
+
+  if (!href) return null;
+  return { alt: alt.trim(), href: href.trim() };
 }
 
 function escapeYamlScalar(value) {
@@ -102,7 +198,7 @@ function escapeYamlScalar(value) {
   return s;
 }
 
-function buildFrontmatter({
+function buildFrontmatterProjects({
   title,
   date,
   location,
@@ -127,6 +223,21 @@ function buildFrontmatter({
   return yaml;
 }
 
+function buildFrontmatterEvents({ title, images, dateRange }) {
+  let yaml = "---\n";
+  yaml += `title: ${escapeYamlScalar(title)}\n`;
+  yaml += "images:\n";
+  for (const img of images) {
+    yaml += `  - src: ${escapeYamlScalar(img.src)}\n`;
+    yaml += `    alt: ${escapeYamlScalar(img.alt)}\n`;
+  }
+  yaml += "dateRange:\n";
+  yaml += `  from: ${escapeYamlScalar(dateRange.from)}\n`;
+  yaml += `  to: ${escapeYamlScalar(dateRange.to)}\n`;
+  yaml += "---\n";
+  return yaml;
+}
+
 function getFilenameFromUrl(urlStr) {
   try {
     const u = new URL(urlStr);
@@ -137,29 +248,16 @@ function getFilenameFromUrl(urlStr) {
   }
 }
 
-/**
- * Download a URL to a destination file path only if it doesn't already exist and is non-empty.
- * Returns:
- * - "downloaded" if a new file was saved
- * - "exists" if the file already exists and is non-empty
- * - throws on errors
- */
 async function downloadIfMissing(urlStr, destPath) {
-  // Check existence idempotently
   try {
     const stat = await fs.stat(destPath);
     if (stat.isFile() && stat.size > 0) {
       return "exists";
     }
-    // If zero-length file exists (previous failed attempt), continue to re-download
-  } catch {
-    // not exists; proceed
-  }
-
+  } catch {}
   await new Promise((resolve, reject) => {
     const client = urlStr.startsWith("https:") ? https : http;
     const req = client.get(urlStr, (res) => {
-      // Follow one redirect
       if (
         res.statusCode &&
         res.statusCode >= 300 &&
@@ -196,11 +294,10 @@ async function downloadIfMissing(urlStr, destPath) {
     });
     req.on("error", reject);
   });
-
   return "downloaded";
 }
 
-function convertContent(content) {
+function convertContent(content, contentType) {
   const lines = content.split("\n");
 
   const nextNonEmptyIndex = (startIdx) => {
@@ -212,60 +309,119 @@ function convertContent(content) {
 
   let idx = 0;
 
-  // 1. attribution
-  const attribution = normalizeLine(lines[idx] ?? "");
+  // First line: projects attribution; events ignore
+  const firstLine = normalizeLine(lines[idx] ?? "");
   idx += 1;
 
-  // 2. skip next non-empty
-  idx = nextNonEmptyIndex(idx);
-  if (idx === -1)
-    throw new Error(
-      "Unexpected EOF after attribution while skipping second non-empty line."
-    );
-  idx += 1;
-
-  // 3. title (H1)
-  idx = nextNonEmptyIndex(idx);
-  if (idx === -1) throw new Error("Missing H1 title line.");
-  const h1Line = normalizeLine(lines[idx]);
-  if (!h1Line.startsWith("# ")) {
-    throw new Error(`Expected H1 starting with "# ", got: "${h1Line}"`);
-  }
-  const title = h1Line.slice(2).trim();
-  idx += 1;
-
-  // 4. images (zero or more)
-  const rawImages = [];
-  while (true) {
-    const nextIdx = nextNonEmptyIndex(idx);
-    if (nextIdx === -1)
+  if (contentType === "projects") {
+    idx = nextNonEmptyIndex(idx);
+    if (idx === -1)
       throw new Error(
-        "Unexpected EOF while reading images/date/location/content."
+        "Unexpected EOF after attribution while skipping second non-empty line."
       );
-    const candidate = normalizeLine(lines[nextIdx]);
-    const img = parseImageLink(candidate);
-    if (img) {
-      rawImages.push(img); // { alt, href }
-      idx = nextIdx + 1;
-      continue;
-    }
-    idx = nextIdx;
-    break;
+    idx += 1;
   }
 
-  // 5. date
-  const dateLineIdx = nextNonEmptyIndex(idx);
-  if (dateLineIdx === -1) throw new Error("Missing date line.");
-  const { date, dateRange } = parseDateLine(lines[dateLineIdx]);
-  idx = dateLineIdx + 1;
+  // Find H1
+  const h1CandidateIdx = nextNonEmptyIndex(idx);
+  if (h1CandidateIdx === -1) throw new Error("Missing H1 title line.");
+  const h1Line = normalizeLine(lines[h1CandidateIdx]);
+  if (!h1Line.startsWith("# ")) {
+    if (contentType === "events") {
+      let foundIdx = -1;
+      for (
+        let i = h1CandidateIdx + 1;
+        i < Math.min(lines.length, h1CandidateIdx + 15);
+        i++
+      ) {
+        const s = normalizeLine(lines[i]);
+        if (s.startsWith("# ")) {
+          foundIdx = i;
+          break;
+        }
+      }
+      if (foundIdx === -1)
+        throw new Error(`Expected H1 starting with "# ", got: "${h1Line}"`);
+      idx = foundIdx + 1;
+    } else {
+      throw new Error(`Expected H1 starting with "# ", got: "${h1Line}"`);
+    }
+  } else {
+    idx = h1CandidateIdx + 1;
+  }
+  const title = h1Line.startsWith("# ")
+    ? h1Line.slice(2).trim()
+    : normalizeLine(lines[idx - 1])
+        .slice(2)
+        .trim();
 
-  // 6. location
-  const locIdx = nextNonEmptyIndex(idx);
-  if (locIdx === -1) throw new Error("Missing location line.");
-  const location = normalizeLine(lines[locIdx]);
-  idx = locIdx + 1;
+  // Branch-specific ordering:
+  // - Projects: images → date → location → content
+  // - Events: date → images → content
 
-  // 7. content (preserved exactly)
+  let rawImages = [];
+  let dateRange = { from: "", to: "" };
+  let date = "";
+  let location = "";
+
+  if (contentType === "projects") {
+    // Collect images first
+    while (true) {
+      const nextIdx2 = nextNonEmptyIndex(idx);
+      if (nextIdx2 === -1)
+        throw new Error(
+          "Unexpected EOF while reading images/date/location/content."
+        );
+      const candidate = normalizeLine(lines[nextIdx2]);
+      const img = parseImageLink(candidate);
+      if (img) {
+        rawImages.push(img);
+        idx = nextIdx2 + 1;
+        continue;
+      }
+      idx = nextIdx2;
+      break;
+    }
+
+    // Date
+    const dateLineIdx = nextNonEmptyIndex(idx);
+    if (dateLineIdx === -1) throw new Error("Missing date line.");
+    const dateLineRaw = lines[dateLineIdx];
+    const parsed = parseProjectsDateLine(dateLineRaw);
+    date = parsed.date;
+    dateRange = parsed.dateRange;
+    idx = dateLineIdx + 1;
+
+    // Location
+    const locIdx = nextNonEmptyIndex(idx);
+    if (locIdx === -1) throw new Error("Missing location line.");
+    location = normalizeLine(lines[locIdx]);
+    idx = locIdx + 1;
+  } else {
+    // Events: date first
+    const dateLineIdx = nextNonEmptyIndex(idx);
+    if (dateLineIdx === -1) throw new Error("Missing date line.");
+    const dateLineRaw = lines[dateLineIdx];
+    dateRange = parseEventsDateLine(dateLineRaw).dateRange;
+    idx = dateLineIdx + 1;
+
+    // Then images
+    while (true) {
+      const nextIdx2 = nextNonEmptyIndex(idx);
+      if (nextIdx2 === -1) break;
+      const candidate = normalizeLine(lines[nextIdx2]);
+      const img = parseImageLink(candidate);
+      if (img) {
+        rawImages.push(img);
+        idx = nextIdx2 + 1;
+        continue;
+      }
+      idx = nextIdx2;
+      break;
+    }
+  }
+
+  // Content
   const contentStartIdx = nextNonEmptyIndex(idx);
   const contentBodyLines =
     contentStartIdx === -1 ? lines.slice(idx) : lines.slice(contentStartIdx);
@@ -274,22 +430,29 @@ function convertContent(content) {
   // Images post-processing:
   const images = rawImages.map(({ alt, href }) => ({
     alt,
-    src: getFilenameFromUrl(href), // only filename
-    href, // full href retained for optional download
+    src: getFilenameFromUrl(href),
+    href,
   }));
 
-  const frontmatter = buildFrontmatter({
-    title,
-    date,
-    location,
-    attribution,
-    images: images.map(({ alt, src }) => ({ alt, src })), // only filename in frontmatter
-    dateRange,
-  });
+  const frontmatter =
+    contentType === "projects"
+      ? buildFrontmatterProjects({
+          title,
+          date,
+          location,
+          attribution: firstLine,
+          images: images.map(({ alt, src }) => ({ alt, src })),
+          dateRange,
+        })
+      : buildFrontmatterEvents({
+          title,
+          images: images.map(({ alt, src }) => ({ alt, src })),
+          dateRange,
+        });
 
   return {
     outputText: `${frontmatter}\n${body}`,
-    images, // includes href + filename for download
+    images,
   };
 }
 
@@ -306,16 +469,27 @@ async function fileTextOrEmpty(pathname) {
 }
 
 async function main() {
-  const [sourceDirArg, outputDirArg, downloadDirArg] = process.argv.slice(2);
+  const [sourceDirArg, outputDirArg, contentTypeArg, downloadDirArg] =
+    process.argv.slice(2);
 
-  if (!sourceDirArg || !outputDirArg) {
+  if (!sourceDirArg || !outputDirArg || !contentTypeArg) {
     console.error(
-      "Usage: node scripts/convert-markdown-to-frontmatter.mjs <sourceDir> <outputDir> [downloadDir]"
+      "Usage: node scripts/convert-markdown-to-frontmatter.mjs <sourceDir> <outputDir> <contentType> [downloadDir]"
     );
+    console.error('contentType must be "projects" or "events"');
+    process.exit(1);
+  }
+  const contentType =
+    contentTypeArg === "events"
+      ? "events"
+      : contentTypeArg === "projects"
+      ? "projects"
+      : null;
+  if (!contentType) {
+    console.error('Invalid contentType. Use "projects" or "events".');
     process.exit(1);
   }
 
-  // Resolve args relative to project root
   const sourceDir = path.resolve(PROJECT_ROOT, sourceDirArg);
   const outputDir = path.resolve(PROJECT_ROOT, outputDirArg);
   const downloadDir = downloadDirArg
@@ -342,10 +516,9 @@ async function main() {
     const originalText = await fs.readFile(inPath, "utf8");
 
     try {
-      const { outputText, images } = convertContent(originalText);
+      const { outputText, images } = convertContent(originalText, contentType);
       const existingOut = await fileTextOrEmpty(outPath);
 
-      // Idempotent write: only write if content differs
       if (existingOut !== outputText) {
         await fs.writeFile(outPath, outputText, "utf8");
         console.log(`Converted: ${name}`);
@@ -353,7 +526,6 @@ async function main() {
         console.log(`Unchanged: ${name}`);
       }
 
-      // Optional downloads (only if file missing)
       if (downloadDir) {
         for (const img of images) {
           const filename = img.src;
@@ -369,7 +541,6 @@ async function main() {
             console.error(
               `Failed to download image "${filename}" from "${img.href}": ${err.message}`
             );
-            // Continue processing other images
           }
         }
       }
