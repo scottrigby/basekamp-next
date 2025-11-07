@@ -50,8 +50,9 @@ Set these variables and restart your app.
 
 ### Projects
 
-1. Use [LINK_TO_TOOL] browser extension to convert project page content to markdown, and save into `source-content/projects/PATH_NAME.md`
-2. Run project migration script with args \<sourceDir\>, \<outputDir\>, and optionally \[downloadDir\] (for images):
+1. Use [Webpage to Markdown](https://chromewebstore.google.com/detail/fgpepdeaaldghnmehdmckfibbhcjoljj) browser extension to convert project page content to markdown, and save into `source-content/projects/PATH_NAME.md`
+2. Add attribition line at the top of each file (copy manually from projects list page)
+3. Run project migration script with args \<sourceDir\>, \<outputDir\>, and optionally \[downloadDir\] (for images):
 
     ```console
     % node scripts/convert-markdown-to-frontmatter.mjs source-content/projects content/projects/ public
