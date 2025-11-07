@@ -80,28 +80,25 @@ Set these variables and restart your app.
 
 ## Content Migration
 
-### Projects
+For both events and projects, run these same scripts.
 
-1. Use [Webpage to Markdown](https://chromewebstore.google.com/detail/fgpepdeaaldghnmehdmckfibbhcjoljj) browser extension to convert project page content to markdown, and save into `source-content/projects/PATH_NAME.md`
-2. Add attribition line at the top of each file (copy manually from projects list page)
-3. Run project migration script with args \<sourceDir\>, \<outputDir\>, \<contentType\> (where contentType = {"projects", "events"}), and optionally \[downloadDir\] (for images):
+1. Run web scraper to markdown script with flags `--type <contentType>`, `--out <outputDir>`, and optionally `[--verbose] [--dry-run] [--concurrency <NUM>]`:
 
-    ```console
-    % node scripts/convert-markdown-to-frontmatter.mjs source-content/projects content/projects/ projects public
-    ```
-
-### Events
-
-1. Use script to convert web pages to markdown:
+    - `<contentType>` is `projects` or `events`
+    - `<outputDir>` is where temporary source markdown files will be written, which are used for processing the final .md files for Next.js.
 
     ```console
-    % ./scripts/scrape-events.sh source-content/events
-    Fetching homepage: http://basekamp.com/
-    Found 114 event URLs.
-    Done. Converted 114 file(s). Output dir: source-content/events
+    % node scripts/scrape.mjs --type events --out source-content/events --concurrency 6 --verbose
+    % node scripts/scrape.mjs --type projects --out source-content/projects --concurrency 6 --verbose
     ```
-2. Run project migration script with args \<sourceDir\>, \<outputDir\>, \<contentType\> (where contentType = {"projects", "events"}), and optionally \[downloadDir\] (for images):
+2. Run project migration script with args `<sourceDir>`, `<outputDir>`, `<contentType>`, and optionally `[downloadDir]`:
+
+    - `<contentType>` same as `scrape.mjs`
+    - `<sourceDir>` is where the scraped markdown files live that are used to process the final Next.js .md files. This should be the same path as `<outputDir>` you passed to `scrape.mjs`.
+    - `<outputDir>` is where the processed Next.js files will be written (should be `content/<contentType>`)
+    - `[downloadDir]` is where you want to download the images from paths in the scraped source markdown files (should be `public` for now, but for example we could move events and project images to separate dirs below public if we wish by setting this to `public/<contentType>`)
 
     ```console
     % node scripts/convert-markdown-to-frontmatter.mjs source-content/events content/events/ events public
+    % node scripts/convert-markdown-to-frontmatter.mjs source-content/projects content/projects/ projects public
     ```
