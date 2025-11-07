@@ -1,7 +1,8 @@
 ---
 title: What's Mine Is Yours
 date: 2008-10-17
-attribution: Julia & Scott
+location: Basekamp, Philadelphia
+attribution: Sara Reisman
 images:
   - src: 01.jpg
     alt: Installations
@@ -21,6 +22,9 @@ images:
     alt: Installations
   - src: 08.jpg
     alt: Installations
+dateRange:
+  from: 2008-10-17
+  to: 2009-01-03
 ---
 
 Basekamp  
@@ -40,4 +44,4 @@ What’s Mine Is Yours presents a range of projects that are collaborative and a
 
 Rey Akdogan and Kabir Carter provide a critique of conventional collaboration. For the exhibition, Akdogan has generated a list of the good, the bad, and the ugly associations with collaboration. Carter’s sound-based performances are generated with a combination of input from viewers, the immediate environment, and the unwitting contributions of radio operators and endusers of electronic communications systems. From Bjorn Kjelltoft and Shana Moulton is a video created for a joint exhibition at Fordham University in New York where they produced new video and a performance in which their respective identities merged under the title Star Systems. More broadly participatory is The Mercury Twins’ Cloud City which the artists - Emcee C.M., Master of None and Huong Ngo - propose as an open invitation to the public of a given place to form an instant community like a gathering of clouds. Similarly open-ended in respect to participation is vydavy sindikat’s Public Gathering Project which is a real time, public space correlative to technologically based networking systems. All together, the artists in What’s Mine Is Yours question the nature of collaboration and provide idealistic answers as to what it might mean. In all, the negotiations of ‘working together’ are revealed to be murky and complex, and are dependent upon the generosity of co-conspirators, viewers, organizers, the public, and you.
 
-What’s Mine Is Yours has been organized by Sara Reisman.
+What’s Mine Is Yours has been organized by Sara Reisman.

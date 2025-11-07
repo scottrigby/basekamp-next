@@ -8,26 +8,29 @@ images:
     alt: Pushit poster
   - src: Art_Gen1.jpg
     alt: Genesis performance
+dateRange:
+  from: 2009-08-07
+  to: ""
 ---
 
-**Opening event**  
+**Opening event  
 Friday, August 7th, 2009  
 6 - 8 PM  
-Talk by Douglas Repetto (Dorkbot NYC, Columbia University)  
-http://music.columbia.edu/~douglas/portfolio/index.shtml
+Talk by Douglas Repetto** (Dorkbot NYC, Columbia University)  
+[http://music.columbia.edu/~douglas/portfolio/index.shtml](http://music.columbia.edu/~douglas/portfolio/index.shtml "http://music.columbia.edu/~douglas/portfolio/index.shtml")
 
-**Event II**  
+**Event II  
 Friday, August 28th, 2009  
 5 - 9 PM  
-Showing of resident artists’ process and practice  
-Event info
+Showing of resident artists’ process and practice**  
+[Event info](http://basekamp.com/about/events/genesis-project-event-2-process-and-practice)
 
 **Free admission**  
 Meet the artists-in-residence, and other Basekampers!
 
 **Location**  
-Basekamp space
-723 Chestnut Street, 2nd floor
+Basekamp space  
+723 Chestnut Street, 2nd floor  
 Philadelphia, Pennsylvania 19106
 
 **Genesis Project residency artists:**  
@@ -45,4 +48,4 @@ Genesis Project is an artist’s residency for body-based artists who identify a
 Genesis Project received 36 applications from New York, Philadelphia, several other US cities, and 8 countries abroad. The 5 aritsts come from diverse backgrounds, bringing their skills and curiosity to form a unique, dynamic group. They will converge at Basekamp in Philadelphia from August 1st-28th, 2009.
 
 For more information about the artists, and more details about Genesis Project, Philadelphia:  
-http://www.culturepush.org/?q=node/283
+[http://www.culturepush.org/?q=node/283](http://www.culturepush.org/?q=node/283 "http://www.culturepush.org/?q=node/283")

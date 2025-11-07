@@ -4,10 +4,10 @@ date: 2006-06-03
 location: Basekamp, Philadelphia
 attribution: IRWIN / NSK
 images:
-  - src: EAM_600.jpg
-    alt: East Art Map installation at Basekamp
   - src: 16_cropped.jpg
     alt: East Art Map nodes
+  - src: EAM_600.jpg
+    alt: East Art Map installation at Basekamp
   - src: EAM-Flyer3-red.gif
     alt: Flyers for Basekamp screenings
   - src: eastartmap-mit.jpg
@@ -26,6 +26,9 @@ images:
     alt: Irwin, “Mystery of the Black Square”, 1995
   - src: zizek.jpg
     alt: Portrait of Slavoj Zizek - video clip from retroavantguarde, 1977
+dateRange:
+  from: 2006-06-03
+  to: 2006-07-31
 ---
 
 ## IRWIN presentation:
