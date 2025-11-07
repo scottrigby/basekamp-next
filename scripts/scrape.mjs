@@ -35,9 +35,11 @@ const BLOCK_TOP = `
 * [Log in](/user/login "/user/login")
 
 `;
-const BLOCK_BOTTOM = `
+const BLOCK_BOTTOM_CALENDAR = `
 * [Calendar](/calendar "View the calendar.")
 
+`;
+const BLOCK_BOTTOM = `
 * [About Basekamp](/about "About Basekamp")
 * [Events](/about/events "/about/events")
 * [Projects](/about/projects "/about/projects")
@@ -66,6 +68,10 @@ This site is licensed under a [Creative Commons Attribution-Noncommercial-Share 
 
 // Build safe regexes that match the exact blocks, including the blank lines around them
 const blockTopRe = new RegExp(escapeForRegex(BLOCK_TOP), "g");
+const blockBottomCalendarRe = new RegExp(
+  escapeForRegex(BLOCK_BOTTOM_CALENDAR),
+  "g"
+);
 const blockBottomRe = new RegExp(escapeForRegex(BLOCK_BOTTOM), "g");
 
 function escapeForRegex(s) {
@@ -292,7 +298,10 @@ async function convertPageToMarkdown(url, outfile, markdownifyBin) {
   // Strip fixed navigation/footer blocks
   try {
     let md = await readFile(outfile, "utf-8");
-    md = md.replace(blockTopRe, "").replace(blockBottomRe, "");
+    md = md
+      .replace(blockTopRe, "")
+      .replace(blockBottomCalendarRe, "")
+      .replace(blockBottomRe, "");
     await writeFile(outfile, md, "utf-8");
   } catch (err) {
     // Non-fatal; log and continue
