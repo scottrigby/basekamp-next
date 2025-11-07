@@ -1,0 +1,198 @@
+---
+title: Connect The Dots
+date: 2004-09-07
+location: Columbia University, New York
+attribution: Scott Rigby & David Dempewolf
+images:
+  - src: DSC09299.jpg
+    alt: Connect The Dots
+  - src: DSC09280.jpg
+    alt: Connect The Dots
+  - src: DSC09281.jpg
+    alt: Connect The Dots
+  - src: DSC09283.jpg
+    alt: Connect The Dots
+  - src: DSC09284.jpg
+    alt: Connect The Dots
+  - src: DSC09285.jpg
+    alt: Connect The Dots
+  - src: DSC09288.jpg
+    alt: Connect The Dots
+  - src: DSC09289.jpg
+    alt: Connect The Dots
+  - src: DSC09290.jpg
+    alt: Connect The Dots
+  - src: DSC09291.jpg
+    alt: Connect The Dots
+  - src: DSC09292.jpg
+    alt: Connect The Dots
+  - src: DSC09294.jpg
+    alt: Connect The Dots
+  - src: DSC09295.jpg
+    alt: Connect The Dots
+  - src: DSC09297.jpg
+    alt: Connect The Dots
+  - src: DSC09301.jpg
+    alt: Connect The Dots
+  - src: DSC09302.jpg
+    alt: Connect The Dots
+  - src: DSC09303.jpg
+    alt: Connect The Dots
+  - src: DSC09304.jpg
+    alt: Connect The Dots
+  - src: DSC09305.jpg
+    alt: Connect The Dots
+  - src: DSC09306.jpg
+    alt: Connect The Dots
+  - src: DSC09307.jpg
+    alt: Connect The Dots
+  - src: DSC09308.jpg
+    alt: Connect The Dots
+  - src: DSC09309.jpg
+    alt: Connect The Dots
+  - src: DSC09310.jpg
+    alt: Connect The Dots
+  - src: DSC09312.jpg
+    alt: Connect The Dots
+  - src: DSC09313.jpg
+    alt: Connect The Dots
+  - src: DSC09315.jpg
+    alt: Connect The Dots
+  - src: card_front.jpg
+    alt: Connect The Dots
+  - src: card_back5.jpg
+    alt: Connect The Dots
+dateRange:
+  from: 2004-09-07
+  to: 2004-09-30
+---
+
+## Project description
+
+In this exhibition, the artist/re-presenters David Dempewolf and Scott Rigby will assemble an exhibition to examine the problematics and generative potentials within artist curated projects.
+
+When one looks closely, what is revealed or concealed about the artist/curators’ location in geography, time, and subjective identity positioning, when they re-present the work of their peers?
+
+The artists organizing this exhibition are re-presenting artists who re-present artists. In what way does this exhibition’s circularity of re-presentation highlight the issues of location and positioning? In this exhibition, as well as within the projects that are to be selected; artists are utilized for their roles as nodes within a seemingly infinite social field of physical and mnemonic networks. Participants are asked not only to provide examples of their curatorial projects, but also to make recommendations of other artist/curated exhibitions from their own memories. This process of linking artists expands exponentially, creating cyborg search engines that present findings or hits, which are linked within the tissue of a living network of disparate artistic communities.
+
+We are asking the participating artist/curators to see their curatorial strategies as experiments within the social field of discursive and agonistic relationships. For this permutation of the exhibition, the participants’ contributions will be re-presented in the form of displays within a science fair-like setting. This format intends to examine a specific practice in art through the middle-school equivalent of a science convention - where practitioners share strategies, developments, and distribute information within a community of their immediate peers.
+
+## Symposium and Discussion forum
+
+**7pm, Thursday November 11, 2004**
+
+Columbia University  
+315 Prentis Hall, 3rd floor  
+632 West 125th Street  
+New York, NYC 10027-2302 US
+
+Open to exhibition Participants, Columbia University students, friends, and the public. Refreshments will be served.
+
+The CTD Symposium is an extension of the Connect The Dots exhibition. A selection of participants from the exhibition, along with the co-organizers David Dempewolf and Scott Rigby, will each give 10-15 minute oral/video presentations of the their contribution to the project, with an informal discussion to follow. This event is intended to enable participants to interact more directly and independently, to share strategies and developments, and to distribute information within a community of peers.
+
+For a schedule of events or additional press information please call or send inquiries to: Scott Rigby & David Dempewolf [scott@basekamp.com](mailto:scott@basekamp.com)
+
+…
+
+**exhibition information**
+
+Connect The Dots is an exhibition investigating models of connectivity created by artists who curate. The co-organizers David Dempewolf and Scott Rigby have enlisted the help of 60 international artists and groups to contribute their field research and findings to add to a collective knowledge base about an emerging practice.
+
+The exhibition is intended to be a meeting of minds for co-generating a tangible appendix of strategies for artist curated projects. The participating artists examine their past and current curatorial work as experiments within a social field of vocational relationships.
+
+Contributions were displayed within a science fair-like setting. This format re-presents a specific art practice through the middle-school equivalent of a science convention where practitioners share strategies, developments, and distribute information within a community of their immediate peers. This project will culminate in the creation of a printed journal that will help articulate a current set of specific practices, and serve as a list of possibilities for new work by emerging practitioners.
+
+## List of participants
+
+A Constructed World - Jacqueline Riva & Geoff Lowe (Turin)  
+Aeswad - David Cuartielles & Maria Lindblom (Malmö)  
+Todd Alden (NYC)  
+An Architektur (Berlin)  
+AUDC - Kazys Varnelis (Los Angeles)  
+Robert Barta (Munich & Prague)  
+Manuel Bonik (Germany)  
+Sandie Bridie (Melbourne)  
+Champion Fine Art (NYC)  
+Howie Chen (New York)  
+Ian Cooper and Peter Crump (NYC)  
+Cracks in the Pavement - Heather Johnson (Austin Texas & London)  
+Courtney Dailey (Philadelphia)  
+Danger Museum (Oslo, Tokyo and Singapore)  
+Democratic Innovation (Denmark)  
+Dorkbot - Douglas Irving Repetto (New York)  
+Dynamite Family (Grand Rapids)  
+Sam Ely and Lynn Harris (London)  
+Jan Fabre (Janus magazine)  
+Southern Exposure - Courtney Fink (San Francisco)  
+Sandra Firmin & Richard Torchia (Arcadia University Art Gallery, Philadelphia)  
+Harrell Fletcher (Portland, OR)  
+Floating IP - Dave Beech, Graham Parker, Rachel Goodyear, James Huthinson (Manchester)  
+Ev Funes (San Francisco)  
+Coco Fusco (NYC)  
+Elaina Ganim and Tim Ventimiglia (Brooklyn, NY)  
+Kate Grieve and Dallas Seitz - 1 000 000 mph (London)  
+Group Material - answers prepared by Julie Ault (NYC)  
+Flora Heitzler (Germany)  
+Henrik & Martin  
+Matthias Herrmann (Vienna Secession)  
+Andy Hewitt & Mel Jordan (London)  
+Hiroshi Sunairi (Japan, NYC)  
+Klara Hobza (NYC)  
+Per Hüttner (Malmö)  
+ICOLS - Suzanne Treister, Bronia Iwanczak & Richard Grayson (UK/AUS/Berlin)  
+Incident - KRN & Julie Morel (Paris)  
+Instant Coffee (Toronto/Vancouver)  
+Institute for Advanced Architecture (NYC/Chicago/LA)  
+Robin Kahn (NYC)  
+Matt Keegan (NYC)  
+Locus (Chicago)  
+LURE – Aaron Igler (Philadelphia)  
+Simon Morris – Bibliomania (York)  
+Network of Casual Art - Mike Wolf (Chicago)  
+ORGACOM - Teike Asselbergs and Elias Tieleman (Amsterdam)  
+Paris Project Room & Marcel Wallace - Seulgi Lee (Paris)  
+Pond – Marisa Jahn (San Francisco)  
+Steve Powers and Peter Eeley (Creative Time, NY)  
+Nigel Prince (Birmingham, UK)  
+J. Morgan Puett (New York)  
+Red 76 (Portland)  
+Renée Ridgway (Amsterdam)  
+Stefan Saffer (Berlin)  
+Catriona Shaw (Club le Bomb, Berlin)  
+Mark Soo (Vancouver)  
+SOUP - Les Schliesser & Andre Reutter (Berlin)  
+Sophie Spar (NYC)  
+Lee Stoetzel - West Collection (NYC/Philadelphia)  
+Nina Temporär (Frankfurt)  
+Temporary Services (Chicago)  
+Tien p-10 (Oslo, Tokyo and Singapore)  
+United Net-Works – Sofie Sweger (Stockholm)  
+Jonathan VanDyke (New York)  
+Gavin Wade (London)  
+Shinya Watanabe (Japan/NYC)
+
+## Questionnaire
+
+Please fill out the Questionnaire form below. Because we are asking artists to see their curatorial strategies as experiments, we plan to present this information in the form of a science fair. This will examine a specific practice in art through the middle-school equivalent of a science convention - where practitioners share strategies, developments, and distribute information within a community of their immediate peers.
+
+When responding to us, these might be helpful ideas to think about:  
+Since professional competition is the dominant model within the artworld, how do you find an individual place within emerging collectivity?  
+What is your relationship to others in the network created by your curatorial project? (Examples of roles: Rule maker, conceptual engineer, organizer, modifier, exhibition designer, participant, solvent, insider / outsider, name on a list, more than one or all of these, or no preference?)
+
+Connect The Dots: Questionnaire Form  
+Please describe your exhibition by using the scientific method (below):
+
+1\. Problem or Question.  
+In the planning for one of your past exhibitions, please identify a problem or question you wanted to explore, that you then investigated through the use empirical observation and then documented in the form of the final exhibition or journal.  
+2\. Hypothesis.  
+Try to articulate your intentions or strategies you adopted employed for re-presenting the work produced by your peers. Also include the original press release or exhibition statement if available.  
+3\. Materials & Resources.  
+List what was needed for the exhibition to take place; e.g. materials, equipment, grants, private support or personal financing, venue opportunities, volunteers, help or advice from colleagues, artists fulfilling specific needs or services within the exhibition.  
+4\. Procedure.  
+Your procedure was your plan of action or a list of what you did. Describe the events that took place throughout the planning, experimentation, and making of the exhibition.  
+5\. Data.  
+This is the basic information about the exhibition, such as its title, dates and location, names of co-curators, artists involved, support staff, special thanks, and any other credits or relevant information.  
+6\. Results.  
+Show what happened - the observations critical and documentation you or your peers have made . Provide a visual or textual description of the final exhibition (objects or events). Please include any critical reception of the exhibition (reviews, articles).  
+7\. Conclusions.  
+Tell what you learned. Answer your original question and state whether your hypothesis was reflected in the final results, and if this illuminated anything new or valuable in your hypothesis.
