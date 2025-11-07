@@ -1,0 +1,308 @@
+diff --git a/content/projects/east-art-map.md b/content/projects/east-art-map.md
+index cc09245..6f8a4c4 100644
+--- a/content/projects/east-art-map.md
++++ b/content/projects/east-art-map.md
+@@ -5,27 +5,27 @@ location: Basekamp, Philadelphia
+ attribution: IRWIN / NSK
+ images:
+   - src: 16_cropped.jpg
+-    alt: East Art Map nodes
++    alt: East Art Map
+   - src: EAM_600.jpg
+-    alt: East Art Map installation at Basekamp
++    alt: East Art Map
+   - src: EAM-Flyer3-red.gif
+-    alt: Flyers for Basekamp screenings
++    alt: East Art Map
+   - src: eastartmap-mit.jpg
+-    alt: East Art Map book
++    alt: East Art Map
+   - src: eastartmap2.jpg
+     alt: East Art Map
+   - src: web02.jpg
+     alt: East Art Map
+   - src: NSK-under-Tatlin.jpg
+-    alt: NSK, remake of Tatlin's Tower, 1986
++    alt: East Art Map
+   - src: NSK-100_1.gif
+-    alt: Predictions of Fire, 1996 documentary
++    alt: East Art Map
+   - src: Irwin-BlackSquare.jpg
+-    alt: IRWIN and Michael Benson action Black Square on Red Square
++    alt: East Art Map
+   - src: winder2.jpg
+-    alt: Irwin, “Mystery of the Black Square”, 1995
++    alt: East Art Map
+   - src: zizek.jpg
+-    alt: Portrait of Slavoj Zizek - video clip from retroavantguarde, 1977
++    alt: East Art Map
+ dateRange:
+   from: 2006-06-03
+   to: 2006-07-31
+diff --git a/content/projects/genesis-project-basekamp.md b/content/projects/genesis-project-basekamp.md
+index 4c581fb..3ad1df8 100644
+--- a/content/projects/genesis-project-basekamp.md
++++ b/content/projects/genesis-project-basekamp.md
+@@ -5,9 +5,9 @@ location: Basekamp, Philadelphia
+ attribution: Arturo Vidich
+ images:
+   - src: BW_2.1_6in_0.png
+-    alt: Pushit poster
++    alt: Genesis Project + Basekamp
+   - src: Art_Gen1.jpg
+-    alt: Genesis performance
++    alt: Genesis Project + Basekamp
+ dateRange:
+   from: 2009-08-07
+   to: ""
+diff --git a/content/projects/hegemonic-bar-another-round.md b/content/projects/hegemonic-bar-another-round.md
+index 6ebf7b0..a4e333f 100644
+--- a/content/projects/hegemonic-bar-another-round.md
++++ b/content/projects/hegemonic-bar-another-round.md
+@@ -4,14 +4,16 @@ date: 2009-06-05
+ location: Basekamp, Philadelphia
+ attribution: Basekamp & friends
+ images:
++  - src: 7.jpg
++    alt: "The Hegemonic Bar: Another round"
++  - src: hegemonic_bar_01.jpg
++    alt: "The Hegemonic Bar: Another round"
+   - src: hegemonic_bar_02_.jpg
+-    alt: Bar closeup
++    alt: "The Hegemonic Bar: Another round"
+   - src: hegemonic_bar_03.jpg
+-    alt: Bar closeup
+-  - src: hegemonic_bar_01.jpg
+-    alt: Bar from above
++    alt: "The Hegemonic Bar: Another round"
+   - src: announcement2.jpg
+-    alt: Printed May 68 poster
++    alt: "The Hegemonic Bar: Another round"
+ dateRange:
+   from: 2009-06-05
+   to: 2009-07-10
+diff --git a/content/projects/plausible-artworlds.md b/content/projects/plausible-artworlds.md
+index 1da8c23..f59b1da 100644
+--- a/content/projects/plausible-artworlds.md
++++ b/content/projects/plausible-artworlds.md
+@@ -1,29 +1,29 @@
+ ---
+ title: Plausible Artworlds
+ date: 2010-01-05
+-location: multiple locations
++location: Basekamp, Philadelphia
+ attribution: Basekamp & friends
+ images:
+   - src: week1e-600px_7.jpg
+-    alt: Installation at ICA Philadelphia
++    alt: Plausible Artworlds
+   - src: Plausible-Artworld3_12.jpg
+-    alt: Mind map
++    alt: Plausible Artworlds
+   - src: sh-1_600_11.jpg
+-    alt: Planning session
++    alt: Plausible Artworlds
+   - src: skpedinner_10.jpg
+-    alt: Skype dinner
++    alt: Plausible Artworlds
+   - src: ica-plausible-artworlds-2007.png
+-    alt: Installation at ICA Philadelphia
++    alt: Plausible Artworlds
+   - src: week1-600px_3.jpg
+-    alt: Installation at ICA Philadelphia
++    alt: Plausible Artworlds
+   - src: week1d-600px_4.jpg
+-    alt: Installation at ICA Philadelphia
++    alt: Plausible Artworlds
+   - src: week1c-600px_5.jpg
+-    alt: Installation at ICA Philadelphia
++    alt: Plausible Artworlds
+   - src: week1b-600px_6.jpg
+-    alt: Installation at ICA Philadelphia
++    alt: Plausible Artworlds
+   - src: 1_5.jpg
+-    alt: Planning session
++    alt: Plausible Artworlds
+ dateRange:
+   from: 2010-01-05
+   to: 2010-12-28
+@@ -31,70 +31,65 @@ dateRange:
+ 
+ ## 2010 Schedule
+ 
+-**Week 52 – Dec 28:** [Public Collectors & Against Competition](/events/public-collectors-against-competition)  
+-**Week 51 – Dec 21:** [IRWIN](/events/irwin)  
+-**Week 50 – Dec 14:** [Mildred’s Lane](/events/mildreds-lane)  
+-**Week 49 TUESDAY – Dec 7:** [Abriendo Caminos / La Comunitaria TV](/events/abriendo-caminos-la-comunitaria-tv)  
+-**Week 49 SUNDAY – Dec 5:** [Sunday Soup](/events/sunday-soup)
+-
+-**Week 48 – Nov 30:** [kuda.org](/events/kudaorg)  
+-**Week 47 – Nov 23:** [Urban Tactics / Atelier Autogéré d’Architecture](/events/urban-tactics-atelier-autog%C3%A9r%C3%A9-darchitecture)  
+-**Week 46 – Nov 16:** [Ontological Walkscapes](/events/ontological-walkscapes)  
+-**Week 45 – Nov 9:** [Cittadellarte](/events/cittadellarte)**  
+-Week 44 – Nov 2:** [Spontaneous Vegetation](/events/spontaneous-vegetation)
+-
+-**Week 43 – Oct 26:** [A Constructed World](/events/constructed-world)  
+-**Week 42 – Oct 19:** [Periferry](/events/periferry)  
+-**Week 41 – Oct 12:** [KEIN](/events/kein)  
+-**Week 40 – Oct 5:** [StrataSpore](/events/strataspore)
+-
+-**Week 39 – Sep 28:** [Ultra-red](/events/ultra-red)**  
+-Week 38 – Sep 21:** [Groundswell Collective](/events/groundswell-collective)  
+-**Week 37 – Sep 14:** [Internacional Errorista](/events/internacional-errorista)**  
+-Week 36 – Sep 7:** [Post autonomy](/events/post-autonomy)
+-
+-**Week 35 – Aug 31:** [Sewing Rebellion](/events/sewing-rebellion)  
+-**Week 34 – Aug 24:** [Nomoola](/events/nomoola)  
+-**Week 33 – Aug 17:** [Pad.ma](/events/padma)  
+-**Week 32 – Aug 10:** [E.A.T.(Experiments in Art and Technology)](/events/eat-experiments-art-and-technology)  
+-**Week 31 – Aug 3:** [b.a.n.g. lab](/events/bang-lab "b.a.n.g. lab")
+-
+-**Week 30 – July 27:** [The Think Tank that has yet to be named](/events/think-tank-has-yet-be-named)  
+-**Week 29 – July 20:** [Centro de Investigaciones Artisticas](/events/centro-de-investigaciones-artisticas)**  
+-Week 28 – July 13:** [Miss Rockaway Armada](/events/miss-rockaway-armada)  
+-**Week 27 – July 6:** [Design Studio for Social Intervention](/events/design-studio-social-intervention)
+-
+-**Week 26 – June 29:** [Art Work](/events/art-work)  
+-**Week 25 – June 22:** [Dark Matter Archives & Imaginary Archive](/events/dark-matter-archives-imaginary-archive)  
+-**Week 24 – June 15:** [Free Art License](/events/free-art-license)  
+-**Week 23 – June 8:** [Biosphere 2](/events/biosphere-2)  
+-**Week 22 – June 1:** [Machine Project](/events/machine-project)
+-
+-**Week 21 – May 25:** [byproducts](/events/byproducts)  
+-**Week 20 – May 18:** [Beyond Participation: Toward Massively Collaborative Worlds of Art](/events/beyond-participation-toward-massively-collaborative-worlds-of-art)  
+-**Week 19 – May 11:** [Democratic Innovation](/events/democratic-innovation)  
+-**Week 18 – May 4:** [FEAST](/events/feast)
+-
+-**Week 17 – Apr 27:** [Homeworks Forum](/events/homeworks-forum)  
+-**Week 16 – Apr 20:** [Collective Foundation](/events/collective-foundation)  
+-**Week 15 – Apr 13:** [Loveland](/events/loveland)  
+-**Week 14 – Apr 6:** [freenode](/events/freenode)
+-
+-**Week 13 – Mar 30:** [n.e.w.s. paid usership](/events/news-paid-usership "n.e.w.s paid  usership")  
+-**Week 12 – Mar 23:** [Au travail / At Work collective](/events/at-work-au-travail)  
+-**Week 11 – Mar 16:** [Groups & Spaces](/events/groups-spaces)  
+-**Week 10 – Mar 9:** [Community Museum Project](/events/community-museum-project)  
+-**Week 9 – Mar 2:** [Orgacom](/events/orgacom)
+-
+-**Week 8 –Feb 23:** [A School of Decreative Methodologies](/events/school-decreative-methodologies)  
+-**Week 7 –Feb 16:** [Artist Placement Group (@ Basekamp & Apexart)](/events/artist-placement-group-basekamp-apexart)  
+-**Week 6 –Feb 9:** [Teaching Artist Union and School of the Future](/events/teaching-artist-union-and-school-future)  
+-**Week 5 – Feb 2:** [Reinigungsgesellschaft](/events/reinigungsgesellschaft)
+-
+-**Week 4 – Jan 26:** [Continental Drift through the Midwest Radical Cultural Corridor](/events/continental-drift-through-midwest-radical-cultural-corridor)  
+-**Week 3 – Jan 19:** [House Magic: The European squatted social centers movement](/events/house-magic-european-squatted-social-centers-movement)  
+-**Week 2 – Jan 12:** [The Library Of Radiant Optimism For Let’s Remake The World  
+-](/events/library-radiant-optimism-lets-re-make-world)**Week 1 – Jan 5:** [The Public School and AAAARG.org](/events/public-school-and-aaaargorg)
++**Week 52 – Dec 28:** [Public Collectors & Against Competition](http://basekamp.com/about/events/public-collectors-against-competition "http://basekamp.com/about/events/public-collectors-against-competition")  
++**Week 51 – Dec 21:** [IRWIN](http://basekamp.com/about/events/irwin "http://basekamp.com/about/events/irwin")  
++**Week 50 – Dec 14:** [Mildred’s Lane](http://basekamp.com/about/events/mildreds-lane "http://basekamp.com/about/events/mildreds-lane")  
++**Week 49 TUESDAY – Dec 7:** [Abriendo Caminos / La Comunitaria TV](http://basekamp.com/about/events/abriendo-caminos-la-comunitaria-tv "http://basekamp.com/about/events/abriendo-caminos-la-comunitaria-tv")  
++**Week 49 SUNDAY – Dec 5:** [Sunday Soup](http://basekamp.com/about/events/sunday-soup "http://basekamp.com/about/events/sunday-soup")
++
++**Week 48 – Nov 30:** [kuda.org](http://basekamp.com/about/events/kudaorg "http://basekamp.com/about/events/kudaorg")  
++**Week 47 – Nov 23:** [Urban Tactics / Atelier Autogéré d’Architecture](http://basekamp.com/about/events/urban-tactics-atelier-autog%C3%A9r%C3%A9-darchitecture "http://basekamp.com/about/events/urban-tactics-atelier-autog%C3%A9r%C3%A9-darchitecture")  
++ **Week 46 – Nov 16:** [Ontological Walkscapes](http://basekamp.com/about/events/ontological-walkscapes "http://basekamp.com/about/events/ontological-walkscapes")  
++**Week 45 – Nov 9:** [Cittadellarte](http://basekamp.com/about/events/cittadellarte "http://basekamp.com/about/events/cittadellarte") **Week 44 – Nov 2:** [Spontaneous Vegetation](http://basekamp.com/about/events/spontaneous-vegetation "http://basekamp.com/about/events/spontaneous-vegetation")
++
++**Week 43 – Oct 26:** [A Constructed World](http://basekamp.com/about/events/constructed-world "http://basekamp.com/about/events/constructed-world")  
++**Week 42 – Oct 19:** [Periferry](../../about/events/periferry "../../about/events/periferry")  
++**Week 41 – Oct 12:** [KEIN](../../about/events/kein "../../about/events/kein")  
++**Week 40 – Oct 5:** [StrataSpore](http://basekamp.com/about/events/strataspore "http://basekamp.com/about/events/strataspore")
++
++**Week 39 – Sep 28:** [Ultra-red](http://basekamp.com/about/events/ultra-red "http://basekamp.com/about/events/ultra-red") **Week 38 – Sep 21:** [Groundswell Collective](http://basekamp.com/about/events/groundswell-collective "http://basekamp.com/about/events/groundswell-collective")  
++**Week 37 – Sep 14:** [Internacional Errorista](http://basekamp.com/about/events/internacional-errorista "http://basekamp.com/about/events/internacional-errorista") **Week 36 – Sep 7:** [Post autonomy](http://basekamp.com/about/events/post-autonomy "http://basekamp.com/about/events/post-autonomy")
++
++**Week 35 – Aug 31:** [Sewing Rebellion](http://basekamp.com/about/events/sewing-rebellion "http://basekamp.com/about/events/sewing-rebellion")  
++**Week 34 – Aug 24:** [Nomoola](http://basekamp.com/about/events/nomoola "http://basekamp.com/about/events/nomoola")  
++**Week 33 – Aug 17:** [Pad.ma](http://basekamp.com/about/events/padma "http://basekamp.com/about/events/padma")  
++**Week 32 – Aug 10:** [E.A.T.(Experiments in Art and Technology)](http://basekamp.com/about/events/eat-experiments-art-and-technology "http://basekamp.com/about/events/eat-experiments-art-and-technology")  
++**Week 31 – Aug 3:** [b.a.n.g. lab](http://basekamp.com/about/events/bang-lab "b.a.n.g. lab")
++
++**Week 30 – July 27:** [The Think Tank that has yet to be named](http://basekamp.com/about/events/think-tank-has-yet-be-named "http://basekamp.com/about/events/think-tank-has-yet-be-named")  
++**Week 29 – July 20:** [Centro de Investigaciones Artisticas](http://basekamp.com/about/events/centro-de-investigaciones-artisticas "http://basekamp.com/about/events/centro-de-investigaciones-artisticas") **Week 28 – July 13:** [Miss Rockaway Armada](http://basekamp.com/about/events/miss-rockaway-armada "http://basekamp.com/about/events/miss-rockaway-armada")  
++**Week 27 – July 6:** [Design Studio for Social Intervention](http://basekamp.com/about/events/design-studio-social-intervention "http://basekamp.com/about/events/design-studio-social-intervention")
++
++**Week 26 – June 29:** [Art Work](http://basekamp.com/about/events/art-work "http://basekamp.com/about/events/art-work")  
++**Week 25 – June 22:** [Dark Matter Archives & Imaginary Archive](http://basekamp.com/about/events/dark-matter-archives-imaginary-archive "http://basekamp.com/about/events/dark-matter-archives-imaginary-archive")  
++**Week 24 – June 15:** [Free Art License](http://basekamp.com/about/events/free-art-license "http://basekamp.com/about/events/free-art-license")  
++ **Week 23 – June 8:** [Biosphere 2](http://basekamp.com/about/events/biosphere-2 "http://basekamp.com/about/events/biosphere-2")  
++**Week 22 – June 1:** [Machine Project](http://basekamp.com/about/events/machine-project "http://basekamp.com/about/events/machine-project")
++
++**Week 21 – May 25:** [byproducts](http://basekamp.com/about/events/byproducts "http://basekamp.com/about/events/byproducts")  
++**Week 20 – May 18:** [Beyond Participation: Toward Massively Collaborative Worlds of Art](http://basekamp.com/about/events/beyond-participation-toward-massively-collaborative-worlds-of-art "http://basekamp.com/about/events/beyond-participation-toward-massively-collaborative-worlds-of-art")  
++**Week 19 – May 11:** [Democratic Innovation](http://basekamp.com/about/events/democratic-innovation "http://basekamp.com/about/events/democratic-innovation")  
++**Week 18 – May 4:** [FEAST](http://basekamp.com/about/events/feast "http://basekamp.com/about/events/feast")
++
++**Week 17 – Apr 27:** [Homeworks Forum](http://basekamp.com/about/events/homeworks-forum "http://basekamp.com/about/events/homeworks-forum")  
++**Week 16 – Apr 20:** [Collective Foundation](http://basekamp.com/about/events/collective-foundation "http://basekamp.com/about/events/collective-foundation")  
++**Week 15 – Apr 13:** [Loveland](http://basekamp.com/about/events/loveland "http://basekamp.com/about/events/loveland")  
++ **Week 14 – Apr 6:** [freenode](http://basekamp.com/about/events/freenode "http://basekamp.com/about/events/freenode")
++
++**Week 13 – Mar 30:** [n.e.w.s. paid usership](http://basekamp.com/about/events/news-paid-usership "n.e.w.s paid  usership")  
++ **Week 12 – Mar 23:** [Au travail / At Work collective](http://basekamp.com/about/events/at-work-au-travail "http://basekamp.com/about/events/at-work-au-travail")  
++ **Week 11 – Mar 16:** [Groups & Spaces](http://www.basekamp.com/about/events/groups-spaces "http://www.basekamp.com/about/events/groups-spaces")  
++ **Week 10 – Mar 9:** [Community Museum Project](http://www.basekamp.com/about/events/community-museum-project "http://www.basekamp.com/about/events/community-museum-project")  
++**Week 9 – Mar 2:** [Orgacom](http://basekamp.com/about/events/orgacom "http://basekamp.com/about/events/orgacom")
++
++**Week 8 –Feb 23:** [A School of Decreative Methodologies](http://basekamp.com/about/events/school-decreative-methodologies "http://basekamp.com/about/events/school-decreative-methodologies")  
++**Week 7 –Feb 16:** [Artist Placement Group (@ Basekamp & Apexart)](http://basekamp.com/about/events/artist-placement-group-basekamp-apexart "http://basekamp.com/about/events/artist-placement-group-basekamp-apexart")  
++**Week 6 –Feb 9:** [Teaching Artist Union and School of the Future](http://basekamp.com/about/events/teaching-artist-union-and-school-future "http://basekamp.com/about/events/teaching-artist-union-and-school-future")  
++**Week 5 – Feb 2:** [Reinigungsgesellschaft](http://basekamp.com/about/events/reinigungsgesellschaft "http://basekamp.com/about/events/reinigungsgesellschaft")
++
++**Week 4 – Jan 26:** [Continental Drift through the Midwest Radical Cultural Corridor](../../../../about/events/continental-drift-through-midwest-radical-cultural-corridor "../../../../about/events/continental-drift-through-midwest-radical-cultural-corridor")  
++**Week 3 – Jan 19:** [House Magic: The European squatted social centers movement](../../../../about/events/house-magic-european-squatted-social-centers-movement "../../../../about/events/house-magic-european-squatted-social-centers-movement")  
++ **Week 2 – Jan 12:** [The Library Of Radiant Optimism For Let’s Remake The World](../../../../about/events/library-radiant-optimism-lets-re-make-world "../../../../about/events/library-radiant-optimism-lets-re-make-world")**Week 1 – Jan 5:** [The Public School and AAAARG.org](../../../../about/events/public-school-and-aaaargorg "../../../../about/events/public-school-and-aaaargorg")
+ 
+ Stay tuned for upcoming monthly schedule.
+ 
+diff --git a/content/projects/whats-mine-yours.md b/content/projects/whats-mine-yours.md
+index 5163433..6263c33 100644
+--- a/content/projects/whats-mine-yours.md
++++ b/content/projects/whats-mine-yours.md
+@@ -5,23 +5,23 @@ location: Basekamp, Philadelphia
+ attribution: Sara Reisman
+ images:
+   - src: 01.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 09.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 02.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 03.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 04.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 05.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 06.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 07.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+   - src: 08.jpg
+-    alt: Installations
++    alt: What's Mine Is Yours
+ dateRange:
+   from: 2008-10-17
+   to: 2009-01-03
+diff --git a/content/projects/wider-circles-copenhagen-tv-broadcast.md b/content/projects/wider-circles-copenhagen-tv-broadcast.md
+index 6d8c90e..b315221 100644
+--- a/content/projects/wider-circles-copenhagen-tv-broadcast.md
++++ b/content/projects/wider-circles-copenhagen-tv-broadcast.md
+@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia & Channel 23 Copenhagen
+ attribution: tv-tv group
+ images:
+   - src: tv_noisex2_2.jpg
+-    alt: tv-tv announcement image
++    alt: Wider Circles - Copenhagen TV broadcast
+ dateRange:
+   from: 2006-10-17
+   to: 2006-10-19
