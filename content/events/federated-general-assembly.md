@@ -67,4 +67,4 @@ Follow Basekamp:
 
 | Attachment                                                                                                                                                              | Size    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [FGA unconference slideshow](http://basekamp.com/sites/default/files/fga-mtm-slideshow-01.03.pdf "http://basekamp.com/sites/default/files/fga-mtm-slideshow-01.03.pdf") | 3.47 MB |
+| [FGA unconference slideshow](/files/fga-mtm-slideshow-01.03.pdf "fga-mtm-slideshow-01.03.pdf") | 3.47 MB |

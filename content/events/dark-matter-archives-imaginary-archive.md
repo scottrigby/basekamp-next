@@ -48,4 +48,4 @@ Follow Plausible Artworlds:
 
 | Attachment                                                                                                                            | Size    |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [archive.nz\_.zip](http://basekamp.com/sites/default/files/archive.nz_.zip "http://basekamp.com/sites/default/files/archive.nz_.zip") | 4.61 MB |
+| [archive.nz\_.zip](/files/archive.nz_.zip "archive.nz_.zip") | 4.61 MB |

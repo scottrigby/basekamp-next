@@ -18,7 +18,7 @@ Modelled after Vidéogazette’s broadcasting studio “Agora”, The Whole Worl
 
 Taking its title from the 1968 anti-war demonstrations outside the Democratic National Convention in Chicago, The Whole World is Watching  explores Vidéogazette’s desire for social transformation accompanying 1970’s video innovations along with the forms of control that paradoxically resulted from the democratization of technological equipment.
 
-The exhibition press release brings up a lot of interesting questions that we won’t repeat now (but you can read about it [here](http://basekamp.com/sites/default/files/cp-21-evolutifen.pdf "http://basekamp.com/sites/default/files/cp-21-evolutifen.pdf")!). Let’s talk about these and more together on Tuesday night.
+The exhibition press release brings up a lot of interesting questions that we won’t repeat now (but you can read about it [here](/files/cp-21-evolutifen.pdf "cp-21-evolutifen.pdf")!). Let’s talk about these and more together on Tuesday night.
 
 See you then!
 
@@ -34,4 +34,4 @@ See you then!
 
 | Attachment                                                                                                                                          | Size      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [cp-21-evolutifen.pdf](http://basekamp.com/sites/default/files/cp-21-evolutifen.pdf "http://basekamp.com/sites/default/files/cp-21-evolutifen.pdf") | 274.57 KB |
+| [cp-21-evolutifen.pdf](/files/cp-21-evolutifen.pdf "cp-21-evolutifen.pdf") | 274.57 KB |

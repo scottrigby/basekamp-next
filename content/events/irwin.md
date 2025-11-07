@@ -67,4 +67,4 @@ Follow Plausible Artworlds:
 
 | Attachment                                                                                                                                    | Size      |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [nsk_chart_full.pdf](http://basekamp.com/sites/default/files/nsk_chart_full.pdf "http://basekamp.com/sites/default/files/nsk_chart_full.pdf") | 563.06 KB |
+| [nsk_chart_full.pdf](/files/nsk_chart_full.pdf "nsk_chart_full.pdf") | 563.06 KB |

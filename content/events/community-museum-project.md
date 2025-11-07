@@ -36,4 +36,4 @@ Join this week’s Skype chat:
 
 | Attachment                                                                                                                                                                                                                                 | Size    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| [Street as Museum as Method: Some Thoughts on Museum Inclusivity](http://basekamp.com/sites/default/files/z08_14505_streetasmuseumasmethod_final.pdf "http://basekamp.com/sites/default/files/z08_14505_streetasmuseumasmethod_final.pdf") | 2.34 MB |
+| [Street as Museum as Method: Some Thoughts on Museum Inclusivity](/files/z08_14505_streetasmuseumasmethod_final.pdf "z08_14505_streetasmuseumasmethod_final.pdf") | 2.34 MB |

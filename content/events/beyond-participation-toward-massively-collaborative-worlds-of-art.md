@@ -34,4 +34,4 @@ Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp�
 
 | Attachment                                                                                                                                                                                                                                                         | Size    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| [Skype chat transcript](http://basekamp.com/sites/default/files/chat-beyond-participation-toward-massively-collaborative-worlds-of-art.html "http://basekamp.com/sites/default/files/chat-beyond-participation-toward-massively-collaborative-worlds-of-art.html") | 47.4 KB |
+| [Skype chat transcript](/files/chat-beyond-participation-toward-massively-collaborative-worlds-of-art.html "chat-beyond-participation-toward-massively-collaborative-worlds-of-art.html") | 47.4 KB |

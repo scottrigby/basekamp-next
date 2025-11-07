@@ -12,7 +12,7 @@ dateRange:
 
 **Podcast:** [https://archive.org/details/plausible-artworlds-on-the-moon](https://archive.org/details/plausible-artworlds-on-the-moon "https://archive.org/details/plausible-artworlds-on-the-moon")
 
-**Skype backchannel:** [http://basekamp.com/sites/default/files/backchannel-plausible-artworlds-moon.txt](http://basekamp.com/sites/default/files/backchannel-plausible-artworlds-moon.txt "http://basekamp.com/sites/default/files/backchannel-plausible-artworlds-moon.txt")
+**Skype backchannel:** [backchannel-plausible-artworlds-moon.txt](/files/backchannel-plausible-artworlds-moon.txt "backchannel-plausible-artworlds-moon.txt")
 
 Welcome back everyone! This Tuesday we’ll be relaunching our tradition of online potluck chats, with a conversation between participants of [Plausible Artworlds](http://plausibleartworlds.org/ "http://plausibleartworlds.org/") and [MOCAM – Museum of Contemporary Art on the Moon](http://www.mocam.space/ "http://www.mocam.space/"). Join us again, or for the first time, at [basekamp.com/skype](http://basekamp.com/skype "http://basekamp.com/skype").
 
