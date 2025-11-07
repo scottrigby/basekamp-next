@@ -45,3 +45,14 @@ Set these variables and restart your app.
 3. Restart
 
     After setting env vars, restart `npm run dev`.
+
+## Content Migration
+
+### Projects
+
+1. Use [LINK_TO_TOOL] browser extension to convert project page content to markdown, and save into `source-content/projects/PATH_NAME.md`
+2. Run project migration script with args \<sourceDir\>, \<outputDir\>, and optionally \[downloadDir\] (for images):
+
+    ```console
+    % node scripts/convert-markdown-to-frontmatter.mjs source-content/projects content/projects/ public
+    ```
