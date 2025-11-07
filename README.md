@@ -30,6 +30,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
     - [ ] "Support" page, from http://basekamp.com/support. Link in footer behind copyright
     - [ ] "Thanks" page, from http://basekamp.com/support/allies. Link in footer behind copyright
 - [ ] Look on server for other files (sites/default/files) and make sure we have them stored somewhere in case they're needed. Evaluate whether we add to git, host somewhere else, or just keep as backup somewhere without serving them online for the time being
+- [ ] Fix project/event grid style on mobile (should be 2 wide in portrait)
+- [ ] Style project/event detail page images to be carousel across the top in small widths, rather than below the text
+- [ ] Change slideshow to an existing library. Mine works but a11y is low (eg, tabbing moves through page behind model not over the modal or image for alt text etc)
 
 ## Getting Started
 
