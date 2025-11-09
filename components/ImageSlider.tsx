@@ -67,7 +67,7 @@ export default function ImageSlider({ images, className }: Props) {
               key={`${src}-${i}`}
               type="button"
               onClick={() => openAt(i)}
-              className="group relative aspect-square overflow-hidden rounded-md focus:outline-none focus:ring-2 focus:ring-white/60"
+              className="group relative aspect-square overflow-hidden rounded-md focus:outline-2 focus:outline-blue-500"
               aria-label={`Open image ${i + 1}`}
             >
               <Image

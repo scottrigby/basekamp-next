@@ -1,7 +1,11 @@
 @import "tailwindcss";
 
+/* global styles here */
 :root {
-  /* global styles here */
+  /* added to make focus styles for close and pre/next buttons match */
+  --yarl__button_margin: 0;
+  --yarl__button_padding: 1rem;
+  --yarl__toolbar_padding: 1rem;
 }
 
 @layer base {
@@ -36,4 +40,41 @@
   ul {
     @apply list-disc pl-8 mb-4;
   }
+
+  /* better sitewide visual a11y tabbing */
+  /* match inline classes added to grid images in ImageSlider component */
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    @apply focus:outline-blue-500;
+  }
+}
+
+@layer utilities {
+  .yarl__root {
+    /* Use the @apply function to reference a specific color */
+    --yarl__color_button_active: theme('colors.orange.400');
+  }
+
+  .yarl__toolbar {
+    /* added to make focus visually match prev and next buttons */
+    padding: 0;
+  }
+
+  .yarl__button {
+    @apply rounded-md; /* matches ImageSlider grid radius */
+  }
+}
+
+/* Override outside layers because these styles are set inline by yet-another-react-lightbox */
+.yarl__root .yarl__navigation_prev,
+.yarl__root .yarl__navigation_next {
+  padding: var(--yarl__toolbar_padding);
+  margin: var(--yarl__toolbar_padding);
+}
+.yarl__button:focus,
+.yarl__button:focus-visible {
+  outline: 2px solid #2b7fff;
 }
