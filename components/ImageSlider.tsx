@@ -40,7 +40,6 @@ export default function ImageSlider({ images, className }: Props) {
   const [open, setOpen] = React.useState(false);
   const [index, setIndex] = React.useState(0);
 
-  const total = images.length;
   const slides = React.useMemo(() => toSlides(images), [images]);
 
   const openAt = React.useCallback((i: number) => {

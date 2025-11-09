@@ -44,7 +44,7 @@ export function getEventBySlug(slug: string) {
   const meta: EventMeta = {
     title: (data.title as string) ?? finalSlug,
     images: data.images,
-    dateRange: { from: data.dateRange.from, to: data.dateRange.to },
+    dateRange: { from: isoDateFrom, to: isoDateTo },
     // location: data.location,
     // attribution: data.attribution,
     slug: finalSlug,

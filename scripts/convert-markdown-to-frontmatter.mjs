@@ -147,8 +147,7 @@ function parseImageLink(line) {
 
   // ALT
   const altStart = s.indexOf("[![") + 3;
-  const altEnd = s.indexOf("]]", altStart); // this would be wrong; use proper bracket finding
-  // Instead, find alt up to the next "]("
+  // Find alt up to the next "]("
   const altClose = s.indexOf("](", altStart);
   if (altClose === -1) return null;
   const alt = s.slice(altStart, altClose);

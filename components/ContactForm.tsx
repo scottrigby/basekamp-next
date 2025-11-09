@@ -143,7 +143,7 @@ export default function ContactForm({
 
         <div>
           <label htmlFor="message" className="block text-2xl">
-            What's on your mind?
+            What&rsquo;s on your mind?
           </label>
           <textarea
             id="message"
