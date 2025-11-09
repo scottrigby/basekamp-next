@@ -53,6 +53,7 @@ export default function Navbar() {
             alt="Basekamp"
             width={350}
             height={85}
+            className="w-100"
           />
         </Link>
       </div>
