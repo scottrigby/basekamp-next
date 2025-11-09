@@ -38,7 +38,6 @@ const BLOCK_TOP = `
 `;
 const BLOCK_BOTTOM_CALENDAR = `
 * [Calendar](/calendar "View the calendar.")
-
 `;
 const BLOCK_BOTTOM = `
 * [About Basekamp](/about "About Basekamp")
