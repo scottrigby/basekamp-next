@@ -2,16 +2,16 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "404: Event Not Found | Basekamp",
+  title: "404: Page Not Found | Basekamp",
 };
 
 export default function NotFound() {
   return (
     <div>
       <h1>404: Not Found</h1>
-      <p>This event could not be found.</p>
+      <p>This page could not be found.</p>
       <p>
-        <Link href="/events">See all Events</Link>
+        <Link href="/">Return Home</Link>
       </p>
     </div>
   );
