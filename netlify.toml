@@ -1,22 +1,5 @@
 # Redirects
 
-## Removed sections and individual pages
-
-[[redirects]]
-from = "/getin/*"
-to = "/"
-status = 302
-
-[[redirects]]
-from = "/user/*"
-to = "/"
-status = 302
-
-[[redirects]]
-from = "/user/*"
-to = "/"
-status = 302
-
 ## Moved individual pages
 
 [[redirects]]
@@ -60,44 +43,44 @@ status = 302
 
 [[redirects]]
 from = "/about/projects/*"
-to = "projects/:splat"
+to = "/projects/:splat"
 status = 302
 
 [[redirects]]
 from = "/projects/calendar/*"
-to = "projects/:splat"
+to = "/projects"
 status = 302
 
 [[redirects]]
 from = "/projects/list"
-to = "projects"
+to = "/projects"
 status = 302
 
 [[redirects]]
 from = "/projects/grid"
-to = "projects"
+to = "/projects"
 status = 302
 
 ### Events
 
 [[redirects]]
 from = "/about/events/*"
-to = "events/:splat"
+to = "/events/:splat"
 status = 302
 
 [[redirects]]
 from = "/events/calendar/*"
-to = "events/:splat"
+to = "/events"
 status = 302
 
 [[redirects]]
 from = "/events/list"
-to = "events"
+to = "/events"
 status = 302
 
 [[redirects]]
 from = "/events/grid"
-to = "events"
+to = "/events"
 status = 302
 
 ## Already broken
@@ -109,6 +92,18 @@ status = 302
 
 [[redirects]]
 from = "/mailman/*"
+to = "/"
+status = 302
+
+## Removed sections and individual pages
+
+[[redirects]]
+from = "/getin/*"
+to = "/"
+status = 302
+
+[[redirects]]
+from = "/user/*"
 to = "/"
 status = 302
 
