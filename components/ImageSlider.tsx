@@ -5,7 +5,7 @@ import Image from "next/image";
 import Lightbox, { Slide } from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
-type Img = {
+export type Img = {
   src: string; // e.g. "image01.jpg" or "/image01.jpg"
   alt?: string;
 };
