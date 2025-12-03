@@ -18,7 +18,7 @@ to = "/contact"
 status = 302
 
 [[redirects]]
-from = "/info/calendar"
+from = "/info/calendar/*"
 to = "/events"
 status = 302
 
