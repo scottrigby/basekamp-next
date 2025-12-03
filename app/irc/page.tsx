@@ -34,7 +34,7 @@ export default function Page() {
         id="irc"
         type="text/html"
         data="https://irc.com/?channels=basekamp"
-        className="w-full h-150 pt-2 pb-6"
+        className="w-full h-200 pt-2 pb-6"
       >
         <p>Oops! That didn't work…</p>
       </object>
