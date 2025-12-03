@@ -1,0 +1,115 @@
+# Redirects
+
+## Moved individual pages
+
+[[redirects]]
+from = "/about"
+to = "/"
+status = 302
+
+[[redirects]]
+from = "/info"
+to = "/"
+status = 302
+
+[[redirects]]
+from = "/info/contact"
+to = "/contact"
+status = 302
+
+[[redirects]]
+from = "/info/calendar/*"
+to = "/events"
+status = 302
+
+[[redirects]]
+from = "/support"
+to = "/"
+status = 302
+
+[[redirects]]
+from = "/support/allies"
+to = "/allies"
+status = 302
+
+[[redirects]]
+from = "getin/discussions/irc"
+to = "/irc"
+status = 302
+
+## Moved sections
+
+### Projects
+
+[[redirects]]
+from = "/about/projects/*"
+to = "/projects/:splat"
+status = 302
+
+[[redirects]]
+from = "/projects/calendar/*"
+to = "/projects"
+status = 302
+
+[[redirects]]
+from = "/projects/list"
+to = "/projects"
+status = 302
+
+[[redirects]]
+from = "/projects/grid"
+to = "/projects"
+status = 302
+
+### Events
+
+[[redirects]]
+from = "/about/events/*"
+to = "/events/:splat"
+status = 302
+
+[[redirects]]
+from = "/events/calendar/*"
+to = "/events"
+status = 302
+
+[[redirects]]
+from = "/events/list"
+to = "/events"
+status = 302
+
+[[redirects]]
+from = "/events/grid"
+to = "/events"
+status = 302
+
+## Already broken
+
+[[redirects]]
+from = "/info/lists"
+to = "/"
+status = 302
+
+[[redirects]]
+from = "/mailman/*"
+to = "/"
+status = 302
+
+## Removed sections and individual pages
+
+[[redirects]]
+from = "/getin/*"
+to = "/"
+status = 302
+
+[[redirects]]
+from = "/user/*"
+to = "/"
+status = 302
+
+## Old subdomains
+
+[[redirects]]
+from = "http://lists.basekamp.com"
+to = "https://basekamp.com"
+status = 302
