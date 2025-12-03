@@ -33,7 +33,7 @@ export default function Page() {
       <object
         id="irc"
         type="text/html"
-        data="http://webchat.freenode.net/?channels=basekamp"
+        data="https://irc.com/?channels=basekamp"
         className="w-full h-150 pt-2 pb-6"
       >
         <p>Oops! That didn't work…</p>
