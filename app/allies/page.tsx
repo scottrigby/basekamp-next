@@ -194,16 +194,6 @@ export default function Page() {
             className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4"
           />
         </div>
-
-        {/* <div className="sm:col-span-3">
-          <Image
-            width={600}
-            height={450}
-            style={{ width: "600px", height: "auto" }}
-            src="/EAM_600.jpg"
-            alt="East Art Map, installation by Irwin, at Basekamp space, 2006."
-          />
-        </div> */}
       </div>
     </div>
   );
