@@ -6,38 +6,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 - [ ] Add Netlify redirects:
     - [ ] Run a web crawler to build a link list and check if we need other redirects
-    <!-- old subdomains -->
-    - [x] from `http://lists.basekamp.com/` to `https://basekamp.com`
-    <!-- removed sections and individual pages -->
-    - [x] from `http://basekamp.com/getin/*` to `/`
-    - [x] from `http://basekamp.com/getin/discussions/irc` to `/contact`
-    - [x] from `http://basekamp.com/user/*` to `/` (login and forgot password pages. all other user/ pages were not public)
-    - [x] from `http://basekamp.com/info` to `/`
-    - [x] from `http://basekamp.com/support` to `/contact`
-    <!-- moved individual pages -->
-    - [x] from `http://basekamp.com/about` to `/` (deliberate: about page is now home page)
-    - [x] from `http://basekamp.com/info/contact` to `/contact`
-    - [x] from `http://basekamp.com/info/calendar` to `/events`
-    <!-- moved sections -->
-    - [x] from `http://basekamp.com/about/projects` to `/projects`
-    - [x] from `http://basekamp.com/about/projects/list` to `/projects`
-    - [x] from `http://basekamp.com/about/projects/calendar` to `/projects`
-    - [x] from `http://basekamp.com/about/projects/*` to `/projects/:splat`
-    - [x] from `http://basekamp.com/about/events` to `/events`
-    - [x] from `http://basekamp.com/about/events/list` to `/events`
-    - [x] from `http://basekamp.com/about/events/calendar` to `/events`
-    - [x] from `http://basekamp.com/about/events/*` to `/events/:splat`
-    <!-- already broken -->
-    - [x] from `http://basekamp.com/info/lists` to `/`
-    - [x] from `http://basekamp.com/mailman/*` to `/contact`
-- [x] Add new pages:
-    - [x] "Thanks" page, from http://basekamp.com/support/allies. Link in footer behind copyright
-    - [x] from `http://basekamp.com/skype` to `/`
-    - [x] from `http://basekamp.com/irc` to `/contact`
 - [ ] Look on server for other files (sites/default/files) and make sure we have them stored somewhere in case they're needed. Evaluate whether we add to git, host somewhere else, or just keep as backup somewhere without serving them online for the time being
 - [ ] Fix project/event grid style on mobile (should be 2 wide in portrait)
 - [ ] Style project/event detail page images to be carousel across the top in small widths, rather than below the text
-- [x] Change slideshow to an existing library. Mine works but a11y is low (eg, tabbing moves through page behind model not over the modal or image for alt text etc)
 
 ## Getting Started
 
@@ -54,10 +25,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Contact Form
 
