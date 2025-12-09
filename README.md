@@ -4,9 +4,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## To-do
 
-- [ ] Add Netlify redirects:
-    - [ ] Run a web crawler to build a link list and check if we need other redirects
-- [ ] Look on server for other files (sites/default/files) and make sure we have them stored somewhere in case they're needed. Evaluate whether we add to git, host somewhere else, or just keep as backup somewhere without serving them online for the time being
 - [ ] Fix project/event grid style on mobile (should be 2 wide in portrait)
 - [ ] Style project/event detail page images to be carousel across the top in small widths, rather than below the text
 
