@@ -107,6 +107,13 @@ from = "/user/*"
 to = "/"
 status = 302
 
+## Unaliased nodes
+
+[[redirects]]
+from = "/node/*"
+to = "/"
+status = 302
+
 ## Old subdomains
 
 [[redirects]]
