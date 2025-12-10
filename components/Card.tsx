@@ -24,8 +24,8 @@ export default function Card({
   const image = images[0];
 
   return (
-    <div className="w-50">
-      <div className="size-50 aspect-square">
+    <div>
+      <div className="aspect-square">
         <Link href={href}>
           <Image
             src={`/${image.src}`}

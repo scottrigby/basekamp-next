@@ -23,8 +23,8 @@ CardProps) {
   const image = images && images.length > 0 ? images[0] : null;
 
   return (
-    <div className="w-50">
-      <div className="size-50 aspect-square">
+    <div>
+      <div className="aspect-square">
         {image && (
           <Link href={href}>
             <Image

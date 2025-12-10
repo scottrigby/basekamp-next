@@ -4,7 +4,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## To-do
 
-- [ ] Fix project/event grid style on mobile (should be 2 wide in portrait)
 - [ ] Style project/event detail page images to be carousel across the top in small widths, rather than below the text
 
 ## Getting Started
