@@ -2,13 +2,9 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## To-do
-
-- [ ] Style project/event detail page images to be carousel across the top in small widths, rather than below the text
-
 ## Getting Started
 
-First, instal the dependencies:
+First, install the dependencies:
 
 ```bash
 npm install
