@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
-import { marked } from "marked";
+import Markdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
 import { getEventBySlug, getEventSlugs } from "../../../lib/events";
 import { formatEventDateRange } from "@/lib/utils";
 import ImageSlider from "@/components/ImageSlider";
@@ -55,7 +56,6 @@ export default async function EventPage({
   }
 
   const { meta, content } = event;
-  const html = marked.parse(content);
 
   return (
     <article>
@@ -78,10 +78,9 @@ export default async function EventPage({
               className="flex overflow-x-auto snap-x snap-mandatory gap-2 px-4 pb-2 [&>button]:w-32 [&>button]:h-32"
             />
           </div>
-          <div
-            dangerouslySetInnerHTML={{ __html: html }}
-            className="mt-8 sm:mt-8"
-          />
+          <div className="mt-8 sm:mt-8">
+            <Markdown rehypePlugins={[rehypeRaw]}>{content}</Markdown>
+          </div>
         </div>
         {/* Desktop grid */}
         <div className="hidden sm:block sm:col-span-2">

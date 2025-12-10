@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
-import { marked } from "marked";
+import Markdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
 import { getPageBySlug, getPageSlugs } from "@/lib/pages";
 import ImageSlider from "@/components/ImageSlider";
 
@@ -47,7 +48,6 @@ export default async function Page({
   }
 
   const { meta, content } = page;
-  const html = marked.parse(content);
   const hasImages = meta.images && meta.images.length > 0;
 
   return (
@@ -64,7 +64,7 @@ export default async function Page({
               />
             </div>
           )}
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          <Markdown rehypePlugins={[rehypeRaw]}>{content}</Markdown>
         </div>
         {/* Desktop grid */}
         {hasImages && (
