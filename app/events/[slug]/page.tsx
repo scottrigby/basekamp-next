@@ -71,12 +71,23 @@ export default async function EventPage({
           {meta.attribution && (
             <small className="block">{meta.attribution}</small>
           )} */}
-          <div dangerouslySetInnerHTML={{ __html: html }} className="mt-8" />
+          {/* Mobile carousel */}
+          <div className="sm:hidden my-4 -mx-4">
+            <ImageSlider
+              images={meta.images}
+              className="flex overflow-x-auto snap-x snap-mandatory gap-2 px-4 pb-2 [&>button]:w-32 [&>button]:h-32"
+            />
+          </div>
+          <div
+            dangerouslySetInnerHTML={{ __html: html }}
+            className="mt-8 sm:mt-8"
+          />
         </div>
-        <div className="sm:col-span-2">
+        {/* Desktop grid */}
+        <div className="hidden sm:block sm:col-span-2">
           <ImageSlider
             images={meta.images}
-            className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4"
+            className="grid grid-cols-1 md:grid-cols-2 gap-4"
           />
         </div>
       </div>
