@@ -3,6 +3,7 @@ import fs from "fs";
 import path from "path";
 import { getProjectSlugs } from "@/lib/projects";
 import { getEventSlugs } from "@/lib/events";
+import { getPageSlugs } from "@/lib/pages";
 
 const BASE_URL = "https://basekamp.com";
 
@@ -10,6 +11,7 @@ const BASE_URL = "https://basekamp.com";
 const dynamicRoutes: Record<string, () => string[]> = {
   "projects/[slug]": getProjectSlugs,
   "events/[slug]": getEventSlugs,
+  "[slug]": getPageSlugs,
 };
 
 // Routes to exclude from sitemap
@@ -58,24 +60,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const route of routes) {
     // Check if route contains dynamic segment
-    const dynamicMatch = Object.keys(dynamicRoutes).find(
-      (pattern) =>
-        route.includes(pattern.replace("/[slug]", "")) && route.includes("["),
-    );
+    if (route.includes("[")) {
+      // Find matching dynamic route pattern
+      const dynamicMatch = Object.keys(dynamicRoutes).find((pattern) => {
+        if (pattern === "[slug]") {
+          // Top-level dynamic route
+          return route === "[slug]";
+        }
+        // Nested dynamic route (e.g., projects/[slug])
+        return route === pattern;
+      });
 
-    if (dynamicMatch) {
-      // Expand dynamic route with all slugs
-      const getSlugs = dynamicRoutes[dynamicMatch];
-      const slugs = getSlugs();
-      const baseRoute = route.replace("/[slug]", "");
+      if (dynamicMatch) {
+        const getSlugs = dynamicRoutes[dynamicMatch];
+        const slugs = getSlugs();
+        const baseRoute = route.replace("[slug]", "").replace(/\/$/, "");
 
-      for (const slug of slugs) {
-        results.push({
-          url: `${BASE_URL}/${baseRoute}/${slug}`,
-          priority: getPriority(route),
-        });
+        for (const slug of slugs) {
+          const url = baseRoute
+            ? `${BASE_URL}/${baseRoute}/${slug}`
+            : `${BASE_URL}/${slug}`;
+          results.push({
+            url,
+            priority: getPriority(route),
+          });
+        }
       }
-    } else if (!route.includes("[")) {
+    } else {
       // Static route
       const url = route === "/" ? BASE_URL : `${BASE_URL}/${route}`;
       results.push({
