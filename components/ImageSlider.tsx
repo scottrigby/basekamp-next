@@ -61,17 +61,18 @@ export default function ImageSlider({ images, className }: Props) {
       <div className={className}>
         {images.map((img, i) => {
           const src = normalizeSrc(img.src);
+          const desc=img.alt ?? `${i + 1}`
           return (
             <button
               key={`${src}-${i}`}
               type="button"
               onClick={() => openAt(i)}
               className="group relative aspect-square overflow-hidden rounded-md focus:outline-2 focus:outline-blue-500 flex-shrink-0 snap-start"
-              aria-label={`Open image ${i + 1}`}
+              aria-label={`View image: ${desc}`}
             >
               <Image
                 src={src}
-                alt={img.alt ?? `Image ${i + 1}`}
+                alt=""
                 fill
                 sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
                 className="object-cover transition-transform duration-300 group-hover:scale-105"
