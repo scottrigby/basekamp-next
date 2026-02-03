@@ -61,7 +61,7 @@ export default function ImageSlider({ images, className }: Props) {
       <div className={className}>
         {images.map((img, i) => {
           const src = normalizeSrc(img.src);
-          const desc=img.alt ?? `${i + 1}`
+          const desc = img.alt ?? `${i + 1}`
           return (
             <button
               key={`${src}-${i}`}
