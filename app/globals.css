@@ -11,6 +11,7 @@
 @layer base {
   body {
     @apply text-gray-700;
+    @apply text-[18.7px];
   }
 
   h1 {
@@ -30,7 +31,8 @@
   }
 
   a {
-    @apply text-orange-500 hover:underline;
+    @apply text-orange-600 hover:underline;
+    @apply font-bold;
   }
 
   ol {
