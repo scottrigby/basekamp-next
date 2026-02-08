@@ -1,7 +1,12 @@
+import { Metadata } from "next";
 import { getAllProjects } from "../../lib/projects";
 import Card from "@/components/Card";
 
 export const dynamic = "force-static";
+
+export const metadata: Metadata = {
+  title: "Projects | Basekamp",
+};
 
 export default function ProjectsIndex() {
   const projects = getAllProjects();
