@@ -25,18 +25,18 @@ export default function Card({
 
   return (
     <div>
-      <div className="aspect-square">
-        <Link href={href}>
+      <Link aria-label={title} href={href}>
+        <div className="aspect-square">
           <Image
             src={`/${image.src}`}
-            alt={image.alt}
+            alt=""
             width={200}
             height={200}
             className="object-cover w-full h-full"
           />
-        </Link>
-      </div>
-      <Link href={href}>{title}</Link>
+        </div>
+        {title}
+      </Link>
       {date && <small className="block">{formattedDate}</small>}
       {location && <small className="block">{location}</small>}
       {attribution && <small className="block">{attribution}</small>}
