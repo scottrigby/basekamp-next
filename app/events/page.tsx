@@ -1,7 +1,12 @@
+import { Metadata } from "next";
 import { getAllEvents } from "../../lib/events";
 import EventCard from "@/components/EventCard";
 
 export const dynamic = "force-static";
+
+export const metadata: Metadata = {
+  title: "Events | Basekamp",
+};
 
 export default function EventsIndex() {
   const events = getAllEvents();
