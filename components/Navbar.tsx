@@ -16,7 +16,7 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="bg-orange-600 text-white">
+      <nav className="bg-[#f96302] text-white">
         <ul className="flex p-2 pb-0 list-none mb-0">
           {routes.map(({ href, name }) => {
             // only highlight home when directly on homepage
@@ -49,7 +49,7 @@ export default function Navbar() {
         <Link href="/">
           <Image
             loading="eager"
-            src="/basekamp-f54900.svg"
+            src="/basekamp-f96302.svg"
             alt="Basekamp"
             width={350}
             height={85}
