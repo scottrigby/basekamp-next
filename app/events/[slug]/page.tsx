@@ -58,7 +58,7 @@ export default async function EventPage({
   const { meta, content } = event;
 
   return (
-    <article>
+    <>
       <h1 className="mb-1">{meta.title}</h1>
       <div className="sm:grid sm:grid-cols-5">
         <div className="sm:col-span-3 sm:mr-4">
@@ -90,6 +90,6 @@ export default async function EventPage({
           />
         </div>
       </div>
-    </article>
+    </>
   );
 }

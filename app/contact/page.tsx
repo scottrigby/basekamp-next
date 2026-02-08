@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <div>
+    <>
       <h1>Contact</h1>
       <div className="sm:grid sm:grid-cols-8">
         <div className="sm:col-span-5 sm:mr-4">
@@ -24,6 +24,6 @@ export default function Page() {
           ></Image>
         </div>
       </div>
-    </div>
+    </>
   );
 }

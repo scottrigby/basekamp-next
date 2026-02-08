@@ -12,7 +12,7 @@ export default function EventsIndex() {
   const events = getAllEvents();
 
   return (
-    <main>
+    <>
       <h1>Events</h1>
       <div className="grid grid-cols-[repeat(auto-fit,_minmax(150px,_1fr))] sm:grid-cols-[repeat(auto-fit,_minmax(200px,_1fr))] gap-4 sm:gap-6 p-4">
         {events.map(({ meta }) => (
@@ -27,6 +27,6 @@ export default function EventsIndex() {
           />
         ))}
       </div>
-    </main>
+    </>
   );
 }

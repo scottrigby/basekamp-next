@@ -51,7 +51,7 @@ export default async function Page({
   const hasImages = meta.images && meta.images.length > 0;
 
   return (
-    <article>
+    <>
       <h1>{meta.title}</h1>
       <div className={hasImages ? "sm:grid sm:grid-cols-5" : ""}>
         <div className={hasImages ? "sm:col-span-3 sm:mr-4" : ""}>
@@ -76,6 +76,6 @@ export default async function Page({
           </div>
         )}
       </div>
-    </article>
+    </>
   );
 }
