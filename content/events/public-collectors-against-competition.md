@@ -2,17 +2,17 @@
 title: Public Collectors & Against Competition
 images:
   - src: frontpageimage3.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Organized collection of vinyl records, CDs, books, and black filing cabinets displaying multiple media types including stacked records and album covers"
   - src: contactsheet-003.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Contact sheet showing collection of event flyers and promotional posters with colorful imagery and text quotes featuring various performers"
   - src: mfrecords3.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Black metal shelving unit filled with organized vinyl records, CDs, and music media on multiple shelves with various album spines visible"
   - src: screen_shot_2009-12-30_at_8.46.41_am.png
-    alt: Public Collectors & Against Competition
+    alt: "Website screenshot or digital interface documentation related to Public Collectors project"
   - src: reddotrentalsmall.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Collection documentation photograph showing organized items or artifacts from personal collection being inventoried for public access"
   - src: mexico1.png
-    alt: Public Collectors & Against Competition
+    alt: "Image documentation related to Public Collectors project or international collection initiative"
 dateRange:
   from: 2010-12-28T18:00
   to: 2010-12-28T20:00

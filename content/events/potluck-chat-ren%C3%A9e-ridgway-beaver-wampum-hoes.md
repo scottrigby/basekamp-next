@@ -2,11 +2,11 @@
 title: "Potluck chat: Renée Ridgway: Beaver, Wampum, Hoes"
 images:
   - src: wampanoag1.jpg
-    alt: "Potluck chat: Renée Ridgway: Beaver, Wampum, Hoes"
+    alt: "Man outdoors with traditional cultural jewelry necklace, shirtless with arms crossed, green foliage and trees in background, natural outdoor setting"
   - src: simonphone.jpg
-    alt: "Potluck chat: Renée Ridgway: Beaver, Wampum, Hoes"
+    alt: "Man in dark t-shirt sitting on black platform using bright orange retro rotary phone, white gallery walls with geometric floor pattern"
   - src: 24.jpg
-    alt: "Potluck chat: Renée Ridgway: Beaver, Wampum, Hoes"
+    alt: "Open cardboard box containing white cylindrical beaded objects stacked and arranged with dark band markings inside"
 dateRange:
   from: 2009-09-22T18:00
   to: 2009-09-22T20:00

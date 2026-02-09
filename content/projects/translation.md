@@ -5,9 +5,9 @@ location: Basekamp, Philadelphia
 attribution: Incident group
 images:
   - src: translation_FRONT_1.jpg
-    alt: Translation
+    alt: Complex isometric collage of many overlapping photographs arranged in a 3D cube pattern, showing various interior spaces, artworks, and scenes.
   - src: translation_title600_0.jpg
-    alt: Translation
+    alt: Typography design spelling 'TRANSLATION' composed of fragmented, overlapping letterforms in black on white background.
 dateRange:
   from: 2004-09-18
   to: 2004-10-31

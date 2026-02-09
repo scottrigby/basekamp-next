@@ -5,11 +5,11 @@ location: Basekamp, Philadelphia
 attribution: Co-curated by Gavin Wade & Jonathan Van Dyke
 images:
   - src: ENTER-WOODS_4.jpg
-    alt: Let's get to work
+    alt: Stairwell with hand-drawn wood grain pattern painted on the steps in black and white, with 'BASEK' text visible on the wall.
   - src: FORREST_2.gif
-    alt: Let's get to work
+    alt: Two people constructing large artificial trees with green fabric leaves on ladders in a gallery space.
   - src: PURPOSE_0.jpg
-    alt: Let's get to work
+    alt: Partially constructed gray panels and metal framing in a gallery space, with 'PURPOSE' text visible as part of installation.
 dateRange:
   from: 2001-11-17
   to: ""

@@ -5,19 +5,19 @@ location: The Galleries at Moore, Philadlephia
 attribution: Basekamp & friends
 images:
   - src: thumb-135_0.jpg
-    alt: Love the Role
+    alt: Video still of person in period costume reading dramatically, reenacting a scene from a Hollywood film about artists.
   - src: 1.-ltr.jpg
-    alt: Love the Role
+    alt: Gallery installation view with tripod, video monitors, and constructed film sets visible in the space.
   - src: 3.-ltr.jpg
-    alt: Love the Role
+    alt: Gallery space with artificial tree prop, video monitors on stands, and painted backdrop visible.
   - src: 4.-ltr.jpg
-    alt: Love the Role
+    alt: Two video monitors on tripods displaying footage, positioned in front of a painted set backdrop.
   - src: 5.-ltr.jpg
-    alt: Love the Role
+    alt: Two CRT monitors on wooden stands displaying synchronized video footage in a gallery corner.
   - src: lust-for-life.jpg
-    alt: Love the Role
+    alt: Side-by-side comparison of Kirk Douglas in 'Lust for Life' and an artist's reenactment of the Van Gogh scene.
   - src: vincent--theo.jpg
-    alt: Love the Role
+    alt: Side-by-side video stills comparing an original film scene with artists' reenactment, both showing emotional performances.
 dateRange:
   from: 2000-06-01
   to: ""

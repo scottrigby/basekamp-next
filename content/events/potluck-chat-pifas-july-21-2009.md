@@ -2,7 +2,7 @@
 title: "Potluck chat: PIFAS - July 21 2009"
 images:
   - src: 1996as.jpg
-    alt: "Potluck chat: PIFAS - July 21 2009"
+    alt: "Modern institutional building with curved white and blue cylindrical tower architecture, large windows, green landscaping with grass and tree, American flag, clear blue sky"
 dateRange:
   from: 2009-07-21T18:00
   to: 2009-07-21T20:00

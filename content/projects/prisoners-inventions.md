@@ -5,11 +5,11 @@ location: Basekamp, Philadelphia & MASS MoCA
 attribution: Temporary Services
 images:
   - src: pi-1.jpg
-    alt: Prisoners' Inventions
+    alt: Small handmade dice crafted by a prisoner, showing different colored faces with hand-drawn dots.
   - src: cigarette-lighter.jpg
-    alt: Prisoners' Inventions
+    alt: Detailed pen drawing with handwritten instructions showing how prisoners construct electric cigarette lighters using paper clips, ice cream spoons, saltwater, and hot pot elements.
   - src: pi-2.jpg
-    alt: Prisoners' Inventions
+    alt: View through a prison cell door showing a small gray cell interior with toilet and minimal furnishings.
 dateRange:
   from: 2004-04-02
   to: 2004-05-07

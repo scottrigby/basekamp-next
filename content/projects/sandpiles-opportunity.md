@@ -5,25 +5,25 @@ location: Versionfest, Chicago
 attribution: Basekamp & friends
 images:
   - src: 32.jpg
-    alt: Sandpiles of Opportunity
+    alt: Sand sculpture installation in wooden box with multiple mounds and valleys marked with small flags and labels, people visible in background at Versionfest
   - src: 25.jpg
-    alt: Sandpiles of Opportunity
+    alt: Close-up aerial view of sand landscape with tall peaked structures and small colored flags planted throughout the terrain
   - src: 26.jpg
-    alt: Sandpiles of Opportunity
+    alt: Sand installation with varied topography including pyramidal forms and flat areas marked with small white flags, person visible in blurred background
   - src: 64.jpg
-    alt: Sandpiles of Opportunity
+    alt: Detailed view of carved sand block showing ribbed horizontal texture pattern with small flag marker protruding from top
   - src: 65.jpg
-    alt: Sandpiles of Opportunity
+    alt: Pair of green Versionfest branded sunglasses partially buried in sandy surface alongside other small markers
   - src: 66.jpg
-    alt: Sandpiles of Opportunity
+    alt: Business card reading "A+C=T" artlab with colorful letter logo, surrounded by plastic fork, spoon, straws and white egg in sand
   - src: 67.jpg
-    alt: Sandpiles of Opportunity
+    alt: Fractal Workspace business card standing upright in sand structure showing contact information for Chicago location
   - src: 72.jpg
-    alt: Sandpiles of Opportunity
+    alt: Another view of Fractal Workspace business card embedded in sand mound with red marker visible in background
   - src: 74.jpg
-    alt: Sandpiles of Opportunity
+    alt: Section of sand installation featuring bright yellow ball, green container, and various small markers and objects
   - src: 80.jpg
-    alt: Sandpiles of Opportunity
+    alt: Person wearing white lab coat standing over large wooden sandbox installation in industrial gallery space, working on sand landscape
 dateRange:
   from: 2005-06-01
   to: ""

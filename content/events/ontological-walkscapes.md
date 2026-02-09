@@ -2,9 +2,9 @@
 title: Ontological Walkscapes
 images:
   - src: karen_andreassian_1-500x364.jpg
-    alt: Ontological Walkscapes
+    alt: Black and white photograph of an urban public plaza with buildings in background, scattered pedestrians, trash can and cylindrical bollards in foreground
   - src: karen_andreassian_2-500x364.jpg
-    alt: Ontological Walkscapes
+    alt: Four people sitting in classroom space with blackboard on wall and tables in black and white photograph
 dateRange:
   from: 2010-11-16T18:00
   to: 2010-11-16T20:00

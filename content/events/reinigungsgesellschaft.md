@@ -2,9 +2,9 @@
 title: Reinigungsgesellschaft
 images:
   - src: 07_reinigungsgesellschaft_belgrade_feb06_0.jpg
-    alt: Reinigungsgesellschaft
+    alt: "Workshop collaboration in Belgrade with multiple participants working at tables with sewing machines and materials, woman in pink cardigan at foreground sewing machine, industrial workspace"
   - src: rg_0.jpg
-    alt: Reinigungsgesellschaft
+    alt: "Complex organizational diagram for Reinigungsgesellschaft showing interconnected fields of operation including political institutions, companies, scientists and cultural workers, with processes of transformation and development of aesthetic consciousness"
 dateRange:
   from: 2010-02-02T18:00
   to: 2010-02-02T20:00

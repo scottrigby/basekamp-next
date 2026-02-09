@@ -2,25 +2,25 @@
 title: Spontaneous Vegetation
 images:
   - src: bg.jpg
-    alt: Spontaneous Vegetation
+    alt: "Urban garden with recycled tire planters filled with soil and green vegetables in sunlit space"
   - src: clean1.jpg
-    alt: Spontaneous Vegetation
+    alt: "Person standing in front of corrugated metal structure with window openings used as sustainable shelter housing"
   - src: clean-livin.png
-    alt: Spontaneous Vegetation
+    alt: "Documentation of sustainable housing construction from recycled corrugated metal materials"
   - src: fieldtrip01.jpg
-    alt: Spontaneous Vegetation
+    alt: "Group of people on urban foraging walk examining spontaneous and cultivated vegetation in city landscape"
   - src: greenhouses2.jpg
-    alt: Spontaneous Vegetation
+    alt: "Close-up photograph of red earthworms in dark soil during vermicomposting process for greenwaste-to-fertility system"
   - src: humblepile01.jpg
-    alt: Spontaneous Vegetation
+    alt: "Compost pile with organic materials and decomposition visible for nutrient cycling in urban garden"
   - src: 87.jpg
-    alt: Spontaneous Vegetation
+    alt: "Gardener tending to plants in permaculture or urban agriculture growing space"
   - src: meade_sdc10461.jpg
-    alt: Spontaneous Vegetation
+    alt: "Outdoor garden bed showing cultivated plants and growing food production in city setting"
   - src: neighborhoodorchard1.jpg
-    alt: Spontaneous Vegetation
+    alt: "Person harvesting red apples from fruit tree in community orchard"
   - src: range02.jpg
-    alt: Spontaneous Vegetation
+    alt: "Landscape showing range of spontaneous and cultivated vegetation in urban environment"
 dateRange:
   from: 2010-11-02T18:00
   to: 2010-11-02T20:00

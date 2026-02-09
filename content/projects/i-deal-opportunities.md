@@ -5,17 +5,17 @@ location: Chisenhale Gallery, London
 attribution: Scott Rigby & Per Hüttner
 images:
   - src: thumb-135_1.jpg
-    alt: I Deal Opportunities
+    alt: Gallery installation with a tall vertical tower of stacked card boxes displaying artwork, a red triangular sculpture, and white walls.
   - src: curatorcard.crop_.gif
-    alt: I Deal Opportunities
+    alt: Red and white typographic poster for 'I Am A Curator' listing dozens of collaborating artists and participants in a grid format.
   - src: I-Deal-Opportunities1.jpg
-    alt: I Deal Opportunities
+    alt: Sculptural assemblage of interlocking white card boxes with various images and text, forming an irregular geometric shape.
   - src: I-deal-Opportunities2.jpg
-    alt: I Deal Opportunities
+    alt: Tall vertical tower sculpture made of stacked and interlocking card boxes with printed imagery on their surfaces.
   - src: Install-Views.jpg
-    alt: I Deal Opportunities
+    alt: Two-panel gallery view showing a chalkboard with 'Curator of the day' schedule on left, and visitors browsing card displays and artwork on right.
   - src: Support-Structure1.jpg
-    alt: I Deal Opportunities
+    alt: Modular wooden structure with panels and compartments housing artworks and materials, with a large letter 'D' visible.
 dateRange:
   from: 2003-11-05
   to: 2003-12-14
@@ -46,4 +46,4 @@ I DEAL OPPORTUNITIES is a deck of oversized playing cards, designed by Artist Sc
 Each card in the deck is a surrogate for one artwork within the exhibition. Borrowing from an early Eames’ card system, the I Deal Opportunities cards are slotted to fit easily together, so that visitors may build any structure they wish, using any number of artist combinations; This allows gallery visitors to temporarily adopt the role of the Curator/Dealer, and opens up infinite hypothetical arrangements and relationships between the artists in the exhibition.  
 A version of the I Deal Opportunities cards is also available on the Chisenhale Gallery website (under Preview of Work section). These can be downloaded and printed, so online viewers can curate their own exhibition at home.  
 You can create you own set by going directly to:  
-[http://basekamp.com/bk\_team/projects/iamacurator](http://basekamp.com/bk_team/projects/iamacurator "http://basekamp.com/bk_team/projects/iamacurator")
+[http://basekamp.com/bk_team/projects/iamacurator](http://basekamp.com/bk_team/projects/iamacurator "http://basekamp.com/bk_team/projects/iamacurator")

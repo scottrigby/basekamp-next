@@ -5,53 +5,53 @@ location: Basekamp, Philadelphia (and various locations)
 attribution: Co-organized by Basekamp & c.cred
 images:
   - src: basekamp1_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Group of participants sitting on plastic milk crates in gallery space during discussion, with projection screen showing map
   - src: basekamp2_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Participants walking along urban sidewalk carrying bright blue flag markers during counter-cartography walk
   - src: meal01.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Six people seated around table with blue tablecloth having meal and discussion, food bowls visible
   - src: webcast02.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Grid of video conference feeds showing participants from multiple cities including Philadelphia, Portland, New York, Chicago, Malmö, London, Copenhagen, and Atlanta
   - src: 01_1.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Two men standing beside "Welcome to Cabbagetown" sign and yard sale sign on grass lawn
   - src: 03_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Graffitied concrete railroad overpass bridge with "KISS ATLANTA" text and car passing underneath
   - src: 01_2.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: White tent canopy set up in vacant urban lot with food and supplies on table, apartment buildings visible in background
   - src: 06_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Triangular green pedestrian crossing sign heavily covered with stickers, graffiti tags, and street art
   - src: 1_1.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Street map with hand-drawn black marker lines tracing walking route through urban neighborhoods
   - src: 3.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Group of participants sitting on grass in riverside park with blue flag markers, city skyline visible across water in background
   - src: meal1.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Three people engaged in conversation at dinner table with plates and wine glasses
   - src: meal2.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Dinner gathering with man in white shirt gesturing while speaking, others listening around table with food
   - src: 01_3.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Person at table examining spread of maps and documents in bright sunlight streaming through window
   - src: 03_1.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Person in black winter clothing and beanie holding up blue flag marker on urban street, industrial building behind
   - src: meal1_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Empty kitchen and dining area with wooden floors, simple table and chairs, domestic interior
   - src: meal2_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Group of people seated on couch and chairs watching projected image in living room during webcast event
   - src: 08_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: White railing or banner with hand-painted red text reading "LOOK ↑ TREEROOT"
   - src: 02_0.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: View beneath bridge showing water, concrete pillars, and debris-strewn muddy bank
   - src: Jessica.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Woman in burgundy leather jacket with yellow patterned scarf holding equipment at night during outdoor event
   - src: Guests.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Nighttime outdoor gathering with arrangement of flowers in green glass bottles, lit candles, and drink can on surface
   - src: tampa-crossing.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Group of five people standing at wide pedestrian crosswalk with traffic lights and urban buildings in background
   - src: tampa-highway3.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Line of people walking along highway shoulder beside busy multi-lane road with overpass visible ahead
   - src: meal1_1.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: Nighttime outdoor gathering with people sitting in circle on pavement around illuminated center point
   - src: meal2_1.jpg
-    alt: Walk Talk Eat TalkSomeMore
+    alt: White dome-shaped outdoor pizza oven with fire burning inside wooden structure at night
 dateRange:
   from: 2006-04-18
   to: 2006-08-05

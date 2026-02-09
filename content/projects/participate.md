@@ -5,19 +5,19 @@ location: Basekamp, Philadelphia (and various locations)
 attribution: Per Hüttner & Ciceron group
 images:
   - src: participate-3.jpg
-    alt: Participate?
+    alt: Colorful three-dimensional letter blocks in blue and yellow with directional arrow symbols on dark surface
   - src: participate-1.jpg
-    alt: Participate?
+    alt: Multiple hands reaching upward toward a bright light source in a darkened space, creating dramatic shadows
   - src: participate-2.jpg
-    alt: Participate?
+    alt: Two people standing side by side showing their legs and torsos, wearing striped pants in red and white colors
   - src: participate-4.jpg
-    alt: Participate?
+    alt: Group of people gathered around a table examining photographs or documents, with motion blur suggesting active discussion
   - src: participate-5.jpg
-    alt: Participate?
+    alt: Dark gallery space with multiple illuminated video screens and projections glowing in the darkness
   - src: xiamen15.jpg
-    alt: Participate?
+    alt: Close-up of a hand pointing at or selecting from a grid of photographs or printed materials laid out on a table surface
   - src: xiamen20.jpg
-    alt: Participate?
+    alt: White circular button or badge with red text reading "PARTICIPANT" and decorative swirl design
 dateRange:
   from: 2005-12-06
   to: 2005-12-08
@@ -31,7 +31,7 @@ Date: Thursday Dec 8th, during the last event.
 Location: Basekamp space  
 Description: Book release of “I Am A Curator”, ed. by Per Hüttner
 
-**What is *Participate?***
+**What is _Participate?_**
 
 An interactive project by Per Hüttner (Paris) in collaboration with Ciceron group (Norrköping, Sweden) and basekamp (Philadelphia).
 

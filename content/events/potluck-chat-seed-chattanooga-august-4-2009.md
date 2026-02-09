@@ -2,9 +2,9 @@
 title: "Potluck chat: SEED Chattanooga - August 4 2009"
 images:
   - src: AdamLowLives.jpg
-    alt: "Potluck chat: SEED Chattanooga - August 4 2009"
+    alt: "Man in dark clothing bent forward interacting with white and brown spotted dog in minimalist white gallery space"
   - src: WestbrookScreenProductPlacement.jpg
-    alt: "Potluck chat: SEED Chattanooga - August 4 2009"
+    alt: "Digital art image of pink product packaging bursting with white flowing fabric and sparkle effects overlaid, landscape with trees and blue sky visible in background"
 dateRange:
   from: 2009-08-04T18:00
   to: 2009-08-04T20:00

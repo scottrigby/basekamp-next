@@ -2,21 +2,21 @@
 title: A Constructed World
 images:
   - src: le_feu_still_002-filtered.jpg
-    alt: A Constructed World
+    alt: Person playing guitar on stage with bright light and wooden platform structure
   - src: 006_hobbes_opera.jpg
-    alt: A Constructed World
+    alt: Performers on stage with tropical plants and person in red pants playing guitar with l'etat de nature text on backdrop
   - src: picture_1_0.png
-    alt: A Constructed World
+    alt: Man simultaneously playing multiple stacked guitars in video still
   - src: unknown1.jpeg
-    alt: A Constructed World
+    alt: Group of people in gallery space with documents and sheets on walls speaking at microphones
   - src: a.constructed.world_.cover_.jpg
-    alt: A Constructed World
+    alt: Two figures with objects in performance or installation artwork
   - src: detail_eels_004sm_-filtered.jpg
-    alt: A Constructed World
+    alt: Gallery floor installation with blue surface and dark sculptural forms
   - src: 01_smcomevuoi.jpg
-    alt: A Constructed World
+    alt: People gathered in gallery space viewing wall displays and documentation
   - src: artfan_covers_003.jpg
-    alt: A Constructed World
+    alt: Stack of colorful art and culture magazine covers arranged together
 dateRange:
   from: 2010-10-26T18:00
   to: 2010-10-26T20:00

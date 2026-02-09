@@ -2,33 +2,33 @@
 title: IRWIN
 images:
   - src: eam_600.jpg
-    alt: IRWIN
+    alt: Gallery installation of East Art Map project showing suspended canvas structure and wooden tables with materials
   - src: nsk-state.jpg
-    alt: IRWIN
+    alt: Photograph of four people in green military uniforms standing in front of NSK FARPA banner in Pristina
   - src: noordung34v.jpg
-    alt: IRWIN
+    alt: Person in yellow clothing lying on red surface viewed from above in industrial space with fluorescent ceiling lights
   - src: triglav_oho_front.jpg
-    alt: IRWIN
+    alt: Black and white photograph of three figures in large black draped cloaks standing in snowy urban street setting
   - src: winder2_0.jpg
-    alt: IRWIN
+    alt: Six men in dark business suits and ties standing together in formal group portrait in front of architectural backdrop
   - src: irwin4.jpg
-    alt: IRWIN
+    alt: Group of people in dark clothing forming a circle holding hands in open field with forest and mountains in background
   - src: nsk_passports2.jpg
-    alt: IRWIN
+    alt: "NSK Point List Citizens' Passports with stacks of black and white booklets, stapler, scissors, and documentation scattered"
   - src: nsk.jpg
-    alt: IRWIN
+    alt: NSK logo with ornate black decorative frame and geometric elements surrounding central shield on black background with Neue Slowenische Kunst text
   - src: nsk_poster_04.jpg
-    alt: IRWIN
+    alt: Poster with large white text reading First NSK Citizens Congress Berlin 21-23.10.2010 with highway and street lamps in background image
   - src: zizek-a-film-from-slovenia.jpg
-    alt: IRWIN
+    alt: Promotional image showing bearded man in striped shirt sitting in front of bookshelves in library setting
   - src: 5nskmoscow.jpg
-    alt: IRWIN
+    alt: Black and white photograph of group of people standing in ornate gallery interior all holding documents and papers
   - src: nsk-state-1.jpg
-    alt: IRWIN
+    alt: Black and white artistic portrait of person with geometric cross symbol on forehead against pixelated checkered background
   - src: imag0189.jpg
-    alt: IRWIN
+    alt: Silver commemorative coin showing geometric cross pattern in center with text around rim on black background
   - src: ogenj.jpg
-    alt: IRWIN
+    alt: Illuminated geometric cross symbol glowing brightly in ornate interior architectural space with columns on dark background
 dateRange:
   from: 2010-12-21T18:00
   to: 2010-12-21T20:00
@@ -65,6 +65,6 @@ Follow Plausible Artworlds:
  [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                                                                                                    | Size      |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Attachment                                                           | Size      |
+| -------------------------------------------------------------------- | --------- |
 | [nsk_chart_full.pdf](/files/nsk_chart_full.pdf "nsk_chart_full.pdf") | 563.06 KB |

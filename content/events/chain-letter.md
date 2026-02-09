@@ -2,7 +2,7 @@
 title: Chain Letter
 images:
   - src: simpsons-santa-letters.png
-    alt: Chain Letter
+    alt: Scene from The Simpsons cartoon showing character holding large envelope with another character
 dateRange:
   from: 2011-07-16T18:00
   to: 2011-07-16T20:00

@@ -2,11 +2,11 @@
 title: Cittadellarte
 images:
   - src: zagabria.jpg
-    alt: Cittadellarte
+    alt: Overhead view of people gathered in white gallery space around central gathering area
   - src: naldini.jpg
-    alt: Cittadellarte
+    alt: Group of people seated and standing around tables in gallery with arched ceilings and columns
   - src: cittadelarte.jpg
-    alt: Cittadellarte
+    alt: Black and white photograph of illuminated building at night with multiple arched windows and stone architecture
 dateRange:
   from: 2010-11-09T18:00
   to: 2010-11-09T20:00

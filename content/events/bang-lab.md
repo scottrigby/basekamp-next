@@ -2,13 +2,13 @@
 title: b.a.n.g. lab
 images:
   - src: ricardo.jpg
-    alt: b.a.n.g. lab
+    alt: Man in black UCSD hoodie standing in front of border patrol police car
   - src: supporters.png
-    alt: b.a.n.g. lab
+    alt: Group of people holding sign reading Students Support at outdoor rally
   - src: speech.png
-    alt: b.a.n.g. lab
+    alt: Person speaking to crowd of people gathered under trees at outdoor event
   - src: academic-freedom-rally.png
-    alt: b.a.n.g. lab
+    alt: Group of protesters holding signs at academic freedom rally
 dateRange:
   from: 2010-08-03T18:00
   to: 2010-08-03T20:00

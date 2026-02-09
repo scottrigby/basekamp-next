@@ -2,7 +2,7 @@
 title: "Potluck chat: Diego de la Vega - May 12 2009"
 images:
   - src: diego-de-la-vega-lg.jpg
-    alt: "Potluck chat: Diego de la Vega - May 12 2009"
+    alt: "Black and white portrait photograph of man in dark jacket and cap standing in gallery space with framed artwork on wall behind him and shelving visible on right side"
 dateRange:
   from: 2009-05-12T18:00
   to: 2009-05-12T20:00

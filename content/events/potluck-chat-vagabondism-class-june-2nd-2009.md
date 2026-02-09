@@ -2,7 +2,7 @@
 title: Potluck chat & Vagabondism Class - June 2nd 2009
 images:
   - src: Picture 5.png
-    alt: Potluck chat & Vagabondism Class - June 2nd 2009
+    alt: "Handwritten biographical document describing person's journey and travel experiences across locations including Route, Chicago, New York, Kansas City, Pacific, with some text crossed out with marker"
 dateRange:
   from: 2009-06-02T18:00
   to: 2009-06-02T22:00

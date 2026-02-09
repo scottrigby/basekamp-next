@@ -2,7 +2,7 @@
 title: Potluck chat & Vagabondism Class- June 16thth
 images:
   - src: tipiframehouse.jpg
-    alt: Potluck chat & Vagabondism Class- June 16thth
+    alt: "Black and white historical photograph of tipi or frame house structure with wooden poles arranged in triangular formation surrounded by tall forest trees"
 dateRange:
   from: 2009-06-16T18:00
   to: 2009-06-16T23:00

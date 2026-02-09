@@ -2,9 +2,9 @@
 title: Machine Project
 images:
   - src: frustrated-guy-clarkk.jpg
-    alt: Machine Project
+    alt: Person wearing glasses tangled in multicolored wires and cables around their shoulders and hands
   - src: machine-project-design-400x300.jpg
-    alt: Machine Project
+    alt: Person standing in workshop space holding objects with large windows, various crafting materials and objects on surfaces, another person sitting on left, posters on walls
 dateRange:
   from: 2010-06-01T18:00
   to: 2010-06-01T20:00

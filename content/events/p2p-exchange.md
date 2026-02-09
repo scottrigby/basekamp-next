@@ -2,11 +2,11 @@
 title: P2P exchange
 images:
   - src: parade-6.jpg
-    alt: P2P exchange
+    alt: Group of people seated on stacked black plastic crates outdoors in public plaza during sunny day
   - src: p2pexchange_a5flyer.jpg
-    alt: P2P exchange
+    alt: Event flyer with blue and green text reading "P2P EXCHANGE" announcing Critical Practice reconfiguration of General Assembly at The Truth is Concrete
   - src: tic_logo.jpg
-    alt: P2P exchange
+    alt: Poster showing gray crocheted cat figure holding small weapon with orange text "TRUTH IS CONCRETE" and caption about depicting uranium munitions
 dateRange:
   from: 2012-09-26T08:00
   to: 2012-09-26T10:00

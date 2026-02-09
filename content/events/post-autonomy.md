@@ -2,9 +2,9 @@
 title: Post autonomy
 images:
   - src: 3727626500_fe62dee678_o.jpg
-    alt: Post autonomy
+    alt: Mind map on red wall with light green note card asking What is Post Autonomy with green star burst showing responses and handwritten notes about autonomy concepts
   - src: 3726822723_e6a2398f9e_o.jpg
-    alt: Post autonomy
+    alt: Whiteboard mind map with blue, green, and red writing showing concepts like Models of Organization, Social Values, Copyright, Open, Closed, and various network-related terms
 dateRange:
   from: 2010-09-07T18:00
   to: 2010-09-07T20:00

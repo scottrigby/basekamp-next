@@ -2,7 +2,7 @@
 title: KEIN
 images:
   - src: kein-title.png
-    alt: KEIN
+    alt: "KEIN.ORG text in bright green on black background"
 dateRange:
   from: 2010-10-12T18:00
   to: 2010-10-12T20:00

@@ -5,45 +5,45 @@ location: Basekamp, Philadelphia
 attribution: DAMP & A Constructed World
 images:
   - src: Untitled_10.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Blue plastic tub filled with art materials including framed images, books with "REVOLUTION" text, and various art objects
   - src: image350.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Collage artwork showing drawings of a dove, sleeping cat, and eels swimming, with "A FACE MELTING SOLO" text
   - src: DampACW.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Dark gallery installation with blue-lit aquatic containers, black panels displaying white photographs, and a white sculptural chair
   - src: eels.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Group of visitors gathered around large blue tub observing live eels during "Explaining Contemporary Art to Live Eels" performance
   - src: ACW.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Two artists crouching beside blue tub with orange-gloved hand reaching into water containing live eels and art materials
   - src: Untitled_1.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Floor detail showing live eel, orange glove, illuminated colored objects, and papers during performance
   - src: Untitled_3.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Two people in red and black clothing leaning over blue tub filled with water and artworks, examining contents
   - src: Untitled_13.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Close-up of hand wearing orange glove reaching into blue tub with several live eels swimming in water
   - src: BandRoom.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Small room bathed in red light, densely packed with musical instruments, Marshall amplifiers, guitars on walls, and illuminated TV monitor
   - src: DeadDamp.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: White wall displaying framed group photograph mounted on black painted form with dripping effect and wooden stick protruding
   - src: Start.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Array of hand-painted cardboard guitars and Marshall amplifier paintings arranged on floor beneath colorful string lights
   - src: Untitled_19.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Close-up view of painted cardboard Marshall amplifiers and decorated cardboard guitars with various colorful patterns
   - src: Scott.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Person in dark clothing standing among painted cardboard guitars and Marshall amplifier backdrop with string lights
   - src: Ed.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Shirtless performer wearing underwear, headband, and sneakers holding white cardboard guitar during air guitar competition
   - src: Untitled_20.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Group of participants performing with painted cardboard instruments, some kneeling on floor, others standing with guitars raised
   - src: Untitled_33.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Dynamic moment during air guitar performance with multiple participants playing cardboard guitars, some in motion
   - src: Untitled_30.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Energetic air guitar competition scene with performers in various poses, some on floor, playing decorated cardboard guitars
   - src: Untitled_25.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Group finale with performers holding cardboard guitars, some raising arms in celebration beneath string lights
   - src: End.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Post-performance scene showing painted Marshall amplifier backdrops and scattered painted cardboard guitars strewn across floor
   - src: Untitled_28.jpg
-    alt: "DAMP + ACW: Together Again"
+    alt: Close-up of discarded painted cardboard guitars on floor, including one designed to look like Marshall amplifier
 dateRange:
   from: 2004-12-04
   to: 2005-01-15
@@ -61,7 +61,7 @@ Philadelphia, PA united states
 
 Exhibition dates: Dec 4th 2004 – Jan 15 2005
 
-***Together Again*** is an exhibition by two related collaborative groups. The **DAMP** collective from Melbourne, and Torino-based collaborative art group **A Constructed World** have worked together and independently to create artworks that explore the relationship between art and audience through video, photography, painting, publishing and live events.
+**_Together Again_** is an exhibition by two related collaborative groups. The **DAMP** collective from Melbourne, and Torino-based collaborative art group **A Constructed World** have worked together and independently to create artworks that explore the relationship between art and audience through video, photography, painting, publishing and live events.
 
 images: detail of Suddenly…A Face Melting Solo, interpolated cartoons and video by DAMP with various artists, 2004; and Explaining Contemporary Art To Live Eels, by A Constructed World, 2004.
 

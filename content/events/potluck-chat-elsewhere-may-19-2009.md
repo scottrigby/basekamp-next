@@ -2,7 +2,7 @@
 title: "Potluck chat: Elsewhere - May 19 2009"
 images:
   - src: elsewhere.jpg
-    alt: "Potluck chat: Elsewhere - May 19 2009"
+    alt: "Interior of Elsewhere Artist Collaborative with floor-to-ceiling red shelving filled with books and collected items, artists working at stations, neon yellow arrows, eclectic items throughout collaborative workspace"
 dateRange:
   from: 2009-05-19T18:00
   to: 2009-05-19T20:00

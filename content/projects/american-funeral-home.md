@@ -5,15 +5,15 @@ location: Basekamp, Philadelphia
 attribution: Institute for Advanced Architecture
 images:
   - src: basekamp-show-1_7.jpg
-    alt: The American Funeral Home
+    alt: Gallery installation with three photographs of funeral home interiors displayed above a white platform holding handmade light fixtures made from tree stumps.
   - src: basekamp-show-3_5.jpg
-    alt: The American Funeral Home
+    alt: Gallery corner showing small photographs of funeral home spaces on the wall, with a CRT computer monitor on a rolling cart displaying an interactive application.
   - src: basekamp-show-4_3.jpg
-    alt: The American Funeral Home
+    alt: Wall display of printed cards showing designs for cylindrical containers in white and grouped arrangements, possibly funerary urn concepts.
   - src: basekamp-show-5_1.jpg
-    alt: The American Funeral Home
+    alt: Four instructional posters titled 'Death,' 'Burial,' 'Compost,' and 'Cremation' with illustrated diagrams and icons, displayed on a white paneled wall near an exit sign.
   - src: basekamp-show-6_0.jpg
-    alt: The American Funeral Home
+    alt: Gallery opening event with visitors viewing photographs of funeral home interiors on the wall while others gather around equipment in the dim space.
 dateRange:
   from: 2003-12-07
   to: 2004-01-17

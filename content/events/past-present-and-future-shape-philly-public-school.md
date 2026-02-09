@@ -2,7 +2,7 @@
 title: Past, Present and Future; The Shape of the Philly Public School
 images:
   - src: google_chrome_0.png
-    alt: Past, Present and Future; The Shape of the Philly Public School
+    alt: "The Public School Philadelphia logo with bold black text on white background, word Philadelphia in teal green text below"
 dateRange:
   from: 2010-03-24T18:30
   to: 2010-03-24T20:30

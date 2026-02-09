@@ -2,15 +2,15 @@
 title: Abriendo Caminos / La Comunitaria TV
 images:
   - src: giran.jpg
-    alt: Abriendo Caminos / La Comunitaria TV
+    alt: Children holding hands in circle during outdoor activity at basketball court with apartment buildings in background
   - src: picture_1_1.png
-    alt: Abriendo Caminos / La Comunitaria TV
+    alt: Digital composite image showing view from moon's cratered surface looking back at Earth with South America visible against black space
   - src: picture_3.png
-    alt: Abriendo Caminos / La Comunitaria TV
+    alt: Black military attack helicopter with Spanish text "Al servicio de la Comunidad" (In service of the Community) flying over aerial view of urban area
   - src: picture_4.png
-    alt: Abriendo Caminos / La Comunitaria TV
+    alt: Video screenshot showing large building facade with banner reading "1500 JUEVES RESISTE" and pigeons on ground in front
   - src: picture_5.png
-    alt: Abriendo Caminos / La Comunitaria TV
+    alt: Blurred action shot of person in white shirt spray painting graffiti on yellow and blue wall
 dateRange:
   from: 2010-12-07T18:00
   to: 2010-12-07T20:00

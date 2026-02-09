@@ -2,11 +2,11 @@
 title: n.e.w.s. paid usership
 images:
   - src: top-color5.png
-    alt: n.e.w.s. paid usership
+    alt: Retro media artwork with text Offrez-Vous Le Nouveau Top-Color 5; old television screen imagery
   - src: logo.png
-    alt: n.e.w.s. paid usership
+    alt: Colored block logo with red, blue, yellow, and green squares labeled NORTH EAST WEST SOUTH
   - src: godard-caption2.jpg
-    alt: n.e.w.s. paid usership
+    alt: Jean-Luc Godard photograph with blue pixelated text overlay reading Television viewers ought to be paid to watch television
 dateRange:
   from: 2010-03-30T18:00
   to: 2010-03-30T20:00

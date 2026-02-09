@@ -2,17 +2,17 @@
 title: In Ithaca We Trust
 images:
   - src: hourpile2.jpg
-    alt: In Ithaca We Trust
+    alt: Collection of Ithaca Hours local currency bills in various colorful denominations (quarter hour, eighth hour, etc.) arranged overlapping to display designs and portraits
   - src: paultiedyebigcrop.png
-    alt: In Ithaca We Trust
+    alt: Portrait photograph of Paul Glover, founder of Ithaca Hours local currency system
   - src: ithpowercover.jpg
-    alt: In Ithaca We Trust
+    alt: Book cover titled Ithaca Power with illustration of people, wind turbine, tree, and building on tan background by Paul Glover
   - src: book.jpg
-    alt: In Ithaca We Trust
+    alt: Book cover with yellow background showing Health Democracy text and sun logo, Liberating Americans from Medical Insurance by Paul Glover
   - src: labornote.jpg
-    alt: In Ithaca We Trust
+    alt: Historical labor note showing Three Hours Labour in Carpenter's Work with ornate frame, Justice label, and text Sample Labor Note
   - src: gjp.jpg
-    alt: In Ithaca We Trust
+    alt: Book cover with green background reading Green Jobs Philly about 100,000 new jobs to rebuild Philadelphia neighborhoods and clean environment by Paul Glover
 dateRange:
   from: 2011-07-19T18:00
   to: 2011-07-19T20:00

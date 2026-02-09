@@ -2,9 +2,9 @@
 title: Plausible Artworlds @ Creative Time Summit
 images:
   - src: sholette2x.jpg
-    alt: Plausible Artworlds @ Creative Time Summit
+    alt: Man speaking at podium with microphone during Creative Time Summit presentation
   - src: summitsplash.jpg
-    alt: Plausible Artworlds @ Creative Time Summit
+    alt: Creative Time Summit promotional poster with red text reading Revolutions in Public Practice
 dateRange:
   from: 2010-10-09T09:30
   to: 2010-10-10T18:30

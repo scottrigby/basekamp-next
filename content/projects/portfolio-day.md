@@ -5,13 +5,13 @@ location: The University of the Arts, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: 4.instal_0.jpg
-    alt: Portfolio Day
+    alt: Gallery installation with tables, red chairs, and filing boxes. Walls display grids of framed documents in red and blue. Wall clocks and potted palm plants are positioned at intervals.
   - src: cam.jpg
-    alt: Portfolio Day
+    alt: View through a video camera viewfinder showing two men seated at a table with a blue tablecloth, one drinking from a cup.
   - src: from-pdf.jpg
-    alt: Portfolio Day
+    alt: Three-panel composite showing a man gesturing near red-framed documents, two men seated at an information table, and a close-up of a blue-framed document showing UCLA MFA program details.
   - src: questionnaire.jpg
-    alt: Portfolio Day
+    alt: Two men in suits seated at an information table with coffee cups, a candy bowl, questionnaires, and green pens, appearing as official representatives.
 dateRange:
   from: 1999-10-01
   to: 1999-10-31

@@ -2,13 +2,13 @@
 title: Internacional Errorista
 images:
   - src: errorists1.jpg
-    alt: Internacional Errorista
+    alt: Street action photograph of people holding a banner reading ERRORISTAS
   - src: errorist.jpg
-    alt: Internacional Errorista
+    alt: Art gallery installation with red velvet stage curtains, black and white wall figures, and white sculptures
   - src: 4838021354_1dff9c5b14_b.jpg
-    alt: Internacional Errorista
+    alt: Gallery installation with illuminated speech bubbles on red wires, glowing white circles, figure portrait, and small illustrated figures on dark background
   - src: etcetera-frente.jpg
-    alt: Internacional Errorista
+    alt: Black and white promotional image with Etcetera text in large letters and grid of photographs showing street actions, performers, and ERRORISTAS banner
 dateRange:
   from: 2010-09-14T18:00
   to: 2010-09-14T20:00

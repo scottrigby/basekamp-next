@@ -2,11 +2,11 @@
 title: "Potluck chat: x-marks artbetween & CACN"
 images:
   - src: gao600.jpg
-    alt: "Potluck chat: x-marks artbetween & CACN"
+    alt: "Two men in black caps and blazers posing with bronze sculptures, professional studio photography with gray background"
   - src: call.gif
-    alt: "Potluck chat: x-marks artbetween & CACN"
+    alt: "Call For Submissions announcement graphic for Break on Through to the Other Side showing artbetween and China Art Criticism Network event, Berlin Wall with crowds and colorful graffiti, November 2009"
   - src: colmar.jpg
-    alt: "Potluck chat: x-marks artbetween & CACN"
+    alt: "Statue of Liberty replica in traffic roundabout surrounded by vehicles and commercial buildings, overcast sky, green grass landscaping"
 dateRange:
   from: 2009-10-13T18:00
   to: 2009-10-13T20:00

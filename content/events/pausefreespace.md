@@ -2,23 +2,23 @@
 title: PAUSE/Freespace
 images:
   - src: freespace_pause_image.jpg
-    alt: PAUSE/Freespace
+    alt: Tags hanging on chain-link fence with handwritten text about Poughkeepsie and feelings attached with red and blue cord
   - src: dsc0004_2.jpg
-    alt: PAUSE/Freespace
+    alt: Red and white metal soccer goal frame with net installed in grassy area with brick buildings in background
   - src: greta1.jpg
-    alt: PAUSE/Freespace
+    alt: Collection of colorful mutant vehicles and modified tricycles including pink and green converted vehicle with sidecar in urban lot
   - src: pauselab.png
-    alt: PAUSE/Freespace
+    alt: Urban lot with large brick building wall, parked cars, and overgrown grass
   - src: 1_2.jpg
-    alt: PAUSE/Freespace
+    alt: Aerial view from airplane showing white cube-shaped object floating above vast urban cityscape landscape
   - src: 5828780714_645ed4b816_o.jpg
-    alt: PAUSE/Freespace
+    alt: Three-dimensional geometric sculptural structure with red and white panels and white frame standing in grassy area between brick buildings with Member sign visible
   - src: ihavenohometocallmyown.jpg
-    alt: PAUSE/Freespace
+    alt: Cream-colored upholstered armchair sitting abandoned in empty paved lot next to dirt pile with power lines and distant buildings visible
   - src: weedwalk_33vacant.jpg
-    alt: PAUSE/Freespace
+    alt: Two people walking through chain-link gate into overgrown vacant lot bordered by brick buildings and power lines
   - src: 01_prima2.jpg
-    alt: PAUSE/Freespace
+    alt: Black and white nighttime photograph of circular kiosk structure with illuminated building in background and parked cars
 dateRange:
   from: 2011-08-09T18:00
   to: 2011-08-09T20:00

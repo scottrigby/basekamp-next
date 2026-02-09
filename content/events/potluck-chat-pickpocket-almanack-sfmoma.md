@@ -2,7 +2,7 @@
 title: "Potluck chat: Pickpocket Almanack @ SFMoMA"
 images:
   - src: pickpocket-almanack-screengrab.png
-    alt: "Potluck chat: Pickpocket Almanack @ SFMoMA"
+    alt: "Website screengrab for Pickpocket Almanack project in blue text describing A Bay-Area wide compendium Autumn of the year 2009 experimental school-without-walls, surrounded by faculty biographies of Les Blank Jens Hoffmann and others with Sign Up button"
 dateRange:
   from: 2009-09-15T18:00
   to: 2009-09-15T20:00

@@ -2,7 +2,7 @@
 title: "Potluck chat: Eighteen Thirty"
 images:
   - src: dsc03816.jpg
-    alt: "Potluck chat: Eighteen Thirty"
+    alt: "Nighttime rooftop dinner event with long tables lit by candles, wine bottles and food, many guests seated and standing, urban buildings visible in dark background"
 dateRange:
   from: 2009-10-27T18:00
   to: 2009-10-27T20:00

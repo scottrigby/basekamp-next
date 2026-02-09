@@ -5,11 +5,11 @@ location: Project Room, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: video-loading-image.jpg
-    alt: Building Paranoia
+    alt: Video still showing gallery visitors mingling in a simulated exhibition space with large windows displaying composite views of a cityscape, created using green-screen technology.
   - src: close-up-video.jpg
-    alt: Building Paranoia
+    alt: Green gallery wall with small framed photographs arranged horizontally, and a monitor displaying video footage of people in a gallery space.
   - src: north-wall.jpg
-    alt: Building Paranoia
+    alt: Gallery installation with bright green walls, small framed photographs arranged in a horizontal line, and a doorway at floor level.
 dateRange:
   from: 2001-05-01
   to: 2001-06-15

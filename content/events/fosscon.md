@@ -2,17 +2,17 @@
 title: FOSSCON
 images:
   - src: current.png
-    alt: FOSSCON
+    alt: Software Wars diagram showing connections between proprietary software companies and free open source alternatives
   - src: 4717012143_8206068c53.jpg
-    alt: FOSSCON
+    alt: Group of people seated in rows attending presentation at FOSSCON conference event
   - src: 4715809219_88a3a027c3_b.jpg
-    alt: FOSSCON
+    alt: FOSSCON banner with white text on dark background displayed at conference
   - src: 4716975845_6563fc9377_b.jpg
-    alt: FOSSCON
+    alt: Attendees gathered around wooden tables with laptops during FOSSCON workshop with brick wall backdrop
   - src: 3679787014_cc56400c38.jpg
-    alt: FOSSCON
+    alt: Close-up photograph of vintage computer hardware connector port
   - src: 4717286265_0d9a249623_z.jpg
-    alt: FOSSCON
+    alt: Man wearing glasses using laptop at FOSSCON conference with attendees in background
 dateRange:
   from: 2011-07-23T10:00
   to: 2011-07-23T18:00

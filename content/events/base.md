@@ -2,9 +2,9 @@
 title: The Base
 images:
   - src: img_1743.jpg
-    alt: The Base
+    alt: Group of people gathered outdoors in park holding papers during community discussion
   - src: base_logo_final_blk.jpg
-    alt: The Base
+    alt: The Base logo with geometric white lines and red bar on black background
 dateRange:
   from: 2012-09-19T18:00
   to: 2012-09-19T20:00

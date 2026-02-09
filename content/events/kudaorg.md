@@ -2,17 +2,17 @@
 title: kuda.org
 images:
   - src: cd_jux2.png
-    alt: kuda.org
+    alt: Colorful illustration of a globe with cartoon figures around it and a street car; labeled selbrstartende Linux CD-ROM
   - src: redtours1sm.jpg
-    alt: kuda.org
+    alt: Photograph looking up at a large bronze monumental statue with flowing draped fabric against blue sky
   - src: vallen_whatever_happened.gif
-    alt: kuda.org
+    alt: Comic book style illustration with speech bubbles saying Whatever Happened to the Future
   - src: cosmopolities_01.jpg
-    alt: kuda.org
+    alt: Black star on gray background with repeated light gray text including words like HAPPY, HERO, HONOR, LIGHT
   - src: img_1521_0.jpg
-    alt: kuda.org
+    alt: Three printed publications titled "kontakt" in different colored letters displayed on black tablets with visible text content
   - src: izostavljena_logo.jpg
-    alt: kuda.org
+    alt: Text logo reading "izostavljena/omitted history" in white letters on black background
 dateRange:
   from: 2010-11-30T18:00
   to: 2010-11-30T20:00

@@ -5,15 +5,15 @@ location: Morris Gallery, PAFA Museum, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: 600trim-eakins.jpg
-    alt: Dirty Deeds (re)Done Dirt Cheap
+    alt: Realistic wax sculpture of a bearded man's head and shoulders displayed on a counter, resembling a museum figure.
   - src: 600MVC-016S.jpg
-    alt: Dirty Deeds (re)Done Dirt Cheap
+    alt: People installing a white tent-like structure inside a museum gallery, with one person on a ladder working on the interior.
   - src: retro-history-poster.jpg
-    alt: Dirty Deeds (re)Done Dirt Cheap
+    alt: Exhibition poster featuring a bear pulling back a red curtain, with text 'dirty deeds (re)done dirt cheap' and artist names Leigh Stevens, Scott Rigby, Justin Matherly, David Dempewolf.
   - src: TENTY.jpg
-    alt: Dirty Deeds (re)Done Dirt Cheap
+    alt: Visitors standing outside an illuminated white tent structure installed inside a dark museum gallery space.
   - src: h.JPG
-    alt: Dirty Deeds (re)Done Dirt Cheap
+    alt: Translucent white tent structure glowing from within, showing silhouettes of people interacting inside the installation.
 dateRange:
   from: 2001-11-30
   to: 2002-02-02

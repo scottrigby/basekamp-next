@@ -5,13 +5,13 @@ location: Arcadia University Art Gallery, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: thumb-135.jpg
-    alt: Failed Attempt At Shameless Self Promotion
+    alt: Grainy video still of several men giving thumbs-up gestures in a dimly lit room.
   - src: p1-larger.jpg
-    alt: Failed Attempt At Shameless Self Promotion
+    alt: Framed document page with typed text describing an encounter with Vito Acconci, accompanied by three video stills of the artist at the bottom.
   - src: p2-larger.jpg
-    alt: Failed Attempt At Shameless Self Promotion
+    alt: Framed document page with typed text about meeting Kiki Smith, with two very dark photographs at the bottom showing the encounter.
   - src: p3-larger.jpg
-    alt: Failed Attempt At Shameless Self Promotion
+    alt: Framed document page with typed text about meeting Sol LeWitt, accompanied by two photographs showing the elderly artist shaking hands with younger men.
 dateRange:
   from: 1999-01-01
   to: ""

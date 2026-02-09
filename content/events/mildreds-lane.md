@@ -2,23 +2,23 @@
 title: Mildred's Lane
 images:
   - src: dion_sketch.gif
-    alt: Mildred's Lane
+    alt: Hand-drawn sketch showing signpost with directional signs to London, Mildred's Lane, New York, and Basel; birds and bicycle wheel at base
   - src: 3806666946_ee655f0970.jpg
-    alt: Mildred's Lane
+    alt: Rustic wooden cabin at Mildred's Lane with stone foundation, white laundry hanging on porch, wooden chairs, and people on the lawn
   - src: free_pesto01.jpg
-    alt: Mildred's Lane
+    alt: Person preparing food in a kitchen with large windows and bowls of fresh greens and salad ingredients on table
   - src: tent1.jpg
-    alt: Mildred's Lane
+    alt: Glamping canvas tent setup at Mildred's Lane showing interior furnishings and outdoor seating area
   - src: 3805994183_bd8d706306.jpg
-    alt: Mildred's Lane
+    alt: Taxidermied animal standing on stacked books in an interior library setting
   - src: 3805925995_3899c0dccf.jpg
-    alt: Mildred's Lane
+    alt: Group of people inside wooden structure at dusk holding wine glasses with bottles on table
   - src: 3805915459_2d4977627b.jpg
-    alt: Mildred's Lane
+    alt: Mildred's Lane evening gathering with participants in indoor setting
   - src: 3805884911_9cd01a7aa8.jpg
-    alt: Mildred's Lane
+    alt: Mildred's Lane communal gathering with participants
   - src: jmp_broom_3.jpg
-    alt: Mildred's Lane
+    alt: Interior rustic space with exposed wooden ceiling beams, rocking chairs, artwork on walls, and warm evening lighting
 dateRange:
   from: 2010-12-14T18:00
   to: 2010-12-14T20:00

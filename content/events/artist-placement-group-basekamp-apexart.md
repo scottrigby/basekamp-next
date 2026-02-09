@@ -2,11 +2,11 @@
 title: Artist Placement Group (@ Basekamp & Apexart)
 images:
   - src: apg.jpg
-    alt: Artist Placement Group (@ Basekamp & Apexart)
+    alt: Historical photograph of Artist Placement Group panel discussion with five people seated at table with "apg" text visible on wall behind them
   - src: slide19.jpg
-    alt: Artist Placement Group (@ Basekamp & Apexart)
+    alt: Overhead view of presentation or workshop setup with people seated at tables, central desk with equipment, and video cameras on tripods
   - src: slide40.jpg
-    alt: Artist Placement Group (@ Basekamp & Apexart)
+    alt: Wide panoramic photograph showing two conference tables with approximately 15 participants seated for discussion, posters on walls including one labeled "COM-COM" with photos
 dateRange:
   from: 2010-02-16T18:00
   to: 2010-02-16T20:00

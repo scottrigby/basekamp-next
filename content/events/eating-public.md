@@ -2,23 +2,23 @@
 title: Eating in Public
 images:
   - src: 2651_74825484898_732739898_2328830_4808758_n.jpg
-    alt: Eating in Public
+    alt: Concrete block tower structure with FREE sign in outdoor public space
   - src: 2651_74810604898_732739898_2328421_1591262_n.jpg
-    alt: Eating in Public
+    alt: Coconuts with drawn faces on grass next to FREE NUTS sign
   - src: 2651_74810634898_732739898_2328426_4963516_n.jpg
-    alt: Eating in Public
+    alt: Wooden box painted with red text reading dollar sign zero FREE MONEY BOX
   - src: 2651_74810599898_732739898_2328420_1343892_n.jpg
-    alt: Eating in Public
+    alt: Collection of toys and objects on grass with sign about unwanted gifts and free store solution
   - src: 2651_74810624898_732739898_2328425_2069607_n.jpg
-    alt: Eating in Public
+    alt: Outdoor shelf display with FREE STORE sign containing various items and stuffed animals
   - src: 2651_74812089898_732739898_2328514_8949_n.jpg
-    alt: Eating in Public
+    alt: Red and black gardening containers with seedlings arranged on grass
   - src: 2651_74813709898_732739898_2328561_125802_n.jpg
-    alt: Eating in Public
+    alt: Cardboard box with FREE text and anti-capitalism project label on grass
   - src: 2651_74825489898_732739898_2328831_6609689_n.jpg
-    alt: Eating in Public
+    alt: Papaya seedlings on grass with sign marking anti-capitalism project
   - src: 2651_74825504898_732739898_2328834_7399955_n.jpg
-    alt: Eating in Public
+    alt: Large crowd of people seated at tables dining indoors at community meal event with FEAST signage
 dateRange:
   from: 2010-08-24T18:00
   to: 2010-08-24T20:00

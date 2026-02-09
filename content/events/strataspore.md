@@ -2,31 +2,31 @@
 title: StrataSpore
 images:
   - src: john_cage_mainimage.jpg
-    alt: StrataSpore
+    alt: "Black and white historical photograph with text John Cage and Allan Kaprow met on a mushroom hunt showing person holding mushroom specimens"
   - src: img_3286.jpg
-    alt: StrataSpore
+    alt: "Repurposed yellow school bus structure positioned in outdoor garden surrounded by trees and vegetation"
   - src: img_2104.jpg
-    alt: StrataSpore
+    alt: "Mushroom specimen documentation photograph showing fungal growth"
   - src: img_3187.jpg
-    alt: StrataSpore
+    alt: "Mushroom identification documentation photo showing fungal specimen"
   - src: img_2024.jpg
-    alt: StrataSpore
+    alt: "Outdoor mushroom cultivation environment showing growth in natural setting"
   - src: mushroom131.jpg
-    alt: StrataSpore
+    alt: "Large public mushroom installation arranged in spiral pattern on grass in urban plaza with trees"
   - src: img_4743.jpg
-    alt: StrataSpore
+    alt: "Mushroom specimen documentation for identification and scientific study"
   - src: dscn1242.jpg
-    alt: StrataSpore
+    alt: "Mushroom field study or collection documentation photograph"
   - src: img_2009.jpg
-    alt: StrataSpore
+    alt: "Mushroom foraging documentation showing collected specimens"
   - src: dscn1900.jpg
-    alt: StrataSpore
+    alt: "Mushroom habitat documentation in natural environment"
   - src: photo2.jpg
-    alt: StrataSpore
+    alt: "Edible mushroom preparation showing sliced specimens on cutting board"
   - src: sweettooth1.jpg
-    alt: StrataSpore
+    alt: "Sliced golden-colored edible mushroom specimens on wooden cutting board with knife"
   - src: img_2716.jpg
-    alt: StrataSpore
+    alt: "Mushroom documentation photograph for StrataSpore collective knowledge platform"
 dateRange:
   from: 2010-10-05T18:00
   to: 2010-10-05T20:00

@@ -2,11 +2,11 @@
 title: "Potluck Chat: Patrick Lichty"
 images:
   - src: lichty0.jpg
-    alt: "Potluck Chat: Patrick Lichty"
+    alt: "Virtual avatar character from Second Life wearing sunglasses with beige colored head in digital gallery or storefront environment"
   - src: lichty1.jpg
-    alt: "Potluck Chat: Patrick Lichty"
+    alt: "Black and white portrait photograph of man with glasses and curly dark hair against white background"
   - src: lichty2.jpg
-    alt: "Potluck Chat: Patrick Lichty"
+    alt: "Person presenting at event with projection screen in background showing image, yellow flowers in foreground, indoor venue with green plants"
 dateRange:
   from: 2009-12-08T20:00
   to: 2009-12-08T22:00

@@ -2,21 +2,21 @@
 title: E.A.T. (Experiments in Art and Technology)
 images:
   - src: img53.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Cover of E.A.T. NEWS Volume 1 No. 1 from January 15 1967 with organization description
   - src: img20.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Black and white photograph of large crowd gathered around truck inside arched tunnel
   - src: img22.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Blurred photograph of people in darkness with light projections and experimental lighting effects
   - src: img62.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Atmospheric photograph of tall metal structure standing in heavy fog
   - src: img65.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Black and white photograph of large geodesic dome structure with crowd gathered underneath
   - src: img70.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Interior photograph of people gathered inside large dome structure for event or performance
   - src: img85.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Technical diagram showing environmental systems and connections in network structure
   - src: img86_0.png
-    alt: E.A.T. (Experiments in Art and Technology)
+    alt: Hand-drawn map with green markings annotations and various geographical notations
 dateRange:
   from: 2010-08-10T18:00
   to: 2010-08-10T20:00

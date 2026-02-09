@@ -2,13 +2,13 @@
 title: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
 images:
   - src: v7_4.jpg
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: 3D rendered view of plaza and building in Betaville digital platform with dinner theatre proposal options
   - src: v14.11.png
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: "3D aerial map interface of Battery Park showing Liberty Piers project with yellow markers; designed by Lewis Beyes"
   - src: c3.png
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: 3D urban street scene with colorful LED display sign on modern buildings from Betaville interface
   - src: master_2_creation3.jpg
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: 3D architectural rendering of abstract colorful blocks installation on building facade
 dateRange:
   from: 2010-05-18T18:00
   to: 2010-05-18T20:00
@@ -32,6 +32,6 @@ Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp�
 
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")
 
-| Attachment                                                                                                                                                                                                                                                         | Size    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| Attachment                                                                                                                                                                                | Size    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [Skype chat transcript](/files/chat-beyond-participation-toward-massively-collaborative-worlds-of-art.html "chat-beyond-participation-toward-massively-collaborative-worlds-of-art.html") | 47.4 KB |

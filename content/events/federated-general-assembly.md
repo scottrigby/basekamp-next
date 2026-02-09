@@ -2,33 +2,33 @@
 title: Federated General Assembly
 images:
   - src: fga-crop-network.png
-    alt: Federated General Assembly
+    alt: Network diagram showing interconnected nodes with bidirectional arrows representing distributed communication connections
   - src: fga-10.png
-    alt: Federated General Assembly
+    alt: Hierarchical diagram showing Commons, Groups, Projects and People, and Public faces icons connected by an orange arc labeled All have Public faces
   - src: fga-11.png
-    alt: Federated General Assembly
+    alt: Organizational structure diagram with icons and text
   - src: fga-12.png
-    alt: Federated General Assembly
+    alt: Presentation slide with conceptual information about Federated General Assembly structure
   - src: fga-13.png
-    alt: Federated General Assembly
+    alt: Diagram showing interconnected groups of people and projects with text explaining how more people and groups multiply, form clusters, and handle disruption and trouble
   - src: fga-14.png
-    alt: Federated General Assembly
+    alt: Diagram showing FGA platform with groups, projects, decision summary panel, temperature check indicator, and peer decision-making features
   - src: fga-16.png
-    alt: Federated General Assembly
+    alt: Network flow diagram showing people work on Projects in Groups with labeled relationship arrows for associate, delegate, like, refer, member, and sponsor support functions
   - src: fga-15.png
-    alt: Federated General Assembly
+    alt: "Complex diagram titled It's Made of People showing isolation target, education target, and support/empower target with figures and annotated discussions about movement dynamics"
   - src: fga-1.png
-    alt: Federated General Assembly
+    alt: Hand-drawn sketch of two figures on a seesaw with speech bubbles containing geometric shapes above them
   - src: fga-2.png
-    alt: Federated General Assembly
+    alt: Hand-drawn sketch showing three stacked red squares or platforms labeled Square with geometric layering
   - src: fga-3.png
-    alt: Federated General Assembly
+    alt: Hand-drawn sketch showing profile outline of human head with blue and gray sections representing different areas
   - src: fga-4.png
-    alt: Federated General Assembly
+    alt: Hand-drawn diagram showing circles connected by arrows labeled Stokes with question mark illustrating decision-making flow
   - src: fga-5.png
-    alt: Federated General Assembly
+    alt: Hand-drawn sketch showing labeled elements of Occupation, GA, Spork, group, and cluster arranged in circular pattern with people figures
   - src: fga-6.png
-    alt: Federated General Assembly
+    alt: Diagram illustrating Federated General Assembly platform features
 dateRange:
   from: 2012-01-10T18:00
   to: 2012-01-10T20:00
@@ -65,6 +65,6 @@ Follow Basekamp:
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                                                                                                                              | Size    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Attachment                                                                                     | Size    |
+| ---------------------------------------------------------------------------------------------- | ------- |
 | [FGA unconference slideshow](/files/fga-mtm-slideshow-01.03.pdf "fga-mtm-slideshow-01.03.pdf") | 3.47 MB |

@@ -2,13 +2,13 @@
 title: Centro de Investigaciones Artisticas
 images:
   - src: 91fd1849d9cafdde.jpg
-    alt: Centro de Investigaciones Artisticas
+    alt: Hole in concrete wall with Arabic text and layers of debris visible through opening
   - src: a4e43982b39050ec.jpg
-    alt: Centro de Investigaciones Artisticas
+    alt: Man from behind in white clothing holding small potted plant on vast desert playa with mountains
   - src: 3ca72be17ec00fde.jpg
-    alt: Centro de Investigaciones Artisticas
+    alt: Man with glasses and long dark hair in blue shirt gesturing while speaking against blue wall
   - src: e1ec49973597dd7b.jpg
-    alt: Centro de Investigaciones Artisticas
+    alt: Group of young adults posing together in white gallery studio space with exposed ceiling
 dateRange:
   from: 2010-07-20T18:00
   to: 2010-07-20T20:00

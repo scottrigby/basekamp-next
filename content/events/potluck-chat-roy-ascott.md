@@ -2,7 +2,7 @@
 title: "Potluck chat: Roy Ascott"
 images:
   - src: ascott_md.jpg
-    alt: "Potluck chat: Roy Ascott"
+    alt: "Book cover for Telematic Embrace by Roy Ascott with subtitle Visionary Theories of Art Technology and Consciousness edited by Edward A. Shanken, featuring colorful abstract background in pink orange and purple with geometric lines"
 dateRange:
   from: 2009-11-10T18:00
   to: 2009-11-10T20:00

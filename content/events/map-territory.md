@@ -2,7 +2,7 @@
 title: The Map in a Territory
 images:
   - src: routine1.png
-    alt: The Map in a Territory
+    alt: Geographic land mass and coastline silhouette in bright orange against white background with diagonal hatched pattern on left side
 dateRange:
   from: 2011-07-26T18:00
   to: 2011-07-26T20:00

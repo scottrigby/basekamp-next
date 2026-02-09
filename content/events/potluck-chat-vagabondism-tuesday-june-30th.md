@@ -2,7 +2,7 @@
 title: "Potluck chat: Vagabondism Tuesday June 30th"
 images:
   - src: citroencityrama_resized.jpg
-    alt: "Potluck chat: Vagabondism Tuesday June 30th"
+    alt: "Two-level red and cream Citroen Cityrama tour bus with extensive glass windows and open roof, photographed against desert landscape with purple sunset sky, iconic double-decker sightseeing vehicle design"
 dateRange:
   from: 2009-06-30T18:00
   to: 2009-06-30T23:00

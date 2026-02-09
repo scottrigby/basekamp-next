@@ -5,17 +5,17 @@ location: Basekamp, Philadelphia
 attribution: Gavin Wade & Liam Gillick
 images:
   - src: strike-card-front.gif
-    alt: STRIKE
+    alt: Dense typographic poster listing hundreds of artist names in red and black text, formatted as a roster of participants in the STRIKE exhibition.
   - src: STRIKE-installation-view-sm.jpg
-    alt: STRIKE
+    alt: Gallery installation with large text panels and posters mounted on white walls, red accent strips, and red chairs for visitors to sit and read.
   - src: strike-3.jpg
-    alt: STRIKE
+    alt: Gallery installation with freestanding text panels featuring red and white striped borders in a dark industrial space.
   - src: strike-4.jpg
-    alt: STRIKE
+    alt: Gallery view showing large purple and magenta graphic panels with 'The Copenhagen Free University' text visible.
   - src: strike-5.jpg
-    alt: STRIKE
+    alt: Freestanding panel with red striped border displaying a grid of text in a dark gallery space.
   - src: bignothing_128.gif
-    alt: STRIKE
+    alt: Logo for 'The Big Nothing' showing yellow rays emanating from blue stylized text.
 dateRange:
   from: 2004-07-09
   to: 2004-08-20

@@ -2,23 +2,23 @@
 title: Sunday Soup
 images:
   - src: 2289401243_bd5d64d08b_b.jpg
-    alt: Sunday Soup
+    alt: Bowl of soup garnished with fresh cilantro leaves on light background
   - src: 2508443811_dea5264d74_b.jpg
-    alt: Sunday Soup
+    alt: Bowl of bright orange tomato soup in green bowl with fresh herb garnish and white ladle visible
   - src: 2809021657_008481c4da_b.jpg
-    alt: Sunday Soup
+    alt: Pink or coral colored beverage in glass with fresh mint leaves as garnish
   - src: 2836798561_f7395a64b5_b.jpg
-    alt: Sunday Soup
+    alt: Large pot of vegetable soup with carrots, greens, corn, and other ingredients cooking on stove
   - src: 2836800289_bac7bfd340_b.jpg
-    alt: Sunday Soup
+    alt: Group of people sitting and conversing with food and drinks on low table in blue-walled interior space
   - src: 2836804157_7b5a85227a_b.jpg
-    alt: Sunday Soup
+    alt: People gathered around table eating during Sunday Soup event in wooden-framed space with books on shelves
   - src: 2837634274_53ac6ed66e_b.jpg
-    alt: Sunday Soup
+    alt: Presentation projection showing Brains Brilliancy Bohemia Art and Politics in Jazz-Age Chicago with colorful papel picado decorations
   - src: 2837634846_a5d785a943_b.jpg
-    alt: Sunday Soup
+    alt: Large group of people gathered around long table with food, plates, and drinks during community Sunday Soup meal
   - src: 3483425260_9c46fe70f5_b.jpg
-    alt: Sunday Soup
+    alt: People standing during Sunday Soup event with presentation and decorations visible in background
 dateRange:
   from: 2010-12-05T18:00
   to: 2010-12-05T20:00

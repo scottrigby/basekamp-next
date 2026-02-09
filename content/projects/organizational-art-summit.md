@@ -5,9 +5,9 @@ location: Liseleje, Denmark
 attribution: Basekamp (participant) learning lab denmark
 images:
   - src: thumb-135_3.jpg
-    alt: Organizational Art Summit
+    alt: Group photograph of Organizational Art Summit participants seated and standing outdoors in a wooded area, with Danish text "Eksperimentet Organisationen" visible at bottom
   - src: FULL-FRONT.jpg
-    alt: Organizational Art Summit
+    alt: Black angular geometric logo design with white pixelated text reading "A WALK IN THE WOODS" arranged in a black angular pattern
 dateRange:
   from: 2005-11-28
   to: ""

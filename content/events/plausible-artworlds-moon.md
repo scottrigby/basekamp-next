@@ -2,9 +2,9 @@
 title: Plausible Artworlds on the Moon
 images:
   - src: what-kind-of-place.jpg
-    alt: Plausible Artworlds on the Moon
+    alt: Detailed view of the moon's cratered surface against starry black space with text "What kind of place would this be without art?"
   - src: a-trip-to-the-moon-colour.jpg
-    alt: Plausible Artworlds on the Moon
+    alt: Hand-colored still from Georges Méliès' 1902 film "A Trip to the Moon" showing anthropomorphic moon face with rocket lodged in its eye
 dateRange:
   from: 2017-02-28T18:30
   to: 2017-02-28T20:30

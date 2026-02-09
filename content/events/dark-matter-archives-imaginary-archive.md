@@ -2,11 +2,11 @@
 title: Dark Matter Archives & Imaginary Archive
 images:
   - src: nobodyremembers.png
-    alt: Dark Matter Archives & Imaginary Archive
+    alt: Blue book cover with text "Nobody remembers everything"
   - src: anticat-cover-color.png
-    alt: Dark Matter Archives & Imaginary Archive
+    alt: Page showing anti-catalog definition and text about political statement regarding art neutrality
   - src: padd_archive_shelved.jpg
-    alt: Dark Matter Archives & Imaginary Archive
+    alt: Archive shelving with pink and brown labeled boxes organized on white metal shelving units
 dateRange:
   from: 2010-06-22T18:00
   to: 2010-06-22T20:00
@@ -46,6 +46,6 @@ Follow Plausible Artworlds:
  [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                                                                                            | Size    |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Attachment                                                   | Size    |
+| ------------------------------------------------------------ | ------- |
 | [archive.nz\_.zip](/files/archive.nz_.zip "archive.nz_.zip") | 4.61 MB |

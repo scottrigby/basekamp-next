@@ -2,7 +2,7 @@
 title: Potluck chat & Vagabondism Class- June 23rd
 images:
   - src: gmc-man.jpg
-    alt: Potluck chat & Vagabondism Class- June 23rd
+    alt: "Concept design illustration of futuristic GMC Motorhome mobile vehicle in white and dark gray with man in yellow jacket standing beside it"
 dateRange:
   from: 2009-06-23T18:00
   to: 2009-06-23T23:00

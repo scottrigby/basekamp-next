@@ -2,11 +2,11 @@
 title: Homeworks Forum
 images:
   - src: homeworksv.jpg
-    alt: Homeworks Forum
+    alt: Home 5 Works logo on bright green background with Arabic text
   - src: homeworks-plan.png
-    alt: Homeworks Forum
+    alt: Hand-drawn schematic diagram for Home Works Academy showing interconnected boxes with labels for Extension, Small Sustainable Core, Living, and Provisional sections
   - src: homeworks-graff.png
-    alt: Homeworks Forum
+    alt: Graphic design showing HOME WORKS in large white and black letters with Arabic text and pink graffiti-style marks over gray background
 dateRange:
   from: 2010-04-27T18:00
   to: 2010-04-27T20:00

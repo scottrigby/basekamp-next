@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia & Channel 23 Copenhagen
 attribution: tv-tv group
 images:
   - src: tv_noisex2_2.jpg
-    alt: tv-tv announcement image
+    alt: Two vintage CRT television monitors mounted side by side displaying blue static noise on wood-paneled wall
 dateRange:
   from: 2006-10-17
   to: 2006-10-19
