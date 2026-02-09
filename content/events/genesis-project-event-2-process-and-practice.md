@@ -8,22 +8,22 @@ dateRange:
   to: 2009-08-28T21:00
 ---
 
-**Friday, August 28th, 2009  
- 5 - 9 PM**  
+**Friday, August 28th, 2009\
+ 5 - 9 PM**\
  Genesis Project artists-in-residence present process and practice
 
-Free admission  
+Free admission\
  Meet the artists-in-residence, and other Basekampers!
 
-**Genesis Project artist residency:**  
- Fergus Byrne (Dublin, Ireland)  
- Meghan Flanigan (Baltimore)  
- Saul Melman (New York)  
+**Genesis Project artist residency:**\
+ Fergus Byrne (Dublin, Ireland)\
+ Meghan Flanigan (Baltimore)\
+ Saul Melman (New York)\
  Carlos Monroy (Bogota, Colombia)
 
-**Location**  
- Basekamp space  
- 723 Chestnut Street, 2nd floor  
+**Location**\
+ Basekamp space\
+ 723 Chestnut Street, 2nd floor\
  Philadelphia, Pennsylvania 19106
 
 Four artists will present a selection of creative anthropology after being immersed in a studio workshop environment for the month of August. Live performance will occur alongside documentation and artifacts produced by the artists.

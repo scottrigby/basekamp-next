@@ -24,11 +24,11 @@ What makes Orgacom’s plausible artworld compelling is that it boldly challenge
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")
 
-Join the Skype chat here:  
+Join the Skype chat here:\
  [http://bit.ly/dbxpXF](http://bit.ly/dbxpXF "http://bit.ly/dbxpXF")

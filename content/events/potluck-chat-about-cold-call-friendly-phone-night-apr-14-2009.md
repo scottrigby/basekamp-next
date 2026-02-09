@@ -14,7 +14,7 @@ Quick note about tonight’s potluck - a few people want to have a friendly chat
 
 Brief description of last Friday’s event below:
 
-> > COLD CALL FRIENDLY PHONE NIGHT  
+> > COLD CALL FRIENDLY PHONE NIGHT\
 > > AN ARTISTIC BRIDGE WHICH ATTEMPTS TO CONNECT FRIENDLY STRANGERS
 > >
 > > APRIL 10TH 2009 6:30 PST
@@ -30,10 +30,10 @@ Brief description of last Friday’s event below:
 > > 2. InCUBATE 2129 N Rockwell St, Chicago, Cook, Illinois 60647.
 > > 3. 4941 Pine St., Philadelphia PA 19143
 > >
-> > OR CALL Phone Number: (724) 444-7444  
+> > OR CALL Phone Number: (724) 444-7444\
 > > Call ID: 19198, and join as guest
 > >
-> > MORE INFORMATION AT  
+> > MORE INFORMATION AT\
 > > [http://generalprojects.blogspot.com](http://generalprojects.blogspot.com "http://generalprojects.blogspot.com")
 > >
 > > ORGANIZED BY MICHAEL G. BAUER, MATHEW TIMMONS AND INCUBATE
@@ -42,6 +42,6 @@ Brief description of last Friday’s event below:
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

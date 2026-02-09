@@ -26,8 +26,8 @@ TBT thus seeks to have both genuine use value in a geopolitical context where t
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck chat in person, be sure to bring a dish :)\
 Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 To join this week’s Potluck Chat:
@@ -37,6 +37,6 @@ To join this week’s Potluck Chat:
 - Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’
 - We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

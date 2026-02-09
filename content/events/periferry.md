@@ -20,7 +20,7 @@ This Tuesday is another event in a year-long series of weekly conversations and 
 
 This week we’ll be talking with Sonal Jain and Mriganka Madhukaillya of the Desire Machine Collective, who operate the Periferry project, an artist-led space situated on the M. V. Chandardinga, a ferry currently docked along the mighty Brahmaputra River in Guwahati, Assam, in the North East of India.
 
-[http://www.periferry.in/](http://www.periferry.in/ "http://www.periferry.in/")  
+[http://www.periferry.in/](http://www.periferry.in/ "http://www.periferry.in/")\
 [http://www.desiremachinecollective.net/](http://www.desiremachinecollective.net/ "http://www.desiremachinecollective.net/")
 
 To describe Periferry as a floating laboratory for generating hybrid practices, while very true, is to skip a little quickly to the point: it is first of all a 1950s era, former government-run ferry barge, entirely river-worthy despite a bit of rust and a half century of plying the somewhat treacherous waters of the Brahmaputra between Assam and West Bengal through Bangladesh. Like the river itself, the space and its activities provide a connective, border-defiant platform for dialogue across artistic, scientific, technological, and ecological modes of production and knowledge. Periferry regularly hosts art-related, on-deck conferences and debates, regular film screenings and is more generally a platform — a floating, diesel-powered and steel platform — for cross-disciplinary flux, exploring new constellations of artistic relationships that challenge traditional hierarchical and autocratic strategies, seeking above all to move away from the center-periphery dialectics to renegotiate the role of local in the global.
@@ -29,17 +29,17 @@ Collaborating since 2004 as Desire Machine Collective, Sonal Jain and Mriganka M
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’   
-If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’ \
+If you come to the potluck chat in person, be sure to bring a dish :)\
 Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 To join this week’s Potluck Chat:
 
-• Download from skype.com if you don’t already have it  
- • In Skype “Add a contact”: basekamp  
- • Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’  
+• Download from skype.com if you don’t already have it\
+ • In Skype “Add a contact”: basekamp\
+ • Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’\
  • We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

@@ -25,8 +25,8 @@ dateRange:
 
 For immediate release:
 
-Curatorial Market at Cuchifritos  
-September 7 - October 12  
+Curatorial Market at Cuchifritos\
+September 7 - October 12\
 Private view Saturday September 7, 4-6 pm
 
 Cuchifritos is proud to present ‘Curatorial Market’ a curatorial project devised by Swedish artist/curator Per Hüttner.
@@ -35,29 +35,29 @@ The work in the exhibition will be on display within and between Cuchifritos and
 
 Contemporary food markets offer visual, olfactory, cultural and culinary temptations/meetings from all over the world. Curatorial Market offers in a similar fashion an artistic smorgasbord where individual artistic projects overlap with curatorial endeavours to extend discussion on how consumer culture affects art and vice versa.
 
-Curatorial Market is a collaboration between Per Hüttner and the following artists/curators:  
+Curatorial Market is a collaboration between Per Hüttner and the following artists/curators:\
 Claire Canning - Barnaby Drabble - Grady Gerbracht - Tone Hansen - Tone O Nielsen - Patrick Bernier - Cesare PietroIusti - Max Presneill - Reid Shier - Gavin Wade
 
-Work on display by the following artists:  
+Work on display by the following artists:\
 Ross Sinclair - Giancarlo Norese - Richard Allalouf & Andy Cox - Arni Gudmundsson - Franco Angeloni - Marius Engh - Joan Jonas - Ellen Harvey - Ayreen Anastas - William Gerbracht - Mark Alan Stamaty - Joseph Krupczynski - Justin Spivey - Kevin Schmidt - Ludovic Burel - Rainer Ganahl - Claire Canning - Grady Gerbracht - Tone Hansen - Per Hüttner - Tone O Nielsen - Patrick Bernier - Cesare PietroIusti - Max Presneill - Reid Shier - Gavin Wade & Scott Rigby - Måns Malmborg.
 
-For more information about the project contact:  
-Per Hüttner: [pah@swipnet.se](mailto:pah@swipnet.se "mailto:pah@swipnet.se")  
-or  
+For more information about the project contact:\
+Per Hüttner: [pah@swipnet.se](mailto:pah@swipnet.se "mailto:pah@swipnet.se")\
+or\
 Paul Clay at Cuchifritos: [info@mail.fictive.net](mailto:info@mail.fictive.net "mailto:info@mail.fictive.net")
 
-CUCHIFRITOS and inside the Essex St. Food Market  
-120 Essex Street  
-New York, NY 10002  
-btwn Delancey and Rivington.  
-(Inside the Essex St. Food Market at south end of building)  
-Open Monday through Saturday, 12:00 noon to 5:30pm.  
+CUCHIFRITOS and inside the Essex St. Food Market\
+120 Essex Street\
+New York, NY 10002\
+btwn Delancey and Rivington.\
+(Inside the Essex St. Food Market at south end of building)\
+Open Monday through Saturday, 12:00 noon to 5:30pm.\
 [www.artistsai.org/cuchifritos](http://www.artistsai.org/cuchifritos "www.artistsai.org/cuchifritos")
 
 ### Exhibition review
 
-A Tasty Treat  
-By James Westcott  
+A Tasty Treat\
+By James Westcott\
 Zing Magazine 2002
 
 According to the work “Border NY Times 01-02” at Cuchifritos gallery in Essex Street Market, the word “Border” appeared in New York Times headlines 124 times between January 2001 and September 2002. The artist/compiler Burel simply printed out all the stories and bound them together in a book. Almost every article is about fighting over borders, strengthening borders, or panicking at the porousness of borders.

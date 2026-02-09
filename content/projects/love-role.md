@@ -23,12 +23,12 @@ dateRange:
   to: ""
 ---
 
-**The Telling of Beautiful Untrue Thangs or  
-How I Learned to Stop Worrying and Love the Role**  
-Leigh Stevens, Justin Matherly, David Dempewolf, & Scott Rigby  
-2000, ICA, Philadelphia PA  
-2000, The Galleries at Moore, Philadlephia PA  
-2001, The Butcher Shop, Chicago IL  
+**The Telling of Beautiful Untrue Thangs or\
+How I Learned to Stop Worrying and Love the Role**\
+Leigh Stevens, Justin Matherly, David Dempewolf, & Scott Rigby\
+2000, ICA, Philadelphia PA\
+2000, The Galleries at Moore, Philadlephia PA\
+2001, The Butcher Shop, Chicago IL\
 2003, International Arts Group Exposition, Portland OR
 
 Love The Role was an interactive video installation that explored the nature of artist stereotypes and the ways in which they are perpetuated and exacerbated by popular culture.

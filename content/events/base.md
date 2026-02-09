@@ -25,5 +25,5 @@ See you then!
 
 ### Follow Basekamp
 
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

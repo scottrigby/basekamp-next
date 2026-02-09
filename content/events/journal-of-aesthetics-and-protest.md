@@ -30,7 +30,7 @@ Both _The Journal of Aesthetics and Protest_ (editorial collective / periodical)
 
 During a [residency and exchange project](http://www.artleak.org/civicmatters/bio_aestheticsandprotest.html "http://www.artleak.org/civicmatters/bio_aestheticsandprotest.html") in 2006, the editors described the project:
 
-> Our magazine sits at the discursive juncture of fine art, media theory and anti-authoritarian activism.  We sculpt projects that challenge hegemonic representations (of knowledge, art, activism) or that spark situations for community-based social change or creation. We work collaboratively with individuals and collectives on several continents.   
+> Our magazine sits at the discursive juncture of fine art, media theory and anti-authoritarian activism.  We sculpt projects that challenge hegemonic representations (of knowledge, art, activism) or that spark situations for community-based social change or creation. We work collaboratively with individuals and collectives on several continents. \
 > The Journal of Aesthetics and Protests may be a  rare critical machine in that while it publishes critical theory, it has no ties to any academic or cultural institution. In spirit and practice, it has as much in common with Indymedia.org as it does with October.
 
 October magazine [describes](http://www.mitpressjournals.org/toc/octo/-/127 "http://www.mitpressjournals.org/toc/octo/-/127") JOAAP:
@@ -39,13 +39,13 @@ October magazine [describes](http://www.mitpressjournals.org/toc/octo/-/127 "htt
 
 ## More links
 
-The Journal’s website:  
+The Journal’s website:\
 [http://joaap.org/](http://joaap.org/ "http://joaap.org/")
 
-Dispatches from Occupy:  
+Dispatches from Occupy:\
 [http://joaap.org/webspecials/dispatches.html](http://joaap.org/webspecials/dispatches.html "http://joaap.org/webspecials/dispatches.html")
 
-A reflection on JOAAP and economies:  
+A reflection on JOAAP and economies:\
 [http://www.artandwork.us/2009/11/how-do-you-respond-to-the-economic-depr…](http://www.artandwork.us/2009/11/how-do-you-respond-to-the-economic-depressions-of-the-world/ "http://www.artandwork.us/2009/11/how-do-you-respond-to-the-economic-depressions-of-the-world/")
 
 ## Join us this Tuesday!
@@ -55,6 +55,6 @@ A reflection on JOAAP and economies:
 
 See you all then!
 
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

@@ -22,7 +22,7 @@ We’re taking this opportunity to review - at a kind of halfway point - the las
 
 See you all then!
 
-ICA, Philadelphia  
+ICA, Philadelphia\
 118 S. 36th St. Philadelphia, PA 19104-3289
 
 To join this week’s Potluck Chat online:
@@ -33,6 +33,6 @@ Download from skype.com if you don’t already have it
 - Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’
 - We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

@@ -70,7 +70,7 @@ We have a limited number of tables available for sponsors so please get in touch
 
 ## Location
 
-FOSSCON will take place at Basekamp’s Philadelphia space (the second floor), and also the JOG gallery (on the 4th floor) of 723 Chestnut Street, located in the middle of Center City Philadelphia. The building has bus, subway and NJ transit stops on our block, and only a few minutes walk from Market East Station and Greyhound bus terminal. See a map with directions here:  
+FOSSCON will take place at Basekamp’s Philadelphia space (the second floor), and also the JOG gallery (on the 4th floor) of 723 Chestnut Street, located in the middle of Center City Philadelphia. The building has bus, subway and NJ transit stops on our block, and only a few minutes walk from Market East Station and Greyhound bus terminal. See a map with directions here:\
 [http://maps.google.com/maps/place?q=basekamp&cid=15576003637506834736](http://maps.google.com/maps/place?q=basekamp&cid=15576003637506834736 "http://maps.google.com/maps/place?q=basekamp&cid=15576003637506834736")
 
 ## Questions?

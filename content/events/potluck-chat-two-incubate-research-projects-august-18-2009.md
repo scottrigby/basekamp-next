@@ -24,7 +24,7 @@ This summer Bryce, one of the members of InCUBATE, researched unconventional res
 
 **About Artiscycle, Christopher Kennedy’s research:**
 
-Artiscycle Platform: A portal for art groups and spaces. A tool for educators, artists and citizens.  
+Artiscycle Platform: A portal for art groups and spaces. A tool for educators, artists and citizens.\
 The Artiscycle platform will be a collaborative opensource database of artist spaces, groups and projects. The website will help participants understand the organizational models and modes of engagement used by art spaces and groups; a resource for educators, artists and citizens to collaborate and find inspiration for projects and learning strategies in their community.
 
 More here: [http://www.artiscycle.net/platform](http://www.artiscycle.net/platform "http://www.artiscycle.net/platform")
@@ -33,6 +33,6 @@ More here: [http://www.artiscycle.net/platform](http://www.artiscycle.net/platfo
 
 See you all Tomorrow!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

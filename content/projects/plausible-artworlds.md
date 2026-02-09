@@ -50,7 +50,7 @@ dateRange:
 
 **Week 39 – Sep 28:** [Ultra-red](/events/ultra-red)\
 **Week 38 – Sep 21:** [Groundswell Collective](/events/groundswell-collective)\
-**Week 37 – Sep 14:** [Internacional Errorista](/events/internacional-errorista)**  
+**Week 37 – Sep 14:** [Internacional Errorista](/events/internacional-errorista)**\
 **Week 36 – Sep 7:** [Post autonomy](/events/post-autonomy)
 
 **Week 35 – Aug 31:** [Sewing Rebellion](/events/sewing-rebellion)\
@@ -93,7 +93,7 @@ dateRange:
 
 **Week 4 – Jan 26:** [Continental Drift through the Midwest Radical Cultural Corridor](/events/continental-drift-through-midwest-radical-cultural-corridor)\
 **Week 3 – Jan 19:** [House Magic: The European squatted social centers movement](/events/house-magic-european-squatted-social-centers-movement)\
-**Week 2 – Jan 12:** [The Library Of Radiant Optimism For Let’s Remake The World  
+**Week 2 – Jan 12:** [The Library Of Radiant Optimism For Let’s Remake The World\
 ](/events/library-radiant-optimism-lets-re-make-world)\
 **Week 1 – Jan 5:** [The Public School and AAAARG.org](/events/public-school-and-aaaargorg)
 

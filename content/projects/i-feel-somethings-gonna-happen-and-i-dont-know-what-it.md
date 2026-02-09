@@ -15,10 +15,10 @@ dateRange:
 
 Press release
 
-(I feel like) Something’s gonna happen and I don’t know what it is  
-collaborative project by A Constructed World  
-paintings, digiprints, video, and events  
-(opening night performance, sleepover and breakfast in bed)  
+(I feel like) Something’s gonna happen and I don’t know what it is\
+collaborative project by A Constructed World\
+paintings, digiprints, video, and events\
+(opening night performance, sleepover and breakfast in bed)\
 May 11 2002
 
 A Constructed World Geoff Lowe and Jacqueline Riva began working collaboratively as A Constructed World in 1993 when they founded Artfan magazine. Lowe was trained in painting and art history and Riva in film and photography. Since then they have worked with video, photography, painting, publishing and events. Their projects seek to blur thresholds between sending and receiving and they have facilitated many collaborative workshops including people from varying backgrounds and practices, in New York, London and Melbourne, working with groups such as Wild Kingdom, Art Crew, Rosebud, KinK, Life with Us, Crack of Noon and have worked in collaboration with artist group DAMP. Lowe and Riva’s work has been shown in exhibitions including the first Kwangju Biennale 1995, Sao Paulo Bienal 1998 and Arte allArte in San Gimignano 2000 and will undertake a residency at the Serpentine Gallery in London in the summer of 2002.
@@ -37,7 +37,7 @@ Quotes
 
 -Roberto Pinto, former editor of Flash Art Italia and co-curator of the Italian pavilion in the Melbourne Biennale 1999 and assabone Milan 2002 and curator of Transforms in Trieste and Short Stories in Milan 2001.
 
-––––––––––––––––––––––––  
+––––––––––––––––––––––––\
 To interview the artists and for further information about A Constructed World publications contact BASEKAMP 215 592 7288 / or [scott@basekamp.com](mailto:scott@basekamp.com "mailto:scott@basekamp.com")
 
 BASEKAMP is a non-commercial studio and exhibition space, which participates in the creation, facilitation, and promotion of collaborative projects by contemporary artists

@@ -24,18 +24,18 @@ FEAST emerged in Brooklyn in February 2009, inspired by Incubate Chicago’s Sun
 
 All too often “tactics” are considered situational rather than sustainable. But an artworld economy, if it is to be truly plausible needs to embody sustainable tactics. How does FEAST fulfill the mandate stated in its name? To address that broad question in practical terms, Tuesday’s potluck conversation will also double as a practical organizing session — part of an ongoing conversation about shaping a “FEAST in Philly”. What does Philadelphia need? What existing structures can be built on? What can Philadelphia learn from other models? What are the unique characteristics of Philadelphia that will form its own model? Who will be involved? How does Philadelphia define community? What will Philadelphia support? How will proposals be directed or selected? And beyond Philadelphia, can this kind of a conversation spark similar initiatives in similar communities?
 
-More info:  
+More info:\
  [http://feastinbklyn.org/](http://feastinbklyn.org/ "http://feastinbklyn.org/")
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
-Click to join this week’s Potluck Chat on Skype:  
+Click to join this week’s Potluck Chat on Skype:\
  [http://bit.ly/b2dAEW](http://bit.ly/b2dAEW "http://bit.ly/b2dAEW")
 
-Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

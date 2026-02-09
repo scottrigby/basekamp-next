@@ -29,6 +29,6 @@ We will be online live from Occupy Philadelphia and Occupy Chicago, creating an 
 
 See you all then!
 
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

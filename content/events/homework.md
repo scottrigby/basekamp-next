@@ -32,7 +32,7 @@ This Tuesday we’ll be talking with Justin Langlois and his collaborators at Br
 
 HOMEWORK’s audience included artists, scholars, writers, thinkers, and doers interested in any or all of the above. The residency was populated by artists, planners, and writers from a diversity of practices and cities who decided to collaborate together in some way during the first part of the residency. The conference was then free to attend and also recorded and broadcast on Livestream. Audience members were encouraged to donate their notes from the conference presentations to help create a collaboratively written publication. In addition, three keynote speakers (who should be familiar to regular Basekamp potluck attendees) made presentations of their work on the first evening and helped to lead open discussions the second conference day. The keynote presenters were Gregory Sholette, Marisa Jahn, and Temporary Services.
 
-[http://www.brokencitylab.org/homework/](http://www.brokencitylab.org/homework/ "http://www.brokencitylab.org/homework/")  
+[http://www.brokencitylab.org/homework/](http://www.brokencitylab.org/homework/ "http://www.brokencitylab.org/homework/")\
 [http://www.livestream.com/brokencitylab](http://www.livestream.com/brokencitylab "http://www.livestream.com/brokencitylab") (archival footage from conference)
 
 ## Join us this Tuesday
@@ -42,6 +42,6 @@ HOMEWORK’s audience included artists, scholars, writers, thinkers, and doers i
 
 See you all then!
 
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

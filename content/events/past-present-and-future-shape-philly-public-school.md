@@ -14,7 +14,7 @@ This event will act as a planning session for the building of the Public School,
 
 Past, present and future of the Public School:  A look at notable courses taken place at  the various locations, present organization and infrastructure of school branches, future shape and approach of the Philly Public School.  It would also be good to be in conversation with a few facilitators from different locations.
 
-**Meeting will take place at Basekamp, Philly.**  
+**Meeting will take place at Basekamp, Philly.**\
 723 Cheestnut Street, 2nd floor, Philadelphia PA 19106
 
 **Free and open to the anyone interested.**

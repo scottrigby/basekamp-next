@@ -10,9 +10,9 @@ dateRange:
   to: 2010-09-07T20:00
 ---
 
-Hi Everyone,  
- This Tuesday is another event in a year-long series of weekly conversations and exhibits in 2010 shedding light on examples of Plausible Artworlds.  
- This week we’ll be talking with London-based artist David Goldenberg, who several years ago launched a website called “Post Autonomy”, which functions as a research platform into the concept and loose-knit movement of “postautonomous” art.  
+Hi Everyone,\
+ This Tuesday is another event in a year-long series of weekly conversations and exhibits in 2010 shedding light on examples of Plausible Artworlds.\
+ This week we’ll be talking with London-based artist David Goldenberg, who several years ago launched a website called “Post Autonomy”, which functions as a research platform into the concept and loose-knit movement of “postautonomous” art.\
  [http://www.postautonomy.co.uk/](http://www.postautonomy.co.uk/ "http://www.postautonomy.co.uk/")
 
 Goldenberg attributes the term “Post Autonomy” to German Conceptualist Michael Lingner, but has subsequently sought to further develop this idea into a full theoretical concept and working practice. If “autonomy” — whatever that term may be construed to mean — is widely understood as the dominant paradigm of modernist art practice (i.e.- a private or at least individual art practice), unpacking some of the ways and means of whatever goes “beyond autonomy” is indeed a crucial task for any plausible artworld today. Thus Goldenberg’s emphatic stance with respect to “Post Autonomy”, which he sees as a reflection of art’s current condition:
@@ -23,8 +23,8 @@ That’s a feisty claim to be sure — and one which has perhaps been implicit i
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 To join this week’s Potluck Chat:
@@ -34,6 +34,6 @@ To join this week’s Potluck Chat:
 - Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’
 - We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

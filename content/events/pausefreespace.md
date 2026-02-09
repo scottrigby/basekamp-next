@@ -32,7 +32,7 @@ This week we’ll be talking with Matthew Slaats about Freespace and PAUSE, proj
 >
 > Freespace is a digital archive of spaces that have intimate meanings. By working with individuals and school groups, the project has explored the connections people have to place through their experiences.  The objective of the project is to create a series of micro sites that serve as an international commons where stories and understandings about place can be shared.
 
-[http://freespaceproject.org/](http://freespaceproject.org/ "http://freespaceproject.org/")  
+[http://freespaceproject.org/](http://freespaceproject.org/ "http://freespaceproject.org/")\
 [http://pauselab.org/](http://pauselab.org/ "http://pauselab.org/")
 
 These projects are trying to build questions about the presence of the artist in the community and the active roles artists may play in community engagement. We’re definitely up for a debate on these questions, with anyone interested!
@@ -41,6 +41,6 @@ Join us on Skype (skypename: ‘basekamp’) – or in person if you happen to b
 
 See you all then!
 
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

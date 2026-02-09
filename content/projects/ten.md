@@ -35,28 +35,28 @@ Opening
 
 Thursday 6 March
 
-Artists’ talk  
-5.00pm  
-The Hunt Room  
-The University of the Arts  
-320 South Broad Street  
+Artists’ talk\
+5.00pm\
+The Hunt Room\
+The University of the Arts\
+320 South Broad Street\
 Philadelphia
 
-Opening Reception  
-6.30-9.00pm  
-BASEKAMP  
-Second Floor 723 Chestnut Street  
-Philadelphia PA 19106  
-USA  
-cel. 215 206 8176  
+Opening Reception\
+6.30-9.00pm\
+BASEKAMP\
+Second Floor 723 Chestnut Street\
+Philadelphia PA 19106\
+USA\
+cel. 215 206 8176\
 fax. 215 592 7288
 
 exhibition runs 7 March - 3 May 2003
 
-BASEKAMP hours:  
-8.00pm-midnight Wednesday to Friday  
-noon-6.00pm Saturday  
+BASEKAMP hours:\
+8.00pm-midnight Wednesday to Friday\
+noon-6.00pm Saturday\
 or by appointment
 
-Exhibition supported by The British Council, The London Institute,  
+Exhibition supported by The British Council, The London Institute,\
 The West Collection at SEI, and The University of Wolverhampton

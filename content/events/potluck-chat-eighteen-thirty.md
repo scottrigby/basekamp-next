@@ -8,7 +8,7 @@ dateRange:
   to: 2009-10-27T20:00
 ---
 
-Hi everyone,  
+Hi everyone,\
 This week we’ll be talking with Suzy & Sam from Eighteen Thirty about their projects & ideas.
 
 Short description:
@@ -23,6 +23,6 @@ image: Summer 2009 Rooftop Dinner with Chefs Stephen Hauptfuhr (MOOI) and Bryan 
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

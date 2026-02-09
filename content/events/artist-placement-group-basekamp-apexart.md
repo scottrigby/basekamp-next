@@ -20,18 +20,18 @@ We’ll be talking with Barbara Steveni, co-founder of the legendary APG, or Art
 
 The discussion will happen in-person both at Apexart in New York, and Basekamp in Philadelphia. And just like other weeks, people will be joining by Skype from many other locations.
 
-About Artist Placement Group / O + I  
+About Artist Placement Group / O + I\
  The Artist Placement Group (APG) emerged in London in the 1960s. The organisation actively sought to reposition the role of the artist within a wider social context, including government and commerce, while at the same time playing an important part in the history of conceptual art during the 1960s and 1970s. APG as is undoubtedly one of the most radical social experiments of the 1960s, yet it raises many questions as to where artistic agency can be most effective, palpable — and corrosive.
 
 This conversation will take place in the context of the exhibition, “The Incidental Person”, curated by Antony Hudek at Apexart. The term “incidental person” was coined by the late artist John Latham (co-founder, with Steveni and others, of APG) to describe the status of the artist as he saw it: both “incidentally” a farmer, a cook, a thief, a scientist, a house painter or real estate agent and, no less incidentally, an artist. Indeed APG saw no opposition between art and other fields of human endeavor — the latter being support systems for the former. Talk about plausible artworlds!
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
-This week, feel free to also join us in person at Apexart, New York:  
+This week, feel free to also join us in person at Apexart, New York:\
  291 Church Street, New York, NY 10013 USA
 
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")

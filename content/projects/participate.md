@@ -23,12 +23,12 @@ dateRange:
   to: 2005-12-08
 ---
 
-Dates: December 6, 7 & 8th, 5-9 PM  
-Location: Basekamp space  
+Dates: December 6, 7 & 8th, 5-9 PM\
+Location: Basekamp space\
 Description: 3 evenings of events on 3 continents: China, the US, and Sweden
 
-Date: Thursday Dec 8th, during the last event.  
-Location: Basekamp space  
+Date: Thursday Dec 8th, during the last event.\
+Location: Basekamp space\
 Description: Book release of “I Am A Curator”, ed. by Per Hüttner
 
 **What is _Participate?_**
@@ -39,14 +39,14 @@ Welcome to Participate? an exhibition that differs from other contemporary art e
 
 The exhibition discusses the problems and benefits of democracy by allowing the visitor enter into the process of making the exhibition. It will change according to the democratic process (or lack thereof) in the country where it is shown. The project was first shown at the Chinese European Art Center in Xiamen. Basekamp is the second stop of the travelling exhibition and it will finally be shown at Krafstationen i Drags in Sweden in February 2006.
 
-Participate? is a vehicle for encouraging a discussion about the role of democracy, art and how they are interlinked in contemporary society. We warmly invite you to basekamp to come and enjoy a drink at the democratic bar, join the discussions and if you feel like it participate in the ongoing changes of the exhibition!  
- **With artworks by:**  
-Active Space Renaud Bezy Heidi Cody Hasan Elahi  
-Ivan Fayard Ghazel Emmanuelle Mafille Valérie Mréjen  
-Stéphanie Nava Louise Nilsson Tomas Nordmark  
+Participate? is a vehicle for encouraging a discussion about the role of democracy, art and how they are interlinked in contemporary society. We warmly invite you to basekamp to come and enjoy a drink at the democratic bar, join the discussions and if you feel like it participate in the ongoing changes of the exhibition!\
+ **With artworks by:**\
+Active Space Renaud Bezy Heidi Cody Hasan Elahi\
+Ivan Fayard Ghazel Emmanuelle Mafille Valérie Mréjen\
+Stéphanie Nava Louise Nilsson Tomas Nordmark\
 Leigh Stevens Frida Thorell Ben Volta Brigitte Zieger
 
-[photos from xiamen](http://cineron.se/ciceron2/xiamen.html "http://cineron.se/ciceron2/xiamen.html")  
+[photos from xiamen](http://cineron.se/ciceron2/xiamen.html "http://cineron.se/ciceron2/xiamen.html")\
 [ciceron group](http://cineron.se/ciceron2/us.html "http://cineron.se/ciceron2/us.html")
 
 The project is supported by Moderna Museets International Program, Stockholm, The Consulate General of Sweden in Canton, Linköping University, Sweden, and the West Collection, US.

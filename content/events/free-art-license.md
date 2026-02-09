@@ -14,7 +14,7 @@ This Tuesday is another event in a year-long series of weekly conversations and 
 
 This week we’ll be talking with Antoine Moreau about “Free Art License”.
 
-[http://artlibre.org/archives/textes/133](http://artlibre.org/archives/textes/133 "http://artlibre.org/archives/textes/133")  
+[http://artlibre.org/archives/textes/133](http://artlibre.org/archives/textes/133 "http://artlibre.org/archives/textes/133")\
  [http://artlibre.org/licence/lal/en](http://artlibre.org/licence/lal/en "http://artlibre.org/licence/lal/en")
 
 Free Art Licence (or FAL) is a contract that applies the “copyleft” concept to artistic creation of all kinds, without formal or aesthetic discrimination of any kind. If you or your artworld call it art, you can protect it under FAL by making it free. The License authorizes a third party (a person or legal entity) to proceed to copy, disseminate, transform and use work on the express condition that it always be possible for others to copy, disseminate and transform it in turn. That is, what is free must remain free, copyleft cannot be copyrighted.
@@ -27,8 +27,8 @@ The License is suitable for all types of non-software creation. It is recommende
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 NOTE: All Skype “Join” links are _still_ broken. In the meantime, to join this week’s Potluck Chat:
@@ -39,6 +39,6 @@ Download from skype.com if you don’t already have it
 - Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’
 - We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

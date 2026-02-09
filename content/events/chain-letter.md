@@ -36,12 +36,12 @@ Non-local participants are welcome to participate if they wish to send us work.�
 - **Costs & liability:** We ask that you assume the cost of shipping and insuring (as necessary) what you are sending.  The Philadelphia Lendry cannot assume responsibility for loss or damages.
 - **Shipping tips:** We cannot guarantee that someone will be available to sign for or receive your package.  Please send via United States Postal Service ONLY, so that Postal Delivery may leave the package in the Basekamp lobby for us.  It would also be helpful if you would email [phl.lendry@gmail.com](mailto:phl.lendry@gmail.com "mailto:phl.lendry@gmail.com") so that we know to expect your package.
 
-**Address for packages:**  
-The Philadelphia Lendry  
-c/o Basekamp  
+**Address for packages:**\
+The Philadelphia Lendry\
+c/o Basekamp\
 723 Chestnut Street, 2nd Floor _Philadelphia, PA 19106_
 
 ## Thank you members and friends!
 
-Follow up from the Philadelphia Lendry:  
+Follow up from the Philadelphia Lendry:\
 [http://us2.campaign-archive1.com/?u=16fa131b3c4c843c84d6b5b4d&id=6ecc6f18e9](http://us2.campaign-archive1.com/?u=16fa131b3c4c843c84d6b5b4d&id=6ecc6f18e9 "http://us2.campaign-archive1.com/?u=16fa131b3c4c843c84d6b5b4d&id=6ecc6f18e9")
