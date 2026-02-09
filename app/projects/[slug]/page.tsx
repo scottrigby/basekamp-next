@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Markdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import { getProjectBySlug, getProjectSlugs } from "../../../lib/projects";
 import { formatDate } from "@/lib/utils";
@@ -77,7 +78,7 @@ export default async function ProjectPage({
             />
           </div>
           <div className="mt-8 sm:mt-8">
-            <Markdown rehypePlugins={[rehypeRaw]}>{content}</Markdown>
+            <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>{content}</Markdown>
           </div>
         </div>
         {/* Desktop grid */}

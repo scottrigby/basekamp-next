@@ -32,6 +32,6 @@ See you then!
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                                                                                                          | Size      |
+| Downloads                                                                                                                                          | Size      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [cp-21-evolutifen.pdf](/files/cp-21-evolutifen.pdf "cp-21-evolutifen.pdf") | 274.57 KB |

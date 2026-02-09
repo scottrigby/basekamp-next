@@ -46,6 +46,6 @@ Follow Plausible Artworlds:
  [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                                                                                            | Size    |
+| Downloads                                                                                                                            | Size    |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [archive.nz\_.zip](/files/archive.nz_.zip "archive.nz_.zip") | 4.61 MB |
