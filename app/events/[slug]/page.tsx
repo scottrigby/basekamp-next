@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { rehypeExtendedTable } from 'rehype-extended-table';
 import rehypeRaw from "rehype-raw";
 import { getEventBySlug, getEventSlugs } from "../../../lib/events";
 import { formatEventDateRange } from "@/lib/utils";
@@ -80,7 +81,7 @@ export default async function EventPage({
             />
           </div>
           <div className="mt-8 sm:mt-8">
-            <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>{content}</Markdown>
+            <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw, rehypeExtendedTable]}>{content}</Markdown>
           </div>
         </div>
         {/* Desktop grid */}
