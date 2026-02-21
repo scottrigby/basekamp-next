@@ -10,7 +10,7 @@ images:
   - src: img62.png
     alt: Atmospheric photograph of tall metal structure standing in heavy fog
   - src: img65.png
-    alt: Black and white photograph of large geodesic dome structure with crowd gathered underneath
+    alt: Black and white photograph of large metallic dome structure inside an industrial warehouse reflecting the surrounding architecture
   - src: img70.png
     alt: People gathered inside large dome structure, the metallic ceiling shows their reflection
   - src: img85.png
