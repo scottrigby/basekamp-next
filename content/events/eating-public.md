@@ -4,7 +4,7 @@ images:
   - src: 2651_74825484898_732739898_2328830_4808758_n.jpg
     alt: Concrete block tower structure with FREE sign in outdoor public space
   - src: 2651_74810604898_732739898_2328421_1591262_n.jpg
-    alt: Coconuts with drawn faces on grass next to FREE NUTS sign
+    alt: Potatoes with drawn faces on grass next to FREE NUTS sign
   - src: 2651_74810634898_732739898_2328426_4963516_n.jpg
     alt: Wooden box painted with red text reading dollar sign zero FREE MONEY BOX
   - src: 2651_74810599898_732739898_2328420_1343892_n.jpg
