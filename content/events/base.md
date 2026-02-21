@@ -2,7 +2,7 @@
 title: The Base
 images:
   - src: img_1743.jpg
-    alt: Group of people gathered outdoors in park holding papers during community discussion
+    alt: Group of people gathered outdoors, one person is holding up a leaf while the rest write in notebooks
   - src: base_logo_final_blk.jpg
     alt: The Base logo with geometric white lines and red bar on black background
 dateRange:

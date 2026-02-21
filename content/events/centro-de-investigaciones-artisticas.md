@@ -2,13 +2,13 @@
 title: Centro de Investigaciones Artisticas
 images:
   - src: 91fd1849d9cafdde.jpg
-    alt: Hole in concrete wall with Arabic text and layers of debris visible through opening
+    alt: Hole in concrete wall with graffiti. Another wall with a hole is visible through the opening.
   - src: a4e43982b39050ec.jpg
-    alt: Man from behind in white clothing holding small potted plant on vast desert playa with mountains
+    alt: Person from behind in white clothing holding small potted plant on vast desert playa with mountains
   - src: 3ca72be17ec00fde.jpg
     alt: Man with glasses and long dark hair in blue shirt gesturing while speaking against blue wall
   - src: e1ec49973597dd7b.jpg
-    alt: Group of young adults posing together in white gallery studio space with exposed ceiling
+    alt: Group of people posing together in white gallery studio space
 dateRange:
   from: 2010-07-20T18:00
   to: 2010-07-20T20:00

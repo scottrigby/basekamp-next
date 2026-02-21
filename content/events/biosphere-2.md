@@ -2,11 +2,11 @@
 title: Biosphere 2
 images:
   - src: biosphere29.png
-    alt: Scale model of Biosphere 2 showing glass geodesic dome structure with mesh grid netting in desert setting
+    alt: Scale model of Biosphere 2 showing glass geodesic dome structure with trees in front
   - src: biosphere26.png
-    alt: Four people in orange and brown uniforms standing outside Biosphere 2 facility
+    alt: Four people in orange and brown uniforms standing outside
   - src: biosphere21.png
-    alt: Magazine article page about The World of Biosphere II with headline "Not Your Average Terrarium" and architectural diagram
+    alt: Magazine article page about The World of Biosphere 2 with headline "Not Your Average Terrarium" and architectural diagram
   - src: biosphere22.png
     alt: Magazine spread from September 28 1990 showing nighttime photo of Biosphere 2 lit up with article titled Noah's Ark the Sequel
   - src: biosphere23.png
@@ -16,7 +16,7 @@ images:
   - src: biosphere27.png
     alt: Image of Earth rising above lunar horizon photographed from space
   - src: biosphere28.png
-    alt: White wireframe illustration of Biosphere 2 greenhouse structure showing framework with vegetation inside
+    alt: Rough illustration of Biosphere 2 structure
 dateRange:
   from: 2010-06-08T18:00
   to: 2010-06-08T20:00

@@ -2,11 +2,11 @@
 title: At Work / Au Travail
 images:
   - src: route_photo_2_.jpg
-    alt: Close-up of curved white painted line on dark asphalt road meeting dirt shoulder with bare branches
+    alt: Close-up of road shoulder where the white painted line curves around a fallen branch
   - src: benjamin_policier-2_web.jpg
-    alt: Man in tan security or police uniform with shoulder radio standing outdoors in front of weathered blue wall
+    alt: Man in tan police uniform with shoulder radio standing outdoors
   - src: chuckclose_web_size.jpg
-    alt: Large portrait painting on canvas placed on highway shoulder beside road with dead animal in foreground and delivery truck passing by
+    alt: Large portrait painting on canvas placed on highway shoulder with dead deer in foreground and truck passing by
 dateRange:
   from: 2010-03-23T18:00
   to: 2010-03-23T20:00

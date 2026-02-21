@@ -4,7 +4,7 @@ images:
   - src: nobodyremembers.png
     alt: Blue book cover with text "Nobody remembers everything"
   - src: anticat-cover-color.png
-    alt: Page showing anti-catalog definition and text about political statement regarding art neutrality
+    alt: Book page showing anti-catalog definition and text about political statement regarding art neutrality
   - src: padd_archive_shelved.jpg
     alt: Archive shelving with pink and brown labeled boxes organized on white metal shelving units
 dateRange:

@@ -2,7 +2,7 @@
 title: Continental Drift through the Midwest Radical Cultural Corridor
 images:
   - src: image.jpg
-    alt: Book cover titled A Call to Farms showing silhouette with rooster and landscape on blue background
+    alt: Poster titled A Call to Farms showing two people with rooster and landscape on blue background
 dateRange:
   from: 2010-01-26T18:00
   to: 2010-01-26T20:00
