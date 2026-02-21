@@ -17,7 +17,7 @@ images:
   - src: 05.jpg
     alt: Sunlit gallery interior with large white undulating fabric sculpture on wooden platform, black umbrella, small work table, and art materials hanging in windows
   - src: 06.jpg
-    alt: Gallery installation with colorful hanging cylindrical sculpture, clothesline with items, small white house structures, black umbrella, and tricycle visible in background
+    alt: Gallery installation with colorful hanging banner, white and brown sculpture in foreground and picnic table in background
   - src: 07.jpg
     alt: Gallery space showing large curved white fabric sculpture on wooden platforms next to desk and suspended black umbrella
   - src: 08.jpg
