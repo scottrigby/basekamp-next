@@ -15,7 +15,7 @@ images:
   - src: 04.jpg
     alt: Close-up detail of installation showing black umbrella, white spherical object, suspended brown vessel, and geometric wall elements
   - src: 05.jpg
-    alt: Sunlit gallery interior with large white undulating fabric sculpture on wooden platform, black umbrella, small work table, and art materials hanging in windows
+    alt: Gallery installation with wooden picnic bench and video projection on wall showing urban street scene
   - src: 06.jpg
     alt: Gallery installation with colorful hanging banner, white and brown sculpture in foreground and picnic table in background
   - src: 07.jpg
