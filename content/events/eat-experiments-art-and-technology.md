@@ -12,7 +12,7 @@ images:
   - src: img65.png
     alt: Black and white photograph of large geodesic dome structure with crowd gathered underneath
   - src: img70.png
-    alt: Interior photograph of people gathered inside large dome structure for event or performance
+    alt: People gathered inside large dome structure, the metallic ceiling shows their reflection
   - src: img85.png
     alt: Technical diagram showing environmental systems and connections in network structure
   - src: img86_0.png
