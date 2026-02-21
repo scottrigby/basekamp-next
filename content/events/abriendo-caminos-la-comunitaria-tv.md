@@ -6,7 +6,7 @@ images:
   - src: picture_1_1.png
     alt: Digital rendering depicting view from moon's cratered surface looking back at Earth with South America visible against black space
   - src: picture_3.png
-    alt: Black military attack helicopter with Spanish text "Al servicio de la Comunidad" (In service of the Community) flying over aerial view of urban area
+    alt: Video screenshot depicting black military helicopter with Spanish text "Al servicio de la Comunidad" (In service of the Community) flying over aerial view of urban area.
   - src: picture_4.png
     alt: Video screenshot showing large building facade with banner reading "1500 JUEVES RESISTE" and pigeons on ground in front
   - src: picture_5.png
