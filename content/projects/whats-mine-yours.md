@@ -21,7 +21,7 @@ images:
   - src: 07.jpg
     alt: Gallery space showing large curved white fabric sculpture on wooden platforms next to desk and suspended black umbrella
   - src: 08.jpg
-    alt: Wide gallery view with colorful suspended elements including yellow-green fabric, pink cylinder, black umbrella, white house structures, and wooden work table in foreground
+    alt: Wide gallery view with colorful suspended elements including yellow-green fabric, brown cylinder, black umbrella, small white house structure, and wooden work table in foreground
 dateRange:
   from: 2008-10-17
   to: 2009-01-03
