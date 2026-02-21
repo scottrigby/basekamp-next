@@ -2,7 +2,7 @@
 title: Abriendo Caminos / La Comunitaria TV
 images:
   - src: giran.jpg
-    alt: Children holding hands in circle during outdoor activity at basketball court with apartment buildings in background
+    alt: Children holding hands outdoors on roller skates.
   - src: picture_1_1.png
     alt: Digital composite image showing view from moon's cratered surface looking back at Earth with South America visible against black space
   - src: picture_3.png
