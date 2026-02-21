@@ -6,7 +6,7 @@ images:
   - src: post-it_results_win11.jpg
     alt: Wall installation of yellow and blue post-it notes arranged to form house shape
   - src: walking_ds4si_arrow600.jpg
-    alt: Large blue and metallic sculptural installation in urban outdoor public space
+    alt: Person holding a large metallic balloon installation with DS4SI lettering in urban outdoor public space
   - src: judie-lightboard.jpg
     alt: Hands manipulating objects on illuminated light box creating shadow effects
 dateRange:
