@@ -2,7 +2,7 @@
 title: 37 MANIFESTOS
 images:
   - src: 37manifestos_cover_klein.jpg
-    alt: "Exhibition poster for 37 MANIFESTOS How to become collective in four easy lessons with large white typography overlay, group of people standing together in gallery space background, dates 10.-20 Juli 2011"
+    alt: "Exhibition poster for 37 MANIFESTOS, subtitled How to become collective in four easy lessons, 10-20 Juli 2011. Background image is three people sitting together with various artworks on their heads."
 dateRange:
   from: 2011-08-22T18:00
   to: 2011-08-22T20:00
