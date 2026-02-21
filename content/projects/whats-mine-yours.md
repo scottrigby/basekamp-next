@@ -19,7 +19,7 @@ images:
   - src: 06.jpg
     alt: Gallery installation with colorful hanging cylindrical sculpture, clothesline with items, small white house structures, black umbrella, and tricycle visible in background
   - src: 07.jpg
-    alt: Gallery space showing large curved white fabric or foam sculptures on wooden platforms against white walls with industrial ceiling
+    alt: Gallery space showing large curved white fabric sculpture on wooden platforms next to desk and suspended black umbrella
   - src: 08.jpg
     alt: Wide gallery view with colorful suspended elements including yellow-green fabric, pink cylinder, black umbrella, white house structures, and wooden work table in foreground
 dateRange:
