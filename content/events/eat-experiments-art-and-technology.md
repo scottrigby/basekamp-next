@@ -4,7 +4,7 @@ images:
   - src: img53.png
     alt: Cover of E.A.T. NEWS Volume 1 No. 1 from January 15 1967 with organization description
   - src: img20.png
-    alt: Black and white photograph of large crowd gathered around truck inside arched tunnel
+    alt: Black and white photograph of large crowd gathered around truck outside arched tunnel
   - src: img22.png
     alt: Blurred photograph of people in darkness with light projections and experimental lighting effects
   - src: img62.png
