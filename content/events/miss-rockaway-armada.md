@@ -4,7 +4,7 @@ images:
   - src: 880489272_97a61965d8.jpg
     alt: Ramshackle raft with wooden structures and salvaged materials floating on river with tall mast
   - src: bandpractice.jpg
-    alt: Three musicians performing on stage with orange backdrop; washboard, guitar, and keyboard instruments
+    alt: Three musicians with washboard, banjo, and accordion performing on stage with orange backdrop
   - src: "-2.jpg"
     alt: Night scene of crowd gathered around elaborate stage made from salvaged materials with artwork and bonfire
   - src: 19_santiago_mostyn_finley_mist.jpg
