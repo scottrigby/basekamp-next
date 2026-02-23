@@ -2,7 +2,7 @@
 title: Occupy EVERYTHING
 images:
   - src: 321139_294389957253189_108038612554992_1207215_2092169879_n.jpg
-    alt: Elderly WWII veteran in brown jacket wearing sign reading WWII Veteran Main Street Not Wall Street holding walker in Occupy protest with other protesters visible
+    alt: Elderly man with walker wearing sign reading WWII Veteran Main Street Not Wall Street walking in a protest march
   - src: 308154_125927104176832_120049568097919_91813_1259422170_n.jpg
     alt: Occupy Wall Street encampment showing many colorful tents in red, blue, white, and green arranged in a park plaza area with trees
   - src: philly-protest.png
