@@ -10,7 +10,7 @@ images:
   - src: tent1.jpg
     alt: Glamping tent setup showing interior furnishings and outdoor seating area
   - src: 3805994183_bd8d706306.jpg
-    alt: Taxidermied animal standing on stacked books in an interior library setting
+    alt: Taxidermied fox standing on stacked books in an interior library setting
   - src: 3805925995_3899c0dccf.jpg
     alt: Group of people inside wooden structure at dusk holding wine glasses with bottles on table
   - src: 3805915459_2d4977627b.jpg
