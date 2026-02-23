@@ -2,7 +2,7 @@
 title: kuda.org
 images:
   - src: cd_jux2.png
-    alt: Colorful illustration of a globe with cartoon figures around it and a street car; labeled selbrstartende Linux CD-ROM
+    alt: Colorful illustration of a street car outside in the shape of a CD with cartoon children; labeled selbrstartende Linux CD-ROM
   - src: redtours1sm.jpg
     alt: Photograph looking up at a large bronze monumental statue with flowing draped fabric against blue sky
   - src: vallen_whatever_happened.gif
