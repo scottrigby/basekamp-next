@@ -65,6 +65,6 @@ Follow Basekamp:
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                                                     | Size    |
-| ---------------------------------------------------------------------------------------------- | ------- |
+| Downloads                                                                                                                                                              | Size    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [FGA unconference slideshow](/files/fga-mtm-slideshow-01.03.pdf "fga-mtm-slideshow-01.03.pdf") | 3.47 MB |

@@ -65,6 +65,6 @@ Follow Plausible Artworlds:
  [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
-| Attachment                                                           | Size      |
-| -------------------------------------------------------------------- | --------- |
+| Downloads                                                                                                                                    | Size      |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [nsk_chart_full.pdf](/files/nsk_chart_full.pdf "nsk_chart_full.pdf") | 563.06 KB |

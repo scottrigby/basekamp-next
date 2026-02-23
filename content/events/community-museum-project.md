@@ -34,6 +34,6 @@ Follow Plausible Artworlds:
 Join this week’s Skype chat:  
  [http://bit.ly/dcMMTq](http://bit.ly/dcMMTq "http://bit.ly/dcMMTq")
 
-| Attachment                                                                                                                                                        | Size    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Downloads                                                                                                                                                                                                                                 | Size    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
 | [Street as Museum as Method: Some Thoughts on Museum Inclusivity](/files/z08_14505_streetasmuseumasmethod_final.pdf "z08_14505_streetasmuseumasmethod_final.pdf") | 2.34 MB |
