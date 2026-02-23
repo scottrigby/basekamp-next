@@ -18,7 +18,7 @@ images:
   - src: duckysraftinterior.jpg
     alt: Interior cabin of raft showing wooden shelving packed with clothing and supplies, bunk beds and ladder
   - src: 865314687_e1ab066f3f.jpg
-    alt: Crew member moment during flotilla journey
+    alt: Crew member wearing white dress and helmet standing next to large green plant in front of raft
   - src: armadapost5-02.jpg
     alt: Person standing with arms raised on top of ramshackle wooden structure on raft with another person below, river and trees in background
 dateRange:
