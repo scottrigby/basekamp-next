@@ -30,7 +30,7 @@ images:
   - src: 321084_125930200843189_120049568097919_91842_458659985_n.jpg
     alt: Outdoor kitchen and food service with turquoise tent, people preparing and serving food with cups and supplies, large building with columns in background
   - src: 321587_124586400977569_120049568097919_88928_1484914131_n.jpg
-    alt: Occupy Wall Street crowd of protesters at neoclassical government building with white columns, people holding various signs with yellow banner visible
+    alt: Protesters with signs outside government building
 dateRange:
   from: 2011-10-11T18:00
   to: 2011-10-11T20:00
