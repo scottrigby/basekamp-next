@@ -8,7 +8,7 @@ images:
   - src: 6288000040_2eaf85fa80_b.jpg
     alt: Handwritten brainstorm notes on whiteboard in blue and red marker covering topics like development, assessment, marketing impact, and values
   - src: 6287488755_cf3f58d63b_b.jpg
-    alt: Crowd of Hand-in-Glove conference attendees sitting on red chairs in an industrial loft gallery space with exposed ceiling beams and pillars
+    alt: Crowd of Hand-in-Glove conference attendees sitting in an industrial loft gallery space with exposed ceiling beams and pillars
   - src: jenny-ramos1.jpg
     alt: Three people in an indoor setting - a woman in a burgundy coat standing and two men sitting on the floor against a cream colored wall
 dateRange:
