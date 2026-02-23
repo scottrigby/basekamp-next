@@ -6,7 +6,7 @@ images:
   - src: fga-10.png
     alt: Hierarchical diagram showing Commons, Groups, Projects and People, and Public faces icons connected by an orange arc labeled All have Public faces
   - src: fga-11.png
-    alt: Organizational structure diagram with icons and text
+    alt: Illustration depicting a person joining others to form a decision making body
   - src: fga-12.png
     alt: Presentation slide with conceptual information about Federated General Assembly structure
   - src: fga-13.png
