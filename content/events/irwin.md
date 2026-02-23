@@ -28,7 +28,7 @@ images:
   - src: imag0189.jpg
     alt: Silver commemorative coin showing geometric cross pattern in center with text around rim on black background
   - src: ogenj.jpg
-    alt: Illuminated geometric cross symbol glowing brightly in ornate interior architectural space with columns on dark background
+    alt: Large burning ring in front of a building with an illuminated geometric symbol projected onto it
 dateRange:
   from: 2010-12-21T18:00
   to: 2010-12-21T20:00
