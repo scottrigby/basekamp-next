@@ -12,7 +12,7 @@ images:
   - src: armadapost5-05.jpg
     alt: Costumed marching band and parade group with instruments standing in front of government building
   - src: 2024183395_217d635333.jpg
-    alt: Cluttered raft deck showing blue tarp structure, cooking area, containers and river in background
+    alt: Cluttered raft deck showing shelves of dishes, cooking area, containers and river in background
   - src: ellerybirthday.jpg
     alt: Two crew members sharing food from wooden plate on raft deck in sunlight
   - src: duckysraftinterior.jpg
