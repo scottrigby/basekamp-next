@@ -18,7 +18,7 @@ images:
   - src: 2651_74825489898_732739898_2328831_6609689_n.jpg
     alt: Papaya seedlings on grass with free sign and anti-capitalism project information
   - src: 2651_74825504898_732739898_2328834_7399955_n.jpg
-    alt: Large crowd of people seated at tables dining indoors at community meal event with FEAST signage
+    alt: Empty cardboard box showing 'Free' spray painted in big letters, and 'An Anti-capitalism project' written below
 dateRange:
   from: 2010-08-24T18:00
   to: 2010-08-24T20:00
