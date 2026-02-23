@@ -26,7 +26,7 @@ images:
   - src: fga-4.png
     alt: Hand-drawn diagram showing circles connected by arrows labeled Spokes pointing towards a question mark at the center
   - src: fga-5.png
-    alt: Hand-drawn sketch showing labeled elements of Occupation, GA, Spork, group, and cluster arranged in circular pattern with people figures
+    alt: Hand-drawn sketch showing labeled elements of Occupation, GA, Spoke, group, and cluster arranged in circular pattern with people figures
   - src: fga-6.png
     alt: Diagram illustrating Federated General Assembly platform features
 dateRange:
