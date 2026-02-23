@@ -8,7 +8,7 @@ images:
   - src: map-tent-city4.jpg
     alt: Diagram map of Occupy Philadelphia encampment at City Hall West Side showing layout of various tents and areas including Medic HQ, Tech Tent, Food, Donations, and other facilities
   - src: rahm.jpg
-    alt: Portrait photograph of man in dark suit with gray hair and raised hand speaking during Occupy event with crowd visible in background
+    alt: Portrait of man in suit with hand raised thumb touching his nose and tongue slightly sticking out. Crowd visible in background.
 dateRange:
   from: 2011-10-18T18:00
   to: 2011-10-18T20:00
