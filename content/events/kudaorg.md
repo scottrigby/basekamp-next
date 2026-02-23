@@ -10,7 +10,7 @@ images:
   - src: cosmopolities_01.jpg
     alt: Black star on gray background with repeated light gray text including words like HAPPY, HERO, HONOR, LIGHT
   - src: img_1521_0.jpg
-    alt: Three printed publications titled "kontakt" in different colored letters displayed on black tablets with visible text content
+    alt: Printed posters titled 'kontakt' in different colored letters displayed on a black table
   - src: izostavljena_logo.jpg
     alt: Text logo reading "izostavljena/omitted history" in white letters on black background
 dateRange:
