@@ -2,7 +2,7 @@
 title: Escapologies
 images:
   - src: 319300_317827061645166_984345446_n.jpg
-    alt: Infographic showing progression of artist from body image through logo name to prestige account to bank account
+    alt: Infographic showing artist maintaining their image, social media accounts, and paying bills
   - src: 417429_317826954978510_2086489292_n.jpg
     alt: Two-page handwritten spread discussing ethics production distribution and art world alternatives
   - src: 426077_317827231645149_1736240938_n.jpg
