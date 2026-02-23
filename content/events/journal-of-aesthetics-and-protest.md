@@ -4,7 +4,7 @@ images:
   - src: graph_positioning.jpg
     alt: Hand-drawn coordinate chart on grid paper showing axis for distrust/trust of institutionalization and high/low mediation with various artistic projects plotted
   - src: 8cover.jpg
-    alt: High contrast black and white portrait of a man for magazine cover
+    alt: High contrast black and white illustration of three faces combined into one
   - src: joaap.jpg
     alt: Workshop meeting with multiple people seated around a white table in a room with blue ceiling and artwork on walls
   - src: issue8.jpeg
