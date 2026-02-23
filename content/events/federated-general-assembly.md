@@ -8,7 +8,7 @@ images:
   - src: fga-11.png
     alt: Illustration depicting a person joining others to form a decision making body
   - src: fga-12.png
-    alt: Presentation slide with conceptual information about Federated General Assembly structure
+    alt: Illustration with conceptual information about Federated General Assembly structure
   - src: fga-13.png
     alt: Diagram showing interconnected groups of people and projects with text explaining how more people and groups multiply, form clusters, and handle disruption and trouble
   - src: fga-14.png
