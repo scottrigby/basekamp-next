@@ -24,7 +24,7 @@ images:
   - src: fga-3.png
     alt: Hand-drawn sketch of geographic map containing dome landmarks, using blue and gray sections to represent different areas
   - src: fga-4.png
-    alt: Hand-drawn diagram showing circles connected by arrows labeled Stokes with question mark illustrating decision-making flow
+    alt: Hand-drawn diagram showing circles connected by arrows labeled Spokes pointing towards a question mark at the center
   - src: fga-5.png
     alt: Hand-drawn sketch showing labeled elements of Occupation, GA, Spork, group, and cluster arranged in circular pattern with people figures
   - src: fga-6.png
