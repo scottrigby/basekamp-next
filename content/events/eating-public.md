@@ -6,7 +6,7 @@ images:
   - src: 2651_74810604898_732739898_2328421_1591262_n.jpg
     alt: Potatoes with drawn faces on grass next to FREE NUTS sign
   - src: 2651_74810634898_732739898_2328426_4963516_n.jpg
-    alt: Wooden box painted with red text reading dollar sign zero FREE MONEY BOX
+    alt: Wooden box painted with red text reading zero dollars, free money box
   - src: 2651_74810599898_732739898_2328420_1343892_n.jpg
     alt: Collection of toys and objects on grass with sign about unwanted gifts and free store solution
   - src: 2651_74810624898_732739898_2328425_2069607_n.jpg
