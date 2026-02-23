@@ -12,7 +12,7 @@ images:
   - src: 3679787014_cc56400c38.jpg
     alt: Close-up photograph of VGA computer hardware connector port
   - src: 4717286265_0d9a249623_z.jpg
-    alt: Man wearing glasses using laptop at FOSSCON conference with attendees in background
+    alt: Person using laptop at FOSSCON conference with attendees in background
 dateRange:
   from: 2011-07-23T10:00
   to: 2011-07-23T18:00
