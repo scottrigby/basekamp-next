@@ -4,7 +4,7 @@ images:
   - src: inchy-patch_0.png
     alt: Cute fuzzy green character with large black eyes and red heart on chest
   - src: plymouth_0.png
-    alt: Colorful pixel art style map visualization showing many colored squares and rectangles in blue, pink, green, purple, orange, and yellow with large green grid area in center
+    alt: Colorful pixel art style map visualization showing multicolor abstract squares with large green grid area in center
   - src: hello-world.png
     alt: Pixel art map visualization with colored squares scattered on a green grid background
 dateRange:
