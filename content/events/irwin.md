@@ -22,7 +22,7 @@ images:
   - src: zizek-a-film-from-slovenia.jpg
     alt: Promotional image showing bearded man in striped shirt sitting in front of bookshelves in library setting
   - src: 5nskmoscow.jpg
-    alt: Black and white photograph of group of people standing in ornate gallery interior all holding documents and papers
+    alt: Black and white photograph of group of people standing in ornate gallery interior
   - src: nsk-state-1.jpg
     alt: Black and white artistic portrait of person with geometric cross symbol on forehead against pixelated checkered background
   - src: imag0189.jpg
