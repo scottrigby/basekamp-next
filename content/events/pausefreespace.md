@@ -2,7 +2,7 @@
 title: PAUSE/Freespace
 images:
   - src: freespace_pause_image.jpg
-    alt: Tags hanging on chain-link fence with handwritten text about Poughkeepsie and feelings attached with red and blue cord
+    alt: Tags hanging on chain-link fence with text about Poughkeepsie and feelings attached with red and blue zip ties
   - src: dsc0004_2.jpg
     alt: Red and white metal soccer goal frame with net installed in grassy area with brick buildings in background
   - src: greta1.jpg
