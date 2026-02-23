@@ -20,7 +20,7 @@ images:
   - src: 577283_317827161645156_914232302_n.jpg
     alt: Comic showing artist struggling with needing recognition and pressure of exploitation
   - src: 600263_317826488311890_383438670_n.jpg
-    alt: Comic depicting group of yellow figures in discussion about ethical praxis in art world
+    alt: Comic depicting group of people in discussion about ethical praxis in the art world
 dateRange:
   from: 2012-09-25T15:00
   to: 2012-09-25T18:00
