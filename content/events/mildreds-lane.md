@@ -16,7 +16,7 @@ images:
   - src: 3805915459_2d4977627b.jpg
     alt: Large outdoor gathering with people sitting in wooden chairs around tables with white tablecloths
   - src: 3805884911_9cd01a7aa8.jpg
-    alt: Mildred's Lane communal gathering with participants
+    alt: Teacups and cutlery arranged on a white tabletop
   - src: jmp_broom_3.jpg
     alt: Interior rustic space with exposed wooden ceiling beams, rocking chairs, artwork on walls, and warm evening lighting
 dateRange:
