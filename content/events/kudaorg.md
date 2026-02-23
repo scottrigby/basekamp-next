@@ -4,7 +4,7 @@ images:
   - src: cd_jux2.png
     alt: Colorful illustration of a street car outside in the shape of a CD with cartoon children; labeled selbrstartende Linux CD-ROM
   - src: redtours1sm.jpg
-    alt: Photograph looking up at a large bronze monumental statue with flowing draped fabric against blue sky
+    alt: Photograph looking up at a large bronze statue of Karl Marx with flowing draped fabric against blue sky
   - src: vallen_whatever_happened.gif
     alt: Comic book style illustration with speech bubbles saying Whatever Happened to the Future
   - src: cosmopolities_01.jpg
