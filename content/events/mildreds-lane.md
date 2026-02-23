@@ -8,7 +8,7 @@ images:
   - src: free_pesto01.jpg
     alt: Person preparing food in a kitchen with bowls of fresh basil and large windows in the background
   - src: tent1.jpg
-    alt: Glamping canvas tent setup at Mildred's Lane showing interior furnishings and outdoor seating area
+    alt: Glamping tent setup showing interior furnishings and outdoor seating area
   - src: 3805994183_bd8d706306.jpg
     alt: Taxidermied animal standing on stacked books in an interior library setting
   - src: 3805925995_3899c0dccf.jpg
