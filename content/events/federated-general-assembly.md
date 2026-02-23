@@ -16,7 +16,7 @@ images:
   - src: fga-16.png
     alt: Network flow diagram showing people work on Projects in Groups with labeled relationship arrows for associate, delegate, like, refer, member, and sponsor support functions
   - src: fga-15.png
-    alt: "Complex diagram titled It's Made of People showing isolation target, education target, and support/empower target with figures and annotated discussions about movement dynamics"
+    alt: Complex diagram titled It's Made of People showing isolation target, education target, and support/empower target with figures and annotated discussions about movement dynamics
   - src: fga-1.png
     alt: Hand-drawn sketch of two figures on a seesaw with speech bubbles containing geometric shapes above them
   - src: fga-2.png
