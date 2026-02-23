@@ -4,7 +4,7 @@ images:
   - src: 198826_200485199984036_183067591725797_622689_4961334_n_0.jpg
     alt: Art for Rent stenciled in red text on white background
   - src: 132790_183156145050275_183067591725797_509771_217673_o.jpg
-    alt: Philadelphia Lendry collection display of borrowed items
+    alt: Community Museum of living collection logo
   - src: 227564_206624042703485_183067591725797_666926_3522931_n.jpg
     alt: People gathered around large white display board on wooden floor showing various art objects and collection items illuminated by warm gallery lighting
   - src: 215685_206127626086460_183067591725797_663690_1835707_n.jpg
