@@ -16,7 +16,7 @@ images:
   - src: livestream-nyc.png
     alt: Livestream broadcast interface showing crowd of people at night with livestream logo and text indicating viewing from multiple mobile street cameras with 13,000 viewers
   - src: vutko.jpg
-    alt: Occupy Wall Street encampment showing multiple colorful tents in public plaza with large institutional building visible in background
+    alt: Encampment showing multiple colorful tents in public plaza with large institutional building visible in background
   - src: occupyphiladelphia028.jpg
     alt: Protest banner reading From Wall St. To Market St. Critique on Capitalism For People with crowd of protesters gathered behind it
   - src: 302027_125453424224200_120049568097919_90992_830742877_n.jpg
