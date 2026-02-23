@@ -6,7 +6,7 @@ images:
   - src: bandpractice.jpg
     alt: Three musicians with washboard, banjo, and accordion performing on stage with orange backdrop
   - src: "-2.jpg"
-    alt: Night scene of crowd gathered around elaborate stage made from salvaged materials with artwork and bonfire
+    alt: Night scene of crowd gathered around elaborate stage made from salvaged materials with artwork on the beach
   - src: 19_santiago_mostyn_finley_mist.jpg
     alt: Person standing on misty river at dawn with clothing hanging to dry on raft deck
   - src: armadapost5-05.jpg
