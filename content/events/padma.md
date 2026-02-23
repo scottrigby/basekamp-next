@@ -6,7 +6,7 @@ images:
   - src: pad.ma_browse.png
     alt: Screenshot of Pad.ma web interface showing grid of video thumbnails with titles like A day in the life of Muhammad Muslim
   - src: daniela_kobe_and_volker.large_.jpg
-    alt: Three people sitting at table with microphones during panel discussion, projection screen behind showing text about The Parable of the Patent Holders with blue clock on wall
+    alt: Three people sitting at table with microphones during panel discussion, projection screen behind showing text The Parable of the Patent Holders Leading the Patent Holders (1568)
   - src: pad.ma_workshop_beitut_sanayeh04.jpg
     alt: Workshop with people gathered around table with laptops, black and white photographs and drawings on wall, collaborative work session
   - src: steal_this_film.large_.jpg
