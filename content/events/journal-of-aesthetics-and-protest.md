@@ -8,7 +8,7 @@ images:
   - src: joaap.jpg
     alt: Workshop meeting with multiple people seated around a white table in a room with blue ceiling and paper notes on the walls
   - src: issue8.jpeg
-    alt: Journal of Aesthetics and Protest issue 8 Grassroots Modernism cover with red text on pale green background with number 8
+    alt: Journal of Aesthetics and Protest Grassroots Modernism cover with red text on pale green background with issue number 8
 dateRange:
   from: 2012-04-17T18:00
   to: 2012-04-17T20:00
