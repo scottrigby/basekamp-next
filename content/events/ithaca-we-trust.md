@@ -2,7 +2,7 @@
 title: In Ithaca We Trust
 images:
   - src: hourpile2.jpg
-    alt: Collection of Ithaca Hours local currency bills in various colorful denominations (quarter hour, eighth hour, etc.) arranged overlapping to display designs and portraits
+    alt: Collection of Ithaca Hours local currency bills in various colorful denominations such as quarter hour, eighth hour
   - src: paultiedyebigcrop.png
     alt: Portrait photograph of Paul Glover, founder of Ithaca Hours local currency system
   - src: ithpowercover.jpg
