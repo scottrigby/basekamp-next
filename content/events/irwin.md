@@ -8,7 +8,7 @@ images:
   - src: noordung34v.jpg
     alt: Person suspended in zero gravity inside an industrial space with fluorescent ceiling lights
   - src: triglav_oho_front.jpg
-    alt: Black and white photograph of three figures in large black draped cloaks standing in snowy urban street setting
+    alt: Black and white photograph of three heads poking out of one large black cloak standing in snowy urban street setting
   - src: winder2_0.jpg
     alt: Six men in dark business suits and ties standing together in formal group portrait in front of architectural backdrop
   - src: irwin4.jpg
