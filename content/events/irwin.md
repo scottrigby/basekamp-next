@@ -4,7 +4,7 @@ images:
   - src: eam_600.jpg
     alt: Gallery installation of a tent structure, wooden tables and a projector screen depicting green aerial mountain view
   - src: nsk-state.jpg
-    alt: Photograph of four people in green military uniforms standing in front of NSK FARPA banner in Pristina
+    alt: Photograph of four people in green military uniforms standing outdoors. White text at the top reads NSK GARDA Pristina.
   - src: noordung34v.jpg
     alt: Person in yellow clothing lying on red surface viewed from above in industrial space with fluorescent ceiling lights
   - src: triglav_oho_front.jpg
