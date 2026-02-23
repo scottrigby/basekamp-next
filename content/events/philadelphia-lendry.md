@@ -8,7 +8,7 @@ images:
   - src: 227564_206624042703485_183067591725797_666926_3522931_n.jpg
     alt: People gathered around large white table showing various art objects and collection items illuminated by warm gallery lighting
   - src: 215685_206127626086460_183067591725797_663690_1835707_n.jpg
-    alt: Philadelphia Lendry community gathering with members
+    alt: Sculpture of grey owl
   - src: 216118_205669549465601_183067591725797_659983_7835861_n.jpg
     alt: Lending library collection items available for member borrowing
 dateRange:
