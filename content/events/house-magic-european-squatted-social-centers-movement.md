@@ -2,7 +2,7 @@
 title: "House Magic: The European squatted social centers movement"
 images:
   - src: housemagiclogo_sm.jpg
-    alt: House Magic Bureau of Foreign Correspondence logo in intricate etched line art style with decorative elements
+    alt: House Magic Bureau of Foreign Correspondence logo
 dateRange:
   from: 2010-01-19T18:00
   to: 2010-01-19T20:00
