@@ -6,7 +6,7 @@ images:
   - src: 45_2-girl-presenters.jpg
     alt: Two young women presenting on stage with stage lighting and backdrop visible
   - src: feast-plate.png
-    alt: Digital illustration of food plate with white and gray spherical elements and green accent
+    alt: Digital illustration of food plate with white and gray spheres and a single green sphere in the middle
 dateRange:
   from: 2010-05-04T18:00
   to: 2010-05-04T20:00
