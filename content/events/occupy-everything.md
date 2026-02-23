@@ -26,7 +26,7 @@ images:
   - src: 297999_125930417509834_120049568097919_91845_705605570_n.jpg
     alt: Solar panels arranged in a star pattern on pavement with banner reading Occupy The Sun
   - src: seacm.jpg
-    alt: Occupy movement food service showing red wagon with water bottles and black containers, people eating at table with cereal and supplies
+    alt: Red wagon filled with water bottles next to large black batteries on the pavement
   - src: 321084_125930200843189_120049568097919_91842_458659985_n.jpg
     alt: Occupy Wall Street kitchen and food service with turquoise tent, people preparing and serving food with cups and supplies, neoclassical building with columns in background
   - src: 321587_124586400977569_120049568097919_88928_1484914131_n.jpg
