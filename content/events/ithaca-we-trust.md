@@ -12,7 +12,7 @@ images:
   - src: labornote.jpg
     alt: Historical labor note showing Three Hours Labour in Carpenter's Work with ornate frame, Justice label, and text Sample Labor Note
   - src: gjp.jpg
-    alt: Book cover with green background reading Green Jobs Philly about 100,000 new jobs to rebuild Philadelphia neighborhoods and clean environment by Paul Glover
+    alt: Book cover reading Green Jobs Philly subtitle 100,000 new jobs to rebuild Philadelphia neighborhoods and clean environment by Paul Glover
 dateRange:
   from: 2011-07-19T18:00
   to: 2011-07-19T20:00
