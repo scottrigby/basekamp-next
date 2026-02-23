@@ -4,7 +4,7 @@ images:
   - src: freespace_pause_image.jpg
     alt: Tags hanging on chain-link fence with text about Poughkeepsie and feelings attached with red and blue zip ties
   - src: dsc0004_2.jpg
-    alt: Red and white metal soccer goal frame with net installed in grassy area with brick buildings in background
+    alt: Red metal soccer goal frame with nets on both sides enclosing a soccer ball inside
   - src: greta1.jpg
     alt: Collection of colorful mutant vehicles and modified tricycles including pink and green converted vehicle with sidecar in urban lot
   - src: pauselab.png
