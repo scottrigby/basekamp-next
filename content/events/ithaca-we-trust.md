@@ -8,7 +8,7 @@ images:
   - src: ithpowercover.jpg
     alt: Article cover titled Ithaca Power with illustration of people, wind turbine, tree, and building on tan background by Paul Glover
   - src: book.jpg
-    alt: Book cover with yellow background showing Health Democracy text and sun logo, Liberating Americans from Medical Insurance by Paul Glover
+    alt: Book cover titled Health Democracy, Liberating Americans from Medical Insurance by Paul Glover
   - src: labornote.jpg
     alt: Historical labor note showing Three Hours Labour in Carpenter's Work with ornate frame, Justice label, and text Sample Labor Note
   - src: gjp.jpg
