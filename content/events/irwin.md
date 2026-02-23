@@ -10,7 +10,7 @@ images:
   - src: triglav_oho_front.jpg
     alt: Black and white photograph of three heads poking out of one large black cloak standing in snowy urban street setting
   - src: winder2_0.jpg
-    alt: Six men in dark business suits and ties standing together in formal group portrait in front of architectural backdrop
+    alt: Six men in dark business suits and fake toothbrush style mustaches standing together in formal group portrait in front of architectural backdrop
   - src: irwin4.jpg
     alt: Group of people in dark clothing forming a circle holding hands in open field with forest and mountains in background
   - src: nsk_passports2.jpg
