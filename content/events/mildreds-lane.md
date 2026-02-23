@@ -2,7 +2,7 @@
 title: Mildred's Lane
 images:
   - src: dion_sketch.gif
-    alt: Hand-drawn sketch showing signpost with directional signs to London, Mildred's Lane, New York, and Basel; birds and bicycle wheel at base
+    alt: Hand-drawn sketch showing signpost with directional signs to London, Mildred's Lane, New York, and Basel; crows, a broken wheel, and a skull are scattered about
   - src: 3806666946_ee655f0970.jpg
     alt: Rustic wooden cabin at Mildred's Lane with stone foundation, white laundry hanging on porch, wooden chairs, and people on the lawn
   - src: free_pesto01.jpg
