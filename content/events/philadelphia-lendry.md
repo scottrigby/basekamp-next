@@ -10,7 +10,7 @@ images:
   - src: 215685_206127626086460_183067591725797_663690_1835707_n.jpg
     alt: Sculpture of grey owl
   - src: 216118_205669549465601_183067591725797_659983_7835861_n.jpg
-    alt: Lending library collection items available for member borrowing
+    alt: Two people standing and holding a large cardboard fork and spoon
 dateRange:
   from: 2011-06-21T18:00
   to: 2011-06-21T20:00
