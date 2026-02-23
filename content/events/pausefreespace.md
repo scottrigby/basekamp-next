@@ -6,7 +6,7 @@ images:
   - src: dsc0004_2.jpg
     alt: Red metal soccer goal frame with nets on both sides enclosing a soccer ball inside
   - src: greta1.jpg
-    alt: Collection of colorful mutant vehicles and modified tricycles including pink and green converted vehicle with sidecar in urban lot
+    alt: Collection of colorful custom motorbikes including a green converted motorbike with sidecar in urban lot
   - src: pauselab.png
     alt: Urban lot with large brick building wall, parked cars, and overgrown grass
   - src: 1_2.jpg
