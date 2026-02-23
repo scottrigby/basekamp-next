@@ -22,7 +22,7 @@ images:
   - src: fga-2.png
     alt: Hand-drawn sketch showing three stacked red squares or platforms labeled Square with geometric layering
   - src: fga-3.png
-    alt: Hand-drawn sketch showing profile outline of human head with blue and gray sections representing different areas
+    alt: Hand-drawn sketch of geographic map containing dome landmarks, using blue and gray sections to represent different areas
   - src: fga-4.png
     alt: Hand-drawn diagram showing circles connected by arrows labeled Stokes with question mark illustrating decision-making flow
   - src: fga-5.png
