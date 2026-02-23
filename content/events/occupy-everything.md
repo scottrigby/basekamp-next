@@ -20,7 +20,7 @@ images:
   - src: occupyphiladelphia028.jpg
     alt: Protest banner reading From Wall St. To Market St. Foreclose on Capitalism Not People with crowd of protesters gathered behind it
   - src: 302027_125453424224200_120049568097919_90992_830742877_n.jpg
-    alt: Nighttime photograph of People's Assembly on Economic Injustice at Occupy Philadelphia 2nd night October 7 2011 showing large crowd gathered
+    alt: Nighttime panorama showing large crowd gathered on street. Labelled People's Assembly on Economic Injustice at Occupy Philadelphia 2nd night October 7 2011
   - src: 300919_125866440849565_120049568097919_91727_967513004_n.jpg
     alt: Hand-drawn map and diagram of occupation layout on white paper with green sticky notes showing different areas like Education Training Library, Art Skmagking, Sanitation, Tech Media, Safety, and General Assembly
   - src: 297999_125930417509834_120049568097919_91845_705605570_n.jpg
