@@ -6,7 +6,7 @@ images:
   - src: nsk-state.jpg
     alt: Photograph of four people in green military uniforms standing outdoors. White text at the top reads NSK GARDA Pristina.
   - src: noordung34v.jpg
-    alt: Person in yellow clothing lying on red surface viewed from above in industrial space with fluorescent ceiling lights
+    alt: Person suspended in zero gravity inside an industrial space with fluorescent ceiling lights
   - src: triglav_oho_front.jpg
     alt: Black and white photograph of three figures in large black draped cloaks standing in snowy urban street setting
   - src: winder2_0.jpg
