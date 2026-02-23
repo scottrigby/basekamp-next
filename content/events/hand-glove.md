@@ -6,7 +6,7 @@ images:
   - src: 6287480919_f48a2d595c_b.jpg
     alt: Two people examining large posters in an art gallery with exposed wooden beams and audience seated watching
   - src: 6288000040_2eaf85fa80_b.jpg
-    alt: Handwritten brainstorm notes on whiteboard in blue and red marker with yellow sticky notes covering topics like development, assessment, marketing impact, and values
+    alt: Handwritten brainstorm notes on whiteboard in blue and red marker covering topics like development, assessment, marketing impact, and values
   - src: 6287488755_cf3f58d63b_b.jpg
     alt: Crowd of Hand-in-Glove conference attendees sitting on red chairs in an industrial loft gallery space with exposed ceiling beams and pillars
   - src: jenny-ramos1.jpg
