@@ -2,7 +2,7 @@
 title: P2P exchange
 images:
   - src: parade-6.jpg
-    alt: Group of people seated on stacked black plastic crates outdoors in public plaza during sunny day
+    alt: Group of people seated on stacked black plastic crates outdoors among black plastic crate architecture
   - src: p2pexchange_a5flyer.jpg
     alt: Event flyer with blue and green text reading "P2P EXCHANGE" announcing Critical Practice reconfiguration of General Assembly at The Truth is Concrete
   - src: tic_logo.jpg
