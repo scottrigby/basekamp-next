@@ -18,7 +18,7 @@ images:
   - src: 3805884911_9cd01a7aa8.jpg
     alt: Teacups and cutlery arranged on a white tabletop
   - src: jmp_broom_3.jpg
-    alt: Interior rustic space with exposed wooden ceiling beams, rocking chairs, artwork on walls, and warm evening lighting
+    alt: Interior rustic space with rocking chairs, artwork on walls, and warm evening lighting
 dateRange:
   from: 2010-12-14T18:00
   to: 2010-12-14T20:00
