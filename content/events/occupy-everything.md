@@ -24,7 +24,7 @@ images:
   - src: 300919_125866440849565_120049568097919_91727_967513004_n.jpg
     alt: Hand-drawn map and diagram of occupation layout on white paper with green sticky notes showing different areas like Education Training Library, Art Skmagking, Sanitation, Tech Media, Safety, and General Assembly
   - src: 297999_125930417509834_120049568097919_91845_705605570_n.jpg
-    alt: Blue panels arranged in a star pattern on pavement with yellow banner above reading Occupy The Con
+    alt: Solar panels arranged in a star pattern on pavement with banner reading Occupy The Sun
   - src: seacm.jpg
     alt: Occupy movement food service showing red wagon with water bottles and black containers, people eating at table with cereal and supplies
   - src: 321084_125930200843189_120049568097919_91842_458659985_n.jpg
