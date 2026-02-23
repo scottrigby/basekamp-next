@@ -2,7 +2,7 @@
 title: \*.flag
 images:
   - src: flagimpression_x1.jpg
-    alt: Promotional poster for *.flag event with diagonal lines design showing two evenings exploring flag perspectives
+    alt: Promotional poster for *.flag event with diagonal lines design
 dateRange:
   from: 2011-01-13T18:00
   to: 2011-01-14T20:00
