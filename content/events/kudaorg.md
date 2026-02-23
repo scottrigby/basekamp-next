@@ -12,7 +12,7 @@ images:
   - src: img_1521_0.jpg
     alt: Printed posters titled 'kontakt' in different colored letters displayed on a black table
   - src: izostavljena_logo.jpg
-    alt: Text logo reading "izostavljena/omitted history" in white letters on black background
+    alt: izostavljena/omitted history in white letters on black background
 dateRange:
   from: 2010-11-30T18:00
   to: 2010-11-30T20:00
