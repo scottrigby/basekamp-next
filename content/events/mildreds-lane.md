@@ -12,7 +12,7 @@ images:
   - src: 3805994183_bd8d706306.jpg
     alt: Taxidermied fox standing on stacked books in an interior library setting
   - src: 3805925995_3899c0dccf.jpg
-    alt: Group of people inside wooden structure at dusk holding wine glasses with bottles on table
+    alt: Group of audience members outside wooden building at dusk holding with wine bottles on nearby table
   - src: 3805915459_2d4977627b.jpg
     alt: Mildred's Lane evening gathering with participants in indoor setting
   - src: 3805884911_9cd01a7aa8.jpg
