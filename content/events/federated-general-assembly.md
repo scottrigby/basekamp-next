@@ -18,7 +18,7 @@ images:
   - src: fga-15.png
     alt: Complex diagram titled It's Made of People showing isolation target, education target, and support/empower target with figures and annotated discussions about movement dynamics
   - src: fga-1.png
-    alt: Hand-drawn sketch of two figures on a seesaw with speech bubbles containing geometric shapes above them
+    alt: Hand-drawn sketch of two figures with speech bubbles containing geometric shapes above them
   - src: fga-2.png
     alt: Hand-drawn sketch showing three stacked red squares or platforms labeled Square with geometric layering
   - src: fga-3.png
