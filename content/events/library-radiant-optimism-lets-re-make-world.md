@@ -2,7 +2,7 @@
 title: The Library of Radiant Optimism for Let's Re-Make the World
 images:
   - src: book_club_poster.jpg
-    alt: "Book of the Month Club poster with comic-style lettering reading The Library of Radiant Optimism For Let's Re-Make The World, featuring stacked books and yellow lightning bolts; marked FREE"
+    alt: Book of the Month Club poster with comic-style lettering reading The Library of Radiant Optimism For Let's Re-Make The World, featuring stacked books and yellow lightning bolts; marked FREE
 dateRange:
   from: 2010-01-12T18:00
   to: 2010-01-12T20:00
