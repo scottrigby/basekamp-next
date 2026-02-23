@@ -14,7 +14,7 @@ images:
   - src: 2651_74812089898_732739898_2328514_8949_n.jpg
     alt: Red and black gardening containers with seedlings arranged on grass
   - src: 2651_74813709898_732739898_2328561_125802_n.jpg
-    alt: Cardboard box with FREE text and anti-capitalism project label on grass
+    alt: Large plastic rolling bin labelled Free Dirt in outdoor parking lot
   - src: 2651_74825489898_732739898_2328831_6609689_n.jpg
     alt: Papaya seedlings on grass with sign marking anti-capitalism project
   - src: 2651_74825504898_732739898_2328834_7399955_n.jpg
