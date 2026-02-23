@@ -4,7 +4,7 @@ images:
   - src: hourpile2.jpg
     alt: Collection of Ithaca Hours local currency bills in various colorful denominations such as quarter hour, eighth hour
   - src: paultiedyebigcrop.png
-    alt: Portrait photograph of Paul Glover, founder of Ithaca Hours local currency system
+    alt: Portrait photograph of Paul Glover
   - src: ithpowercover.jpg
     alt: Book cover titled Ithaca Power with illustration of people, wind turbine, tree, and building on tan background by Paul Glover
   - src: book.jpg
