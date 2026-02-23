@@ -8,7 +8,7 @@ images:
   - src: 4715809219_88a3a027c3_b.jpg
     alt: FOSSCON banner with white text on dark background displayed at conference
   - src: 4716975845_6563fc9377_b.jpg
-    alt: Attendees gathered around wooden tables with laptops during FOSSCON workshop with brick wall backdrop
+    alt: Attendees gathered around wooden tables with laptops during FOSSCON workshop
   - src: 3679787014_cc56400c38.jpg
     alt: Close-up photograph of vintage computer hardware connector port
   - src: 4717286265_0d9a249623_z.jpg
