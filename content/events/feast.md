@@ -2,7 +2,7 @@
 title: FEAST
 images:
   - src: 45_feast-sign-held_0.jpg
-    alt: Person holding FEAST sign at outdoor community gathering event
+    alt: Person holding FEAST sign seated amidst a group of people at long dining tables with a colorful banner draped above
   - src: 45_2-girl-presenters.jpg
     alt: Two young women presenting on stage with stage lighting and backdrop visible
   - src: feast-plate.png
