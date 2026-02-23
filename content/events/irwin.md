@@ -12,7 +12,7 @@ images:
   - src: winder2_0.jpg
     alt: Six men in dark business suits and fake toothbrush style mustaches standing together in formal group portrait in front of architectural backdrop
   - src: irwin4.jpg
-    alt: Group of people in dark clothing forming a circle holding hands in open field with forest and mountains in background
+    alt: Group of people in traditional European clothing forming a circle holding hands in open field with forest and mountains in background
   - src: nsk_passports2.jpg
     alt: "NSK Point List Citizens' Passports with stacks of black and white booklets, stapler, scissors, and documentation scattered"
   - src: nsk.jpg
