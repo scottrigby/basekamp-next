@@ -10,7 +10,7 @@ images:
   - src: 548397_317826358311903_128713812_n.jpg
     alt: Comic illustration discussing ethics limitations moral grounds and community freedom
   - src: 552738_317826544978551_167370916_n.jpg
-    alt: Handwritten comic page with artist discussing identity and shame about involvement in war production
+    alt: Handwritten comic page with artist discussing identity and shame of survival in the consumerist world
   - src: 553095_317826711645201_99633244_n.jpg
     alt: Comic illustration showing two artists discussing institutional participation and alternative approaches
   - src: 560890_317827208311818_172343140_n.jpg
