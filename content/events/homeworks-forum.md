@@ -6,7 +6,7 @@ images:
   - src: homeworks-plan.png
     alt: Hand-drawn schematic diagram for Home Works Academy showing interconnected boxes with labels for Extension, Small Sustainable Core, Living, and Provisional sections
   - src: homeworks-graff.png
-    alt: Graphic design showing HOME WORKS in large white and black letters with Arabic text and pink graffiti-style marks over gray background
+    alt: Graphic design showing HOME WORKS in large white and black letters with Arabic text and academy in pink graffiti-style underneath
 dateRange:
   from: 2010-04-27T18:00
   to: 2010-04-27T20:00
