@@ -18,7 +18,7 @@ images:
   - src: 564017_317826808311858_267149823_n.jpg
     alt: Comic illustration with central question about role and dominance of art today
   - src: 577283_317827161645156_914232302_n.jpg
-    alt: Comic showing figure planning creation needing recognition work and struggling with exploitation
+    alt: Comic showing artist struggling with needing recognition and pressure of exploitation
   - src: 600263_317826488311890_383438670_n.jpg
     alt: Comic depicting group of yellow figures in discussion about ethical praxis in art world
 dateRange:
