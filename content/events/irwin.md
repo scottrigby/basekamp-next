@@ -2,7 +2,7 @@
 title: IRWIN
 images:
   - src: eam_600.jpg
-    alt: Gallery installation of East Art Map project showing suspended canvas structure and wooden tables with materials
+    alt: Gallery installation of a tent structure, wooden tables and a projector screen depicting green aerial mountain view
   - src: nsk-state.jpg
     alt: Photograph of four people in green military uniforms standing in front of NSK FARPA banner in Pristina
   - src: noordung34v.jpg
