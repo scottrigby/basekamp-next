@@ -8,7 +8,7 @@ images:
   - src: 2651_74810634898_732739898_2328426_4963516_n.jpg
     alt: Wooden box painted with red text reading zero dollars, free money box
   - src: 2651_74810599898_732739898_2328420_1343892_n.jpg
-    alt: Collection of toys on grass with sign reading Problem: unwanted christmas presents, Solution: free store
+    alt: "Collection of toys on grass with sign reading Problem: unwanted christmas presents, Solution: free store"
   - src: 2651_74810624898_732739898_2328425_2069607_n.jpg
     alt: Outdoor shelf display with FREE STORE sign containing various items and stuffed animals
   - src: 2651_74812089898_732739898_2328514_8949_n.jpg
