@@ -6,7 +6,7 @@ images:
   - src: p2pexchange_a5flyer.jpg
     alt: P2P Exchange event flyer
   - src: tic_logo.jpg
-    alt: Poster showing gray crocheted cat figure holding small weapon with orange text "TRUTH IS CONCRETE" and caption about depicting uranium munitions
+    alt: Poster titled Truth is Concrete, showing gray crocheted cat figure with bloodied arm
 dateRange:
   from: 2012-09-26T08:00
   to: 2012-09-26T10:00
