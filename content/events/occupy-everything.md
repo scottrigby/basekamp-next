@@ -6,7 +6,7 @@ images:
   - src: 308154_125927104176832_120049568097919_91813_1259422170_n.jpg
     alt: Occupy Wall Street encampment showing many colorful tents arranged in a park plaza area with trees
   - src: philly-protest.png
-    alt: Occupy Philadelphia protest with people holding signs including Fight Back Philly and environmental justice messages
+    alt: Protest with people holding signs including Fight Back Philly, Occupy Philly
   - src: 313719_124653050970904_120049568097919_89135_1972405489_n.jpg
     alt: Crowd of Occupy protesters at base of neoclassical government building with white columns holding signs including This Is Real
   - src: 294069_124140904355452_120049568097919_87816_461925646_n.jpg
