@@ -4,7 +4,7 @@ images:
   - src: top-color5.png
     alt: Retro media artwork with text Offrez-Vous Le Nouveau Top-Color 5; old television screen shows a person blindfolded and mouth taped
   - src: logo.png
-    alt: Colored block logo with red, blue, yellow, and green squares labeled NORTH EAST WEST SOUTH
+    alt: NEWS logo with each letter labeled north, east, west, south
   - src: godard-caption2.jpg
     alt: Jean-Luc Godard photograph with blue pixelated text overlay reading Television viewers ought to be paid to watch television
 dateRange:
