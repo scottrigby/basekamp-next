@@ -10,7 +10,7 @@ images:
   - src: pad.ma_workshop_beitut_sanayeh04.jpg
     alt: Workshop with people gathered around table with laptops, black and white photographs and drawings on wall, collaborative work session
   - src: steal_this_film.large_.jpg
-    alt: Title card with text Steal This Film in large black letters on blue background with yellow-orange rectangular lights above
+    alt: Projector screen reading Steal This Film in large black letters on blue background
 dateRange:
   from: 2010-08-17T18:00
   to: 2010-08-17T20:00
