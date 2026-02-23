@@ -6,7 +6,7 @@ images:
   - src: yes_no_9-3.jpg
     alt: Large group of people standing and gathering in front of projection screen displaying other people engaged in discussion
   - src: img_5146.jpg
-    alt: Group of people from behind with arms raised in celebration on elevated outdoor space with city buildings visible in background
+    alt: Group of people from behind with arms raised in celebration outdoors with city buildings visible in background
 dateRange:
   from: 2011-11-08T18:00
   to: 2011-11-08T20:00
