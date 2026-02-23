@@ -6,7 +6,7 @@ images:
   - src: paultiedyebigcrop.png
     alt: Portrait photograph of Paul Glover
   - src: ithpowercover.jpg
-    alt: Book cover titled Ithaca Power with illustration of people, wind turbine, tree, and building on tan background by Paul Glover
+    alt: Article cover titled Ithaca Power with illustration of people, wind turbine, tree, and building on tan background by Paul Glover
   - src: book.jpg
     alt: Book cover with yellow background showing Health Democracy text and sun logo, Liberating Americans from Medical Insurance by Paul Glover
   - src: labornote.jpg
