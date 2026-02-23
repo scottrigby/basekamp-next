@@ -6,7 +6,7 @@ images:
   - src: 3806666946_ee655f0970.jpg
     alt: Rustic wooden cabin with white laundry hanging on clothesline, wooden chairs, and people on the lawn
   - src: free_pesto01.jpg
-    alt: Person preparing food in a kitchen with large windows and bowls of fresh greens and salad ingredients on table
+    alt: Person preparing food in a kitchen with bowls of fresh basil and large windows in the background
   - src: tent1.jpg
     alt: Glamping canvas tent setup at Mildred's Lane showing interior furnishings and outdoor seating area
   - src: 3805994183_bd8d706306.jpg
