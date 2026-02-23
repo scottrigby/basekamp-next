@@ -18,7 +18,7 @@ images:
   - src: weedwalk_33vacant.jpg
     alt: Two people standing by chain-link gate in overgrown vacant lot bordered by brick buildings and power lines
   - src: 01_prima2.jpg
-    alt: Black and white nighttime photograph of circular kiosk structure with illuminated building in background and parked cars
+    alt: Black and white nighttime photograph of parking lot with small neoclassical circular building about the size of a car 
 dateRange:
   from: 2011-08-09T18:00
   to: 2011-08-09T20:00
