@@ -12,7 +12,7 @@ images:
   - src: 552738_317826544978551_167370916_n.jpg
     alt: Handwritten comic page with artist discussing identity and shame of survival in the consumerist world
   - src: 553095_317826711645201_99633244_n.jpg
-    alt: Comic illustration showing two artists discussing institutional participation and alternative approaches
+    alt: Comic illustration showing artists discussing institutional participation and political art approaches
   - src: 560890_317827208311818_172343140_n.jpg
     alt: Comic page depicting electronic devices commodification and artistic practice with text and drawings
   - src: 564017_317826808311858_267149823_n.jpg
