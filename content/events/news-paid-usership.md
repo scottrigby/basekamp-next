@@ -2,7 +2,7 @@
 title: n.e.w.s. paid usership
 images:
   - src: top-color5.png
-    alt: Retro media artwork with text Offrez-Vous Le Nouveau Top-Color 5; old television screen imagery
+    alt: Retro media artwork with text Offrez-Vous Le Nouveau Top-Color 5; old television screen shows a person blindfolded and mouth taped
   - src: logo.png
     alt: Colored block logo with red, blue, yellow, and green squares labeled NORTH EAST WEST SOUTH
   - src: godard-caption2.jpg
