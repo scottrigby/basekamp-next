@@ -2,7 +2,7 @@
 title: Hand-in-Glove
 images:
   - src: hand-in-glove.png
-    alt: Hand-in-Glove Conference logo in gray outline text with small red diagonal marks replacing dots
+    alt: Hand-in-Glove Conference logo
   - src: 6287480919_f48a2d595c_b.jpg
     alt: Two people examining rolled-up architectural plans in an art gallery with exposed wooden beams and audience seated watching
   - src: 6288000040_2eaf85fa80_b.jpg
