@@ -8,7 +8,7 @@ images:
   - src: philly-protest.png
     alt: Protest with people holding signs including Fight Back Philly, Occupy Philly
   - src: 313719_124653050970904_120049568097919_89135_1972405489_n.jpg
-    alt: Crowd of Occupy protesters at base of neoclassical government building with white columns holding signs including This Is Real
+    alt: Crowd of protesters at base of government building holding signs including This Is Real
   - src: 294069_124140904355452_120049568097919_87816_461925646_n.jpg
     alt: Email message from Noam Chomsky showing solidarity and support for Occupy Philadelphia movement
   - src: 316762_2067985899784_1248914882_31848403_1365491723_n.jpg
