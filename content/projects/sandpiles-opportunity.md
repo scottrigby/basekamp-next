@@ -19,7 +19,7 @@ images:
   - src: 67.jpg
     alt: Fractal Workspace business card standing upright in sand structure showing contact information for Chicago location
   - src: 72.jpg
-    alt: Another view of Fractal Workspace business card embedded in sand mound with red marker visible in background
+    alt: Topdown view of Fractal Workspace business card embedded in sand building structure with other markers in surrounding sand
   - src: 74.jpg
     alt: Section of sand installation featuring bright yellow ball, green container, and various small markers and objects
   - src: 80.jpg
