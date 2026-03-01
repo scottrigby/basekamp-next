@@ -7,7 +7,7 @@ images:
   - src: thumb-135_4.jpg
     alt: Computer monitor showing video call interface with four people seated at a table in front of hexagonal wall display
   - src: nl6.jpg
-    alt: Interior view of video conference meal at Basekamp showing participants seated at orange table with food, large projection screen on left displaying remote participant, and wooden walls with shelving in background
+    alt: Side view of video conference meal showing participants seated at large table with food, projection screen on left displaying remote participant, and hexagonal wall art on the right
 dateRange:
   from: 2006-03-01
   to: ""
