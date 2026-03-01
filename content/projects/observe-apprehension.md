@@ -7,7 +7,7 @@ images:
   - src: dsc_8520.jpg
     alt: Close-up of light blue uniform shirt with gold star insignia, service ribbon, and triangular patch
   - src: dsc_8518.jpg
-    alt: Two light blue uniform shirts with triangular pocket details and official-looking patches hanging on a rack, custom designed for the performance piece.
+    alt: Two light blue uniform shirts with triangular pocket details and official-looking patches hanging on a rack
 dateRange:
   from: 2010-10-25
   to: ""
