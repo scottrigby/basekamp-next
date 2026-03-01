@@ -9,7 +9,7 @@ images:
   - src: basekamp2_0.jpg
     alt: Participants walking along urban sidewalk carrying bright blue flag markers
   - src: meal01.jpg
-    alt: Six people seated around table with blue tablecloth having meal and discussion, food bowls visible
+    alt: Five people seated around table with blue tablecloth having meal and discussion, food bowls visible
   - src: webcast02.jpg
     alt: Grid of video conference feeds showing participants from multiple cities including Philadelphia, Portland, New York, Chicago, Malmö, London, Copenhagen, and Atlanta
   - src: 01_1.jpg
