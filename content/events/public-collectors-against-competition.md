@@ -8,7 +8,7 @@ images:
   - src: mfrecords3.jpg
     alt: "Black metal shelving unit filled with vinyl records, one record by Armand Schaubraeck visible in foreground"
   - src: screen_shot_2009-12-30_at_8.46.41_am.png
-    alt: "Website screenshot or digital interface documentation related to Public Collectors project"
+    alt: "Grid of photo documentation featuring various people, animals, and objects related to Public Collectors project"
   - src: reddotrentalsmall.jpg
     alt: "Collection documentation photograph showing organized items or artifacts from personal collection being inventoried for public access"
   - src: mexico1.png
