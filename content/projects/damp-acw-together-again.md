@@ -21,7 +21,7 @@ images:
   - src: Untitled_13.jpg
     alt: Close-up of hand wearing orange glove moving eel from a pot into a large blue tub with several live eels swimming in water
   - src: BandRoom.jpg
-    alt: Small room bathed in red light, densely packed with musical instruments, Marshall amplifiers, guitars on walls, and illuminated TV monitor
+    alt: Small room bathed in red light, densely packed with cardboard guitars and amplifiers, with illuminated TV monitor
   - src: DeadDamp.jpg
     alt: White wall displaying framed group photograph mounted on black painted form with dripping effect and wooden stick protruding
   - src: Start.jpg
