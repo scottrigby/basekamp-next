@@ -47,7 +47,7 @@ images:
   - src: DSC09307.jpg
     alt: Visitors viewing tri-fold displays at exhibition
   - src: DSC09308.jpg
-    alt: Gallery view with visitors examining display boards during opening, colorful posters and wall panels visible
+    alt: Visitors conversing next to display boards during exhibition opening
   - src: DSC09309.jpg
     alt: Person standing next to colorful display boards with text 'connect' visible on the wall behind them
   - src: DSC09310.jpg
