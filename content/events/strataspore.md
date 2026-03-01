@@ -12,7 +12,7 @@ images:
   - src: img_2024.jpg
     alt: "Row of tables with straw on top and people lined up, one person on the end packaging bundle of straw into cardboard box"
   - src: mushroom131.jpg
-    alt: "Large public mushroom installation arranged in spiral pattern on grass in urban plaza with trees"
+    alt: "Large paper mushroom installation arranged in spiral pattern on grass in urban plaza"
   - src: img_4743.jpg
     alt: "Mushroom specimen documentation for identification and scientific study"
   - src: dscn1242.jpg
