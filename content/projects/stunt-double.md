@@ -11,7 +11,7 @@ images:
   - src: open.jpg
     alt: Newspaper classified advertisement reading "WANTED! 200 extras for the production of STUNT DOUBLE" with details about showing up to Base Kamp dressed for art opening
   - src: close.jpg
-    alt: Repeated poster design showing four blue-tinted images of person crouching in white tank top with "STUNT DOUBLE" text and event information
+    alt: Repeated poster design showing four blue-tinted images of person crouching in white flightsuit with 'Stunt Double' text and event information
   - src: main.jpg
     alt: Two people standing in front of painted wall mural at ICA, snapshot showing green and orange geometric shapes
   - src: resp.jpg
