@@ -9,7 +9,7 @@ images:
   - src: close-up-video.jpg
     alt: Green gallery wall with small framed photographs arranged horizontally, and a monitor displaying video footage of people in a gallery space.
   - src: north-wall.jpg
-    alt: Gallery installation with bright green walls, small framed photographs arranged in a horizontal line, and a doorway at floor level.
+    alt: Gallery installation with bright green walls, small framed photographs arranged in a horizontal line, and a small alcove at floor level.
 dateRange:
   from: 2001-05-01
   to: 2001-06-15
