@@ -15,7 +15,7 @@ images:
   - src: 5.-ltr.jpg
     alt: Two CRT monitors on wooden stands displaying synchronized video footage in a gallery corner.
   - src: lust-for-life.jpg
-    alt: Side-by-side comparison of Kirk Douglas in 'Lust for Life' and an artist's reenactment of the Van Gogh scene.
+    alt: Side-by-side comparison of Kirk Douglas in 'Lust for Life' portraying Van Gogh standing behind a tree and an artist's reenactment of the scene.
   - src: vincent--theo.jpg
     alt: Side-by-side video stills comparing an original film scene with artists' reenactment, both showing emotional performances.
 dateRange:
