@@ -4,7 +4,7 @@ images:
   - src: john_cage_mainimage.jpg
     alt: "Black and white historical photograph of person holding mushroom with text John Cage and Allan Kaprow met on a mushroom hunt"
   - src: img_3286.jpg
-    alt: "Repurposed yellow school bus structure positioned in outdoor garden surrounded by trees and vegetation"
+    alt: "Yellow school bus parked in outdoor garden surrounded by trees and vegetation"
   - src: img_2104.jpg
     alt: "Mushroom specimen documentation photograph showing fungal growth"
   - src: img_3187.jpg
