@@ -21,7 +21,7 @@ images:
   - src: P1010036_2.jpg
     alt: Gallery view showing series of large-scale black and white portrait photographs leaning against wall on wooden supports in industrial space
   - src: P1010037_1.jpg
-    alt: Close-up view of four large-scale black and white facial portraits showing different individuals, mounted on panels leaning against gallery wall
+    alt: Wide view of row of large-scale black and white facial portraits showing different individuals, mounted on panels leaning against gallery wall
   - src: P1010041_0.jpg
     alt: Wide gallery view showing complete installation of large-scale portrait photographs arranged in sequence along wall with perforated panel visible on right
 dateRange:
