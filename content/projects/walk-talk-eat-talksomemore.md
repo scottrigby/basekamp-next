@@ -37,7 +37,7 @@ images:
   - src: meal2_0.jpg
     alt: Group of people seated on couch and chairs watching projected image in living room during webcast event
   - src: 08_0.jpg
-    alt: White railing or banner with hand-painted red text reading "LOOK ↑ TREEROOT"
+    alt: White railing with hand-painted red text reading 'Look Treeroot' with arrow pointing upwards
   - src: 02_0.jpg
     alt: View beneath bridge showing water, concrete pillars, and debris-strewn muddy bank
   - src: Jessica.jpg
