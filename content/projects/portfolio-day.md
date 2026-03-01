@@ -11,7 +11,7 @@ images:
   - src: from-pdf.jpg
     alt: Three-panel composite showing a man gesturing near red-framed documents, two men seated at an information table, and a close-up of a blue-framed document showing UCLA MFA program details.
   - src: questionnaire.jpg
-    alt: Two men in suits seated at an information table with coffee cups, a candy bowl, questionnaires, and green pens, appearing as official representatives.
+    alt: Two men in suits seated at an information table with coffee cups, a candy bowl, clipboards, and a binder
 dateRange:
   from: 1999-10-01
   to: 1999-10-31
