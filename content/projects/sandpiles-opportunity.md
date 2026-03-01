@@ -11,7 +11,7 @@ images:
   - src: 26.jpg
     alt: Sand installation with varied topography including pyramidal forms and flat areas marked with small white flags, person visible in blurred background
   - src: 64.jpg
-    alt: Detailed view of carved sand block showing ribbed horizontal texture pattern with small flag marker protruding from top
+    alt: Detailed view of sand house structure showing raked texture pattern on roof with small flag marker protruding from top
   - src: 65.jpg
     alt: Pair of green Versionfest branded sunglasses partially buried in sandy surface alongside other small markers
   - src: 66.jpg
