@@ -2,7 +2,7 @@
 title: Potluck chat & Vagabondism Class with Mike Wolf - June 9th
 images:
   - src: vaga6-9.jpg
-    alt: "Technical blueprint schematic drawings showing two views of mobile living vehicle with floor plan layouts and side profiles with annotations and measurements"
+    alt: "Technical drawing of mobile living vehicle side profile with annotations and measurements"
 dateRange:
   from: 2009-06-09T18:00
   to: 2009-06-09T23:00
