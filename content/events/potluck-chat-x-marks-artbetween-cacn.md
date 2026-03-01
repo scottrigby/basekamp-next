@@ -2,7 +2,7 @@
 title: "Potluck chat: x-marks artbetween & CACN"
 images:
   - src: gao600.jpg
-    alt: "Two men in black caps and blazers posing with bronze sculptures, professional studio photography with gray background"
+    alt: "Two men in black caps and blazers posing beside bronze sculpture of headless man kneeling, man on left is holding the head of the sculpture"
   - src: call.gif
     alt: "Call For Submissions announcement graphic for Break on Through to the Other Side showing artbetween and China Art Criticism Network event, Berlin Wall with crowds and colorful graffiti, November 2009"
   - src: colmar.jpg
