@@ -10,7 +10,7 @@ images:
   - src: img_3187.jpg
     alt: "Large bulbous yellow mushroom with red and blue stem growing outside"
   - src: img_2024.jpg
-    alt: "Outdoor mushroom cultivation environment showing growth in natural setting"
+    alt: "Row of tables with straw on top and people lined up, one person on the end packaging bundle of straw into cardboard box"
   - src: mushroom131.jpg
     alt: "Large public mushroom installation arranged in spiral pattern on grass in urban plaza with trees"
   - src: img_4743.jpg
