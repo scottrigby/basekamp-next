@@ -6,7 +6,7 @@ images:
   - src: simonphone.jpg
     alt: "Man in dark t-shirt sitting on black platform using bright orange retro rotary phone, white gallery walls with geometric floor pattern"
   - src: 24.jpg
-    alt: "Open cardboard box containing white cylindrical beaded objects stacked and arranged with dark band markings inside"
+    alt: "White and brown cylindrical beads stacked to spell 24$ surrounded by pieces of cardboard"
 dateRange:
   from: 2009-09-22T18:00
   to: 2009-09-22T20:00
