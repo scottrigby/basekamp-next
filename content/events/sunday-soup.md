@@ -18,7 +18,7 @@ images:
   - src: 2837634846_a5d785a943_b.jpg
     alt: Large group of people gathered around long table with food, plates, and drinks during community meal
   - src: 3483425260_9c46fe70f5_b.jpg
-    alt: People standing during Sunday Soup event with presentation and decorations visible in background
+    alt: Presentation projection showing Brains Brilliancy Bohemia Art and Politics in Jazz-Age Chicago with colorful decorations and people in foreground
 dateRange:
   from: 2010-12-05T18:00
   to: 2010-12-05T20:00
