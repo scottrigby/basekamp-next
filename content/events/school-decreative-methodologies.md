@@ -2,7 +2,7 @@
 title: A School of Decreative Methodologies
 images:
   - src: capture_cdlbdpen.jpg
-    alt: "Red background text display of Paris Biennial College School of Decreative Methodologies charter with founding principles and multilingual options"
+    alt: "Poster titled Paris Biennial College with subtitle School of Decreative Methodologies charter with founding principles and multilingual options"
   - src: amicale.jpg
     alt: "Black and white photograph of collegial gathering with multiple participants seated at table with documents and water glasses in collaborative discussion"
   - src: cartexvbdp_zoom.jpg
