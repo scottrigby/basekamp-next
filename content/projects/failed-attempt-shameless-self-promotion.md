@@ -9,7 +9,7 @@ images:
   - src: p1-larger.jpg
     alt: Framed document page titled 'Rigby Scott, Failed attempt at Shameless Self-Promotion' accompanied by three video stills at the bottom.
   - src: p2-larger.jpg
-    alt: Framed document page with typed text about meeting Kiki Smith, with two very dark photographs at the bottom showing the encounter.
+    alt: Framed document page with typed text about meeting Kiki Smith, with two indecipherable dark photographs at the bottom showing the encounter.
   - src: p3-larger.jpg
     alt: Framed document page with typed text about meeting Sol LeWitt, accompanied by two photographs showing the elderly artist shaking hands with younger men.
 dateRange:
