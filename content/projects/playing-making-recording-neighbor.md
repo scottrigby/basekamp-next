@@ -11,7 +11,7 @@ images:
   - src: smimg_8549-small.jpg
     alt: Recording session in progress with five people singing into a microphone stand, and a person in a turquoise shirt seated in foreground with open laptop
   - src: smimg_8450-small.jpg
-    alt: Two men reading from papers and singing into a shared microphone by a window, one in plaid shirt
+    alt: Two men singing into a shared microphone by a window, reading from a notebook
 dateRange:
   from: 2010-10-23
   to: ""
