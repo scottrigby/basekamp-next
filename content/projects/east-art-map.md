@@ -11,7 +11,7 @@ images:
   - src: EAM-Flyer3-red.gif
     alt: Red poster design titled East Art Map featuring black silhouette of tower with crowd and black star, advertising film screenings and regular screenings at Basekamp
   - src: eastartmap-mit.jpg
-    alt: Book cover for "EAST ART MAP" published by MIT Press, featuring large yellow star on vibrant red background
+    alt: Book cover for 'East Art Map' featuring large yellow star on vibrant red background
   - src: eastartmap2.jpg
     alt: Book mockup showing "NEW MOMENT ARTFORUM" magazine with "EAST ART MAP" text overlaid on grayscale map of Europe
   - src: web02.jpg
