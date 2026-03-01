@@ -9,7 +9,7 @@ images:
   - src: 2_0.jpg
     alt: Lower class bar section bathed in red light, with backlit beer bottles and white furniture. Caption reads '6 inches height x 8 feet width x 12 feet depth, served Yeungling beer.'
   - src: 3_0.jpg
-    alt: Middle and upper class bar sections with yellow and purple lighting. Middle class bar served wine at 2 feet height, upper class bar served martinis at 4 feet height.
+    alt: Middle and upper class bar sections with yellow and purple lighting. Middle class bar positioned at 2 feet height served wine, upper class bar at 4 feet height served martinis
   - src: 1_0.jpg
     alt: Piles of custom 'Basekamp bucks' play money distributed randomly at the door to participants.
   - src: 2_1.jpg
