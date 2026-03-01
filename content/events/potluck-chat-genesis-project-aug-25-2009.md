@@ -20,7 +20,7 @@ images:
   - src: 25644411.jpg
     alt: "Close up of two people laying on a large sheet of orange paper, each with two pencils in both hands, drawing lines on the paper"
   - src: writing04.jpg
-    alt: "Documentation of written or text-based artistic work created during Genesis Project residency"
+    alt: "Handwritten notes on white paper featuring a small drawing of a person unicycling on a tightrope"
   - src: 25647403-2b693d4b06945278247b974529d106fd.4a946d65-full.jpg
     alt: "Artistic process documentation showing body-based creative work from Genesis Project residency"
 dateRange:
