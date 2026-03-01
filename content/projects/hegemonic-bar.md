@@ -31,7 +31,7 @@ images:
   - src: logo.jpg
     alt: Hegemonic Bar announcement flyer with abstract martini glass icons, event details for March 12, 1999 opening at Basekamp.
   - src: money.jpg
-    alt: Sheet of custom play money in denominations of $1, $5, and $10 featuring martini glass symbols, designed for the Hegemonic Bar drinking game.
+    alt: Sheet of custom play money in denominations of $1, $5, and $10 featuring beer mug, wine glass, and martini glass symbols.
 dateRange:
   from: 1999-03-12
   to: 1999-03-31
