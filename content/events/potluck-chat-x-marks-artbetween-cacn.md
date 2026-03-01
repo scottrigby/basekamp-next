@@ -4,7 +4,7 @@ images:
   - src: gao600.jpg
     alt: "Two men in black caps and blazers posing beside bronze sculpture of headless man kneeling, man on left is holding the head of the sculpture"
   - src: call.gif
-    alt: "Call For Submissions announcement graphic for Break on Through to the Other Side showing artbetween and China Art Criticism Network event, Berlin Wall with crowds and colorful graffiti, November 2009"
+    alt: "Call For Submissions announcement graphic, subtitle: Break on Through to the Other Side, artbetween and China Art Criticism Network event, featuring image of Berlin Wall with crowds and colorful graffiti, November 2009"
   - src: colmar.jpg
     alt: "Statue of Liberty replica in traffic roundabout surrounded by vehicles and commercial buildings, overcast sky, green grass landscaping"
 dateRange:
