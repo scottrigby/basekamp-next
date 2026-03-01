@@ -15,7 +15,7 @@ images:
   - src: strike-5.jpg
     alt: Freestanding panel with red striped border displaying a grid of text in a dark gallery space.
   - src: bignothing_128.gif
-    alt: Logo for 'The Big Nothing' showing yellow rays emanating from blue stylized text.
+    alt: 'The Big Nothing' logo showing yellow rays emanating from blue hole.
 dateRange:
   from: 2004-07-09
   to: 2004-08-20
