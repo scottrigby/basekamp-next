@@ -22,8 +22,8 @@ Please join us for another event in a year-long series of weekly conversations a
 
 This Tuesday we’ll be talking to Federico Geller, a founding member of the Buenos Aires-based group Abriendo Caminos / La Comunitaria TV, a collective which uses popular pedagogy principles to carry out training workshops on media tools — including video, radio and other art-related practices — with groups and communities whose use of media is all to often as consumers rather than producers.
 
-[http://www.colectivoabriendocaminos.blogspot.com/](http://www.colectivoabriendocaminos.blogspot.com/ "http://www.colectivoabriendocaminos.blogspot.com/")  
- [http://comunitariatv.blogspot.com/](http://comunitariatv.blogspot.com/ "http://comunitariatv.blogspot.com/")  
+[http://www.colectivoabriendocaminos.blogspot.com/](http://www.colectivoabriendocaminos.blogspot.com/ "http://www.colectivoabriendocaminos.blogspot.com/")\
+ [http://comunitariatv.blogspot.com/](http://comunitariatv.blogspot.com/ "http://comunitariatv.blogspot.com/")\
  [http://www.quevivaladiversidad.blogspot.com/](http://www.quevivaladiversidad.blogspot.com/ "http://www.quevivaladiversidad.blogspot.com/")
 
 “Communication”, the group asserts, “is a human right that is curtailed when the media of expression and distribution are concentrated in a few hands alone. With our own media, we seek to multiply the voices, the perspectives and proposals that enable us to move toward a more democratic society.” On this basis, the group works very concretely to construct and share popular communications tools to produce a diversity of voices — and above all to open spaces where voices typically dismissed as noise make themselves heard as necessary and dissenting parts of the conversation in an non egalitarian society. The collective also works towards producing documents and records of social struggles, and on political intervention in public space using different types of visual and other media. It produces Radionautas, a weekly radio program in and for Don Orione, a densely populated but neglected neighborhood in the outskirts of Buenos Aires.
@@ -32,8 +32,8 @@ What does it mean to use art-related communications tools and practices for such
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 To join this week’s Potluck Chat:
@@ -43,6 +43,6 @@ To join this week’s Potluck Chat:
 - Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’
 - We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

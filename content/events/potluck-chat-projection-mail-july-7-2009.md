@@ -12,7 +12,7 @@ Hi everyone,
 
 Tonight we’ll be talking with Scott Shall, professor of architecture at Tyler School of Art and director of the International Design Clinic. Scott will be talking about the project ‘Projection Mail’.
 
-Here’s a link to the project:  
+Here’s a link to the project:\
 [http://www.internationaldesignclinic.org/make/sp09/](http://www.internationaldesignclinic.org/make/sp09/ "http://www.internationaldesignclinic.org/make/sp09/")
 
 Here’s a little more info:
@@ -25,6 +25,6 @@ PUBLICS STIMULUS PACKAGES is an open-ended series of exhibitions (ACTS) and conv
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

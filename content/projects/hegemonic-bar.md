@@ -39,8 +39,8 @@ dateRange:
 
 **Project description**
 
-Hegemonic Bar  
-members of basekamp & friends  
+Hegemonic Bar\
+members of basekamp & friends\
 1999, Base Kamp gallery
 
 The exhibition was named after, and based on, neo-Gramscian hegemony theory. Using this as a departure point, the Base Kamp created the Hegemonic Bar, with the consumption of alcohol as representative of class struggle.
@@ -61,15 +61,15 @@ THE HEGEMONIC BAR PERFORMERS INSTRUCTIONS –IF YOU NEED ASSISTANCE OR HAVE QUES
 
 **Credits**
 
-CONCEIVED, CREATED, AND PRODUCED BY THE MEMBERS OF BASE KAMP  
-Scott Rigby, David S. Dempewolf, Leigh Stevens, Christine Stoughton, Justin Matherly, and Scott Kip  
-PRESENTED BY BASE KAMP & FRIENDS MARCH 12, 1999  
-SET DESIGN & CONSTRUCTION BY David S. Demplewolf, Justin Matherly, & Scott Rigby  
-SET CONSTRUCTION ASSISTANTS Leigh Stevens, Cristine Stoughton, Scott Kip, Ryan Kattner, John Lorenzini, & Samantha Stoughton  
-LIGHTING DESIGN BY Jeff Foye  
-GRAPHIC DESIGN BY Scott Rigby, Justin Matherly & Leigh Stevens  
-VIDEO CONSULTANTS Ryan Kattner, Joe O’neil, & James Gaynor  
-COSTUME DESIGN Scott Rigby  
-PERFORMED BY members of BASE KAMP and Trish Yencha, Jason Yencha, John Lorenzini, Georginia Tobiska, Ed Kazarin, Jeff Foye, Mauro Zamora, Marc Robinson, Elizabeth Bell, & Steffka Ammon  
-MUSIC ARRANGEMENT Timothy Day  
+CONCEIVED, CREATED, AND PRODUCED BY THE MEMBERS OF BASE KAMP\
+Scott Rigby, David S. Dempewolf, Leigh Stevens, Christine Stoughton, Justin Matherly, and Scott Kip\
+PRESENTED BY BASE KAMP & FRIENDS MARCH 12, 1999\
+SET DESIGN & CONSTRUCTION BY David S. Demplewolf, Justin Matherly, & Scott Rigby\
+SET CONSTRUCTION ASSISTANTS Leigh Stevens, Cristine Stoughton, Scott Kip, Ryan Kattner, John Lorenzini, & Samantha Stoughton\
+LIGHTING DESIGN BY Jeff Foye\
+GRAPHIC DESIGN BY Scott Rigby, Justin Matherly & Leigh Stevens\
+VIDEO CONSULTANTS Ryan Kattner, Joe O’neil, & James Gaynor\
+COSTUME DESIGN Scott Rigby\
+PERFORMED BY members of BASE KAMP and Trish Yencha, Jason Yencha, John Lorenzini, Georginia Tobiska, Ed Kazarin, Jeff Foye, Mauro Zamora, Marc Robinson, Elizabeth Bell, & Steffka Ammon\
+MUSIC ARRANGEMENT Timothy Day\
 MUSIC DIRECTOR Leigh Dawn Stevens

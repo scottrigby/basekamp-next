@@ -10,7 +10,7 @@ dateRange:
 
 Hi everyone,
 
-This week we’ll be talking with George Scheer from Elsewhere Artist Collaborative in Greensboro, North Carolina:  
+This week we’ll be talking with George Scheer from Elsewhere Artist Collaborative in Greensboro, North Carolina:\
 [http://www.elsewhereelsewhere.org](http://www.elsewhereelsewhere.org "http://www.elsewhereelsewhere.org")
 
 For more info, read the personal message from George, below…
@@ -23,14 +23,14 @@ For more info, read the personal message from George, below…
 >
 > These are just some of the directions we may go, as i hope to introduce all of you to Elsewhere, our community, and programming philosophies. If you want a heads up, check us out online at [www.elsewhereelsewhere.org](http://www.elsewhereelsewhere.org "www.elsewhereelsewhere.org"), and cruise through the artist blogs created by our residents. I hope that i will be able to do a skype video and give you all a walking tour as we talk–
 >
-> looking forward to becoming friends,  
-> george  
+> looking forward to becoming friends,\
+> george\
 > Elsewhere Artist Collaborative
 
 —
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

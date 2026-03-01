@@ -28,12 +28,12 @@ We look forward to seeing you!
 
 ### More on Utopia School
 
-[http://utopiaschool.org](http://utopiaschool.org "http://utopiaschool.org")  
-[http://thepublicschool.org/about/utopia-school](http://thepublicschool.org/about/utopia-school "http://thepublicschool.org/about/utopia-school")  
+[http://utopiaschool.org](http://utopiaschool.org "http://utopiaschool.org")\
+[http://thepublicschool.org/about/utopia-school](http://thepublicschool.org/about/utopia-school "http://thepublicschool.org/about/utopia-school")\
 [https://www.facebook.com/UtopiaSchool](https://www.facebook.com/UtopiaSchool "https://www.facebook.com/UtopiaSchool")
 
 ### Follow Basekamp
 
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
-[http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")  
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
+[http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")\
 [https://www.facebook.com/BasekampGroup](https://www.facebook.com/BasekampGroup "https://www.facebook.com/BasekampGroup")

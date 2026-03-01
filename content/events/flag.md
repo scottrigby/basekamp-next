@@ -12,8 +12,8 @@ dateRange:
 
 January 13th and 14th 2011, 6-8pm.
 
-Basekamp - 723 Chestnut Street, 2nd Floor - Philadelphia, PA 19106  
-…  
+Basekamp - 723 Chestnut Street, 2nd Floor - Philadelphia, PA 19106\
+…\
 “A flag is generally used symbolically for signaling or identification. National flags are potent patriotic symbols with varied wide-ranging interpretations, often including strong military associations due to their original and ongoing military uses“. [http://en.wikipedia.org/wiki/Flag](http://en.wikipedia.org/wiki/Flag "http://en.wikipedia.org/wiki/Flag")
 
 It’s interesting to explore perspectives on flags nowadays, knowing that the historic period in which they were created is now in the long past.
@@ -26,7 +26,7 @@ This difference of perception, primarily cultural has prompted this proposal of 
 
 - The first day, Michael C. Axelrod (Development Dir. of Philadelphia Flag Day Association) will give a presentation on the first flags of America, when the rules regarding the disposition of colors, stripes and stars were not yet established. Matthew J. O’Connor (Chief Operations Officer for Humphrys Flag Co.) will bring old and new version of the same flags, and talk about the importance of the flag as a symbol as well as the changes in manufacturing technologies and the growth of the industry.
 
-[http://flagdayassociation.com/](http://flagdayassociation.com/ "http://flagdayassociation.com/")  
+[http://flagdayassociation.com/](http://flagdayassociation.com/ "http://flagdayassociation.com/")\
 [http://www.bannersasap.com/](http://www.bannersasap.com/ "http://www.bannersasap.com/")
 
 - Fayçal Baghriche is an Algerian artist who works and lives in Paris. The second day, at Basekamp and on Skype, he will present his work, and additionally use his collection of artist works which incorporate flags to talk about the symbolism of flags, and its uses in a wide variety of societal spheres.
@@ -35,11 +35,11 @@ This difference of perception, primarily cultural has prompted this proposal of 
 
 To join the Chat the second day with Fayçal Baghriche:
 
-\* Download from skype.com if you don’t already have it  
-\* In Skype “Add a contact”: basekamp  
-\* Send a message when you want to join the chat, by selecting us from your  
- list and clicking ‘Start chat’  
-\* We’ll add you to the text chat, and when everyone is ready we’ll start  
+\* Download from skype.com if you don’t already have it\
+\* In Skype “Add a contact”: basekamp\
+\* Send a message when you want to join the chat, by selecting us from your\
+ list and clicking ‘Start chat’\
+\* We’ll add you to the text chat, and when everyone is ready we’ll start\
  the conference call
 
 This event is open to the public, feel free to come and participate.

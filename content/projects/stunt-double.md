@@ -37,7 +37,7 @@ dateRange:
   to: 1999-06-24
 ---
 
-David Dempewolf, Scott Rigby, Philip Simmons, Megan Ganser  
+David Dempewolf, Scott Rigby, Philip Simmons, Megan Ganser\
 1999. Basekamp Gallery, Philadelphia
 
 This show consisted of four full sized copies of Sol LeWitt’s “wall murals” from the artists exhibition of Black and Colors that was on exhibition concurrently at the ICA in Philadelphia. Accompanying these murals were life size dye sublimation prints of student laborers who were hired to help produce the original work.

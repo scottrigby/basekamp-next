@@ -26,10 +26,10 @@ dateRange:
   to: 2012-09-25T18:00
 ---
 
-_Sept 25 2012, 21:00 - 24:00  
+_Sept 25 2012, 21:00 - 24:00\
 Camp, Opernring 5-7, 8010 Graz_
 
-Hosted by Stephen Wright (CAN)  
+Hosted by Stephen Wright (CAN)\
 With: Federico Geller / Abriendo caminos (AR), Éric Létourneau / lecollege (CAN), Scott Rigby / Basekamp (USA), Charles Esche / Van Abbe Museum (NL), Dmitri Vilensky / Chto Delat (RUS), Florian Schneider / kein.org (D), Greg Sholette / Dark Matter Archives (USA)
 
 Part of [http://www.truthisconcrete.org/](http://www.truthisconcrete.org/ "http://www.truthisconcrete.org/")

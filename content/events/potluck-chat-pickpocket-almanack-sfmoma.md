@@ -20,22 +20,22 @@ Discussion will be conducted online throughout the course, and participants and 
 
 View courses and sign up at [www.pickpocketalmanack.org](http://www.pickpocketalmanack.org "www.pickpocketalmanack.org")
 
-**Faculty for Fall season:**  
-Jens Hoffmann  
-Les Blank  
-Beth Lisick  
-Rick & Megan Prelinger  
+**Faculty for Fall season:**\
+Jens Hoffmann\
+Les Blank\
+Beth Lisick\
+Rick & Megan Prelinger\
 Ben Kinmont
 
 Also see: [http://www.sfmoma.org/events/1494](http://www.sfmoma.org/events/1494 "http://www.sfmoma.org/events/1494")
 
-**About Joseph del Pesco**  
+**About Joseph del Pesco**\
 Joseph del Pesco is an independent curator, art journalist, regular collaborator, and web-media producer. He has organized curatorial projects at Artists Space in New York; Yerba Buena Center for the Arts in San Francisco; Galerie Analix in Geneva, Switzerland; the Rooseum in Malmö, Sweden; Articule in Montréal, Canada; the Banff Centre in Alberta, Canada; and the Nelson Gallery at the University of California, Davis. He has contributed interviews, reviews, and other texts to Flash Art, X-Tra, Proximity, Fillip, and NUKE magazines and Art in America’s website.
 
 –
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

@@ -8,7 +8,7 @@ dateRange:
   to: 2015-10-18
 ---
 
-**@Dome of Visions**  
+**@Dome of Visions**\
  1016, Søren Kierkegaards Pl., in Copenhagen.
 
 ## Open call

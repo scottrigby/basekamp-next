@@ -12,7 +12,7 @@ Hi everyone,
 
 Tomorrow we’ll be talking with a few folks from ‘The Philadelphia Institute for Advanced Study’.
 
-Here’s a link to their almost believable website:  
+Here’s a link to their almost believable website:\
 [http://www.pifas.net/](http://www.pifas.net/ "http://www.pifas.net/")
 
 - checkout this video intro:
@@ -23,6 +23,6 @@ Here’s a link to their almost believable website:
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

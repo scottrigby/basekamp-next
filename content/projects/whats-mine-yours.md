@@ -27,13 +27,13 @@ dateRange:
   to: 2009-01-03
 ---
 
-Basekamp  
-723 Chestnut Street  
-Philadelphia, PA 19106  
+Basekamp\
+723 Chestnut Street\
+Philadelphia, PA 19106\
 215 592 7288
 
-Friday, November 7 @ 6pm: opening reception  
-@ 7:30pm: performance by The Mercury Twins  
+Friday, November 7 @ 6pm: opening reception\
+@ 7:30pm: performance by The Mercury Twins\
 @ 8:30pm: performance by Kabir Carter
 
 Gallery Hours: Monday, Wednesday, and Saturday, 1-3pm and by appointment

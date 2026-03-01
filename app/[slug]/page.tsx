@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { rehypeExtendedTable } from 'rehype-extended-table';
 import rehypeRaw from "rehype-raw";
 import { getPageBySlug, getPageSlugs } from "@/lib/pages";
 import ImageSlider from "@/components/ImageSlider";
@@ -65,7 +66,7 @@ export default async function Page({
               />
             </div>
           )}
-          <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>{content}</Markdown>
+          <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw, rehypeExtendedTable]}>{content}</Markdown>
         </div>
         {/* Desktop grid */}
         {hasImages && (

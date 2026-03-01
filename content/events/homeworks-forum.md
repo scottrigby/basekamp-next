@@ -26,13 +26,13 @@ This year, the Forum’s focus is on “In and Out of Education … What Can We 
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
-Click to join this week’s Potluck Chat on Skype:  
+Click to join this week’s Potluck Chat on Skype:\
  [http://bit.ly/aq76iJ](http://bit.ly/aq76iJ "http://bit.ly/aq76iJ")
 
-Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

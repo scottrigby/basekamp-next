@@ -16,7 +16,7 @@ This Tuesday is another event in a year-long series of weekly conversations and 
 
 This week, with any luck, we’ll be talking with Karen Andreassian, an ambulant artist based in Yerevan, Armenia, and initiator of a number of collective undertakings in and about the post-Soviet landscape, including Voghchaberd and Ontological Walkscapes, which will be included in the “Blind Dates Project”, opening later this week in New York City.
 
-[http://voghchaberd.am/](http://voghchaberd.am/ "http://voghchaberd.am/")  
+[http://voghchaberd.am/](http://voghchaberd.am/ "http://voghchaberd.am/")\
  [http://www.ontologicalwalkscapes.format.am](http://www.ontologicalwalkscapes.format.am "http://www.ontologicalwalkscapes.format.am")
 
 [http://blinddatesproject.org/](http://blinddatesproject.org/ "http://blinddatesproject.org/")
@@ -29,16 +29,16 @@ Ontological Walkscapes is itself an extension of Andreassian’s also ongoing Vo
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 To join this week’s Potluck Chat:
 
-Download from skype.com if you don’t already have it  
- In Skype “Add a contact”: basekamp  
- Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’  
- We’ll add you to the text chat, and when everyone is ready we’ll start the conference call  
- Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Download from skype.com if you don’t already have it\
+ In Skype “Add a contact”: basekamp\
+ Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’\
+ We’ll add you to the text chat, and when everyone is ready we’ll start the conference call\
+ Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

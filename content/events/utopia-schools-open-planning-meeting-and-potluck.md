@@ -28,11 +28,11 @@ This meeting is OPEN to the public, so invite people as you like :) Oh yeah, and
 
 ### More on Utopia School
 
-[http://utopiaschool.org/collaborate](http://utopiaschool.org/collaborate "http://utopiaschool.org/collaborate")  
+[http://utopiaschool.org/collaborate](http://utopiaschool.org/collaborate "http://utopiaschool.org/collaborate")\
 [https://www.facebook.com/UtopiaSchool](https://www.facebook.com/UtopiaSchool "https://www.facebook.com/UtopiaSchool")
 
 ### Follow Basekamp
 
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
-[http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")  
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
+[http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")\
 [https://www.facebook.com/BasekampGroup](https://www.facebook.com/BasekampGroup "https://www.facebook.com/BasekampGroup ")

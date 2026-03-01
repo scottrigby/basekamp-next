@@ -15,8 +15,8 @@ Wider Circles – a programme series broadcasted at the artists run TV-station t
 
 17th – 19th of October 2006 (on Channel 23 / Kanal København)
 
-Tuesday 17th: 23:00 – 01:00 CET  
-Wednesday 18th: 23:00 – 00:30 CET  
+Tuesday 17th: 23:00 – 01:00 CET\
+Wednesday 18th: 23:00 – 00:30 CET\
 Thursday 19th:23:00 – 01:00 CET
 
 The programme series is thematically outlined by two interwoven subdivisions:

@@ -20,7 +20,7 @@ This project is spearheaded by Flux Factory, but has been shaped over planning d
 
 See you all Then!
 
-STARTING AGAIN THIS WEEK  
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+STARTING AGAIN THIS WEEK\
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

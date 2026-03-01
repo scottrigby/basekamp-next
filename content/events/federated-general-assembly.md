@@ -61,8 +61,8 @@ We’re looking forward to this week’s public chat about FGA, with the group o
 
 See you all then!
 
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
 
 | Downloads                                                                                                                                                              | Size    |

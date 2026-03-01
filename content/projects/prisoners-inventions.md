@@ -15,14 +15,14 @@ dateRange:
   to: 2004-05-07
 ---
 
-**Friday 2 April**  
-Opening Reception  
-6.00-10.00pm  
+**Friday 2 April**\
+Opening Reception\
+6.00-10.00pm\
 BASEKAMP
 
-**Saturday 3 April**  
-Brunch Discussion with Artists’  
-starts at Noon  
+**Saturday 3 April**\
+Brunch Discussion with Artists’\
+starts at Noon\
 BASEKAMP
 
 exhibition runs 2 April - 7 May 2004
@@ -33,5 +33,5 @@ This exhibition will include many of Angelo’s drawings and writings, along wit
 
 [www.temporaryservices.org](http://www.temporaryservices.org "www.temporaryservices.org")
 
-Left: Electric cigarette lighter with saltwater and hot pot resistor variations, 2003. Ballpoint pen drawing on notebook paper,  
+Left: Electric cigarette lighter with saltwater and hot pot resistor variations, 2003. Ballpoint pen drawing on notebook paper,\
 8 1/2 x 5 1/2 inches. Courtesy of Temporary Services and Angelo.

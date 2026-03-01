@@ -17,10 +17,10 @@ dateRange:
 
 Event #1
 
-Initiated by Basekamp & Lars Fischer  
-Saturday, November 19th, 2005.  
-starts at 2pm  
-at Andrew Kreps Gallery, NEW LOCATION:  
+Initiated by Basekamp & Lars Fischer\
+Saturday, November 19th, 2005.\
+starts at 2pm\
+at Andrew Kreps Gallery, NEW LOCATION:\
 558 W 21st St, New York, NY 10011
 
 Participants were invited to respond to the question “how much room is there in the (art) world for redundancy?” as part of the first event in a series about cultural co-production.

@@ -24,8 +24,8 @@ This Tuesday is the final event in a year-long series of weekly conversations an
 
 To wrap up the year, we’ll be talking with Marc Fischer, one of three members of Temporary Services, about his project “Public Collectors” network. In conjunction with this project we will also be discussing Marc’s manifesto entitled “Against Competition” which can be downloaded below.
 
-[http://www.publiccollectors.org/](http://www.publiccollectors.org/ "http://www.publiccollectors.org/")  
- [http://publiccollectors.tumblr.com/](http://publiccollectors.tumblr.com/ "http://publiccollectors.tumblr.com/")  
+[http://www.publiccollectors.org/](http://www.publiccollectors.org/ "http://www.publiccollectors.org/")\
+ [http://publiccollectors.tumblr.com/](http://publiccollectors.tumblr.com/ "http://publiccollectors.tumblr.com/")\
  [http://www.temporaryservices.org/against_competition_mf.pdf](http://www.temporaryservices.org/against_competition_mf.pdf "http://www.temporaryservices.org/against_competition_mf.pdf")
 
 The Public Collectors project seeks to redress what amounts to a massive and systemic cultural oversight whereby countless cultural artifacts are either deemed unworthy for collection by public libraries, museums and other institutions or the archives currently in existence are not readily accessible to the viewing public.
@@ -36,8 +36,8 @@ An initiative of this kind gains its meaning and importance against the backdrop
 
 See you all then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 To join this week’s Potluck Chat:
@@ -47,6 +47,6 @@ To join this week’s Potluck Chat:
 - Send a message when you want to join the chat, by selecting us from your list and clicking ‘Start chat’
 - We’ll add you to the text chat, and when everyone is ready we’ll start the conference call
 
-Follow Plausible Artworlds:  
- [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Plausible Artworlds:\
+ [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
  [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

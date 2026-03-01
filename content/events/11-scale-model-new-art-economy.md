@@ -24,7 +24,7 @@ The evolving diagram is meant to be a hubristic suggestion of potentiality. To r
 
 If you want to contribute, Join the chat this Tuesday – on Skype (skypename: ‘basekamp’) – or in person if you happen to be in Philadelphia.
 
-See you all then!  
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+See you all then!\
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")

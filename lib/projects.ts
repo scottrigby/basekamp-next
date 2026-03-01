@@ -8,7 +8,7 @@ export type ProjectMeta = {
   location: string;
   attribution: string;
   slug: string;
-  images: [{ src: string; alt: string }];
+  images?: { src: string; alt: string }[];
 };
 
 const contentDir = path.join(process.cwd(), "content", "projects");
@@ -32,8 +32,8 @@ export function getProjectBySlug(slug: string) {
     typeof data.date === "string"
       ? new Date(data.date).toISOString()
       : data.date instanceof Date
-      ? data.date.toISOString()
-      : "";
+        ? data.date.toISOString()
+        : "";
 
   const meta: ProjectMeta = {
     title: (data.title as string) ?? finalSlug,

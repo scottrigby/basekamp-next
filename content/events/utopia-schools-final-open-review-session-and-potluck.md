@@ -36,6 +36,6 @@ Cheers!
 
 ### More on Utopia School
 
-[http://utopiaschool.org](http://utopiaschool.org "http://utopiaschool.org")  
-[http://thepublicschool.org/about/utopia-school](http://thepublicschool.org/about/utopia-school "http://thepublicschool.org/about/utopia-school")  
+[http://utopiaschool.org](http://utopiaschool.org "http://utopiaschool.org")\
+[http://thepublicschool.org/about/utopia-school](http://thepublicschool.org/about/utopia-school "http://thepublicschool.org/about/utopia-school")\
 [https://www.facebook.com/UtopiaSchool](https://www.facebook.com/UtopiaSchool "https://www.facebook.com/UtopiaSchool")

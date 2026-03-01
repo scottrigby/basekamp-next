@@ -23,5 +23,5 @@ David Dempewolf, Justin Matherly, Scott Rigby, and Leigh Stevens will create an 
 
 Basing their sideshow on the theme of the Pennsylvania Academy’s legends & tall tales, the artists reconcile the educational mandate of the musem with the requirement that museums must cater to ever broader audiences. The installation will also underscore how modern day museum practices which conflate high and low culture—artistic edification & mass entertainment—have their roots not only in Disney, but in the nineteenth century popular culture, including the Peale Museums & P.T.Barnum.
 
--Alex Baker  
+-Alex Baker\
 Associate Curator, Pafa Museum

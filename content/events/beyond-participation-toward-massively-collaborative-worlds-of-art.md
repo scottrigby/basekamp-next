@@ -26,8 +26,8 @@ The extensibility of concepts and practices of “participatory culture” to fu
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
- If you come to the potluck chat in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+ If you come to the potluck chat in person, be sure to bring a dish :)\
  Basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa
 
 [http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")

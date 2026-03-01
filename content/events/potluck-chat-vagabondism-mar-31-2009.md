@@ -20,19 +20,19 @@ Blurb on Vagabondism:
 >
 > There are two main goals set out for Vagabodism. One is to form a notable historical framework in which we highlight a few examples of vagabonding and/or transience during the last one hundred years. A few examples of transience may include looking at modern peripatetic peoples, transient teens during the Great Depression, or the open-land experiment known as Morningstar during the 1960’s. The second goal is to highlight online resources and fellows peers’ personal travel accounts to aid in the organization of a long-term travel trip with fellow class participants. This travel trip will serve as a hands-on execution of many of the ideas discussed during this gathering.
 >
-> Current Reading List (subject to changes)  
-> RVs & Campers: 1900-2000 by Donald Wood  
-> Riding the Rails: Teenagers on the Move During the Great Depression by Errol Lincoln Uys  
+> Current Reading List (subject to changes)\
+> RVs & Campers: 1900-2000 by Donald Wood\
+> Riding the Rails: Teenagers on the Move During the Great Depression by Errol Lincoln Uys\
 > Home Free Home:A History of Two Open-Door California Communes: by Ramon Sender Barayon, Gwen Leeds, Near Morningstar, Bill Wheeler
 >
-> Other readings in consideration  
-> Customary Strangers: New Perspectives on Peripatetic Peoples in the Middle East, Africa, and Asia by Joseph C. Berland  
+> Other readings in consideration\
+> Customary Strangers: New Perspectives on Peripatetic Peoples in the Middle East, Africa, and Asia by Joseph C. Berland\
 > The Big Tent: The Traveling Circus in Georgia, 1820-1930 by Gregory J. Renoff
 
 —
 
 See you all Then!
 
-Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’  
-If you come to the potluck in person, be sure to bring a dish :)  
+Join us every Tuesday night – in person, or on Skype, skypename: ‘basekamp’\
+If you come to the potluck in person, be sure to bring a dish :)\
 (basekamp space: 723 Chestnut St, 2nd floor, Philadelphia usa)

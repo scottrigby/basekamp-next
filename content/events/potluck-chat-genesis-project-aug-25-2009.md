@@ -30,16 +30,16 @@ dateRange:
 
 Chat with Genesis Project ([http://www.culturepush.org/?q=node/283](http://www.culturepush.org/?q=node/283 "http://www.culturepush.org/?q=node/283")) director, Arturo Vidich, and the four artists involved in the month-long residency. The discussion will surround issues and ideas that come up during real-time skype commentary on live performance and video showings of work generated during the residency.
 
-**DUET**  
+**DUET**\
 Meghan Flanigan and Fergus Byrne will perform a drawing duet that traverses wall and floor in an exploration of mark making through full-bodied movement.
 
-**VIDEO**  
+**VIDEO**\
 Fergus Byrne and Saul Melman will show a work-in-progress video that simultaneouly combines storytelling, drawing and competition through the medium of embroidery.
 
-**ARTISTS**  
-Fergus Byrne (Dublin, Ireland)  
-Meghan Flanigan (Baltimore)  
-Saul Melman (New York)  
+**ARTISTS**\
+Fergus Byrne (Dublin, Ireland)\
+Meghan Flanigan (Baltimore)\
+Saul Melman (New York)\
 Carlos Monroy (Bogota, Colombia)
 
 _Genesis Project is an artist’s residency catering to body-based artists who identify as working between disciplines and/or seek to integrate other disciplines into their performance practice through open-source collaboration and horizontal exchange of knowledge, as defined by the resident artists. Genesis Project has occupied the gallery space at Basekamp for the month of August._

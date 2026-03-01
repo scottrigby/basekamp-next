@@ -48,21 +48,21 @@ A practical example we would like to consider is how distribution systems – el
 
 ## Possibly relevant to the discussion are the following
 
-- The Electronic Disturbance Theater (EDT), a group who developed Virtual-Sit-In technologies in 1998 in solidarity with the Zapatista communities in Chiapas, Mexico  
+- The Electronic Disturbance Theater (EDT), a group who developed Virtual-Sit-In technologies in 1998 in solidarity with the Zapatista communities in Chiapas, Mexico\
   [http://en.wikipedia.org/wiki/Electronic_Disturbance_Theater](http://en.wikipedia.org/wiki/Electronic_Disturbance_Theater "http://en.wikipedia.org/wiki/Electronic_Disturbance_Theater")
-- Transborder Immigrant Tool, a GPS cellphone safety net tool for crossing the Mexico/U.S border  
+- Transborder Immigrant Tool, a GPS cellphone safety net tool for crossing the Mexico/U.S border\
   [http://basekamp.com/about/events/potluck-chat-electronic-disturbance-theater-mcenter-and-breadboard](http://basekamp.com/about/events/potluck-chat-electronic-disturbance-theater-mcenter-and-breadboard "http://basekamp.com/about/events/potluck-chat-electronic-disturbance-theater-mcenter-and-breadboard")
-- Low Lives, an international exhibition of live performance-based works transmitted via the internet and projected in real time at multiple venues  
+- Low Lives, an international exhibition of live performance-based works transmitted via the internet and projected in real time at multiple venues\
   [http://basekamp.com/about/events/potluck-chat-jorge-rojas](http://basekamp.com/about/events/potluck-chat-jorge-rojas "http://basekamp.com/about/events/potluck-chat-jorge-rojas")
-- Freenode, an IRC network used to discuss peer-directed projects as well as politics Fosscon, the Free and Open Source Software Conference  
+- Freenode, an IRC network used to discuss peer-directed projects as well as politics Fosscon, the Free and Open Source Software Conference\
   [http://basekamp.com/about/events/fosscon](http://basekamp.com/about/events/fosscon "http://basekamp.com/about/events/fosscon")
-- Basekamp’s weekly potluck chat and Plausible Artworlds  
+- Basekamp’s weekly potluck chat and Plausible Artworlds\
   [http://basekamp.com/getin](http://basekamp.com/getin "http://basekamp.com/getin")
-- The Public School and AAAARG.org  
+- The Public School and AAAARG.org\
   [http://basekamp.com/about/events/public-school-and-aaaargorg](http://basekamp.com/about/events/public-school-and-aaaargorg "http://basekamp.com/about/events/public-school-and-aaaargorg")
-- Daisy Chain, inspired by Low Lives, an internet-based collaborative system of performances  
+- Daisy Chain, inspired by Low Lives, an internet-based collaborative system of performances\
   [http://www.antenapilsen.com/exhibit28.html](http://www.antenapilsen.com/exhibit28.html "http://www.antenapilsen.com/exhibit28.html")
-- Play, an free, open-source distribution system for video  
+- Play, an free, open-source distribution system for video\
   [http://www.onchanneltwo.com/play](http://www.onchanneltwo.com/play/ "http://www.onchanneltwo.com/play/")
 
 ## If you want to contribute, Join us this Tuesday
@@ -73,6 +73,6 @@ A practical example we would like to consider is how distribution systems – el
 
 See you all then!
 
-Follow Basekamp:  
-[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")  
+Follow Basekamp:\
+[http://twitter.com/basekamp](http://twitter.com/basekamp "http://twitter.com/basekamp")\
 [http://basekamp.com/info](http://basekamp.com/info "http://basekamp.com/info")
