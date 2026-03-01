@@ -53,7 +53,7 @@ images:
   - src: DSC09310.jpg
     alt: Visitors standing next to wall diagram of network connections using colored squares and lines behind them
   - src: DSC09312.jpg
-    alt: Man reading "Locus" display board while visitors converse in background near "con_nect" wall text
+    alt: View of the backs of the display boards creating a white corridor on long white tables, gallery visitors in the background
   - src: DSC09313.jpg
     alt: Three men in conversation at exhibition opening near display boards and "con_nect" wall text
   - src: DSC09315.jpg
