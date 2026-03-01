@@ -2,7 +2,7 @@
 title: Sunday Soup
 images:
   - src: 2289401243_bd5d64d08b_b.jpg
-    alt: Bowl of soup garnished with fresh cilantro leaves on light background
+    alt: Bowl of soup garnished with fresh cilantro leaves and yogurt dollop on light tablecloth
   - src: 2508443811_dea5264d74_b.jpg
     alt: Bowl of bright orange tomato soup in green bowl with fresh herb garnish and white ladle visible
   - src: 2809021657_008481c4da_b.jpg
