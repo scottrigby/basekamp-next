@@ -6,7 +6,7 @@ images:
   - src: 2508443811_dea5264d74_b.jpg
     alt: Bowl of bright orange tomato soup in green bowl with fresh herb garnish and white ladle visible
   - src: 2809021657_008481c4da_b.jpg
-    alt: Pink or coral colored beverage in glass with fresh mint leaves as garnish
+    alt: Pink smoothie in glass with fresh mint leaves as garnish
   - src: 2836798561_f7395a64b5_b.jpg
     alt: Large pot of vegetable soup with carrots, greens, corn, and other ingredients cooking on stove
   - src: 2836800289_bac7bfd340_b.jpg
