@@ -19,7 +19,7 @@ images:
   - src: Untitled_3.jpg
     alt: Two people leaning over blue tub filled with water and artworks, examining contents
   - src: Untitled_13.jpg
-    alt: Close-up of hand wearing orange glove reaching into blue tub with several live eels swimming in water
+    alt: Close-up of hand wearing orange glove moving eel from a pot into a large blue tub with several live eels swimming in water
   - src: BandRoom.jpg
     alt: Small room bathed in red light, densely packed with musical instruments, Marshall amplifiers, guitars on walls, and illuminated TV monitor
   - src: DeadDamp.jpg
