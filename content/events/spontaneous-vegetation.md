@@ -20,7 +20,7 @@ images:
   - src: neighborhoodorchard1.jpg
     alt: "Person harvesting red apples from fruit tree"
   - src: range02.jpg
-    alt: "Landscape showing range of spontaneous and cultivated vegetation in urban environment"
+    alt: "Woman with two children sitting down on pavement with a collection of sorted tree branches and bicycles visible in background"
 dateRange:
   from: 2010-11-02T18:00
   to: 2010-11-02T20:00
