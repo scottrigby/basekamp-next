@@ -13,7 +13,7 @@ images:
   - src: TENTY.jpg
     alt: Visitors standing outside an illuminated white tent structure installed inside a dark museum gallery space.
   - src: h.JPG
-    alt: Translucent white tent structure glowing from within, showing silhouettes of people interacting inside the installation.
+    alt: White tent structure glowing from within, showing silhouettes of people interacting inside
 dateRange:
   from: 2001-11-30
   to: 2002-02-02
