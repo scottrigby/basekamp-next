@@ -43,7 +43,7 @@ images:
   - src: Jessica.jpg
     alt: Empty liquor bottles and flowers arranged on large metal box outdoors at night
   - src: Guests.jpg
-    alt: Nighttime outdoor gathering with arrangement of flowers in green glass bottles, lit candles, and drink can on surface
+    alt: Woman in burgundy leather jacket with yellow patterned scarf steadying a bicycle by the handlebars at night, another person standing beside her
   - src: tampa-crossing.jpg
     alt: Group of five people standing at wide pedestrian crosswalk with traffic lights and urban buildings in background
   - src: tampa-highway3.jpg
