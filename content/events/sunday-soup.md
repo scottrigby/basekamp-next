@@ -12,7 +12,7 @@ images:
   - src: 2836800289_bac7bfd340_b.jpg
     alt: Group of people sitting and conversing with food and drinks on low table in cafe space
   - src: 2836804157_7b5a85227a_b.jpg
-    alt: People gathered around table eating during Sunday Soup event in wooden-framed space with books on shelves
+    alt: People gathered around table eating during event in studio space with wood frames and books on shelves
   - src: 2837634274_53ac6ed66e_b.jpg
     alt: Presentation projection showing Brains Brilliancy Bohemia Art and Politics in Jazz-Age Chicago with colorful papel picado decorations
   - src: 2837634846_a5d785a943_b.jpg
