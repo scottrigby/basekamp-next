@@ -22,7 +22,7 @@ images:
   - src: writing04.jpg
     alt: "Handwritten notes on white paper featuring a small drawing of a person unicycling on a tightrope"
   - src: 25647403-2b693d4b06945278247b974529d106fd.4a946d65-full.jpg
-    alt: "Artistic process documentation showing body-based creative work from Genesis Project residency"
+    alt: "Close up of two people holding pencils bent over a large piece of orange paper where it bends from the wall onto the floor, multiple overlapping lines are drawn down the middle, with pencils scattered"
 dateRange:
   from: 2009-08-25T18:00
   to: 2009-08-25T20:00
