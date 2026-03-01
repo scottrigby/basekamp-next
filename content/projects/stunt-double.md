@@ -23,7 +23,7 @@ images:
   - src: insta5.jpg
     alt: Wall mural showing two people painting large black organic shape on wall with red, yellow, and blue rectangular sections
   - src: sd1.jpg
-    alt: Artists working on wall mural with vertical stripes in orange, cream, and green, showing process of painting Sol LeWitt-style composition
+    alt: Wall mural of artist painting vertical stripes in orange, cream, and green, in large industrial gallery space
   - src: sd2.jpg
     alt: Gallery corner installation with colorful geometric wall murals and life-size photographic cutouts of people positioned against walls
   - src: sd3.jpg
