@@ -2,7 +2,7 @@
 title: "Potluck chat: Not An Alternative"
 images:
   - src: 3750767293_dd52ce3e0f_b.jpg
-    alt: "Homeless tent city installation with blue tents in urban lot, police and organizers present, person in orange clothing, banners at fence perimeter"
+    alt: "Woman being escorted by the police at outdoor protest, tents in the background"
   - src: 3750718185_eea96e6ca0_b.jpg
     alt: "Protest demonstration with crowd holding signs with Spanish text, yellow diamond-shaped warning signs visible, large trees providing shade, urban setting"
   - src: 3750724357_6c4b507833_b.jpg
