@@ -11,7 +11,7 @@ images:
   - src: 3.-ltr.jpg
     alt: Gallery space with artificial tree prop, video monitors on stands, and painted backdrop visible.
   - src: 4.-ltr.jpg
-    alt: Two video monitors on tripods displaying footage, positioned in front of a painted set backdrop.
+    alt: Two video monitors displaying footage, tripod positioned in front of a painted set backdrop.
   - src: 5.-ltr.jpg
     alt: Two CRT monitors on wooden stands displaying synchronized video footage in a gallery corner.
   - src: lust-for-life.jpg
