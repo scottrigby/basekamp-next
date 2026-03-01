@@ -49,7 +49,7 @@ images:
   - src: tampa-highway3.jpg
     alt: Line of people walking along highway shoulder beside busy multi-lane road with overpass visible ahead
   - src: meal1_1.jpg
-    alt: Nighttime outdoor gathering with people sitting in circle on pavement around illuminated center point
+    alt: Nighttime outdoor gathering with people sitting in circle on pavement
   - src: meal2_1.jpg
     alt: White dome-shaped outdoor pizza oven with fire burning inside wooden structure at night
 dateRange:
