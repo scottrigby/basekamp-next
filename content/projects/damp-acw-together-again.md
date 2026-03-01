@@ -29,7 +29,7 @@ images:
   - src: Untitled_19.jpg
     alt: Close-up view of painted cardboard Marshall amplifiers and decorated cardboard guitars with various colorful patterns
   - src: Scott.jpg
-    alt: Person in dark clothing standing among painted cardboard guitars and Marshall amplifier backdrop with string lights
+    alt: Person playing cardboard guitar standing in front of array of hand painted cardboard guitars and Marshall amplifiers, colorful string lights on wall
   - src: Ed.jpg
     alt: Shirtless performer wearing underwear, headband, and sneakers holding white cardboard guitar during air guitar competition
   - src: Untitled_20.jpg
