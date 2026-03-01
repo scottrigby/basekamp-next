@@ -10,7 +10,7 @@ images:
   - src: 2836798561_f7395a64b5_b.jpg
     alt: Large pot of vegetable soup with carrots, greens, beans, and other ingredients cooking on stove
   - src: 2836800289_bac7bfd340_b.jpg
-    alt: Group of people sitting and conversing with food and drinks on low table in blue-walled interior space
+    alt: Group of people sitting and conversing with food and drinks on low table in cafe space
   - src: 2836804157_7b5a85227a_b.jpg
     alt: People gathered around table eating during Sunday Soup event in wooden-framed space with books on shelves
   - src: 2837634274_53ac6ed66e_b.jpg
