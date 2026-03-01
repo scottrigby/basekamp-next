@@ -11,7 +11,7 @@ images:
   - src: hegemonic_bar_01.jpg
     alt: Overhead view of dimly lit bar space with pendant lights, wooden railings, exposed brick, and a 'Hegemonic Bar' sign with martini glass logo.
   - src: announcement2.jpg
-    alt: Hand-drawn poster in May 1968 protest style showing a silhouetted figure throwing a cobblestone, with text 'La Hegemonic Bar est Basekamp Jul-3'.
+    alt: Hand-drawn poster showing a silhouetted figure throwing a brick, with text 'La Hegemonic Bar est Basekamp Jul-3'.
 dateRange:
   from: 2009-06-05
   to: 2009-07-10
