@@ -29,7 +29,7 @@ images:
   - src: sd3.jpg
     alt: Wall mural with red, yellow, black, and blue sections with four life-size photographic prints of people appearing to paint the mural
   - src: sd4.jpg
-    alt: Person crouching against colorful wall mural working on installation, with white wall showing exhibition text "STUNT DOUBLE BASEKAMP" and artist credits
+    alt: Colorful wall mural depicting three artists working on the mural, with white wall showing exhibition text "Stunt Double Basekamp" and artist credits
   - src: sd5.jpg
     alt: Close-up detail of person's hand holding paint roller against bright green painted wall surface
 dateRange:
