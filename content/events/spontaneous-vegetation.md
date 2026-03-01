@@ -16,7 +16,7 @@ images:
   - src: 87.jpg
     alt: "Large steel pot on stovetop with metal contraption and hose attached to a large plastic bucket nearby on countertop"
   - src: meade_sdc10461.jpg
-    alt: "Outdoor garden bed showing cultivated plants and growing food production in city setting"
+    alt: "Large glass bottles, some filled with amber colored mead with small brewing device attached to the corks"
   - src: neighborhoodorchard1.jpg
     alt: "Person harvesting red apples from fruit tree in community orchard"
   - src: range02.jpg
