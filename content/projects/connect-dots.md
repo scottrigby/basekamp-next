@@ -55,7 +55,7 @@ images:
   - src: DSC09312.jpg
     alt: View of the backs of the display boards creating a white corridor on long white tables, gallery visitors in the background
   - src: DSC09313.jpg
-    alt: Three men in conversation at exhibition opening near display boards and "con_nect" wall text
+    alt: Two visitors in conversation at exhibition opening near display boards
   - src: DSC09315.jpg
     alt: Visitors viewing large wall diagram showing network of colored squares connected by black lines
   - src: card_front.jpg
