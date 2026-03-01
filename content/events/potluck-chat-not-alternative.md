@@ -12,7 +12,7 @@ images:
   - src: 3751534918_1c31e8410e_b.jpg
     alt: "Occupation protest with multiple blue tents, yellow diamond warning signs, protest signage including The Gentrify and Occupy, a police officer and person are conversing in foreground"
   - src: 3751532554_d3691ddf75_b.jpg
-    alt: "Large crowd of diverse participants gathered in vacant urban lot with police line tape barrier visible, brick apartment buildings in background, mixed ages and backgrounds"
+    alt: "Large crowd of protestors standing in vacant urban lot behind police barrier, brick apartment buildings in background"
   - src: 3751564022_daa79b3f16_b.jpg
     alt: "Police line enforcement with uniformed officers standing in formation, blue police barriers, tent city installation visible with blue tents and orange pathway in background"
 dateRange:
