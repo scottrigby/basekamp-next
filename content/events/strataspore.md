@@ -26,7 +26,7 @@ images:
   - src: sweettooth1.jpg
     alt: "Sliced golden-colored edible mushroom specimens on wooden cutting board with knife"
   - src: img_2716.jpg
-    alt: "Mushroom documentation photograph for StrataSpore collective knowledge platform"
+    alt: "Large bulbous red mushroom with veins in a forest setting"
 dateRange:
   from: 2010-10-05T18:00
   to: 2010-10-05T20:00
