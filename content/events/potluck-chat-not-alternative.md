@@ -6,7 +6,7 @@ images:
   - src: 3750718185_eea96e6ca0_b.jpg
     alt: "Protest demonstration with crowd holding signs with Spanish text, yellow diamond-shaped warning signs visible, large trees providing shade, urban setting"
   - src: 3750724357_6c4b507833_b.jpg
-    alt: "Crowd gathered under large shade trees with protest banners including text They Say Gentrify and Place Called Home, various participants and spectators"
+    alt: "Crowd of protestors gathered under large shade trees with banners including text They Say Gentrify and Place Called Home"
   - src: 3751521664_cdeff62a3f_b.jpg
     alt: "Person in blue numbered tank top running on orange brick pathway with motion blur, protest banners and trees visible in background"
   - src: 3751534918_1c31e8410e_b.jpg
