@@ -37,7 +37,7 @@ images:
   - src: DSC09302.jpg
     alt: Visitors viewing colorful tri-fold displays during opening event, "con_nect" visible on wall in background
   - src: DSC09303.jpg
-    alt: Visitors examining orange and yellow tri-fold display boards with "Popular Archive" label visible
+    alt: Visitors examining orange and yellow tri-fold display boards
   - src: DSC09304.jpg
     alt: Close-up view of yellow and orange tri-fold display boards showing detailed documentation during exhibition
   - src: DSC09305.jpg
