@@ -14,7 +14,7 @@ images:
   - src: mushroom131.jpg
     alt: "Large paper mushroom installation arranged in spiral pattern on grass in urban plaza"
   - src: img_4743.jpg
-    alt: "Mushroom specimen documentation for identification and scientific study"
+    alt: "Group of people sitting at table holding up various types of mushrooms facing the camera"
   - src: dscn1242.jpg
     alt: "Mushroom field study or collection documentation photograph"
   - src: img_2009.jpg
