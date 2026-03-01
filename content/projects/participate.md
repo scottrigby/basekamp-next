@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia (and various locations)
 attribution: Per Hüttner & Ciceron group
 images:
   - src: participate-3.jpg
-    alt: Colorful three-dimensional letter blocks in blue and yellow with directional arrow symbols on dark surface
+    alt: Colorful light box letter blocks positioned on dark floor
   - src: participate-1.jpg
     alt: Multiple hands reaching upward toward a bright light source in a darkened space, creating dramatic shadows
   - src: participate-2.jpg
