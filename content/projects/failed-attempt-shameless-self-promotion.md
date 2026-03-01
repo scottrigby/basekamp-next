@@ -7,7 +7,7 @@ images:
   - src: thumb-135.jpg
     alt: Grainy video still of several men giving thumbs-up gestures in a dimly lit room.
   - src: p1-larger.jpg
-    alt: Framed document page with typed text describing an encounter with Vito Acconci, accompanied by three video stills of the artist at the bottom.
+    alt: Framed document page titled 'Rigby Scott, Failed attempt at Shameless Self-Promotion' accompanied by three video stills at the bottom.
   - src: p2-larger.jpg
     alt: Framed document page with typed text about meeting Kiki Smith, with two very dark photographs at the bottom showing the encounter.
   - src: p3-larger.jpg
