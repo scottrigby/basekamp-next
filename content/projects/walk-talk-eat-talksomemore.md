@@ -51,7 +51,7 @@ images:
   - src: meal1_1.jpg
     alt: Nighttime outdoor gathering with people sitting in circle on pavement
   - src: meal2_1.jpg
-    alt: White dome-shaped outdoor pizza oven with fire burning inside wooden structure at night
+    alt: White dome-shaped outdoor pizza oven with fire burning inside and wood piled in front of the opening at night
 dateRange:
   from: 2006-04-18
   to: 2006-08-05
