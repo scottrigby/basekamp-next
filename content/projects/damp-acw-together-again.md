@@ -15,7 +15,7 @@ images:
   - src: ACW.jpg
     alt: Two artists crouching beside blue tub with orange-gloved hand reaching into water containing live eels and art materials
   - src: Untitled_1.jpg
-    alt: Floor detail showing live eel, orange glove, illuminated colored objects, and papers during performance
+    alt: Floor detail showing orange gloved hand holding live eel next to art objects and papers during performance
   - src: Untitled_3.jpg
     alt: Two people in red and black clothing leaning over blue tub filled with water and artworks, examining contents
   - src: Untitled_13.jpg
