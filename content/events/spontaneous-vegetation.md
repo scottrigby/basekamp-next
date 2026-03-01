@@ -18,7 +18,7 @@ images:
   - src: meade_sdc10461.jpg
     alt: "Large glass bottles, some filled with amber colored mead with small brewing device attached to the corks"
   - src: neighborhoodorchard1.jpg
-    alt: "Person harvesting red apples from fruit tree in community orchard"
+    alt: "Person harvesting red apples from fruit tree"
   - src: range02.jpg
     alt: "Landscape showing range of spontaneous and cultivated vegetation in urban environment"
 dateRange:
