@@ -16,7 +16,7 @@ images:
   - src: 25642379-eea88cc75ba058b62f97c1b043be2804.4a946724-full.jpg
     alt: "Two people standing on a large orange sheet of paper that hangs from a gallery wall and extends onto the floor and out of frame"
   - src: 25642603-a573392e0883ffd5788bf70ddbfcbeff.4a94677a-full.jpg
-    alt: "Documentation of performance or movement-based artistic practice during Genesis Project residency"
+    alt: "Close up of two people squatting on a large orange sheet of paper, drawing lines down the center"
   - src: 25644411.jpg
     alt: "Installation or performance view from Genesis Project August 2009 residency at Basekamp"
   - src: writing04.jpg
