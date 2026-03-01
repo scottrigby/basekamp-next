@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: Michael G. Bauer, Calpin Hoffman Williamson, David Smith
 images:
   - src: dsc_1139-small.jpg
-    alt: Five musicians performing in a bright windowed space with guitars, drums, keyboards and amplifiers during a Playing Making Recording session
+    alt: Five musicians performing in a bright windowed space with guitars, drums, keyboards and amplifiers 
   - src: dsc_0164-small.jpg
     alt: Two musicians with guitars performing against a white wall, one wearing a red shirt and one in dark clothing
   - src: smimg_8549-small.jpg
