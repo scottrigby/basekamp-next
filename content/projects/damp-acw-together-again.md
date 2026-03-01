@@ -41,7 +41,7 @@ images:
   - src: Untitled_25.jpg
     alt: Group finale with performers holding cardboard guitars, some raising arms in celebration beneath string lights
   - src: End.jpg
-    alt: Post-performance scene showing painted Marshall amplifier backdrops and scattered painted cardboard guitars strewn across floor
+    alt: Post-performance scene showing scattered cardboard guitars strewn across floor with Marshall amplifiers in background
   - src: Untitled_28.jpg
     alt: Close-up of discarded painted cardboard guitars on floor, including one designed to look like Marshall amplifier
 dateRange:
