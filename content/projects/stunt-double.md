@@ -31,7 +31,7 @@ images:
   - src: sd4.jpg
     alt: Colorful wall mural depicting three artists working on the mural, with white wall showing exhibition text "Stunt Double Basekamp" and artist credits
   - src: sd5.jpg
-    alt: Close-up detail of person's hand holding paint roller against bright green painted wall surface
+    alt: Close-up detail of cardboard cutout person's hand holding paint roller against bright green painted wall surface
 dateRange:
   from: 1999-06-10
   to: 1999-06-24
