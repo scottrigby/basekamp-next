@@ -2,7 +2,7 @@
 title: "Potluck Chat: Electronic Disturbance Theater, with mCenter and Breadboard"
 images:
   - src: transbordermigranttool.jpg
-    alt: "Transborder Project logo on dark teal background with white text and circular digital icon showing pixelated figure silhouette with red cross symbol and scattered pixels on light blue grid background"
+    alt: "Transborder Project logo with subtitle Electronic Disturbance Theater"
 dateRange:
   from: 2009-12-15T18:00
   to: 2009-12-15T20:00
