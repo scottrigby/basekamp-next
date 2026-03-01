@@ -5,7 +5,7 @@ location: Project Room, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: video-loading-image.jpg
-    alt: Video still showing gallery visitors mingling in a simulated exhibition space with large windows displaying composite views of a cityscape, created using green-screen technology.
+    alt: Video stills showing gallery visitors mingling in a simulated exhibition space with large windows displaying composite views of a cityscape, created using green-screen technology.
   - src: close-up-video.jpg
     alt: Green gallery wall with small framed photographs arranged horizontally, and a monitor displaying video footage of people in a gallery space.
   - src: north-wall.jpg
