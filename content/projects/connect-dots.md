@@ -23,7 +23,7 @@ images:
   - src: DSC09290.jpg
     alt: Gallery opening with visitors viewing colorful tri-fold display boards, with wall installation of dots and connecting lines visible in the background
   - src: DSC09291.jpg
-    alt: Crowded gallery with visitors examining colorful tri-fold displays, orange laughing mouth poster and green abstract painting on walls
+    alt: Crowded gallery with visitors examining colorful tri-fold displays
   - src: DSC09292.jpg
     alt: Woman with orange bag examining pink tri-fold display board during exhibition opening
   - src: DSC09294.jpg
