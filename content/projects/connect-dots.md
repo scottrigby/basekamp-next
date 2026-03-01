@@ -43,7 +43,7 @@ images:
   - src: DSC09305.jpg
     alt: Person examining tri-fold display board at exhibition with colorful posters in the background
   - src: DSC09306.jpg
-    alt: Visitors examining orange "Popular Archive" display board with "connect" wall text visible
+    alt: Visitor examining yellow tri-fold display board at exhibition
   - src: DSC09307.jpg
     alt: Yellow tri-fold display showing "Ongoing Media Resources Monitoring" with photographs, orange display visible alongside
   - src: DSC09308.jpg
