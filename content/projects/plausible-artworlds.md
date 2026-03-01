@@ -9,7 +9,7 @@ images:
   - src: Plausible-Artworld3_12.jpg
     alt: Black and white organizational flowchart titled 'Plausible Artworlds' showing interconnected departments including Architecture and Design Division, Ministry of Exhibitions, Spaces Division, Department of Relationship Development, and Recording Department, with lines indicating relationships between groups.
   - src: sh-1_600_11.jpg
-    alt: Loft space with wooden bunk bed structure, metal ladder, and gray lockers. Orange folding camping chairs arranged in a circle on a wooden floor striped with orange tape. Blank white inflatable balls scattered on the floor near large windows.
+    alt: Loft space with wooden bunk bed structure, metal ladder, and gray lockers. Orange folding camping chairs arranged in a circle on a wooden floor striped with orange tape. White inflatable balls scattered on the floor near large windows.
   - src: skpedinner_10.jpg
     alt: "Four-panel photo collage documenting a remote dinner event: a printed menu, two people wearing headphones eating at a table during a video call, camera equipment and headphones on a table, and a laptop displaying video conference participants alongside drinks and food."
   - src: ica-plausible-artworlds-2007.png
