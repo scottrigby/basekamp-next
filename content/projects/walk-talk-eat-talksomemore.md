@@ -21,7 +21,7 @@ images:
   - src: 06_0.jpg
     alt: Triangular green pedestrian crossing sign heavily covered with stickers, graffiti tags, and street art
   - src: 1_1.jpg
-    alt: Street map with hand-drawn black marker lines tracing walking route through urban neighborhoods
+    alt: Street map with hand-drawn black marker lines tracing walking route
   - src: 3.jpg
     alt: Group of participants sitting on grass in riverside park with blue flag markers, city skyline visible across water in background
   - src: meal1.jpg
