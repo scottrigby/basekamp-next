@@ -11,7 +11,7 @@ images:
   - src: 02.jpg
     alt: Gallery installation with wooden picnic bench in center and video projection on wall showing urban street scene
   - src: 03.jpg
-    alt: Gallery view showing large white curved fabric sculpture resembling a wave, wooden angular seating structure, and video projection on wall
+    alt: Gallery view showing part of a white banner with block colors, and white sculpture, with wooden picnic bench, and video projection on wall in background
   - src: 04.jpg
     alt: Close-up detail of installation showing black umbrella, white spherical object, suspended brown vessel, and geometric wall elements
   - src: 05.jpg
