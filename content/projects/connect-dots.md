@@ -49,7 +49,7 @@ images:
   - src: DSC09308.jpg
     alt: Gallery view with visitors examining display boards during opening, colorful posters and wall panels visible
   - src: DSC09309.jpg
-    alt: Visitor examining green and yellow display boards with colorful graphic prints mounted on wall behind
+    alt: Person standing next to colorful display boards with text 'connect' visible on the wall behind them
   - src: DSC09310.jpg
     alt: Visitor reading yellow display with wall diagram of network connections using colored squares and lines behind them
   - src: DSC09312.jpg
