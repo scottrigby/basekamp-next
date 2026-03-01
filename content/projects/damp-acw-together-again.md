@@ -17,7 +17,7 @@ images:
   - src: Untitled_1.jpg
     alt: Floor detail showing orange gloved hand holding live eel next to art objects and papers during performance
   - src: Untitled_3.jpg
-    alt: Two people in red and black clothing leaning over blue tub filled with water and artworks, examining contents
+    alt: Two people leaning over blue tub filled with water and artworks, examining contents
   - src: Untitled_13.jpg
     alt: Close-up of hand wearing orange glove reaching into blue tub with several live eels swimming in water
   - src: BandRoom.jpg
