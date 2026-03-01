@@ -9,7 +9,7 @@ images:
   - src: image350.jpg
     alt: Collage artwork showing drawings of a dove, a person playing guitar with text 'a face melting solo' and eels swimming underneath
   - src: DampACW.jpg
-    alt: Dark gallery installation with blue-lit aquatic containers, black panels displaying white photographs, and a white sculptural chair
+    alt: Gallery installation with blue plastic tub surrounded by TVs and white sculptural chair and black panels displaying white photographs in the background
   - src: eels.jpg
     alt: Group of visitors gathered around large blue tub observing live eels during "Explaining Contemporary Art to Live Eels" performance
   - src: ACW.jpg
