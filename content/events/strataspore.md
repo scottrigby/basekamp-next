@@ -16,7 +16,7 @@ images:
   - src: img_4743.jpg
     alt: "Group of people sitting at table holding up various types of mushrooms facing the camera"
   - src: dscn1242.jpg
-    alt: "Mushroom field study or collection documentation photograph"
+    alt: "Woman holding up a bundle of yellow orange mushrooms standing before the front door of a house"
   - src: img_2009.jpg
     alt: "Mushroom foraging documentation showing collected specimens"
   - src: dscn1900.jpg
