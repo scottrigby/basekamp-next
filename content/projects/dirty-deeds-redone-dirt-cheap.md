@@ -9,7 +9,7 @@ images:
   - src: 600MVC-016S.jpg
     alt: People installing a white tent-like structure inside a museum gallery, with one person on a ladder working on the interior.
   - src: retro-history-poster.jpg
-    alt: Exhibition poster featuring a bear pulling back a red curtain, with text 'dirty deeds (re)done dirt cheap' and artist names Leigh Stevens, Scott Rigby, Justin Matherly, David Dempewolf.
+    alt: Exhibition poster titled 'dirty deeds (re)done dirt cheap' featuring a bear pulling back a red curtain, with text and artist names Leigh Stevens, Scott Rigby, Justin Matherly, David Dempewolf.
   - src: TENTY.jpg
     alt: Visitors standing outside an illuminated white tent structure installed inside a dark museum gallery space.
   - src: h.JPG
