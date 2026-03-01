@@ -13,7 +13,7 @@ images:
   - src: I-deal-Opportunities2.jpg
     alt: Tall vertical tower sculpture made of stacked and interlocking card boxes with printed imagery on their surfaces.
   - src: Install-Views.jpg
-    alt: Two-panel gallery view showing a chalkboard with 'Curator of the day' schedule on left, and visitors browsing card displays and artwork on right.
+    alt: Photo composite of gallery view showing a chalkboard with 'Curator of the day' schedule on left, and visitors browsing card displays and artwork on right.
   - src: Support-Structure1.jpg
     alt: Modular wooden structure with panels and compartments housing artworks and materials, with a large letter 'D' visible.
 dateRange:
