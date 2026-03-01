@@ -7,7 +7,7 @@ images:
   - src: BW_2.1_6in_0.png
     alt: Black and white line drawing of a button with exposed hardware labeled 'PUSHIT' with a cable extending from it.
   - src: Art_Gen1.jpg
-    alt: Large charcoal drawing on gallery floor depicting an abstract organic form, created during a performance.
+    alt: Large grey charcoal imprint on gallery floor depicting human shoulders, arms, back and buttocks
 dateRange:
   from: 2009-08-07
   to: ""
