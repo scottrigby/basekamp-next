@@ -17,7 +17,7 @@ images:
   - src: DSC09285.jpg
     alt: Gallery view with visitors examining various colored tri-fold display boards during exhibition opening
   - src: DSC09288.jpg
-    alt: Exterior view of Columbia University campus with Low Memorial Library's neoclassical columned facade
+    alt: Exterior view of Columbia University campus featuring a neoclassical building with columns
   - src: DSC09289.jpg
     alt: Visitors gathered around tri-fold display boards examining curatorial project presentations
   - src: DSC09290.jpg
