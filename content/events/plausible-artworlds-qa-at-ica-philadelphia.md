@@ -2,7 +2,7 @@
 title: Plausible Artworlds Q&A at ICA, Philadelphia
 images:
   - src: paw-sq-600.png
-    alt: "Plausible Artworlds logo with geometric black shapes containing white areas with neon RGB color glitch effects in cyan magenta and yellow, bold black text reading Plausible Artworlds below"
+    alt: Plausible Artworlds logo
 dateRange:
   from: 2010-07-23T18:00
   to: 2010-07-23T20:00
