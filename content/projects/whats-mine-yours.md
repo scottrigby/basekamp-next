@@ -7,7 +7,7 @@ images:
   - src: 01.jpg
     alt: Gallery installation featuring a white tricycle cart with painted backdrop showing colorful illustrated animals including an octopus, owl, and other creatures
   - src: 09.jpg
-    alt: Sunlit gallery space with multiple black umbrellas suspended from ceiling, white sculptural foam forms, and tall windows showing brick buildings outside
+    alt: Sunlit gallery space featuring desk and chair with black umbrella suspended from ceiling overtop, small doghouse to the right
   - src: 02.jpg
     alt: Gallery installation with wooden bench-like furniture piece in center and video projection on wall showing urban street scene
   - src: 03.jpg
