@@ -2,7 +2,7 @@
 title: "Potluck chat: Projection Mail - July 7 2009"
 images:
   - src: 3478505220_ba3ea87719_o.jpg
-    alt: "Projection Mail installation with blue-toned architectural projections mapped onto indoor staircase walls, wooden stairs leading upward, bright orange lighting from window, white interior gallery space"
+    alt: "Art installation with blue-toned architectural projections mapped onto indoor stairwell walls, wooden stairs leading upward, bright orange lighting from upper doorway"
 dateRange:
   from: 2009-07-07T18:00
   to: 2009-07-07T20:00
