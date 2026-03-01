@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: insta3.jpg
-    alt: Artist painting large wall mural with colorful organic shapes in purple and green on black background, professional lighting and camera equipment visible
+    alt: Wall illustration of artist painting large colorful organic shapes in purple and green on black background, professional lighting and camera equipment visible in foreground
   - src: insta1.jpg
     alt: Gallery view showing "STUNT DOUBLE" text on wall with life-size photographic prints of people mounted on foam board in spotlight
   - src: open.jpg
