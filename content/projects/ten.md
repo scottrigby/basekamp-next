@@ -9,7 +9,7 @@ images:
   - src: P1010027_9.jpg
     alt: Gallery installation showing a long row of large-scale black and white portrait photographs leaning against a white wall in industrial space
   - src: P1010029_7.jpg
-    alt: White wood-paneled wall displaying collage of newspaper clippings, articles, and portrait photographs with "EXIT" sign visible
+    alt: White wood-paneled wall displaying collage of newspaper clippings, articles, and portrait photographs
   - src: P1010031_6.jpg
     alt: Newspaper clipping with headline "Spy camera matches faces to police files" showing person holding computer screen with facial recognition images
   - src: P1010032_5.jpg
