@@ -7,7 +7,7 @@ images:
   - src: 4.instal_0.jpg
     alt: Gallery installation with tables, red chairs, and filing boxes. Walls display grids of framed documents in red and blue. Wall clocks and potted palm plants are positioned at intervals.
   - src: cam.jpg
-    alt: View through a video camera viewfinder showing two men seated at a table with a blue tablecloth, one drinking from a cup.
+    alt: View through a video camera viewfinder showing two men in suits seated at a table with a blue tablecloth, one drinking from a cup.
   - src: from-pdf.jpg
     alt: Three-panel composite showing a man gesturing near red-framed documents, two men seated at an information table, and a close-up of a blue-framed document showing UCLA MFA program details.
   - src: questionnaire.jpg
