@@ -9,7 +9,7 @@ images:
   - src: EAM_600.jpg
     alt: Gallery installation featuring white tent structure, wooden bench, and illuminated green projection screen in industrial space with exposed ceiling
   - src: EAM-Flyer3-red.gif
-    alt: Red poster design featuring black silhouette of Tatlin's Tower with crowd and black star, advertising East Art Map film screenings and regular screenings at Basekamp
+    alt: Red poster design titled East Art Map featuring black silhouette of tower with crowd and black star, advertising film screenings and regular screenings at Basekamp
   - src: eastartmap-mit.jpg
     alt: Book cover for "EAST ART MAP" published by MIT Press, featuring large yellow star on vibrant red background
   - src: eastartmap2.jpg
