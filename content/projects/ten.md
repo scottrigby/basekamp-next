@@ -17,7 +17,7 @@ images:
   - src: P1010033_4.jpg
     alt: Printed table showing contestant scores and rankings with names including Rigby, Rachael in first place with score of 94.11
   - src: P1010034_3.jpg
-    alt: Minimal white shelf display with black rotary telephone, small portrait photograph, and several printed documents or magazines
+    alt: Minimal white shelf display with black rotary telephone, small portrait photograph, and several printed documents
   - src: P1010036_2.jpg
     alt: Gallery view showing series of large-scale black and white portrait photographs leaning against wall on wooden supports in industrial space
   - src: P1010037_1.jpg
