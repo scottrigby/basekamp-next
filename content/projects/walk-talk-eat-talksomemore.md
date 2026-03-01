@@ -7,7 +7,7 @@ images:
   - src: basekamp1_0.jpg
     alt: Group of participants sitting on plastic milk crates in gallery space during discussion, with projection screen showing map
   - src: basekamp2_0.jpg
-    alt: Participants walking along urban sidewalk carrying bright blue flag markers during counter-cartography walk
+    alt: Participants walking along urban sidewalk carrying bright blue flag markers
   - src: meal01.jpg
     alt: Six people seated around table with blue tablecloth having meal and discussion, food bowls visible
   - src: webcast02.jpg
