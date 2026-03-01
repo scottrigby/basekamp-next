@@ -9,7 +9,7 @@ images:
   - src: participate-1.jpg
     alt: Multiple hands reaching upward, one with power drill, helping to construct a wooden tripod in gallery space
   - src: participate-2.jpg
-    alt: Two people standing side by side showing their legs and torsos, wearing striped pants in red and white colors
+    alt: Two people standing side by side showing their legs and torsos, wearing large striped ribbons in red, white and gold
   - src: participate-4.jpg
     alt: Group of people gathered around a table examining photographs or documents, with motion blur suggesting active discussion
   - src: participate-5.jpg
