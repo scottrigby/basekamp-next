@@ -43,7 +43,7 @@ images:
   - src: End.jpg
     alt: Post-performance scene showing scattered cardboard guitars strewn across floor with Marshall amplifiers in background
   - src: Untitled_28.jpg
-    alt: Close-up of discarded painted cardboard guitars on floor, including one designed to look like Marshall amplifier
+    alt: Close-up of discarded painted cardboard guitars on floor and one Marshall amplifier
 dateRange:
   from: 2004-12-04
   to: 2005-01-15
