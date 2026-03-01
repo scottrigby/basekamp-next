@@ -10,7 +10,7 @@ images:
   - src: fieldtrip01.jpg
     alt: "Person holding a shopping cart filled with dirt and green vegetation in the rain in urban setting"
   - src: greenhouses2.jpg
-    alt: "Close-up photograph of red earthworms in dark soil during vermicomposting process for greenwaste-to-fertility system"
+    alt: "Close-up photograph of hand holding dark soil with red earthworms during vermicomposting process"
   - src: humblepile01.jpg
     alt: "Compost pile with organic materials and decomposition visible for nutrient cycling in urban garden"
   - src: 87.jpg
