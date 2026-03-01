@@ -12,7 +12,7 @@ images:
   - src: sculpture07.jpg
     alt: "Gallery installation with gray cubic sculptural forms with visible edge stitching, and a tilted composition"
   - src: sculpture10.jpg
-    alt: "Large geometric black sculptural box or form in white gallery space with window light visible"
+    alt: "Large sculpture of geometric gray boxes standing upright in white gallery space with window light visible"
   - src: 25642379-eea88cc75ba058b62f97c1b043be2804.4a946724-full.jpg
     alt: "Close-up documentation of artistic work or sculptural detail from Genesis Project residency"
   - src: 25642603-a573392e0883ffd5788bf70ddbfcbeff.4a94677a-full.jpg
