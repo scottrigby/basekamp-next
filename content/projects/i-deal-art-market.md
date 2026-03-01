@@ -7,7 +7,7 @@ images:
   - src: booklets_0.jpg
     alt: Pile of small white booklets titled 'Ideal Art For The Market #1' by Gavin Wade and Scott Rigby scattered on a brown surface.
   - src: cuchi_label_single2.jpg
-    alt: Exhibition label with geometric folded paper diagrams and text describing 'Ideal Art For The Market' at Cuchifritos gallery in Essex St Market, NY.
+    alt: Exhibition poster titled 'Ideal Art For The Market' at Cuchifritos gallery in Essex St Market, NY. Features geometric folded paper diagrams.
   - src: front_0.jpg
     alt: Large geometric icosahedron sculpture made of pale cardboard panels displayed near hay bales.
   - src: CM.invite_0.jpg
