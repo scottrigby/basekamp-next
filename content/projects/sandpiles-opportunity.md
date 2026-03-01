@@ -15,7 +15,7 @@ images:
   - src: 65.jpg
     alt: Pair of green cloth badges partially buried in sand mound within sandbox
   - src: 66.jpg
-    alt: Business card reading "A+C=T" artlab with colorful letter logo, surrounded by plastic fork, spoon, straws and white egg in sand
+    alt: Business card reading 'A+CCT' with colorful letter logo, surrounded by plastic fork, spoon and straws in sand
   - src: 67.jpg
     alt: Fractal Workspace business card standing upright in sand structure showing contact information for Chicago location
   - src: 72.jpg
