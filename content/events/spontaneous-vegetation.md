@@ -6,7 +6,7 @@ images:
   - src: clean1.jpg
     alt: "Person holding a pickaxe standing in front of corrugated metal structure with window openings"
   - src: clean-livin.png
-    alt: "Documentation of sustainable housing construction from recycled corrugated metal materials"
+    alt: "Indoor bathroom with toilet and handwash made from white and green plastic materials"
   - src: fieldtrip01.jpg
     alt: "Group of people on urban foraging walk examining spontaneous and cultivated vegetation in city landscape"
   - src: greenhouses2.jpg
