@@ -13,7 +13,7 @@ images:
   - src: P1010031_6.jpg
     alt: Newspaper clipping with headline 'Spy camera matches faces to police files' showing person next to computer screen with facial recognition images
   - src: P1010032_5.jpg
-    alt: Close-up of article text reading "Nobody's perfect But this face was judged to be so by a computer. Still, what does a machine know? (Geometry is only skin-deep)"
+    alt: Close-up of article text reading 'Nobody's perfect But this face was judged to be so by a computer. Still, what does a machine know? (Geometry is only skin-deep)'
   - src: P1010033_4.jpg
     alt: Printed table showing contestant scores and rankings with names including Rigby, Rachael in first place with score of 94.11
   - src: P1010034_3.jpg
