@@ -10,7 +10,7 @@ images:
   - src: 3751521664_cdeff62a3f_b.jpg
     alt: "Action shot of child in blue tank top running on orange plastic netting placed as a runway, protest banners and trees visible in background"
   - src: 3751534918_1c31e8410e_b.jpg
-    alt: "Homeless tent city with multiple blue tents, yellow diamond warning signs, protest signage including The Gentrify and Occupy, two people conversing in foreground"
+    alt: "Occupation protest with multiple blue tents, yellow diamond warning signs, protest signage including The Gentrify and Occupy, a police officer and person are conversing in foreground"
   - src: 3751532554_d3691ddf75_b.jpg
     alt: "Large crowd of diverse participants gathered in vacant urban lot with police line tape barrier visible, brick apartment buildings in background, mixed ages and backgrounds"
   - src: 3751564022_daa79b3f16_b.jpg
