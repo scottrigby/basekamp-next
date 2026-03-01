@@ -4,7 +4,7 @@ images:
   - src: frontpageimage3.jpg
     alt: "Composite image of vinyl record stacks, CDs, books, cardboard boxes, and black filing cabinets"
   - src: contactsheet-003.jpg
-    alt: "Contact sheet showing collection of event flyers and promotional posters with colorful imagery and text quotes featuring various performers"
+    alt: "Collection of event flyers and promotional posters featuring Vanilla Ice"
   - src: mfrecords3.jpg
     alt: "Black metal shelving unit filled with organized vinyl records, CDs, and music media on multiple shelves with various album spines visible"
   - src: screen_shot_2009-12-30_at_8.46.41_am.png
