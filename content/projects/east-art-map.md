@@ -21,7 +21,7 @@ images:
   - src: NSK-100_1.gif
     alt: Poster for 'Predictions of Fire' showing dramatic flaming structure and typography with dark sky and aircraft silhouettes
   - src: Irwin-BlackSquare.jpg
-    alt: Public performance documentation showing large crowd gathered in Moscow's Red Square near St. Basil's Cathedral and GUM department store
+    alt: Historical photo showing large crowd gathered in Moscow's Red Square near St. Basil's Cathedral
   - src: winder2.jpg
     alt: Formal group portrait of five men from IRWIN collective wearing suits and ties, positioned in front of brick tower structure
   - src: zizek.jpg
