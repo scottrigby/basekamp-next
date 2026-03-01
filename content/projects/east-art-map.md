@@ -15,7 +15,7 @@ images:
   - src: eastartmap2.jpg
     alt: Poster titled 'Art Forum in New Moment' overlaid on grayscale map of Europe
   - src: web02.jpg
-    alt: Screenshot of East Art Map website interface showing 3D cube logo with artist names, entry titled "A Tree Without An Author" with photograph and navigation elements
+    alt: Screenshot of East Art Map website interface showing 3D cube logo with artist names, entry titled 'A Tree Without An Author' and navigation elements
   - src: NSK-under-Tatlin.jpg
     alt: Black and white group photograph of NSK collective members in formal dark attire standing in line beneath large angular metal tower structure resembling Tatlin's Monument
   - src: NSK-100_1.gif
