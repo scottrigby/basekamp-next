@@ -6,7 +6,7 @@ images:
   - src: img_3286.jpg
     alt: "Yellow school bus parked in outdoor garden surrounded by trees and vegetation"
   - src: img_2104.jpg
-    alt: "Mushroom specimen documentation photograph showing fungal growth"
+    alt: "Person holding large mushroom talking and standing next to tree surrounded by group of people listening"
   - src: img_3187.jpg
     alt: "Mushroom identification documentation photo showing fungal specimen"
   - src: img_2024.jpg
