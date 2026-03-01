@@ -39,7 +39,7 @@ images:
   - src: DSC09303.jpg
     alt: Visitors examining orange and yellow tri-fold display boards
   - src: DSC09304.jpg
-    alt: Close-up view of yellow and orange tri-fold display boards showing detailed documentation during exhibition
+    alt: Multicolored tri-fold display boards during exhibition
   - src: DSC09305.jpg
     alt: Visitors during opening reception viewing tri-fold display boards with "con_nect" text visible on wall
   - src: DSC09306.jpg
