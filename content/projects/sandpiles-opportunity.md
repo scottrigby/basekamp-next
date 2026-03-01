@@ -5,7 +5,7 @@ location: Versionfest, Chicago
 attribution: Basekamp & friends
 images:
   - src: 32.jpg
-    alt: Sand sculpture installation in wooden box with multiple mounds and valleys marked with small flags and labels, people visible in background at Versionfest
+    alt: Sand sculpture installation in wooden box with multiple mounds and valleys marked with small flags and labels, people visible in background
   - src: 25.jpg
     alt: Close-up aerial view of sand landscape with tall peaked structures and small colored flags planted throughout the terrain
   - src: 26.jpg
