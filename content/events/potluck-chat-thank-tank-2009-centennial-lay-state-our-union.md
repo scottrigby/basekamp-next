@@ -2,7 +2,7 @@
 title: "Potluck chat: Thank Tank 2009: Centennial Lay State of Our Union"
 images:
   - src: thank-tank.jpg
-    alt: "Large group of people gathered in circle on grass in outdoor park setting with trees in background, appearing to be in community discussion or group gathering"
+    alt: "Large group of people sitting and conversing in circle on grass in outdoor park setting"
 dateRange:
   from: 2009-09-01T18:00
   to: 2009-09-01T20:00
