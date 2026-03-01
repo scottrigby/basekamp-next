@@ -27,7 +27,7 @@ images:
   - src: sd2.jpg
     alt: Gallery corner installation with colorful geometric wall murals and life-size photographic cutouts of people positioned against walls
   - src: sd3.jpg
-    alt: Installation view showing bold wall mural with red, yellow, black, and blue sections with two life-size photographic prints of people
+    alt: Wall mural with red, yellow, black, and blue sections with four life-size photographic prints of people appearing to paint the mural
   - src: sd4.jpg
     alt: Person crouching against colorful wall mural working on installation, with white wall showing exhibition text "STUNT DOUBLE BASEKAMP" and artist credits
   - src: sd5.jpg
