@@ -8,7 +8,7 @@ interface CardProps {
   slug: string;
   location: string;
   attribution?: string;
-  images: [{ src: string; alt: string }];
+  images?: { src: string; alt: string }[];
 }
 
 export default function Card({
@@ -21,20 +21,22 @@ export default function Card({
 }: CardProps) {
   const href = "/projects/" + slug; // TODO: refine this
   const formattedDate = formatDate(date);
-  const image = images[0];
+  const image = images?.[0];
 
   return (
     <div>
       <Link aria-label={title} href={href}>
-        <div className="aspect-square">
-          <Image
-            src={`/${image.src}`}
-            alt=""
-            width={200}
-            height={200}
-            className="object-cover w-full h-full"
-          />
-        </div>
+        {image && (
+          <div className="aspect-square">
+            <Image
+              src={`/${image.src}`}
+              alt=""
+              width={200}
+              height={200}
+              className="object-cover w-full h-full"
+            />
+          </div>
+        )}
         {title}
       </Link>
       {date && <small className="block">{formattedDate}</small>}

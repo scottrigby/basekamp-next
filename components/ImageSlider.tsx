@@ -32,13 +32,17 @@ function toSlides(images: Img[]): Slide[] {
 }
 
 type Props = {
-  images: Img[];
+  images?: Img[];
   className?: string; // grid styles from our caller
 };
 
 export default function ImageSlider({ images, className }: Props) {
   const [open, setOpen] = React.useState(false);
   const [index, setIndex] = React.useState(0);
+
+  if (!images || images.length === 0) {
+    return null;
+  }
 
   const slides = React.useMemo(() => toSlides(images), [images]);
 
@@ -61,7 +65,7 @@ export default function ImageSlider({ images, className }: Props) {
       <div className={className}>
         {images.map((img, i) => {
           const src = normalizeSrc(img.src);
-          const desc = img.alt ?? `${i + 1}`
+          const desc = img.alt ?? `${i + 1}`;
           return (
             <button
               key={`${src}-${i}`}
