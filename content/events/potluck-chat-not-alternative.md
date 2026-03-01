@@ -8,7 +8,7 @@ images:
   - src: 3750724357_6c4b507833_b.jpg
     alt: "Crowd of protestors gathered under large shade trees with banners including text They Say Gentrify and Place Called Home"
   - src: 3751521664_cdeff62a3f_b.jpg
-    alt: "Person in blue numbered tank top running on orange brick pathway with motion blur, protest banners and trees visible in background"
+    alt: "Action shot of child in blue tank top running on orange plastic netting placed as a runway, protest banners and trees visible in background"
   - src: 3751534918_1c31e8410e_b.jpg
     alt: "Homeless tent city with multiple blue tents, yellow diamond warning signs, protest signage including The Gentrify and Occupy, two people conversing in foreground"
   - src: 3751532554_d3691ddf75_b.jpg
