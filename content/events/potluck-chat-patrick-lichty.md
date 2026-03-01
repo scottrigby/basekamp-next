@@ -6,7 +6,7 @@ images:
   - src: lichty1.jpg
     alt: "Black and white portrait photograph of man with glasses and curly dark hair against white background"
   - src: lichty2.jpg
-    alt: "Person presenting at event with projection screen in background showing image, yellow flowers in foreground, indoor venue with green plants"
+    alt: "Person dressed in gold avant garde costume presenting at event with projection screen in background, yellow flowers in foreground, indoor venue with green plants"
 dateRange:
   from: 2009-12-08T20:00
   to: 2009-12-08T22:00
