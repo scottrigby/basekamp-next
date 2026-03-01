@@ -2,35 +2,35 @@
 title: Occupy EVERYTHING
 images:
   - src: 321139_294389957253189_108038612554992_1207215_2092169879_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Elderly man with walker wearing sign reading WWII Veteran Main Street Not Wall Street walking in a protest march
   - src: 308154_125927104176832_120049568097919_91813_1259422170_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Occupy Wall Street encampment showing many colorful tents arranged in a park plaza area with trees
   - src: philly-protest.png
-    alt: Occupy EVERYTHING
+    alt: Protest with people holding signs including Fight Back Philly, Occupy Philly
   - src: 313719_124653050970904_120049568097919_89135_1972405489_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Crowd of protesters at base of government building holding signs including This Is Real
   - src: 294069_124140904355452_120049568097919_87816_461925646_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Email message from Noam Chomsky showing solidarity and support for Occupy Philadelphia movement
   - src: 316762_2067985899784_1248914882_31848403_1365491723_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Daily Kos's Map of Occupy Wall Street Events showing US map with many red markers indicating occupy locations across the country
   - src: livestream-nyc.png
-    alt: Occupy EVERYTHING
+    alt: Livestream broadcast interface showing crowd of people at night with livestream logo and text indicating viewing from multiple mobile street cameras with 13,000 viewers
   - src: vutko.jpg
-    alt: Occupy EVERYTHING
+    alt: Encampment showing multiple colorful tents in public plaza with large institutional building visible in background
   - src: occupyphiladelphia028.jpg
-    alt: Occupy EVERYTHING
+    alt: Protest banner reading From Wall St. To Market St. Foreclose on Capitalism Not People with crowd of protesters gathered behind it
   - src: 302027_125453424224200_120049568097919_90992_830742877_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Nighttime panorama showing large crowd gathered on street. Labelled People's Assembly on Economic Injustice at Occupy Philadelphia 2nd night October 7 2011
   - src: 300919_125866440849565_120049568097919_91727_967513004_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Hand-drawn map and diagram of occupation layout on white paper with green sticky notes showing different areas like Education Training Library, Art Skmagking, Sanitation, Tech Media, Safety, and General Assembly
   - src: 297999_125930417509834_120049568097919_91845_705605570_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Solar panels arranged in a star pattern on pavement with banner reading Occupy The Sun
   - src: seacm.jpg
-    alt: Occupy EVERYTHING
+    alt: Red wagon filled with water bottles next to large black batteries on the pavement
   - src: 321084_125930200843189_120049568097919_91842_458659985_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Outdoor kitchen and food service with turquoise tent, people preparing and serving food with cups and supplies, large building with columns in background
   - src: 321587_124586400977569_120049568097919_88928_1484914131_n.jpg
-    alt: Occupy EVERYTHING
+    alt: Protesters with signs outside government building
 dateRange:
   from: 2011-10-11T18:00
   to: 2011-10-11T20:00

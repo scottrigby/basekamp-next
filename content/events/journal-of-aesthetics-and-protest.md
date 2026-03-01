@@ -2,13 +2,13 @@
 title: The Journal of Aesthetics and Protest
 images:
   - src: graph_positioning.jpg
-    alt: The Journal of Aesthetics and Protest
+    alt: Hand-drawn coordinate chart on grid paper showing axis for distrust/trust of institutionalization and high/low mediation with various artistic projects plotted
   - src: 8cover.jpg
-    alt: The Journal of Aesthetics and Protest
+    alt: High contrast black and white illustration of three faces combined into one
   - src: joaap.jpg
-    alt: The Journal of Aesthetics and Protest
+    alt: Workshop meeting with multiple people seated around a white table in a room with blue ceiling and paper notes on the walls
   - src: issue8.jpeg
-    alt: The Journal of Aesthetics and Protest
+    alt: Journal of Aesthetics and Protest Grassroots Modernism cover with red text on pale green background with issue number 8
 dateRange:
   from: 2012-04-17T18:00
   to: 2012-04-17T20:00

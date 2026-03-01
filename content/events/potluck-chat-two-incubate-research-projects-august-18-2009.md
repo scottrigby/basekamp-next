@@ -2,9 +2,9 @@
 title: "Potluck chat: Two InCUBATE research projects - August 18 2009"
 images:
   - src: Artiscycle_Proposal_Kennedy.pdf.png
-    alt: "Potluck chat: Two InCUBATE research projects - August 18 2009"
+    alt: "Artiscycle Platform proposal diagram by Christopher lee Kennedy showing interconnected system for translating applied aesthetics into education and social agency, with three main goal sections connected through central hub with various images of art practices and community projects"
   - src: cropped-ARCL_header.jpg
-    alt: "Potluck chat: Two InCUBATE research projects - August 18 2009"
+    alt: "ARCL logo"
 dateRange:
   from: 2009-08-18T18:00
   to: 2009-08-18T20:00

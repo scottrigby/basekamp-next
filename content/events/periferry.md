@@ -2,13 +2,13 @@
 title: Periferry
 images:
   - src: periferry_n.e.w.s._-_22.jpg
-    alt: Periferry
+    alt: Periferry ferry boat docked showing green railings, white structure, and deck with people visible
   - src: periferry_n.e.w.s._-_37.jpg
-    alt: Periferry
+    alt: Interior deck of ferry with green metal structure and railings showing people gathered around tables with materials and equipment
   - src: periferry_n.e.w.s._-_01.jpg
-    alt: Periferry
+    alt: Side view of ferry vessel docked on river with forested banks and calm water reflecting sky
   - src: periferry2small00.jpg
-    alt: Periferry
+    alt: Dusk view of ferry structure showing architectural framework with people visible on deck and water reflections
 dateRange:
   from: 2010-10-19T18:00
   to: 2010-10-19T20:00

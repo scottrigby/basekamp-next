@@ -2,31 +2,31 @@
 title: StrataSpore
 images:
   - src: john_cage_mainimage.jpg
-    alt: StrataSpore
+    alt: "Black and white historical photograph of person holding mushroom with text John Cage and Allan Kaprow met on a mushroom hunt"
   - src: img_3286.jpg
-    alt: StrataSpore
+    alt: "Yellow school bus parked in outdoor garden surrounded by trees and vegetation"
   - src: img_2104.jpg
-    alt: StrataSpore
+    alt: "Person holding large mushroom talking and standing next to tree surrounded by group of people listening"
   - src: img_3187.jpg
-    alt: StrataSpore
+    alt: "Large bulbous yellow mushroom with red and blue stem growing outside"
   - src: img_2024.jpg
-    alt: StrataSpore
+    alt: "Row of tables with straw on top and people lined up, one person on the end packaging bundle of straw into cardboard box"
   - src: mushroom131.jpg
-    alt: StrataSpore
+    alt: "Large paper mushroom installation arranged in spiral pattern on grass in urban plaza"
   - src: img_4743.jpg
-    alt: StrataSpore
+    alt: "Group of people sitting at table holding up various types of mushrooms facing the camera"
   - src: dscn1242.jpg
-    alt: StrataSpore
+    alt: "Woman holding up a bundle of yellow orange mushrooms standing before the front door of a house"
   - src: img_2009.jpg
-    alt: StrataSpore
+    alt: "Person presenting a projected slide on the mushroom lifecycle in a studio space"
   - src: dscn1900.jpg
-    alt: StrataSpore
+    alt: "Group of people outdoors in nature, one person holding a tall green piece of vegetation"
   - src: photo2.jpg
-    alt: StrataSpore
+    alt: "Pale yellow fungus growing on a large tree, open car window visible in foreground"
   - src: sweettooth1.jpg
-    alt: StrataSpore
+    alt: "Sliced golden-colored edible mushroom specimens on wooden cutting board with knife"
   - src: img_2716.jpg
-    alt: StrataSpore
+    alt: "Large bulbous red mushroom with veins in a forest setting"
 dateRange:
   from: 2010-10-05T18:00
   to: 2010-10-05T20:00

@@ -5,25 +5,25 @@ location: multiple locations
 attribution: Basekamp & friends
 images:
   - src: week1e-600px_7.jpg
-    alt: Installation at ICA Philadelphia
+    alt: Gallery room with blue walls patterned with white plus signs, covered floor-to-ceiling with colorful documents, research papers, and handwritten notes in pink, yellow, and orange. Two wooden picnic-style benches sit in the center on a floor marked with green tape crosses.
   - src: Plausible-Artworld3_12.jpg
-    alt: Mind map
+    alt: Black and white organizational flowchart titled 'Plausible Artworlds' showing interconnected departments including Architecture and Design Division, Ministry of Exhibitions, Spaces Division, Department of Relationship Development, and Recording Department, with lines indicating relationships between groups.
   - src: sh-1_600_11.jpg
-    alt: Planning session
+    alt: Loft space with wooden bunk bed structure, metal ladder, and gray lockers. Orange folding camping chairs arranged in a circle on a wooden floor striped with orange tape. White inflatable balls scattered on the floor near large windows.
   - src: skpedinner_10.jpg
-    alt: Skype dinner
+    alt: "Four-panel photo collage documenting a remote dinner event: a printed menu, two people wearing headphones eating at a table during a video call, camera equipment and headphones on a table, and a laptop displaying video conference participants alongside drinks and food."
   - src: ica-plausible-artworlds-2007.png
-    alt: Installation at ICA Philadelphia
+    alt: "Four-panel collage of gallery visitors engaging with the installation: people writing at long tables, a crowded room with visitors mingling among colorful wall displays, someone posting materials on the blue plus-patterned wall, and a group reviewing documents together."
   - src: week1-600px_3.jpg
-    alt: Installation at ICA Philadelphia
+    alt: Eight people seated at wooden picnic benches engaged in discussion, facing a blue wall densely covered with colorful research documents, flyers, and handwritten notes. Green tape crosses mark the concrete floor.
   - src: week1d-600px_4.jpg
-    alt: Installation at ICA Philadelphia
+    alt: Group discussion at wooden benches with one person filming. Blue walls covered with layered documents, photographs, and colorful notes. Green tape crosses on the floor.
   - src: week1c-600px_5.jpg
-    alt: Installation at ICA Philadelphia
+    alt: Close-up of wall installation showing densely layered typed documents, handwritten notes on pink and yellow paper, printed photographs, and research materials pinned to a blue wall with white plus sign pattern.
   - src: week1b-600px_6.jpg
-    alt: Installation at ICA Philadelphia
+    alt: Detail of blue wall covered with overlapping papers including typed documents, neon sticky notes with handwritten messages like 'Happy 21st Birthday,' children's drawings, and printed materials arranged in a collage.
   - src: 1_5.jpg
-    alt: Planning session
+    alt: Group discussion in a loft space with about ten people seated in folding chairs. One person stands gesturing while speaking. Equipment including a laptop and milk crate visible on the wooden floor.
 dateRange:
   from: 2010-01-05
   to: 2010-12-28
@@ -112,10 +112,10 @@ We invite participation by sharing your stories about the Plausible Artworlds yo
 
 Our plan for this year is in process. We have slots open for our potluck and a collaborative workshop and exhibition space available for use. If you want to get involved, get in touch with us!
 
-* Propose a Potluck Topic or Guest
-* Learn how to “tune” in or visit the Basekamp space in person!
-* Submit your ideas and stories about a Plausible Artworld
-* Start a project at Basekamp
+- Propose a Potluck Topic or Guest
+- Learn how to “tune” in or visit the Basekamp space in person!
+- Submit your ideas and stories about a Plausible Artworld
+- Start a project at Basekamp
 
 [Contact »](/info/contact "/info/contact")
 

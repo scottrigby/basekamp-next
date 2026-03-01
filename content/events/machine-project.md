@@ -2,9 +2,9 @@
 title: Machine Project
 images:
   - src: frustrated-guy-clarkk.jpg
-    alt: Machine Project
+    alt: Person wearing glasses tangled in multicolored wires and cables around their shoulders and hands
   - src: machine-project-design-400x300.jpg
-    alt: Machine Project
+    alt: Person laying down in chair in a dentist's office, while another person stands next to them playing a banjo
 dateRange:
   from: 2010-06-01T18:00
   to: 2010-06-01T20:00

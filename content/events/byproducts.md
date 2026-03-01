@@ -2,7 +2,7 @@
 title: byproducts
 images:
   - src: 4_byprod_cover.png
-    alt: byproducts
+    alt: Book cover for byproducts with subtitle On the Excess of Embedded Artistic Practices in white and red text on black background
 dateRange:
   from: 2010-05-25T06:00
   to: 2010-05-25T20:00

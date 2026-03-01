@@ -2,13 +2,13 @@
 title: Design Studio for Social Intervention
 images:
   - src: post-its_13.jpg
-    alt: Design Studio for Social Intervention
+    alt: Yellow sticky notes with handwritten text about apartment living and costs
   - src: post-it_results_win11.jpg
-    alt: Design Studio for Social Intervention
+    alt: Wall installation of yellow and blue post-it notes arranged to form house shape
   - src: walking_ds4si_arrow600.jpg
-    alt: Design Studio for Social Intervention
+    alt: Person holding a large metallic balloon installation with DS4SI lettering in urban outdoor public space
   - src: judie-lightboard.jpg
-    alt: Design Studio for Social Intervention
+    alt: Hands manipulating objects on illuminated light box creating shadow effects
 dateRange:
   from: 2010-07-06T18:00
   to: 2010-07-06T20:00

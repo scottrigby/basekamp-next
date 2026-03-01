@@ -2,7 +2,7 @@
 title: "Potluck Chat: Randall Szott"
 images:
   - src: szott.jpg
-    alt: "Potluck Chat: Randall Szott"
+    alt: "Technical line drawing schematic of hopper dredge vessel with labeled components including HOPPERS, DRAG, and PUMPS"
 dateRange:
   from: 2009-12-08T18:00
   to: 2009-12-08T20:00

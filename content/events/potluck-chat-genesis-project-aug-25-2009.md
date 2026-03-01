@@ -2,27 +2,27 @@
 title: Potluck chat with Genesis Project - Aug 25 2009
 images:
   - src: ProcessandPractice.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Genesis Project promotional collage with multiple images showing artists drawing on walls, performing with raised arms, and detail of hands working, basekamp philadelphia august 2009"
   - src: alltogether.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Group of people gathered around table eating and conversing in kitchen space"
   - src: drawing03.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Two artists collaboratively drawing on white wall with black lines using body movement and gesture"
   - src: drawing04.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "One artist holds another artist's hand to create black line drawings on white wall surface during performance-based drawing activity"
   - src: sculpture07.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Gallery installation with gray cubic sculptural forms with visible edge stitching, and a tilted composition"
   - src: sculpture10.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Large sculpture of geometric gray boxes standing upright in white gallery space with window light visible"
   - src: 25642379-eea88cc75ba058b62f97c1b043be2804.4a946724-full.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Two people standing on a large orange sheet of paper that hangs from a gallery wall and extends onto the floor and out of frame"
   - src: 25642603-a573392e0883ffd5788bf70ddbfcbeff.4a94677a-full.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Close up of two people squatting on a large orange sheet of paper, drawing lines down the center"
   - src: 25644411.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Close up of two people laying on a large sheet of orange paper, each with two pencils in both hands, drawing lines on the paper"
   - src: writing04.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Handwritten notes on white paper featuring a small drawing of a person unicycling on a tightrope"
   - src: 25647403-2b693d4b06945278247b974529d106fd.4a946d65-full.jpg
-    alt: Potluck chat with Genesis Project - Aug 25 2009
+    alt: "Close up of two people holding pencils bent over a large piece of orange paper where it bends from the wall onto the floor, multiple overlapping lines are drawn down the middle, with pencils scattered"
 dateRange:
   from: 2009-08-25T18:00
   to: 2009-08-25T20:00

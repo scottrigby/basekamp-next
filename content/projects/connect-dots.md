@@ -5,63 +5,63 @@ location: Columbia University, New York
 attribution: Scott Rigby & David Dempewolf
 images:
   - src: DSC09299.jpg
-    alt: Connect The Dots
+    alt: Gallery view with visitors examining colorful science fair-style tri-fold display boards arranged on tables
   - src: DSC09280.jpg
-    alt: Connect The Dots
+    alt: Installation view of multiple colored tri-fold display boards in white gallery space with colorful wall panels in background
   - src: DSC09281.jpg
-    alt: Connect The Dots
+    alt: Elevated view of exhibition showing numerous tri-fold display boards on tables with colorful rectangular panels mounted on walls
   - src: DSC09283.jpg
-    alt: Connect The Dots
+    alt: Two visitors viewing science fair-style exhibition displays in white gallery space
   - src: DSC09284.jpg
-    alt: Connect The Dots
+    alt: Person working at laptop with wall diagram of colored squares connected by black lines visible behind them
   - src: DSC09285.jpg
-    alt: Connect The Dots
+    alt: Gallery view with visitors examining various colored tri-fold display boards during exhibition opening
   - src: DSC09288.jpg
-    alt: Connect The Dots
+    alt: Exterior view of Columbia University campus featuring a neoclassical building with columns
   - src: DSC09289.jpg
-    alt: Connect The Dots
+    alt: Visitors gathered around tri-fold display boards examining curatorial project presentations
   - src: DSC09290.jpg
-    alt: Connect The Dots
+    alt: Gallery opening with visitors viewing colorful tri-fold display boards, with wall installation of dots and connecting lines visible in the background
   - src: DSC09291.jpg
-    alt: Connect The Dots
+    alt: Crowded gallery with visitors examining colorful tri-fold displays
   - src: DSC09292.jpg
-    alt: Connect The Dots
+    alt: Woman with orange bag examining pink tri-fold display board during exhibition opening
   - src: DSC09294.jpg
-    alt: Connect The Dots
+    alt: Crowded gallery opening reception with "connect" text on wall and "Sculpture Archive" display board visible
   - src: DSC09295.jpg
-    alt: Connect The Dots
+    alt: Visitor with backpack examining yellow tri-fold display labeled "Here & There" with orange laughing mouth poster on wall above
   - src: DSC09297.jpg
-    alt: Connect The Dots
+    alt: Man in striped shirt viewing colorful collage display board with photographs and mixed media materials
   - src: DSC09301.jpg
-    alt: Connect The Dots
+    alt: Group of visitors examining tri-fold display with collage of photographs during opening reception
   - src: DSC09302.jpg
-    alt: Connect The Dots
+    alt: Visitors viewing colorful tri-fold displays during opening event, "con_nect" visible on wall in background
   - src: DSC09303.jpg
-    alt: Connect The Dots
+    alt: Visitors examining orange and yellow tri-fold display boards
   - src: DSC09304.jpg
-    alt: Connect The Dots
+    alt: Multicolored tri-fold display boards during exhibition
   - src: DSC09305.jpg
-    alt: Connect The Dots
+    alt: Person examining tri-fold display board at exhibition with colorful posters in the background
   - src: DSC09306.jpg
-    alt: Connect The Dots
+    alt: Visitor examining yellow tri-fold display board at exhibition
   - src: DSC09307.jpg
-    alt: Connect The Dots
+    alt: Visitors viewing tri-fold displays at exhibition
   - src: DSC09308.jpg
-    alt: Connect The Dots
+    alt: Visitors conversing next to display boards during exhibition opening
   - src: DSC09309.jpg
-    alt: Connect The Dots
+    alt: Person standing next to colorful display boards with text 'connect' visible on the wall behind them
   - src: DSC09310.jpg
-    alt: Connect The Dots
+    alt: Visitors standing next to wall diagram of network connections using colored squares and lines behind them
   - src: DSC09312.jpg
-    alt: Connect The Dots
+    alt: View of the backs of the display boards creating a white corridor on long white tables, gallery visitors in the background
   - src: DSC09313.jpg
-    alt: Connect The Dots
+    alt: Two visitors in conversation at exhibition opening near display boards
   - src: DSC09315.jpg
-    alt: Connect The Dots
+    alt: Visitors at exhibition among colorful tri-fold display boards
   - src: card_front.jpg
-    alt: Connect The Dots
+    alt: Network diagram showing all 60 participant names connected by colored lines and squares
   - src: card_back5.jpg
-    alt: Connect The Dots
+    alt: Exhibition announcement card with "Connect The Dots" title, School of the Arts logo, and event details for Columbia University
 dateRange:
   from: 2004-09-07
   to: 2004-09-30
@@ -183,16 +183,16 @@ Connect The Dots: Questionnaire Form
 Please describe your exhibition by using the scientific method (below):
 
 1. Problem or Question.  
-In the planning for one of your past exhibitions, please identify a problem or question you wanted to explore, that you then investigated through the use empirical observation and then documented in the form of the final exhibition or journal.  
+   In the planning for one of your past exhibitions, please identify a problem or question you wanted to explore, that you then investigated through the use empirical observation and then documented in the form of the final exhibition or journal.
 2. Hypothesis.  
-Try to articulate your intentions or strategies you adopted employed for re-presenting the work produced by your peers. Also include the original press release or exhibition statement if available.  
+   Try to articulate your intentions or strategies you adopted employed for re-presenting the work produced by your peers. Also include the original press release or exhibition statement if available.
 3. Materials & Resources.  
-List what was needed for the exhibition to take place; e.g. materials, equipment, grants, private support or personal financing, venue opportunities, volunteers, help or advice from colleagues, artists fulfilling specific needs or services within the exhibition.  
+   List what was needed for the exhibition to take place; e.g. materials, equipment, grants, private support or personal financing, venue opportunities, volunteers, help or advice from colleagues, artists fulfilling specific needs or services within the exhibition.
 4. Procedure.  
-Your procedure was your plan of action or a list of what you did. Describe the events that took place throughout the planning, experimentation, and making of the exhibition.  
+   Your procedure was your plan of action or a list of what you did. Describe the events that took place throughout the planning, experimentation, and making of the exhibition.
 5. Data.  
-This is the basic information about the exhibition, such as its title, dates and location, names of co-curators, artists involved, support staff, special thanks, and any other credits or relevant information.  
+   This is the basic information about the exhibition, such as its title, dates and location, names of co-curators, artists involved, support staff, special thanks, and any other credits or relevant information.
 6. Results.  
-Show what happened - the observations critical and documentation you or your peers have made . Provide a visual or textual description of the final exhibition (objects or events). Please include any critical reception of the exhibition (reviews, articles).  
+   Show what happened - the observations critical and documentation you or your peers have made . Provide a visual or textual description of the final exhibition (objects or events). Please include any critical reception of the exhibition (reviews, articles).
 7. Conclusions.  
-Tell what you learned. Answer your original question and state whether your hypothesis was reflected in the final results, and if this illuminated anything new or valuable in your hypothesis.
+   Tell what you learned. Answer your original question and state whether your hypothesis was reflected in the final results, and if this illuminated anything new or valuable in your hypothesis.

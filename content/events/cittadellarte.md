@@ -2,11 +2,11 @@
 title: Cittadellarte
 images:
   - src: zagabria.jpg
-    alt: Cittadellarte
+    alt: Overhead view of people gathered in white gallery space with a large multicolored sculpture in the center
   - src: naldini.jpg
-    alt: Cittadellarte
+    alt: Group of people seated around a large mirrored flat sculpture
   - src: cittadelarte.jpg
-    alt: Cittadellarte
+    alt: Black and white photograph of large illuminated building at night with stone architecture
 dateRange:
   from: 2010-11-09T18:00
   to: 2010-11-09T20:00

@@ -5,11 +5,11 @@ location: Andrew Kreps Gallery, New York
 attribution: Basekamp with Lars Fischer
 images:
   - src: 01_0.jpg
-    alt: Making Room For Redundancy
+    alt: Hexagonal discussion panels in yellow, gray, red, and black arranged on the floor with handwritten notes
   - src: thumb-135_2.jpg
-    alt: Making Room For Redundancy
+    alt: Hexagonal panels mounted on a wall in a honeycomb pattern, containing handwritten text and notes from participants.
   - src: thumb2-135.jpg
-    alt: Making Room For Redundancy
+    alt: Freestanding sculptural arrangement of hexagonal panels in yellow and brown tones, stacked in an abstract tower formation.
 dateRange:
   from: 2005-11-19
   to: ""

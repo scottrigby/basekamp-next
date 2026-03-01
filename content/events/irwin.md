@@ -2,33 +2,33 @@
 title: IRWIN
 images:
   - src: eam_600.jpg
-    alt: IRWIN
+    alt: Gallery installation of a tent structure, wooden tables and a projector screen depicting green aerial mountain view
   - src: nsk-state.jpg
-    alt: IRWIN
+    alt: Photograph of four people in green military uniforms standing outdoors. White text at the top reads NSK GARDA Pristina.
   - src: noordung34v.jpg
-    alt: IRWIN
+    alt: Person suspended in zero gravity inside an industrial space with fluorescent ceiling lights
   - src: triglav_oho_front.jpg
-    alt: IRWIN
+    alt: Black and white photograph of three heads poking out of one large black cloak standing in snowy urban street setting
   - src: winder2_0.jpg
-    alt: IRWIN
+    alt: Six men in dark business suits and fake toothbrush style mustaches standing together in formal group portrait in front of architectural backdrop
   - src: irwin4.jpg
-    alt: IRWIN
+    alt: Group of people in traditional European clothing forming a circle holding hands in open field with forest and mountains in background
   - src: nsk_passports2.jpg
-    alt: IRWIN
+    alt: "NSK Point List Citizens' Passports with stacks of black and white booklets, stapler, scissors, and documentation scattered"
   - src: nsk.jpg
-    alt: IRWIN
+    alt: NSK logo with ornate black decorative frame and geometric elements surrounding central shield on black background with Neue Slowenische Kunst text
   - src: nsk_poster_04.jpg
-    alt: IRWIN
+    alt: Poster with large white text reading First NSK Citizens Congress Berlin 21-23.10.2010 with highway and street lamps in background image
   - src: zizek-a-film-from-slovenia.jpg
-    alt: IRWIN
+    alt: Promotional image showing bearded man in striped shirt sitting in front of bookshelves in library setting
   - src: 5nskmoscow.jpg
-    alt: IRWIN
+    alt: Black and white photograph of group of people standing in ornate gallery interior
   - src: nsk-state-1.jpg
-    alt: IRWIN
+    alt: Black and white artistic portrait of person with geometric cross symbol on forehead against pixelated checkered background
   - src: imag0189.jpg
-    alt: IRWIN
+    alt: Silver commemorative coin showing geometric cross pattern in center with text around rim on black background
   - src: ogenj.jpg
-    alt: IRWIN
+    alt: Large burning ring in front of a building with an illuminated geometric symbol projected onto it
 dateRange:
   from: 2010-12-21T18:00
   to: 2010-12-21T20:00

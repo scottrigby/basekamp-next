@@ -2,7 +2,7 @@
 title: 1:1 Scale Model for a New Art Economy
 images:
   - src: 1-1-scale-diagram-new-art-economy.png
-    alt: 1:1 Scale Model for a New Art Economy
+    alt: "Complex diagram for art economy model. The center hub, Artist Live-in Co-op, connects to multiple boxes including Collectors, Equipment Lending Library, Suitcase Artwork Exchange, Clients, and Local Arts Councils with connecting lines showing resource flows."
 dateRange:
   from: 2011-09-13T18:00
   to: 2011-09-13T20:00

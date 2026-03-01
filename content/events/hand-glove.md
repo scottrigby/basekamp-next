@@ -2,15 +2,15 @@
 title: Hand-in-Glove
 images:
   - src: hand-in-glove.png
-    alt: Hand-in-Glove
+    alt: Hand-in-Glove Conference logo
   - src: 6287480919_f48a2d595c_b.jpg
-    alt: Hand-in-Glove
+    alt: Two people examining large posters in an art gallery with exposed wooden beams and audience seated watching
   - src: 6288000040_2eaf85fa80_b.jpg
-    alt: Hand-in-Glove
+    alt: Handwritten brainstorm notes on whiteboard in blue and red marker covering topics like development, assessment, marketing impact, and values
   - src: 6287488755_cf3f58d63b_b.jpg
-    alt: Hand-in-Glove
+    alt: Crowd of Hand-in-Glove conference attendees sitting in an industrial loft gallery space with exposed ceiling beams and pillars
   - src: jenny-ramos1.jpg
-    alt: Hand-in-Glove
+    alt: Three people in an indoor setting - a woman in a burgundy coat standing and two men sitting on the floor against a cream colored wall
 dateRange:
   from: 2012-01-03T18:00
   to: 2012-01-03T20:00

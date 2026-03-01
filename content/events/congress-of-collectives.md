@@ -2,7 +2,7 @@
 title: Congress of the Collectives
 images:
   - src: p1040553.jpg
-    alt: Congress of the Collectives
+    alt: Group of people seated at long dining table sharing food with laptops open
 dateRange:
   from: 2011-05-24T18:00
   to: 2011-05-24T20:00

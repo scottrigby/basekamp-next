@@ -5,25 +5,25 @@ location: Basekamp, Philadelphia
 attribution: Cornford & Cross
 images:
   - src: invite_0.jpg
-    alt: Ten
+    alt: Black and white portrait photograph of a woman's face overlaid with red geometric measurement lines and numbered markers analyzing facial proportions
   - src: P1010027_9.jpg
-    alt: Ten
+    alt: Gallery installation showing a long row of large-scale black and white portrait photographs leaning against a white wall in industrial space
   - src: P1010029_7.jpg
-    alt: Ten
+    alt: White wood-paneled wall displaying collage of newspaper clippings, articles, and portrait photographs
   - src: P1010031_6.jpg
-    alt: Ten
+    alt: Newspaper clipping with headline 'Spy camera matches faces to police files' showing person next to computer screen with facial recognition images
   - src: P1010032_5.jpg
-    alt: Ten
+    alt: Close-up of article text reading 'Nobody's perfect But this face was judged to be so by a computer. Still, what does a machine know? (Geometry is only skin-deep)'
   - src: P1010033_4.jpg
-    alt: Ten
+    alt: Printed table showing contestant scores and rankings with names including Rigby, Rachael in first place with score of 94.11
   - src: P1010034_3.jpg
-    alt: Ten
+    alt: Minimal white shelf display with black rotary telephone, small portrait photograph, and several printed documents
   - src: P1010036_2.jpg
-    alt: Ten
+    alt: Gallery view showing series of large-scale black and white portrait photographs leaning against wall on wooden supports in industrial space
   - src: P1010037_1.jpg
-    alt: Ten
+    alt: Wide view of row of large-scale black and white facial portraits showing different individuals, mounted on panels leaning against gallery wall
   - src: P1010041_0.jpg
-    alt: Ten
+    alt: Close up view of four large-scale black and white portrait photographs arranged against gallery wall
 dateRange:
   from: 2003-03-06
   to: 2003-05-03

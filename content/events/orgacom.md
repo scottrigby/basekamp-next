@@ -2,7 +2,7 @@
 title: Orgacom
 images:
   - src: orgacom.jpg
-    alt: Orgacom
+    alt: Group of people at a gallery event standing against a blank wall, one person is holding up a picture frame facing towards them
 dateRange:
   from: 2010-03-02T18:00
   to: 2010-03-02T20:00

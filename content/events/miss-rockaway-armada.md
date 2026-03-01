@@ -2,25 +2,25 @@
 title: Miss Rockaway Armada
 images:
   - src: 880489272_97a61965d8.jpg
-    alt: Miss Rockaway Armada
+    alt: Ramshackle raft with wooden structures and salvaged materials floating on river with tall mast
   - src: bandpractice.jpg
-    alt: Miss Rockaway Armada
+    alt: Three musicians with washboard, banjo, and accordion performing on stage with orange backdrop
   - src: "-2.jpg"
-    alt: Miss Rockaway Armada
+    alt: Night scene of crowd gathered around elaborate stage made from salvaged materials with artwork on the beach
   - src: 19_santiago_mostyn_finley_mist.jpg
-    alt: Miss Rockaway Armada
+    alt: Person standing on misty river at dawn with clothing hanging to dry on raft deck
   - src: armadapost5-05.jpg
-    alt: Miss Rockaway Armada
+    alt: Costumed marching band and parade group with instruments standing in front of government building
   - src: 2024183395_217d635333.jpg
-    alt: Miss Rockaway Armada
+    alt: Cluttered raft deck showing shelves of dishes, cooking area, containers and river in background
   - src: ellerybirthday.jpg
-    alt: Miss Rockaway Armada
+    alt: Two crew members sharing food from wooden plate on raft deck in sunlight
   - src: duckysraftinterior.jpg
-    alt: Miss Rockaway Armada
+    alt: Interior cabin of raft showing wooden shelving packed with clothing and supplies, bunk beds and ladder
   - src: 865314687_e1ab066f3f.jpg
-    alt: Miss Rockaway Armada
+    alt: Crew member wearing white dress and helmet standing next to large green plant in front of raft
   - src: armadapost5-02.jpg
-    alt: Miss Rockaway Armada
+    alt: Person standing with arms raised on top of ramshackle wooden structure on raft with another person below, river and trees in background
 dateRange:
   from: 2010-07-13T18:00
   to: 2010-07-13T20:00

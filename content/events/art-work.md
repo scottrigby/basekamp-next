@@ -2,9 +2,9 @@
 title: Art Work
 images:
   - src: screen-shot-2010-01-15-at-1.54.33-pm.png
-    alt: Art Work
+    alt: Black and white poster titled "ART WORK" with subtitle "A National Conversation About Art, Labor, and Economics" followed by description text and "FREE" banner
   - src: gallery400_artwork-e1263336660817.jpg
-    alt: Art Work
+    alt: Multiple stacks of "ART WORK" newspaper-style publications spread across a table, featuring the distinctive bold typography of the project title
 dateRange:
   from: 2010-06-29T18:00
   to: 2010-06-29T20:00

@@ -2,7 +2,7 @@
 title: The Map in a Territory
 images:
   - src: routine1.png
-    alt: The Map in a Territory
+    alt: Geographic coastline silhouette in bright orange against grey hatched background
 dateRange:
   from: 2011-07-26T18:00
   to: 2011-07-26T20:00

@@ -2,9 +2,9 @@
 title: Teaching Artist Union and School of the Future
 images:
   - src: goldglugo.jpg
-    alt: Teaching Artist Union and School of the Future
+    alt: "School of the Future logo with 3D metallic letter forms"
   - src: smallgluegun.jpg
-    alt: Teaching Artist Union and School of the Future
+    alt: "Hot glue gun illustration in black and white drawing style with yellow background"
 dateRange:
   from: 2010-02-09T18:00
   to: 2010-02-09T20:00

@@ -2,15 +2,15 @@
 title: Pad.ma
 images:
   - src: pad.ma_beitut_homeworks05.jpg
-    alt: Pad.ma
+    alt: Woman seated at a laptop during a presentation with a large projection screen behind her showing the Pad.ma video archive interface
   - src: pad.ma_browse.png
-    alt: Pad.ma
+    alt: Screenshot of Pad.ma web interface showing grid of video thumbnails with titles like A day in the life of Muhammad Muslim
   - src: daniela_kobe_and_volker.large_.jpg
-    alt: Pad.ma
+    alt: Three people sitting at table with microphones during panel discussion, projection screen behind showing text The Parable of the Patent Holders Leading the Patent Holders (1568)
   - src: pad.ma_workshop_beitut_sanayeh04.jpg
-    alt: Pad.ma
+    alt: Workshop with people gathered around table with laptops, black and white photographs and drawings on wall, collaborative work session
   - src: steal_this_film.large_.jpg
-    alt: Pad.ma
+    alt: Projector screen reading Steal This Film in large black letters on blue background
 dateRange:
   from: 2010-08-17T18:00
   to: 2010-08-17T20:00

@@ -2,7 +2,7 @@
 title: Groundswell Collective
 images:
   - src: kubidehkitchen.jpg
-    alt: Groundswell Collective
+    alt: Storefront of Kubideh Kitchen, an Iranian takeout restaurant with bright blue facade, geometric yellow and blue patterns, and Arabic script signage at the entrance
 dateRange:
   from: 2010-09-21T18:00
   to: 2010-09-21T20:00

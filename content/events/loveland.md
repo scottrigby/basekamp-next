@@ -2,11 +2,11 @@
 title: Loveland
 images:
   - src: inchy-patch_0.png
-    alt: Loveland
+    alt: Cute fuzzy green character with large black eyes and red heart on chest
   - src: plymouth_0.png
-    alt: Loveland
+    alt: Colorful pixel art style map visualization showing multicolor abstract squares with large green grid area in center
   - src: hello-world.png
-    alt: Loveland
+    alt: Pixel art map visualization with small area of colored squares scattered in the top half of a green grid
 dateRange:
   from: 2010-04-13T18:00
   to: 2010-04-13T20:00

@@ -2,13 +2,13 @@
 title: Democratic Innovation
 images:
   - src: visionsindus-eng3.jpg
-    alt: Democratic Innovation
+    alt: Two women seated at red table with a microphone and recording device between them
   - src: table2_0.jpg
-    alt: Democratic Innovation
+    alt: People working collaboratively at a table with a large white paper in the middle
   - src: visionsindus-eng6_1.jpg
-    alt: Democratic Innovation
+    alt: Dark wooden installation structure in industrial space with shelving and materials
   - src: oa_balloon_0.jpg
-    alt: Democratic Innovation
+    alt: Black balloons with text and purple arrows held against blue sky in outdoor setting
 dateRange:
   from: 2010-05-11T18:00
   to: 2010-05-11T20:00

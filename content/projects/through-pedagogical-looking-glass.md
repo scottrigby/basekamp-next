@@ -5,11 +5,11 @@ location: ICA, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: door-front.jpg
-    alt: Through the Pedagogical Looking Glass
+    alt: Life-size reproduction of Marcel Duchamp's Étant Donnés door mounted on a gallery wall, with a small wooden table and chair positioned in front of it.
   - src: door-side.jpg
-    alt: Through the Pedagogical Looking Glass
+    alt: Side angle of the Duchamp door reproduction showing a projecting library card filing drawer, with small reference cards displayed on the adjacent wall.
   - src: plg.jpg
-    alt: Through the Pedagogical Looking Glass
+    alt: "Diagram showing the project's components: the door reproduction, library card drawer, Duchamp's Étant Donnés tableau image, and spiral-bound academic text pack."
 dateRange:
   from: 2001-05-13
   to: 2001-07-22

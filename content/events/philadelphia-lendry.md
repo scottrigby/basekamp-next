@@ -2,15 +2,15 @@
 title: The Philadelphia Lendry
 images:
   - src: 198826_200485199984036_183067591725797_622689_4961334_n_0.jpg
-    alt: The Philadelphia Lendry
+    alt: Art for Rent stenciled in red text on white background
   - src: 132790_183156145050275_183067591725797_509771_217673_o.jpg
-    alt: The Philadelphia Lendry
+    alt: Community Museum of living collection logo
   - src: 227564_206624042703485_183067591725797_666926_3522931_n.jpg
-    alt: The Philadelphia Lendry
+    alt: People gathered around large white table showing various art objects and collection items illuminated by warm gallery lighting
   - src: 215685_206127626086460_183067591725797_663690_1835707_n.jpg
-    alt: The Philadelphia Lendry
+    alt: Sculpture of grey owl
   - src: 216118_205669549465601_183067591725797_659983_7835861_n.jpg
-    alt: The Philadelphia Lendry
+    alt: Two people standing and holding a large cardboard fork and spoon
 dateRange:
   from: 2011-06-21T18:00
   to: 2011-06-21T20:00

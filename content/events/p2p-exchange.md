@@ -2,11 +2,11 @@
 title: P2P exchange
 images:
   - src: parade-6.jpg
-    alt: P2P exchange
+    alt: Group of people seated on stacked black plastic crates outdoors among black plastic crate architecture
   - src: p2pexchange_a5flyer.jpg
-    alt: P2P exchange
+    alt: P2P Exchange event flyer
   - src: tic_logo.jpg
-    alt: P2P exchange
+    alt: Poster titled Truth is Concrete, showing gray crocheted cat figure with bloodied arm
 dateRange:
   from: 2012-09-26T08:00
   to: 2012-09-26T10:00

@@ -2,7 +2,7 @@
 title: Freenode
 images:
   - src: ircfreenodenet.png
-    alt: Freenode
+    alt: irc.freenode.net text with purple gradient world map background containing red lines to represent IRC network nodes.
 dateRange:
   from: 2010-04-06T18:00
   to: 2010-04-06T20:00

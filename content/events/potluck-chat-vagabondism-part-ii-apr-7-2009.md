@@ -2,7 +2,7 @@
 title: "Potluck chat: Vagabondism part II - Apr 7 2009"
 images:
   - src: Photo 21.jpg
-    alt: "Potluck chat: Vagabondism part II - Apr 7 2009"
+    alt: "Vintage black and white photograph of white metal travel trailer with rectangular windows, mounted on wheeled chassis in rural outdoor setting"
 dateRange:
   from: 2009-04-07T18:00
   to: 2009-04-07T20:00

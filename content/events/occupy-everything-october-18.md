@@ -2,13 +2,13 @@
 title: Occupy EVERYTHING, October 18
 images:
   - src: screen_shot_2011-10-17_at_5.33.36_pm.png
-    alt: Occupy EVERYTHING, October 18
+    alt: World map showing Occupy movement locations marked with blue pins clustered across North America, South America, Europe, Asia, and Australia
   - src: dsc_0678.jpg
-    alt: Occupy EVERYTHING, October 18
+    alt: Police in riot gear and detained protesters standing near police van at nighttime
   - src: map-tent-city4.jpg
-    alt: Occupy EVERYTHING, October 18
+    alt: Diagram map of Occupy Philadelphia encampment at City Hall West Side showing layout of various tents and areas including Medic HQ, Tech Tent, Food, Donations, and other facilities
   - src: rahm.jpg
-    alt: Occupy EVERYTHING, October 18
+    alt: Portrait of man in suit with hand raised thumb touching his nose and tongue slightly sticking out. Crowd visible in background.
 dateRange:
   from: 2011-10-18T18:00
   to: 2011-10-18T20:00

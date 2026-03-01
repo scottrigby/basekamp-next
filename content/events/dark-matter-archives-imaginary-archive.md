@@ -2,11 +2,11 @@
 title: Dark Matter Archives & Imaginary Archive
 images:
   - src: nobodyremembers.png
-    alt: Dark Matter Archives & Imaginary Archive
+    alt: Blue book cover with text "Nobody remembers everything"
   - src: anticat-cover-color.png
-    alt: Dark Matter Archives & Imaginary Archive
+    alt: Book page showing anti-catalog definition and text about political statement regarding art neutrality
   - src: padd_archive_shelved.jpg
-    alt: Dark Matter Archives & Imaginary Archive
+    alt: Archive shelving with pink and brown labeled boxes organized on white metal shelving units
 dateRange:
   from: 2010-06-22T18:00
   to: 2010-06-22T20:00

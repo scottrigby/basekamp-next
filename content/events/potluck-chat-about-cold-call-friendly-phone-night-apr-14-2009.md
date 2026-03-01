@@ -2,7 +2,7 @@
 title: "Potluck chat: about Cold Call Friendly Phone Night - Apr 14 2009"
 images:
   - src: coldcall3-14-09a.jpg
-    alt: "Potluck chat: about Cold Call Friendly Phone Night - Apr 14 2009"
+    alt: Event poster titled Cold Call Friendly Phone Night subtitled An Exploration in Interpersonal Phone Connections, featuring rotary phone illustration with radiating yellow lines, date 6:30 PST April 10th 2009
 dateRange:
   from: 2009-04-14T18:00
   to: 2009-04-14T20:00

@@ -2,7 +2,7 @@
 title: Free Art License
 images:
   - src: 500px-copyleft.svg_.png
-    alt: Free Art License
+    alt: Copyleft symbol; concentric black circles forming a reversed copyright C shape
 dateRange:
   from: 2010-06-15T18:00
   to: 2010-06-15T20:00

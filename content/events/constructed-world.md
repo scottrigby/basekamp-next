@@ -2,21 +2,21 @@
 title: A Constructed World
 images:
   - src: le_feu_still_002-filtered.jpg
-    alt: A Constructed World
+    alt: Person playing electric guitar and smoking a cigarette against a wall with bright light
   - src: 006_hobbes_opera.jpg
-    alt: A Constructed World
+    alt: Performers on stage with tropical plants and person in red pants playing guitar with l'etat de nature text on backdrop
   - src: picture_1_0.png
-    alt: A Constructed World
+    alt: Multiple people playing a custom guitar with 5 necks.
   - src: unknown1.jpeg
-    alt: A Constructed World
+    alt: Group of people in gallery space with documents and sheets on walls speaking at microphones
   - src: a.constructed.world_.cover_.jpg
-    alt: A Constructed World
+    alt: Performance artwork showing a naked woman covered in post-it notes standing next to a man in a suit holding posters
   - src: detail_eels_004sm_-filtered.jpg
-    alt: A Constructed World
+    alt: Gallery installation of eels in a pool surrounded by artwork and an open laptop
   - src: 01_smcomevuoi.jpg
-    alt: A Constructed World
+    alt: People gathered in gallery space with a large green sheet on the ground covered in photos and documents
   - src: artfan_covers_003.jpg
-    alt: A Constructed World
+    alt: Stack of colorful art and culture magazine covers fanned out on a table. The cover reads Artfan with subtitle Art School Mama.
 dateRange:
   from: 2010-10-26T18:00
   to: 2010-10-26T20:00

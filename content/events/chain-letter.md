@@ -2,7 +2,7 @@
 title: Chain Letter
 images:
   - src: simpsons-santa-letters.png
-    alt: Chain Letter
+    alt: Scene from The Simpsons cartoon showing a man dumping a sack of letters in front of a judge
 dateRange:
   from: 2011-07-16T18:00
   to: 2011-07-16T20:00

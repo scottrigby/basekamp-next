@@ -2,25 +2,25 @@
 title: Spontaneous Vegetation
 images:
   - src: bg.jpg
-    alt: Spontaneous Vegetation
+    alt: "Urban garden with recycled tire planters filled with soil and green vegetables in sunlit space"
   - src: clean1.jpg
-    alt: Spontaneous Vegetation
+    alt: "Person holding a pickaxe standing in front of corrugated metal structure with window openings"
   - src: clean-livin.png
-    alt: Spontaneous Vegetation
+    alt: "Indoor bathroom with toilet and handwash made from white and green plastic materials"
   - src: fieldtrip01.jpg
-    alt: Spontaneous Vegetation
+    alt: "Person holding a shopping cart filled with dirt and green vegetation in the rain in urban setting"
   - src: greenhouses2.jpg
-    alt: Spontaneous Vegetation
+    alt: "Close-up photograph of hand holding dark soil with red earthworms during vermicomposting process"
   - src: humblepile01.jpg
-    alt: Spontaneous Vegetation
+    alt: "A person's hands gesturing towards a large white plastic bucket with black lid"
   - src: 87.jpg
-    alt: Spontaneous Vegetation
+    alt: "Large steel pot on stovetop with metal contraption and hose attached to a large plastic bucket nearby on countertop"
   - src: meade_sdc10461.jpg
-    alt: Spontaneous Vegetation
+    alt: "Large glass bottles, some filled with amber colored mead with small brewing device attached to the corks"
   - src: neighborhoodorchard1.jpg
-    alt: Spontaneous Vegetation
+    alt: "Person harvesting red apples from fruit tree"
   - src: range02.jpg
-    alt: Spontaneous Vegetation
+    alt: "Woman with two children sitting down on pavement with a collection of sorted tree branches and bicycles visible in background"
 dateRange:
   from: 2010-11-02T18:00
   to: 2010-11-02T20:00

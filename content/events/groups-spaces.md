@@ -2,7 +2,7 @@
 title: Groups & Spaces
 images:
   - src: groups_and_spaces_library_card.png
-    alt: Groups & Spaces
+    alt: Vintage-style Groups and Spaces Library Card mockup showing a woman at a library counter with card catalog cabinets in the background and text about library access
 dateRange:
   from: 2010-03-16T18:00
   to: 2010-03-16T20:00

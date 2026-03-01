@@ -2,25 +2,25 @@
 title: Escapologies
 images:
   - src: 319300_317827061645166_984345446_n.jpg
-    alt: Escapologies
+    alt: Infographic showing artist maintaining their image, social media accounts, and paying bills
   - src: 417429_317826954978510_2086489292_n.jpg
-    alt: Escapologies
+    alt: Two-page handwritten spread discussing a new ethics for art production and distribution
   - src: 426077_317827231645149_1736240938_n.jpg
-    alt: Escapologies
+    alt: Comic panels depicting artists discussing work freedom and fear of becoming product
   - src: 548397_317826358311903_128713812_n.jpg
-    alt: Escapologies
+    alt: Comic illustration discussing ethics limitations moral grounds and community freedom
   - src: 552738_317826544978551_167370916_n.jpg
-    alt: Escapologies
+    alt: Handwritten comic page with artist discussing identity and shame of survival in the consumerist world
   - src: 553095_317826711645201_99633244_n.jpg
-    alt: Escapologies
+    alt: Comic illustration showing artists discussing institutional participation and political art approaches
   - src: 560890_317827208311818_172343140_n.jpg
-    alt: Escapologies
+    alt: Comic page depicting electronic devices commodification and artistic practice with text and drawings
   - src: 564017_317826808311858_267149823_n.jpg
-    alt: Escapologies
+    alt: Comic illustration with central question about role and dominance of art today
   - src: 577283_317827161645156_914232302_n.jpg
-    alt: Escapologies
+    alt: Comic showing artist struggling with needing recognition and pressure of exploitation
   - src: 600263_317826488311890_383438670_n.jpg
-    alt: Escapologies
+    alt: Comic depicting group of people in discussion about ethical praxis in the art world
 dateRange:
   from: 2012-09-25T15:00
   to: 2012-09-25T18:00

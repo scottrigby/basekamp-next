@@ -2,11 +2,11 @@
 title: The Think Tank that has yet to be named
 images:
   - src: 1803667101_a12d12f6a7.jpg
-    alt: The Think Tank that has yet to be named
+    alt: "Man in business suit presenting to seated group in gallery space with laptop and materials on wooden table"
   - src: thinktank-pedagogicalfactory02.jpg
-    alt: The Think Tank that has yet to be named
+    alt: "Custom made wooden table with black top surface holding stacked spiral-bound educational materials"
   - src: phpm05_04.jpg
-    alt: The Think Tank that has yet to be named
+    alt: "People seated in folding chairs taking notes and conversing in urban plaza"
 dateRange:
   from: 2010-07-27T18:00
   to: 2010-07-27T20:00

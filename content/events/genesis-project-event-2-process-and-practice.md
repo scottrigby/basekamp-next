@@ -2,7 +2,7 @@
 title: "Genesis Project Event #2: Process and practice"
 images:
   - src: Genesis_PR_2.jpg
-    alt: "Genesis Project Event #2: Process and practice"
+    alt: Low-angle ground-level view of an artist studio showing red powder arranged in a geometric design on the floor
 dateRange:
   from: 2009-08-28T17:00
   to: 2009-08-28T21:00

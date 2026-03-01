@@ -2,7 +2,7 @@
 title: "Potluck Chat: Elysa Lozano and Autonomous Organization"
 images:
   - src: call_for_proposals_front_email-filtered.jpg
-    alt: "Potluck Chat: Elysa Lozano and Autonomous Organization"
+    alt: "Event poster for Start Your Own Socialist Colony project in a vintage style, address 8400 Montrose Blvd Houston Texas, A Full 9 Floors, Skydive Office of Cultural Affairs, May 5 2009 opening"
 dateRange:
   from: 2009-11-03T18:00
   to: 2009-11-03T20:00

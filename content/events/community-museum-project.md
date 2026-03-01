@@ -2,9 +2,9 @@
 title: Community Museum Project
 images:
   - src: cmp-demonstration.png
-    alt: Community Museum Project
+    alt: Infographic showing Community Museum Project with colored circles representing indigenous creativity, personal experiences, community settings, public culture and participation
   - src: cmp-demonstration-map.png
-    alt: Community Museum Project
+    alt: Map of Eastern Asia and Hong Kong region with megaphone icons marked as Objects of Demonstration locations
 dateRange:
   from: 2010-03-09T18:00
   to: 2010-03-09T20:00

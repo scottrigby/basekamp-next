@@ -2,13 +2,13 @@
 title: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
 images:
   - src: v7_4.jpg
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: 3D rendered view of plaza and building in Betaville digital platform with UI overlay
   - src: v14.11.png
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: "3D aerial map interface of Battery Park showing Liberty Piers project with yellow markers; designed by Lewis Beyes"
   - src: c3.png
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: 3D urban street scene with colorful LED display reading Engine
   - src: master_2_creation3.jpg
-    alt: "Beyond Participation: Toward Massively Collaborative Worlds of Art"
+    alt: 3D rendering of colorful distorted banner on building facade reading creation
 dateRange:
   from: 2010-05-18T18:00
   to: 2010-05-18T20:00

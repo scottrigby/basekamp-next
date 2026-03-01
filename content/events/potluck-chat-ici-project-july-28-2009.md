@@ -2,7 +2,7 @@
 title: "Potluck chat: ici project - July 28 2009"
 images:
   - src: map.png
-    alt: "Potluck chat: ici project - July 28 2009"
+    alt: Map of Philadelphia showing ici project locations marked with red pins and circles on streets with yellow highlighted main thoroughfares
 dateRange:
   from: 2009-07-28T18:00
   to: 2009-07-28T20:00

@@ -2,7 +2,7 @@
 title: Potluck chat & Vagabondism Class with Mike Wolf - June 9th
 images:
   - src: vaga6-9.jpg
-    alt: Potluck chat & Vagabondism Class with Mike Wolf - June 9th
+    alt: "Technical drawing of mobile living vehicle side profile with annotations and measurements"
 dateRange:
   from: 2009-06-09T18:00
   to: 2009-06-09T23:00

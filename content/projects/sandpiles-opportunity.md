@@ -5,25 +5,25 @@ location: Versionfest, Chicago
 attribution: Basekamp & friends
 images:
   - src: 32.jpg
-    alt: Sandpiles of Opportunity
+    alt: Sand sculpture installation in wooden box with multiple mounds and valleys marked with small flags and labels, people visible in background
   - src: 25.jpg
-    alt: Sandpiles of Opportunity
+    alt: Close-up view of sand box with tall peaked structures and small colored flags planted throughout the terrain
   - src: 26.jpg
-    alt: Sandpiles of Opportunity
+    alt: Sand installation with varied topography including pyramidal forms and flat areas marked with small white flags, person visible in blurred background
   - src: 64.jpg
-    alt: Sandpiles of Opportunity
+    alt: Detailed view of sand house structure showing raked texture pattern on roof with small flag marker protruding from top
   - src: 65.jpg
-    alt: Sandpiles of Opportunity
+    alt: Pair of green cloth badges partially buried in sand mound within sandbox
   - src: 66.jpg
-    alt: Sandpiles of Opportunity
+    alt: Business card reading 'A+CCT' with colorful letter logo, surrounded by plastic fork, spoon and straws in sand
   - src: 67.jpg
-    alt: Sandpiles of Opportunity
+    alt: Fractal Workspace business card standing upright in sand structure showing contact information for Chicago location
   - src: 72.jpg
-    alt: Sandpiles of Opportunity
+    alt: Topdown view of Fractal Workspace business card embedded in sand building structure with other markers in surrounding sand
   - src: 74.jpg
-    alt: Sandpiles of Opportunity
+    alt: Section of sand installation featuring bright yellow ball, green badge, and various small markers and objects
   - src: 80.jpg
-    alt: Sandpiles of Opportunity
+    alt: Person wearing white lab coat standing over large wooden sandbox installation in industrial gallery space, working on sand landscape
 dateRange:
   from: 2005-06-01
   to: ""

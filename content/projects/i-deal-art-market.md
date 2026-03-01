@@ -5,17 +5,17 @@ location: Cuchifritos, New York
 attribution: Basekamp with gavin wade
 images:
   - src: booklets_0.jpg
-    alt: I Deal Art For The Market
+    alt: Pile of small white booklets titled 'Ideal Art For The Market #1' by Gavin Wade and Scott Rigby scattered on a brown surface.
   - src: cuchi_label_single2.jpg
-    alt: I Deal Art For The Market
+    alt: Exhibition poster titled 'Ideal Art For The Market' at Cuchifritos gallery in Essex St Market, NY. Features geometric folded paper diagrams.
   - src: front_0.jpg
-    alt: I Deal Art For The Market
+    alt: Large geometric icosahedron sculpture made of pale cardboard panels
   - src: CM.invite_0.jpg
-    alt: I Deal Art For The Market
+    alt: Colorful collage poster titled 'Curatorial Market' with overlapping price tags, product imagery, and bold typography in yellow, magenta, and cyan.
   - src: cuchi.market.2.text_p_0.jpg
-    alt: I Deal Art For The Market
+    alt: Market hallway with sugarcane stalks leaning against a wall, canned goods on shelves, and text vinyl on the floor near a drain.
   - src: cuchi.market.3_0.jpg
-    alt: I Deal Art For The Market
+    alt: Geometric icosahedron sculpture installed in a corner of a yellow-green painted room with natural light streaming in.
 dateRange:
   from: 2002-09-07
   to: 2002-10-12

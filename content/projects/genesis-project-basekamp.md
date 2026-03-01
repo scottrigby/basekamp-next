@@ -5,9 +5,9 @@ location: Basekamp, Philadelphia
 attribution: Arturo Vidich
 images:
   - src: BW_2.1_6in_0.png
-    alt: Pushit poster
+    alt: Black and white line drawing of a button with exposed hardware labeled 'PUSHIT' with a cable extending from it.
   - src: Art_Gen1.jpg
-    alt: Genesis performance
+    alt: Large grey charcoal imprint on gallery floor depicting human shoulders, arms, back and buttocks
 dateRange:
   from: 2009-08-07
   to: ""

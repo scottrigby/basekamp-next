@@ -5,23 +5,23 @@ location: Basekamp, Philadelphia
 attribution: Sara Reisman
 images:
   - src: 01.jpg
-    alt: Installations
+    alt: Gallery installation featuring a white tricycle cart with painted backdrop showing colorful illustrated animals including an octopus, owl, and other creatures
   - src: 09.jpg
-    alt: Installations
+    alt: Sunlit gallery space featuring desk and chair with black umbrella suspended from ceiling overtop, small doghouse to the right
   - src: 02.jpg
-    alt: Installations
+    alt: Gallery installation with wooden picnic bench in center and video projection on wall showing urban street scene
   - src: 03.jpg
-    alt: Installations
+    alt: Gallery view showing part of a white banner with block colors, and white sculpture, with wooden picnic bench, and video projection on wall in background
   - src: 04.jpg
-    alt: Installations
+    alt: Close-up detail of installation showing desk black umbrella, soft white cubic sculpture, suspended brown cone, and hanging banners
   - src: 05.jpg
-    alt: Installations
+    alt: Gallery installation with wooden picnic bench and video projection on wall showing urban street scene
   - src: 06.jpg
-    alt: Installations
+    alt: Gallery installation with colorful hanging banner, white and brown sculpture in foreground and picnic table in background
   - src: 07.jpg
-    alt: Installations
+    alt: Gallery space showing large curved white fabric sculpture on wooden platforms next to desk and suspended black umbrella
   - src: 08.jpg
-    alt: Installations
+    alt: Wide gallery view with colorful suspended elements including yellow-green fabric, brown cylinder, black umbrella, small white house structure, and wooden work table in foreground
 dateRange:
   from: 2008-10-17
   to: 2009-01-03

@@ -5,11 +5,11 @@ location: Basekamp, Philadelphia
 attribution: Stefka Ammon, Björn Hegardt, Ethan Jackson, & Gudrun Rauwolf
 images:
   - src: p1_0.jpg
-    alt: Wild West
+    alt: "Vertical collage of four images exploring Wild West themes: a woman posing with a movie poster of Winnetou characters, a desert sunset silhouette, a figure in cowboy attire, and white teepees in a parking lot."
   - src: WW_FRONT_2.jpg
-    alt: Wild West
+    alt: Exhibition announcement postcard with 'Wild West' in Western-style lettering, a desert sunset image, and event details for October 24, 2003 at Basekamp, Philadelphia.
   - src: WW_BACK_FINAL_1.jpg
-    alt: Wild West
+    alt: Back of exhibition postcard with 'Wild West' title, artist names, exhibition description, and Basekamp contact information.
 dateRange:
   from: 2003-10-12
   to: 2003-12-12

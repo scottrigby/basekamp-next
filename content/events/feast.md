@@ -2,11 +2,11 @@
 title: FEAST
 images:
   - src: 45_feast-sign-held_0.jpg
-    alt: FEAST
+    alt: Person holding FEAST sign seated amidst a group of people at long dining tables with a colorful banner draped above
   - src: 45_2-girl-presenters.jpg
-    alt: FEAST
+    alt: Two young women presenting on stage with stage lighting and backdrop visible
   - src: feast-plate.png
-    alt: FEAST
+    alt: Digital illustration of food plate with white and gray spheres and a single green sphere in the middle
 dateRange:
   from: 2010-05-04T18:00
   to: 2010-05-04T20:00

@@ -2,7 +2,7 @@
 title: Collective Foundation
 images:
   - src: 3260211713_7cd1c84fa9_b.jpg
-    alt: Collective Foundation
+    alt: People gathered at event socializing around Co-op Bar counter with bottles and signage
 dateRange:
   from: 2010-04-20T18:00
   to: 2010-04-20T20:00

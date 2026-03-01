@@ -5,9 +5,9 @@ location: Basekamp, Philadelphia
 attribution: A Constructed World
 images:
   - src: 08_4.jpg
-    alt: (i feel like) something's gonna happen and i don't know what it is
+    alt: Gallery installation with colorful paintings depicting surreal landscape scenes hung on walls, with mattresses arranged on the floor.
   - src: 11_0.jpg
-    alt: (i feel like) something's gonna happen and i don't know what it is
+    alt: Visitors seated on metal cube chairs watching video on a monitor, with a silver curtain backdrop in a gallery space.
 dateRange:
   from: 2002-05-11
   to: ""

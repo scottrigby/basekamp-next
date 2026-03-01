@@ -2,7 +2,7 @@
 title: The Public School and AAAARG.org
 images:
   - src: pdficon.png
-    alt: The Public School and AAAARG.org
+    alt: Standard PDF document icon showing red PDF label and Adobe Acrobat logo
 dateRange:
   from: 2010-01-05T18:00
   to: 2010-01-05T20:00

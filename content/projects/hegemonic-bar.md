@@ -5,33 +5,33 @@ location: Basekamp, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: 1.jpg
-    alt: Hegemonic Bar
+    alt: Installation view of Hegemonic Bar with dramatic red and purple lighting, one ground level bar and two elevated bar areas on wooden platforms at different heights labeled with measurements.
   - src: 2_0.jpg
-    alt: Hegemonic Bar
+    alt: Lower class bar section bathed in red light, with backlit beer bottles and white furniture. Caption reads '6 inches height x 8 feet width x 12 feet depth, served Yeungling beer.'
   - src: 3_0.jpg
-    alt: Hegemonic Bar
+    alt: Middle and upper class bar sections with yellow and purple lighting. Middle class bar positioned at 2 feet height served wine, upper class bar at 4 feet height served martinis
   - src: 1_0.jpg
-    alt: Hegemonic Bar
+    alt: Piles of custom 'Basekamp bucks' play money. Caption text informing they were distributed randomly at the door to participants.
   - src: 2_1.jpg
-    alt: Hegemonic Bar
+    alt: Video still of crowded lower class bar section with participants drinking under red lighting.
   - src: 3_1.jpg
-    alt: Hegemonic Bar
+    alt: Video still of woman walking through the lower class bar area under pink-red lighting.
   - src: 4.jpg
-    alt: Hegemonic Bar
+    alt: Person drinking at the middle class bar with backlit wine bottles visible behind them.
   - src: 5.jpg
-    alt: Hegemonic Bar
+    alt: Person in suit pouring a drink at the middle class bar with wine bottle.
   - src: 6.jpg
-    alt: Hegemonic Bar
+    alt: Man drinking at the middle class bar under dramatic spotlight.
   - src: 7.jpg
-    alt: Hegemonic Bar
+    alt: Woman at middle class bar holding up custom money, attempting to transcend to a higher class level.
   - src: 9.jpg
-    alt: Hegemonic Bar
+    alt: Bartender in suit preparing martinis at the elevated upper class bar with cocktail glasses displayed.
   - src: 10.jpg
-    alt: Hegemonic Bar
+    alt: Two people at the elevated upper class bar platform, accessed by wooden stairs.
   - src: logo.jpg
-    alt: Hegemonic Bar
+    alt: Hegemonic Bar announcement flyer with abstract martini glass icons, event details for March 12, 1999 opening at Basekamp.
   - src: money.jpg
-    alt: Hegemonic Bar
+    alt: Sheet of custom play money in denominations of $1, $5, and $10 featuring beer mug, wine glass, and martini glass symbols.
 dateRange:
   from: 1999-03-12
   to: 1999-03-31

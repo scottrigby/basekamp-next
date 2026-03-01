@@ -2,17 +2,17 @@
 title: Public Collectors & Against Competition
 images:
   - src: frontpageimage3.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Composite image of vinyl record stacks, CDs, books, cardboard boxes, and black filing cabinets"
   - src: contactsheet-003.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Collection of event flyers and promotional posters featuring Vanilla Ice"
   - src: mfrecords3.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Black metal shelving unit filled with vinyl records, one record by Armand Schaubraeck visible in foreground"
   - src: screen_shot_2009-12-30_at_8.46.41_am.png
-    alt: Public Collectors & Against Competition
+    alt: "Grid of photo documentation featuring various people, animals, and objects related to Public Collectors project"
   - src: reddotrentalsmall.jpg
-    alt: Public Collectors & Against Competition
+    alt: "Group of people in gallery looking at shelf of media, one person sits at a wooden desk with desktop computer"
   - src: mexico1.png
-    alt: Public Collectors & Against Competition
+    alt: "Collection of Presidio magazine covers featuring cartoon gore and scantily clad women"
 dateRange:
   from: 2010-12-28T18:00
   to: 2010-12-28T20:00
