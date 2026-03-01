@@ -13,7 +13,7 @@ images:
   - src: close.jpg
     alt: Repeated poster design showing four blue-tinted images of person crouching in white flightsuit with 'Stunt Double' text and event information
   - src: main.jpg
-    alt: Two people standing in front of painted wall mural at ICA, snapshot showing green and orange geometric shapes
+    alt: Two people standing in front of painted wall mural at ICA
   - src: resp.jpg
     alt: Printed email with subject "Brilliant Work!" praising the conceptualization, with museum guest list visible at bottom
   - src: insta2.jpg
