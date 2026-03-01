@@ -23,7 +23,7 @@ images:
   - src: week1b-600px_6.jpg
     alt: Detail of blue wall covered with overlapping papers including typed documents, neon sticky notes with handwritten messages like 'Happy 21st Birthday,' children's drawings, and printed materials arranged in a collage.
   - src: 1_5.jpg
-    alt: Informal planning meeting in a loft space with about ten people seated in folding chairs. One person stands gesturing while speaking. Equipment including a laptop and milk crate visible on the wooden floor.
+    alt: Group discussion in a loft space with about ten people seated in folding chairs. One person stands gesturing while speaking. Equipment including a laptop and milk crate visible on the wooden floor.
 dateRange:
   from: 2010-01-05
   to: 2010-12-28
