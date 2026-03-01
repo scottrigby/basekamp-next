@@ -6,7 +6,7 @@ images:
   - src: thinktank-pedagogicalfactory02.jpg
     alt: "Custom made wooden table with black top surface holding stacked spiral-bound educational materials"
   - src: phpm05_04.jpg
-    alt: "Outdoor public gathering with people seated in portable chairs taking notes and conversing in urban plaza"
+    alt: "People seated in folding chairs taking notes and conversing in urban plaza"
 dateRange:
   from: 2010-07-27T18:00
   to: 2010-07-27T20:00
