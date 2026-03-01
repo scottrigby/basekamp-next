@@ -14,7 +14,7 @@ images:
   - src: 3751532554_d3691ddf75_b.jpg
     alt: "Large crowd of protestors standing in vacant urban lot behind police barrier, brick apartment buildings in background"
   - src: 3751564022_daa79b3f16_b.jpg
-    alt: "Police line enforcement with uniformed officers standing in formation, blue police barriers, tent city installation visible with blue tents and orange pathway in background"
+    alt: "Police officers standing in line formation on sidewalk, blue police barrier in foreground, tent occupation visible in background"
 dateRange:
   from: 2009-09-29T18:00
   to: 2009-09-29T20:00
