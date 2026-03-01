@@ -9,7 +9,7 @@ images:
   - src: dsc_0164-small.jpg
     alt: Two musicians in dark clothing with guitars performing against a white wall, one with a red strap and the other with a blue strap
   - src: smimg_8549-small.jpg
-    alt: Recording session in progress with multiple participants, microphone stands, and a person in a turquoise shirt seated in foreground
+    alt: Recording session in progress with five people singing into a microphone stand, and a person in a turquoise shirt seated in foreground with open laptop
   - src: smimg_8450-small.jpg
     alt: Two men reading from papers and singing into a shared microphone by a window, one in plaid shirt
 dateRange:
