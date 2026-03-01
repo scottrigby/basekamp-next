@@ -9,7 +9,7 @@ images:
   - src: basekamp-show-3_5.jpg
     alt: Gallery corner showing small photographs of funeral home spaces on the wall, with a CRT computer monitor on a rolling cart displaying an interactive application.
   - src: basekamp-show-4_3.jpg
-    alt: Wall display of printed cards showing designs for cylindrical containers in white and grouped arrangements, possibly funerary urn concepts.
+    alt: Wall display of printed cards showing designs for funerary urns in white and colored plastic styled like early 2000s era MacBook computer ads.
   - src: basekamp-show-5_1.jpg
     alt: Four instructional posters titled 'Death,' 'Burial,' 'Compost,' and 'Cremation' with illustrated diagrams and icons, displayed on a white paneled wall near an exit sign.
   - src: basekamp-show-6_0.jpg
