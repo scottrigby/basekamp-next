@@ -17,7 +17,7 @@ images:
   - src: lust-for-life.jpg
     alt: Side-by-side comparison of Kirk Douglas in 'Lust for Life' portraying Van Gogh standing behind a tree and an artist's reenactment of the scene.
   - src: vincent--theo.jpg
-    alt: Side-by-side video stills comparing an original film scene with artists' reenactment, both showing emotional performances.
+    alt: Side-by-side video stills comparing an original film scene with artists' reenactment, both showing a man making emotional expressions while seated indoors.
 dateRange:
   from: 2000-06-01
   to: ""
