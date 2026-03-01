@@ -2,7 +2,7 @@
 title: "Potluck chat: Vagabondism - Mar 31 2009"
 images:
   - src: Mickey's Trailer.jpg
-    alt: "Animation frame showing yellow and cream vintage teardrop trailer labeled Minnie with small black cartoon car parked in front, situated in dystopian urban landscape with damaged buildings, power lines, and City Dump sign"
+    alt: "Animation frame from Mickey Mouse showing yellow vintage teardrop trailer pulled by small black cartoon car, situated in gritty urban landscape with buildings, power lines, and City Dump sign"
 dateRange:
   from: 2009-03-31T18:00
   to: 2009-03-31T20:00
