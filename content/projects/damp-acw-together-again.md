@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: DAMP & A Constructed World
 images:
   - src: Untitled_10.jpg
-    alt: Blue plastic tub filled with art materials including framed images, books with "REVOLUTION" text, and various art objects
+    alt: Blue plastic tub filled with eels and art materials including framed images, tchotchkes, book with 'REVOLUTION' text
   - src: image350.jpg
     alt: Collage artwork showing drawings of a dove, sleeping cat, and eels swimming, with "A FACE MELTING SOLO" text
   - src: DampACW.jpg
