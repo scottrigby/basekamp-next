@@ -11,7 +11,7 @@ images:
   - src: front_0.jpg
     alt: Large geometric icosahedron sculpture made of pale cardboard panels
   - src: CM.invite_0.jpg
-    alt: Colorful collage invitation for 'Curatorial Market' with overlapping price tags, product imagery, and bold typography in yellow, magenta, and cyan.
+    alt: Colorful collage poster titled 'Curatorial Market' with overlapping price tags, product imagery, and bold typography in yellow, magenta, and cyan.
   - src: cuchi.market.2.text_p_0.jpg
     alt: Market hallway with sugarcane stalks leaning against a wall, canned goods on shelves, and text vinyl on the floor near a drain.
   - src: cuchi.market.3_0.jpg
