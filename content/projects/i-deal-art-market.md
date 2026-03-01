@@ -9,7 +9,7 @@ images:
   - src: cuchi_label_single2.jpg
     alt: Exhibition poster titled 'Ideal Art For The Market' at Cuchifritos gallery in Essex St Market, NY. Features geometric folded paper diagrams.
   - src: front_0.jpg
-    alt: Large geometric icosahedron sculpture made of pale cardboard panels displayed near hay bales.
+    alt: Large geometric icosahedron sculpture made of pale cardboard panels
   - src: CM.invite_0.jpg
     alt: Colorful collage invitation for 'Curatorial Market' with overlapping price tags, product imagery, and bold typography in yellow, magenta, and cyan.
   - src: cuchi.market.2.text_p_0.jpg
