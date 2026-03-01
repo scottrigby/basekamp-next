@@ -51,7 +51,7 @@ images:
   - src: DSC09309.jpg
     alt: Person standing next to colorful display boards with text 'connect' visible on the wall behind them
   - src: DSC09310.jpg
-    alt: Visitor reading yellow display with wall diagram of network connections using colored squares and lines behind them
+    alt: Visitors standing next to wall diagram of network connections using colored squares and lines behind them
   - src: DSC09312.jpg
     alt: Man reading "Locus" display board while visitors converse in background near "con_nect" wall text
   - src: DSC09313.jpg
