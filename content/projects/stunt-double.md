@@ -19,7 +19,7 @@ images:
   - src: insta2.jpg
     alt: Gallery space view during installation showing person with lighting equipment, white walls being painted, and industrial ceiling
   - src: insta4.jpg
-    alt: Artist painting wall with bold vertical stripes in orange, cream, and green colors in corner of industrial gallery space
+    alt: Wall mural featuring artist painting bold vertical stripes in orange, cream, and green colors in corner of industrial gallery space
   - src: insta5.jpg
     alt: Wall mural in progress showing person painting large black organic shape on wall with red, yellow, and blue sections
   - src: sd1.jpg
