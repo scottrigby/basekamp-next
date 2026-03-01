@@ -2,7 +2,7 @@
 title: "Potluck chat: The New Up, Transhumanist Apologetics"
 images:
   - src: lol_1.jpg
-    alt: "Black hole with purple swirling accretion disk against starfield background with black text LOL overlaid with letter O matching central void"
+    alt: "Black hole with purple swirling border against starfield background with black text LOL overlaid with letter O matching central void"
   - src: dnachomap.jpg
     alt: "Topographic map of Southeast Asia with colored terrain in green and tan, black pathways crossing the map with red curved route lines, numbered location markers, and four 3D rendered stone textures in corners with elevation scale legend"
   - src: wmpr_screenshot1.png
