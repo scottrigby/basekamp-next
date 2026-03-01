@@ -4,7 +4,7 @@ images:
   - src: bg.jpg
     alt: "Urban garden with recycled tire planters filled with soil and green vegetables in sunlit space"
   - src: clean1.jpg
-    alt: "Person standing in front of corrugated metal structure with window openings used as sustainable shelter housing"
+    alt: "Person holding a pickaxe standing in front of corrugated metal structure with window openings"
   - src: clean-livin.png
     alt: "Documentation of sustainable housing construction from recycled corrugated metal materials"
   - src: fieldtrip01.jpg
