@@ -41,7 +41,7 @@ images:
   - src: DSC09304.jpg
     alt: Multicolored tri-fold display boards during exhibition
   - src: DSC09305.jpg
-    alt: Visitors during opening reception viewing tri-fold display boards with "con_nect" text visible on wall
+    alt: Person examining tri-fold display board at exhibition with colorful posters in the background
   - src: DSC09306.jpg
     alt: Visitors examining orange "Popular Archive" display board with "connect" wall text visible
   - src: DSC09307.jpg
