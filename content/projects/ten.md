@@ -7,7 +7,7 @@ images:
   - src: invite_0.jpg
     alt: Black and white portrait photograph of a woman's face overlaid with red geometric measurement lines and numbered markers analyzing facial proportions
   - src: P1010027_9.jpg
-    alt: Gallery installation showing a long row of large-scale black and white portrait photographs leaning against wall on wooden blocks in industrial space
+    alt: Gallery installation showing a long row of large-scale black and white portrait photographs leaning against a white wall in industrial space
   - src: P1010029_7.jpg
     alt: White wood-paneled wall displaying collage of newspaper clippings, articles, and portrait photographs with "EXIT" sign visible
   - src: P1010031_6.jpg
