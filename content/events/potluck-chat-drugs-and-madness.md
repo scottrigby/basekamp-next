@@ -2,7 +2,7 @@
 title: "Potluck chat: Drugs and Madness"
 images:
   - src: picture_1.png
-    alt: Video or animation still showing text DELIRIOUS in white letters with blue bean-shaped creature figures on black background
+    alt: Animation still showing text DELIRIOUS in white letters with blue bean-shaped creature figures on black background
 dateRange:
   from: 2009-10-06T18:00
   to: 2009-10-06T20:00
