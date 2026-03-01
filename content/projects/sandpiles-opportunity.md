@@ -13,7 +13,7 @@ images:
   - src: 64.jpg
     alt: Detailed view of sand house structure showing raked texture pattern on roof with small flag marker protruding from top
   - src: 65.jpg
-    alt: Pair of green Versionfest branded sunglasses partially buried in sandy surface alongside other small markers
+    alt: Pair of green cloth badges partially buried in sand mound within sandbox
   - src: 66.jpg
     alt: Business card reading "A+C=T" artlab with colorful letter logo, surrounded by plastic fork, spoon, straws and white egg in sand
   - src: 67.jpg
