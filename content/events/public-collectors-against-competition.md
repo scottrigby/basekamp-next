@@ -12,7 +12,7 @@ images:
   - src: reddotrentalsmall.jpg
     alt: "Group of people in gallery looking at shelf of media, one person sits at a wooden desk with desktop computer"
   - src: mexico1.png
-    alt: "Image documentation related to Public Collectors project or international collection initiative"
+    alt: "Collection of Presidio magazine covers featuring cartoon gore and scantily clad women"
 dateRange:
   from: 2010-12-28T18:00
   to: 2010-12-28T20:00
