@@ -17,7 +17,7 @@ images:
   - src: xiamen15.jpg
     alt: Close-up of a hand adjusting a grid of printed materials laid out on a table surface
   - src: xiamen20.jpg
-    alt: White circular button or badge with red text reading "PARTICIPANT" and decorative swirl design
+    alt: White circular button with red text reading 'participant!' and subtle statue of liberty background
 dateRange:
   from: 2005-12-06
   to: 2005-12-08
