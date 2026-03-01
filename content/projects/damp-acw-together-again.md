@@ -7,7 +7,7 @@ images:
   - src: Untitled_10.jpg
     alt: Blue plastic tub filled with eels and art materials including framed images, tchotchkes, book with 'REVOLUTION' text
   - src: image350.jpg
-    alt: Collage artwork showing drawings of a dove, sleeping cat, and eels swimming, with "A FACE MELTING SOLO" text
+    alt: Collage artwork showing drawings of a dove, a person playing guitar with text 'a face melting solo' and eels swimming underneath
   - src: DampACW.jpg
     alt: Dark gallery installation with blue-lit aquatic containers, black panels displaying white photographs, and a white sculptural chair
   - src: eels.jpg
