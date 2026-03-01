@@ -2,7 +2,7 @@
 title: Teaching Artist Union and School of the Future
 images:
   - src: goldglugo.jpg
-    alt: "Gold metallic sculptural text spelling School of the Future with 3D letter forms and organic openings"
+    alt: "School of the Future logo with 3D metallic letter forms"
   - src: smallgluegun.jpg
     alt: "Minimalist illustration of hot glue gun tool in black and white drawing style with yellow background"
 dateRange:
