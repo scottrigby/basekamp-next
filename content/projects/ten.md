@@ -11,7 +11,7 @@ images:
   - src: P1010029_7.jpg
     alt: White wood-paneled wall displaying collage of newspaper clippings, articles, and portrait photographs
   - src: P1010031_6.jpg
-    alt: Newspaper clipping with headline "Spy camera matches faces to police files" showing person holding computer screen with facial recognition images
+    alt: Newspaper clipping with headline 'Spy camera matches faces to police files' showing person next to computer screen with facial recognition images
   - src: P1010032_5.jpg
     alt: Close-up of article text reading "Nobody's perfect But this face was judged to be so by a computer. Still, what does a machine know? (Geometry is only skin-deep)"
   - src: P1010033_4.jpg
