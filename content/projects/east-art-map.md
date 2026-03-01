@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: IRWIN / NSK
 images:
   - src: 16_cropped.jpg
-    alt: Digital network visualization showing white oval nodes connected by red lines against dark blue background, representing artistic connections in East Art Map project
+    alt: Digital network visualization showing white oval nodes connected by red lines against dark blue background
   - src: EAM_600.jpg
     alt: Gallery installation at Basekamp featuring metallic silver tent structure, wooden bench, and illuminated green projection screen in industrial space with exposed ceiling
   - src: EAM-Flyer3-red.gif
