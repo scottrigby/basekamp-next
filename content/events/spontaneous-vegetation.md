@@ -14,7 +14,7 @@ images:
   - src: humblepile01.jpg
     alt: "A person's hands gesturing towards a large white plastic bucket with black lid"
   - src: 87.jpg
-    alt: "Gardener tending to plants in permaculture or urban agriculture growing space"
+    alt: "Large steel pot on stovetop with metal contraption and hose attached to a large plastic bucket nearby on countertop"
   - src: meade_sdc10461.jpg
     alt: "Outdoor garden bed showing cultivated plants and growing food production in city setting"
   - src: neighborhoodorchard1.jpg
