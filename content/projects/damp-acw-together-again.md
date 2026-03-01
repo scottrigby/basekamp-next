@@ -11,7 +11,7 @@ images:
   - src: DampACW.jpg
     alt: Gallery installation with blue plastic tub surrounded by TVs and white sculptural chair and black panels displaying white photographs in the background
   - src: eels.jpg
-    alt: Group of visitors gathered around large blue tub observing live eels during "Explaining Contemporary Art to Live Eels" performance
+    alt: Group of visitors gathered around large blue tub observing live eels during 'Explaining Contemporary Art to Live Eels' performance
   - src: ACW.jpg
     alt: Two artists crouching beside blue tub with orange-gloved hand reaching into water containing live eels and art materials
   - src: Untitled_1.jpg
