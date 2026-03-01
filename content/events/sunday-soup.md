@@ -16,7 +16,7 @@ images:
   - src: 2837634274_53ac6ed66e_b.jpg
     alt: People sitting at large table with food and drink conversing
   - src: 2837634846_a5d785a943_b.jpg
-    alt: Large group of people gathered around long table with food, plates, and drinks during community Sunday Soup meal
+    alt: Large group of people gathered around long table with food, plates, and drinks during community meal
   - src: 3483425260_9c46fe70f5_b.jpg
     alt: People standing during Sunday Soup event with presentation and decorations visible in background
 dateRange:
