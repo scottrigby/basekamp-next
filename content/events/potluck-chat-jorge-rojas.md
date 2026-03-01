@@ -4,7 +4,7 @@ images:
   - src: rojas1.jpg
     alt: "Two people at table with microphone and laptop in gallery space, woman in black sleeveless top and man in black shirt with glasses, American flag visible in background"
   - src: rojas2.jpg
-    alt: "Multiple community members collaboratively painting on white gallery wall, woman in white tank top and man in blue shirt actively creating, other visitors participating, colorful abstract artwork visible in background"
+    alt: "Multiple people collaboratively painting on white gallery wall, colorful abstract artwork visible in background"
 dateRange:
   from: 2009-11-24T18:30
   to: 2009-11-24T20:30
