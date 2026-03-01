@@ -18,7 +18,7 @@ images:
   - src: 25642603-a573392e0883ffd5788bf70ddbfcbeff.4a94677a-full.jpg
     alt: "Close up of two people squatting on a large orange sheet of paper, drawing lines down the center"
   - src: 25644411.jpg
-    alt: "Installation or performance view from Genesis Project August 2009 residency at Basekamp"
+    alt: "Close up of two people laying on a large sheet of orange paper, each with two pencils in both hands, drawing lines on the paper"
   - src: writing04.jpg
     alt: "Documentation of written or text-based artistic work created during Genesis Project residency"
   - src: 25647403-2b693d4b06945278247b974529d106fd.4a946d65-full.jpg
