@@ -18,7 +18,7 @@ images:
   - src: dscn1242.jpg
     alt: "Woman holding up a bundle of yellow orange mushrooms standing before the front door of a house"
   - src: img_2009.jpg
-    alt: "Mushroom foraging documentation showing collected specimens"
+    alt: "Person presenting a projected slide on the mushroom lifecycle in a studio space"
   - src: dscn1900.jpg
     alt: "Mushroom habitat documentation in natural environment"
   - src: photo2.jpg
