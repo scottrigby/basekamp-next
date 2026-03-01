@@ -21,7 +21,7 @@ images:
   - src: DSC09289.jpg
     alt: Visitors gathered around tri-fold display boards examining curatorial project presentations
   - src: DSC09290.jpg
-    alt: Gallery opening with visitors viewing exhibition displays, "con" visible on wall, colorful paintings in background
+    alt: Gallery opening with visitors viewing colorful tri-fold display boards, with wall installation of dots and connecting lines visible in the background
   - src: DSC09291.jpg
     alt: Crowded gallery with visitors examining colorful tri-fold displays, orange laughing mouth poster and green abstract painting on walls
   - src: DSC09292.jpg
