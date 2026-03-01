@@ -15,7 +15,7 @@ images:
   - src: participate-5.jpg
     alt: Dark gallery space with multiple illuminated letter blocks glowing, and two people standing
   - src: xiamen15.jpg
-    alt: Close-up of a hand pointing at or selecting from a grid of photographs or printed materials laid out on a table surface
+    alt: Close-up of a hand adjusting a grid of printed materials laid out on a table surface
   - src: xiamen20.jpg
     alt: White circular button or badge with red text reading "PARTICIPANT" and decorative swirl design
 dateRange:
