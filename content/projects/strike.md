@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: Gavin Wade & Liam Gillick
 images:
   - src: strike-card-front.gif
-    alt: Dense typographic poster listing hundreds of artist names in red and black text, formatted as a roster of participants in the STRIKE exhibition.
+    alt: Dense typographic poster listing hundreds of artist names in red and black text, arranged to spell 'Strike'
   - src: STRIKE-installation-view-sm.jpg
     alt: Gallery installation with large text panels and posters mounted on white walls, red accent strips, and red chairs for visitors to sit and read.
   - src: strike-3.jpg
