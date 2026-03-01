@@ -4,7 +4,7 @@ images:
   - src: ProcessandPractice.jpg
     alt: "Genesis Project promotional collage with multiple images showing artists drawing on walls, performing with raised arms, and detail of hands working, basekamp philadelphia august 2009"
   - src: alltogether.jpg
-    alt: "Group of Genesis Project residents gathered around table eating and conversing in kitchen space during residency"
+    alt: "Group of people gathered around table eating and conversing in kitchen space"
   - src: drawing03.jpg
     alt: "Two artists collaboratively drawing on white wall with black lines using body movement and gesture"
   - src: drawing04.jpg
