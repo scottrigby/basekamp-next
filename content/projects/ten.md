@@ -23,7 +23,7 @@ images:
   - src: P1010037_1.jpg
     alt: Wide view of row of large-scale black and white facial portraits showing different individuals, mounted on panels leaning against gallery wall
   - src: P1010041_0.jpg
-    alt: Wide gallery view showing complete installation of large-scale portrait photographs arranged in sequence along wall with perforated panel visible on right
+    alt: Close up view of four large-scale black and white portrait photographs arranged against gallery wall
 dateRange:
   from: 2003-03-06
   to: 2003-05-03
