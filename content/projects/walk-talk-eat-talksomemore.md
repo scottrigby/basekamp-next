@@ -41,7 +41,7 @@ images:
   - src: 02_0.jpg
     alt: View beneath bridge showing water, concrete pillars, and debris-strewn muddy bank
   - src: Jessica.jpg
-    alt: Woman in burgundy leather jacket with yellow patterned scarf holding equipment at night during outdoor event
+    alt: Empty liquor bottles and flowers arranged on large metal box outdoors at night
   - src: Guests.jpg
     alt: Nighttime outdoor gathering with arrangement of flowers in green glass bottles, lit candles, and drink can on surface
   - src: tampa-crossing.jpg
