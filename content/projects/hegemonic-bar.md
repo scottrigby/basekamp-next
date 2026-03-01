@@ -11,7 +11,7 @@ images:
   - src: 3_0.jpg
     alt: Middle and upper class bar sections with yellow and purple lighting. Middle class bar positioned at 2 feet height served wine, upper class bar at 4 feet height served martinis
   - src: 1_0.jpg
-    alt: Piles of custom 'Basekamp bucks' play money distributed randomly at the door to participants.
+    alt: Piles of custom 'Basekamp bucks' play money. Caption text informing they were distributed randomly at the door to participants.
   - src: 2_1.jpg
     alt: Video still of crowded lower class bar section with participants drinking under red lighting.
   - src: 3_1.jpg
