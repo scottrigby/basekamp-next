@@ -4,7 +4,7 @@ images:
   - src: lol_1.jpg
     alt: "Black hole with purple swirling border against starfield background with black text LOL overlaid with letter O matching central void"
   - src: dnachomap.jpg
-    alt: "Topographic map of Southeast Asia with colored terrain in green and tan, black pathways crossing the map with red curved route lines, numbered location markers, and four 3D rendered stone textures in corners with elevation scale legend"
+    alt: "Topographic map of Southeast Asia with colored terrain in green and tan, black pathways crossing the map with red curved route lines, numbered location markers, beside two composited images of nachos"
   - src: wmpr_screenshot1.png
     alt: "Website screenshot for WMPR Radio Wampire pirate radio station by Meme-Rider Media Team, featuring red header with vampire silhouette, navigation menu, sidebar programs, and upcoming events with colorful artistic imagery"
 dateRange:
