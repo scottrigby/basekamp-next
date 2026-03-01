@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: hegemonic_bar_02_.jpg
-    alt: Person smoking behind a brick bar counter, viewed through wooden framing in dim lighting.
+    alt: Two people conversing behind a brick bar counter installed in gallery, viewed through wooden framing in dim lighting.
   - src: hegemonic_bar_03.jpg
     alt: Group of people socializing in a crowded bar space with exposed brick walls and industrial lighting.
   - src: hegemonic_bar_01.jpg
