@@ -5,7 +5,7 @@ location: The Galleries at Moore, Philadlephia
 attribution: Basekamp & friends
 images:
   - src: thumb-135_0.jpg
-    alt: Video still of person in period costume reading dramatically, reenacting a scene from a Hollywood film about artists.
+    alt: Person in suit standing behind a stylized cardboard tree cutout mime taking notes on a white block
   - src: 1.-ltr.jpg
     alt: Gallery installation view with tripod, video monitors, and constructed film sets visible in the space.
   - src: 3.-ltr.jpg
