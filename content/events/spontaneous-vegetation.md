@@ -12,7 +12,7 @@ images:
   - src: greenhouses2.jpg
     alt: "Close-up photograph of hand holding dark soil with red earthworms during vermicomposting process"
   - src: humblepile01.jpg
-    alt: "Compost pile with organic materials and decomposition visible for nutrient cycling in urban garden"
+    alt: "A person's hands gesturing towards a large white plastic bucket with black lid"
   - src: 87.jpg
     alt: "Gardener tending to plants in permaculture or urban agriculture growing space"
   - src: meade_sdc10461.jpg
