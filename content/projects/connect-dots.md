@@ -59,7 +59,7 @@ images:
   - src: DSC09315.jpg
     alt: Visitors at exhibition among colorful tri-fold display boards
   - src: card_front.jpg
-    alt: Network diagram showing all 60 participant names connected by colored lines and squares radiating from central "1000000 mph" hub
+    alt: Network diagram showing all 60 participant names connected by colored lines and squares
   - src: card_back5.jpg
     alt: Exhibition announcement card with "Connect The Dots" title, School of the Arts logo, and event details for Columbia University
 dateRange:
