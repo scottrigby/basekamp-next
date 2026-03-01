@@ -5,7 +5,7 @@ location: Morris Gallery, PAFA Museum, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: 600trim-eakins.jpg
-    alt: Realistic wax sculpture of a bearded man's head and shoulders displayed on a counter, resembling a museum figure.
+    alt: Realistic wax sculpture of a bearded man's head and shoulders displayed on a counter, with a set of real life hands slicing into its throat with a knife
   - src: 600MVC-016S.jpg
     alt: People installing a white tent-like structure inside a museum gallery, with one person on a ladder working on the interior.
   - src: retro-history-poster.jpg
