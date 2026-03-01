@@ -2,7 +2,7 @@
 title: StrataSpore
 images:
   - src: john_cage_mainimage.jpg
-    alt: "Black and white historical photograph with text John Cage and Allan Kaprow met on a mushroom hunt showing person holding mushroom specimens"
+    alt: "Black and white historical photograph of person holding mushroom with text John Cage and Allan Kaprow met on a mushroom hunt"
   - src: img_3286.jpg
     alt: "Repurposed yellow school bus structure positioned in outdoor garden surrounded by trees and vegetation"
   - src: img_2104.jpg
