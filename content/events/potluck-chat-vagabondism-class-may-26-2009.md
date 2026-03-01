@@ -2,7 +2,7 @@
 title: Potluck chat & Vagabondism Class - May 26 2009
 images:
   - src: nomad-boy2.png
-    alt: "Vintage infrared color photograph of nomadic encampment with dome-shaped tents in desert landscape, multiple people and structures, reddish-toned archival documentation"
+    alt: "Vintage archival photograph of nomadic encampment with dome-shaped tents in desert landscape, multiple people and structures"
 dateRange:
   from: 2009-05-26T18:00
   to: 2009-05-26T22:00
