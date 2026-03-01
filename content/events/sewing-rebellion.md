@@ -2,7 +2,7 @@
 title: Sewing Rebellion
 images:
   - src: sewing_rebellion.png
-    alt: Circular badge logo in brown and tan with text Sewing Rebellion and Stop Shopping Start Sewing surrounding sewing machine icon
+    alt: Circular badge logo in brown and tan with text Sewing Rebellion and Stop Shopping Start Sewing surrounding a sewing machine
 dateRange:
   from: 2010-08-31T18:00
   to: 2010-08-31T20:00
