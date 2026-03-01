@@ -11,7 +11,7 @@ images:
   - src: p2-larger.jpg
     alt: Framed document page with typed text about meeting Kiki Smith, with two indecipherable dark photographs at the bottom showing the encounter.
   - src: p3-larger.jpg
-    alt: Framed document page with typed text about meeting Sol LeWitt, accompanied by two photographs showing the elderly artist shaking hands with younger men.
+    alt: Framed document page with typed text about meeting Sol LeWitt, accompanied by two photographs showing the elderly artist giving the thumbs up with younger men.
 dateRange:
   from: 1999-01-01
   to: ""
