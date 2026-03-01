@@ -8,7 +8,7 @@ images:
   - src: clean-livin.png
     alt: "Indoor bathroom with toilet and handwash made from white and green plastic materials"
   - src: fieldtrip01.jpg
-    alt: "Group of people on urban foraging walk examining spontaneous and cultivated vegetation in city landscape"
+    alt: "Person holding a shopping cart filled with dirt and green vegetation in the rain in urban setting"
   - src: greenhouses2.jpg
     alt: "Close-up photograph of red earthworms in dark soil during vermicomposting process for greenwaste-to-fertility system"
   - src: humblepile01.jpg
