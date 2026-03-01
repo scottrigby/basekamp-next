@@ -6,7 +6,7 @@ images:
   - src: amicale.jpg
     alt: "Black and white photograph of collegial gathering with multiple participants seated at table with documents and water glasses in collaborative discussion"
   - src: cartexvbdp_zoom.jpg
-    alt: "World map showing XV Biennale de Paris with numbered location markers across 18 participating countries from October 2006 to September 2008"
+    alt: "Poster of world map titled XV Biennale de Paris with numbered location markers across 18 participating countries from October 2006 to September 2008"
 dateRange:
   from: 2010-02-23T18:00
   to: 2010-02-23T20:00
