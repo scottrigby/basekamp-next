@@ -4,7 +4,7 @@ images:
   - src: 1803667101_a12d12f6a7.jpg
     alt: "Man in business suit presenting to seated group in gallery space with laptop and materials on wooden table"
   - src: thinktank-pedagogicalfactory02.jpg
-    alt: "DIY wooden table construction with black top surface holding stacked spiral-bound educational journals and publications"
+    alt: "Custom made wooden table with black top surface holding stacked spiral-bound educational materials"
   - src: phpm05_04.jpg
     alt: "Outdoor public gathering with people seated in portable chairs taking notes and conversing in urban plaza"
 dateRange:
