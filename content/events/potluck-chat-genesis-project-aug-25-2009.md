@@ -8,7 +8,7 @@ images:
   - src: drawing03.jpg
     alt: "Two artists collaboratively drawing on white wall with black lines using body movement and gesture"
   - src: drawing04.jpg
-    alt: "Artist creating expressive black line drawings on white wall surface during performance-based drawing activity"
+    alt: "One artist holds another artist's hand to create black line drawings on white wall surface during performance-based drawing activity"
   - src: sculpture07.jpg
     alt: "Gallery installation with black and gray geometric sculptural forms with visible stitching, tilted and angled composition"
   - src: sculpture10.jpg
