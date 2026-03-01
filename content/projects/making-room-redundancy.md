@@ -5,7 +5,7 @@ location: Andrew Kreps Gallery, New York
 attribution: Basekamp with Lars Fischer
 images:
   - src: 01_0.jpg
-    alt: Hexagonal discussion panels in yellow, gray, red, and black arranged on the floor with handwritten notes, used as collaborative ideation tools.
+    alt: Hexagonal discussion panels in yellow, gray, red, and black arranged on the floor with handwritten notes
   - src: thumb-135_2.jpg
     alt: Hexagonal panels mounted on a wall in a honeycomb pattern, containing handwritten text and notes from participants.
   - src: thumb2-135.jpg
