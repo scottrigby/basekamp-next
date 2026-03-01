@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia & London
 attribution: Basekamp (participant) the Bureau for Research into Post Autonomy
 images:
   - src: thumb-135_4.jpg
-    alt: Small thumbnail showing people at a table with a projected video screen visible on pink wall
+    alt: Computer monitor showing video call interface with four people seated at a table in front of hexagonal wall display
   - src: nl6.jpg
     alt: Interior view of video conference meal at Basekamp showing participants seated at orange table with food, large projection screen on left displaying remote participant, and wooden walls with shelving in background
 dateRange:
