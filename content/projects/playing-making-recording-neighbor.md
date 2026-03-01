@@ -7,7 +7,7 @@ images:
   - src: dsc_1139-small.jpg
     alt: Five musicians performing in a bright windowed space with guitars, drums, keyboards and amplifiers 
   - src: dsc_0164-small.jpg
-    alt: Two musicians with guitars performing against a white wall, one wearing a red shirt and one in dark clothing
+    alt: Two musicians in dark clothing with guitars performing against a white wall, one with a red strap and the other with a blue strap
   - src: smimg_8549-small.jpg
     alt: Recording session in progress with multiple participants, microphone stands, and a person in a turquoise shirt seated in foreground
   - src: smimg_8450-small.jpg
