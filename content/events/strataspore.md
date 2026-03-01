@@ -8,7 +8,7 @@ images:
   - src: img_2104.jpg
     alt: "Person holding large mushroom talking and standing next to tree surrounded by group of people listening"
   - src: img_3187.jpg
-    alt: "Mushroom identification documentation photo showing fungal specimen"
+    alt: "Large bulbous yellow mushroom with red and blue stem growing outside"
   - src: img_2024.jpg
     alt: "Outdoor mushroom cultivation environment showing growth in natural setting"
   - src: mushroom131.jpg
