@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: Basekamp & friends
 images:
   - src: 1.jpg
-    alt: Installation view of Hegemonic Bar with dramatic red and purple lighting, elevated bar area with bottles, wooden platforms at different heights labeled with measurements.
+    alt: Installation view of Hegemonic Bar with dramatic red and purple lighting, one ground level bar and two elevated bar areas on wooden platforms at different heights labeled with measurements.
   - src: 2_0.jpg
     alt: Lower class bar section bathed in red light, with backlit beer bottles and white furniture. Caption reads '6 inches height x 8 feet width x 12 feet depth, served Yeungling beer.'
   - src: 3_0.jpg
