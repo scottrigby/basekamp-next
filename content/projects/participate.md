@@ -7,7 +7,7 @@ images:
   - src: participate-3.jpg
     alt: Colorful light box letter blocks positioned on dark floor
   - src: participate-1.jpg
-    alt: Multiple hands reaching upward toward a bright light source in a darkened space, creating dramatic shadows
+    alt: Multiple hands reaching upward, one with power drill, helping to construct a wooden tripod in gallery space
   - src: participate-2.jpg
     alt: Two people standing side by side showing their legs and torsos, wearing striped pants in red and white colors
   - src: participate-4.jpg
