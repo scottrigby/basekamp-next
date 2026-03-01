@@ -49,7 +49,7 @@ dateRange:
 | ^ | **Week 40 – Oct 5** | [StrataSpore](/events/strataspore) |
 | Sep | **Week 39 – Sep 28** | [Ultra-red](/events/ultra-red) |
 | ^ | **Week 38 – Sep 21** | [Groundswell Collective](/events/groundswell-collective) |
-| ^ | **Week 37 – Sep 14** | [Internacional Errorista](/events/internacional-errorista)** |
+| ^ | **Week 37 – Sep 14** | [Internacional Errorista](/events/internacional-errorista) |
 | ^ | **Week 36 – Sep 7** | [Post autonomy](/events/post-autonomy) |
 | Aug | **Week 35 – Aug 31** | [Sewing Rebellion](/events/sewing-rebellion) |
 | ^ | **Week 34 – Aug 24** | [Nomoola](/events/nomoola) |
