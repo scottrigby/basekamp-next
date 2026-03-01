@@ -4,7 +4,7 @@ images:
   - src: AdamLowLives.jpg
     alt: "Man in dark clothing bent forward interacting with white and brown spotted dog in minimalist white gallery space"
   - src: WestbrookScreenProductPlacement.jpg
-    alt: "Digital art image of pink product packaging bursting with white flowing fabric and sparkle effects overlaid, landscape with trees and blue sky visible in background"
+    alt: "Digital rendering of pink product packaging bursting with white flowing fabric and sparkle effects overlaid, floating above asphalt, landscape with trees and blue sky visible in background"
 dateRange:
   from: 2009-08-04T18:00
   to: 2009-08-04T20:00
