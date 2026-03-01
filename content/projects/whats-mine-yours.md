@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: Sara Reisman
 images:
   - src: 01.jpg
-    alt: Gallery installation featuring a white tricycle cart with painted backdrop showing colorful illustrated animals including a lobster, owl, and other creatures, orange storage box in foreground
+    alt: Gallery installation featuring a white tricycle cart with painted backdrop showing colorful illustrated animals including an octopus, owl, and other creatures
   - src: 09.jpg
     alt: Sunlit gallery space with multiple black umbrellas suspended from ceiling, white sculptural foam forms, and tall windows showing brick buildings outside
   - src: 02.jpg
