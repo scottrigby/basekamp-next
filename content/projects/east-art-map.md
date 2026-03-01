@@ -13,7 +13,7 @@ images:
   - src: eastartmap-mit.jpg
     alt: Book cover for 'East Art Map' featuring large yellow star on vibrant red background
   - src: eastartmap2.jpg
-    alt: Book mockup showing "NEW MOMENT ARTFORUM" magazine with "EAST ART MAP" text overlaid on grayscale map of Europe
+    alt: Poster titled 'Art Forum in New Moment' overlaid on grayscale map of Europe
   - src: web02.jpg
     alt: Screenshot of East Art Map website interface showing 3D cube logo with artist names, entry titled "A Tree Without An Author" with photograph and navigation elements
   - src: NSK-under-Tatlin.jpg
