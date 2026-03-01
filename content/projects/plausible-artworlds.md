@@ -17,7 +17,7 @@ images:
   - src: week1-600px_3.jpg
     alt: Eight people seated at wooden picnic benches engaged in discussion, facing a blue wall densely covered with colorful research documents, flyers, and handwritten notes. Green tape crosses mark the concrete floor.
   - src: week1d-600px_4.jpg
-    alt: Group discussion at wooden benches with one person filming. A Thomas Paine quote is visible on the left wall. Blue walls covered with layered documents, photographs, and neon-colored notes. Green tape crosses on the floor.
+    alt: Group discussion at wooden benches with one person filming. Blue walls covered with layered documents, photographs, and colorful notes. Green tape crosses on the floor.
   - src: week1c-600px_5.jpg
     alt: Close-up of wall installation showing densely layered typed documents, handwritten notes on pink and yellow paper, printed photographs, and research materials pinned to a blue wall with white plus sign pattern.
   - src: week1b-600px_6.jpg
