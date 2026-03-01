@@ -9,7 +9,7 @@ images:
   - src: 09.jpg
     alt: Sunlit gallery space featuring desk and chair with black umbrella suspended from ceiling overtop, small doghouse to the right
   - src: 02.jpg
-    alt: Gallery installation with wooden bench-like furniture piece in center and video projection on wall showing urban street scene
+    alt: Gallery installation with wooden picnic bench in center and video projection on wall showing urban street scene
   - src: 03.jpg
     alt: Gallery view showing large white curved fabric sculpture resembling a wave, wooden angular seating structure, and video projection on wall
   - src: 04.jpg
