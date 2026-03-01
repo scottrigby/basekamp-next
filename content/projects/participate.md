@@ -13,7 +13,7 @@ images:
   - src: participate-4.jpg
     alt: Group of people gathered around a table examining photographs or documents, with motion blur suggesting active discussion
   - src: participate-5.jpg
-    alt: Dark gallery space with multiple illuminated video screens and projections glowing in the darkness
+    alt: Dark gallery space with multiple illuminated letter blocks glowing, and two people standing
   - src: xiamen15.jpg
     alt: Close-up of a hand pointing at or selecting from a grid of photographs or printed materials laid out on a table surface
   - src: xiamen20.jpg
