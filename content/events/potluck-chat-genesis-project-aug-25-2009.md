@@ -10,7 +10,7 @@ images:
   - src: drawing04.jpg
     alt: "One artist holds another artist's hand to create black line drawings on white wall surface during performance-based drawing activity"
   - src: sculpture07.jpg
-    alt: "Gallery installation with black and gray geometric sculptural forms with visible stitching, tilted and angled composition"
+    alt: "Gallery installation with gray cubic sculptural forms with visible edge stitching, and a tilted composition"
   - src: sculpture10.jpg
     alt: "Large geometric black sculptural box or form in white gallery space with window light visible"
   - src: 25642379-eea88cc75ba058b62f97c1b043be2804.4a946724-full.jpg
