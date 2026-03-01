@@ -19,7 +19,7 @@ images:
   - src: NSK-under-Tatlin.jpg
     alt: Black and white group photograph of NSK collective members in formal dark attire standing in line beneath large angular metal tower structure resembling Tatlin's Monument
   - src: NSK-100_1.gif
-    alt: Documentary poster for "Predictions of Fire" showing dramatic flames and typography with dark sky and aircraft silhouettes
+    alt: Poster for 'Predictions of Fire' showing dramatic flaming structure and typography with dark sky and aircraft silhouettes
   - src: Irwin-BlackSquare.jpg
     alt: Public performance documentation showing large crowd gathered in Moscow's Red Square near St. Basil's Cathedral and GUM department store
   - src: winder2.jpg
