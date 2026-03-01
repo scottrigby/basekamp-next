@@ -7,7 +7,7 @@ images:
   - src: insta3.jpg
     alt: Wall illustration of artist painting large colorful organic shapes in purple and green on black background, professional lighting and camera equipment visible in foreground
   - src: insta1.jpg
-    alt: Gallery view showing "STUNT DOUBLE" text on wall with life-size photographic prints of people mounted on foam board in spotlight
+    alt: Gallery view showing 'Stunt Double' text on wall with life-size photographic prints of people mounted on foam board in spotlight
   - src: open.jpg
     alt: Newspaper classified advertisement reading "WANTED! 200 extras for the production of STUNT DOUBLE" with details about showing up to Base Kamp dressed for art opening
   - src: close.jpg
