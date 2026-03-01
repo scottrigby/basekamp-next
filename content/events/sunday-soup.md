@@ -8,7 +8,7 @@ images:
   - src: 2809021657_008481c4da_b.jpg
     alt: Pink smoothie in glass with fresh mint leaves as garnish
   - src: 2836798561_f7395a64b5_b.jpg
-    alt: Large pot of vegetable soup with carrots, greens, corn, and other ingredients cooking on stove
+    alt: Large pot of vegetable soup with carrots, greens, beans, and other ingredients cooking on stove
   - src: 2836800289_bac7bfd340_b.jpg
     alt: Group of people sitting and conversing with food and drinks on low table in blue-walled interior space
   - src: 2836804157_7b5a85227a_b.jpg
