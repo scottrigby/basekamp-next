@@ -15,7 +15,7 @@ images:
   - src: 01_1.jpg
     alt: Two men standing beside "Welcome to Cabbagetown" sign and yard sale sign on grass lawn
   - src: 03_0.jpg
-    alt: Graffitied concrete railroad overpass bridge with "KISS ATLANTA" text and car passing underneath
+    alt: Graffitied concrete railroad overpass bridge with 'Kiss Atlanta.com' text and car passing underneath
   - src: 01_2.jpg
     alt: White tent canopy set up in vacant urban lot with food and supplies on table, apartment buildings visible in background
   - src: 06_0.jpg
