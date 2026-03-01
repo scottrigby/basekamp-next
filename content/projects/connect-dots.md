@@ -45,7 +45,7 @@ images:
   - src: DSC09306.jpg
     alt: Visitor examining yellow tri-fold display board at exhibition
   - src: DSC09307.jpg
-    alt: Yellow tri-fold display showing "Ongoing Media Resources Monitoring" with photographs, orange display visible alongside
+    alt: Visitors viewing tri-fold displays at exhibition
   - src: DSC09308.jpg
     alt: Gallery view with visitors examining display boards during opening, colorful posters and wall panels visible
   - src: DSC09309.jpg
