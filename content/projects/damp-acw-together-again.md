@@ -23,7 +23,7 @@ images:
   - src: BandRoom.jpg
     alt: Small room bathed in red light, densely packed with cardboard guitars and amplifiers, with illuminated TV monitor
   - src: DeadDamp.jpg
-    alt: White wall displaying framed group photograph mounted on black painted form with dripping effect and wooden stick protruding
+    alt: White wall displaying group photograph positioned on black painted frame with dripping effect spelling DAMP
   - src: Start.jpg
     alt: Array of hand-painted cardboard guitars and Marshall amplifier paintings arranged on floor beneath colorful string lights
   - src: Untitled_19.jpg
