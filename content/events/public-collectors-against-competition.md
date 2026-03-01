@@ -6,7 +6,7 @@ images:
   - src: contactsheet-003.jpg
     alt: "Collection of event flyers and promotional posters featuring Vanilla Ice"
   - src: mfrecords3.jpg
-    alt: "Black metal shelving unit filled with organized vinyl records, CDs, and music media on multiple shelves with various album spines visible"
+    alt: "Black metal shelving unit filled with vinyl records, one record by Armand Schaubraeck visible in foreground"
   - src: screen_shot_2009-12-30_at_8.46.41_am.png
     alt: "Website screenshot or digital interface documentation related to Public Collectors project"
   - src: reddotrentalsmall.jpg
