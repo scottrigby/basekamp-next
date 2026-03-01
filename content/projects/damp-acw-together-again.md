@@ -31,7 +31,7 @@ images:
   - src: Scott.jpg
     alt: Person playing cardboard guitar standing in front of array of hand painted cardboard guitars and Marshall amplifiers, colorful string lights on wall
   - src: Ed.jpg
-    alt: Shirtless performer wearing underwear, headband, and sneakers holding white cardboard guitar during air guitar competition
+    alt: Shirtless performer wearing underwear, headband, and sneakers holding white cardboard guitar in front of cardboard guitar and amp display
   - src: Untitled_20.jpg
     alt: Group of participants performing with painted cardboard instruments, some kneeling on floor, others standing with guitars raised
   - src: Untitled_33.jpg
