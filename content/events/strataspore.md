@@ -20,7 +20,7 @@ images:
   - src: img_2009.jpg
     alt: "Person presenting a projected slide on the mushroom lifecycle in a studio space"
   - src: dscn1900.jpg
-    alt: "Mushroom habitat documentation in natural environment"
+    alt: "Group of people outdoors in nature, one person holding a tall green piece of vegetation"
   - src: photo2.jpg
     alt: "Edible mushroom preparation showing sliced specimens on cutting board"
   - src: sweettooth1.jpg
