@@ -2,7 +2,7 @@
 title: Public Collectors & Against Competition
 images:
   - src: frontpageimage3.jpg
-    alt: "Organized collection of vinyl records, CDs, books, and black filing cabinets displaying multiple media types including stacked records and album covers"
+    alt: "Composite image of vinyl record stacks, CDs, books, cardboard boxes, and black filing cabinets"
   - src: contactsheet-003.jpg
     alt: "Contact sheet showing collection of event flyers and promotional posters with colorful imagery and text quotes featuring various performers"
   - src: mfrecords3.jpg
