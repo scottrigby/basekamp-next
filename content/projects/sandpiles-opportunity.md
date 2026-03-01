@@ -21,7 +21,7 @@ images:
   - src: 72.jpg
     alt: Topdown view of Fractal Workspace business card embedded in sand building structure with other markers in surrounding sand
   - src: 74.jpg
-    alt: Section of sand installation featuring bright yellow ball, green container, and various small markers and objects
+    alt: Section of sand installation featuring bright yellow ball, green badge, and various small markers and objects
   - src: 80.jpg
     alt: Person wearing white lab coat standing over large wooden sandbox installation in industrial gallery space, working on sand landscape
 dateRange:
