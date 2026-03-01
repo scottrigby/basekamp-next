@@ -5,7 +5,7 @@ location: Basekamp, Philadelphia
 attribution: A Constructed World
 images:
   - src: 08_4.jpg
-    alt: Gallery installation with colorful screenprints on fabric depicting surreal landscape scenes hung on walls, with mattresses arranged on the floor for visitors to lounge on.
+    alt: Gallery installation with colorful paintings depicting surreal landscape scenes hung on walls, with mattresses arranged on the floor.
   - src: 11_0.jpg
     alt: Visitors seated on metal cube chairs watching video on a monitor, with a silver curtain backdrop and hay bales visible in the gallery space.
 dateRange:
