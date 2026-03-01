@@ -10,7 +10,7 @@ images:
   - src: screen_shot_2009-12-30_at_8.46.41_am.png
     alt: "Grid of photo documentation featuring various people, animals, and objects related to Public Collectors project"
   - src: reddotrentalsmall.jpg
-    alt: "Collection documentation photograph showing organized items or artifacts from personal collection being inventoried for public access"
+    alt: "Group of people in gallery looking at shelf of media, one person sits at a wooden desk with desktop computer"
   - src: mexico1.png
     alt: "Image documentation related to Public Collectors project or international collection initiative"
 dateRange:
