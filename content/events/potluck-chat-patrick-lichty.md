@@ -2,7 +2,7 @@
 title: "Potluck Chat: Patrick Lichty"
 images:
   - src: lichty0.jpg
-    alt: "Virtual avatar character from Second Life wearing sunglasses with beige colored head in digital gallery or storefront environment"
+    alt: "Virtual avatar character from Second Life wearing sunglasses with beige colored head in digital gallery"
   - src: lichty1.jpg
     alt: "Black and white portrait photograph of man with glasses and curly dark hair against white background"
   - src: lichty2.jpg
