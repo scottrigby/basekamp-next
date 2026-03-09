@@ -14,7 +14,7 @@ export default function EventsIndex() {
   return (
     <>
       <h1>Events</h1>
-      <div className="grid grid-cols-[repeat(auto-fit,_minmax(150px,_1fr))] sm:grid-cols-[repeat(auto-fit,_minmax(200px,_1fr))] gap-4 sm:gap-6 p-4">
+      <div className="grid grid-cols-[repeat(auto-fit,minmax(150px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 sm:gap-6 p-4">
         {events.map(({ meta }) => (
           <EventCard
             key={meta.slug}
