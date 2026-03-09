@@ -14,7 +14,7 @@ export default function EventsIndex() {
   return (
     <>
       <h1>Events</h1>
-      <div className="grid grid-cols-[repeat(auto-fit,minmax(150px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 sm:gap-6 p-4">
+      <ul className="grid grid-cols-[repeat(auto-fit,minmax(150px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 sm:gap-6 p-4 list-none">
         {events.map(({ meta }) => (
           <EventCard
             key={meta.slug}
@@ -26,7 +26,7 @@ export default function EventsIndex() {
             images={meta.images}
           />
         ))}
-      </div>
+      </ul>
     </>
   );
 }

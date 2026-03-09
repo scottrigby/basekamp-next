@@ -24,7 +24,7 @@ export default function Card({
   const image = images?.[0];
 
   return (
-    <div>
+    <li>
       <Link aria-label={title} href={href}>
         {image && (
           <div className="aspect-square">
@@ -42,6 +42,6 @@ export default function Card({
       {date && <small className="block">{formattedDate}</small>}
       {location && <small className="block">{location}</small>}
       {attribution && <small className="block">{attribution}</small>}
-    </div>
+    </li>
   );
 }

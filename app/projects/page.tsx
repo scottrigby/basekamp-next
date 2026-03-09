@@ -14,7 +14,7 @@ export default function ProjectsIndex() {
   return (
     <>
       <h1>Projects</h1>
-      <div className="grid grid-cols-[repeat(auto-fit,minmax(150px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 sm:gap-6 p-4">
+      <ul className="grid grid-cols-[repeat(auto-fit,minmax(150px,1fr))] sm:grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-4 sm:gap-6 p-4 list-none">
         {projects.map(({ meta }) => (
           <Card
             key={meta.slug}
@@ -26,7 +26,7 @@ export default function ProjectsIndex() {
             images={meta.images}
           />
         ))}
-      </div>
+      </ul>
     </>
   );
 }
