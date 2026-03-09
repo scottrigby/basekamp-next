@@ -23,7 +23,7 @@ CardProps) {
   const image = images && images.length > 0 ? images[0] : null;
 
   return (
-    <div>
+    <li>
       <Link aria-label={title} href={href}>
         <div className="aspect-square">
           {image && (
@@ -43,6 +43,6 @@ CardProps) {
       )}
       {/* {location && <small className="block">{location}</small>}
       {attribution && <small className="block">{attribution}</small>} */}
-    </div>
+    </li>
   );
 }
