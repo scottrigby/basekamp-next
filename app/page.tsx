@@ -30,7 +30,8 @@ export default function Page() {
             further our collective efforts.
           </p>
           <p>
-            <Link href="/contact">Let us know</Link> if you’d like to join us.
+            To get in touch, send a message using{" "}
+            <Link href="/contact">this form</Link>.
           </p>
         </div>
         <div className="sm:col-span-3">
