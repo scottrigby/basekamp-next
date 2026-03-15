@@ -116,6 +116,7 @@ export default function ContactForm({
           <input
             id="name"
             name="name"
+            autoComplete="name"
             type="text"
             value={values.name}
             onChange={onChange}
@@ -132,6 +133,7 @@ export default function ContactForm({
           <input
             id="email"
             name="email"
+            autoComplete="email"
             type="email"
             value={values.email}
             onChange={onChange}
@@ -148,6 +150,7 @@ export default function ContactForm({
           <textarea
             id="message"
             name="message"
+            autoComplete="off"
             rows={5}
             value={values.message}
             onChange={onChange}
