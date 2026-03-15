@@ -31,7 +31,7 @@
   }
 
   a {
-    @apply text-[#f96302] hover:underline;
+    @apply text-[#f96302] hover:underline focus:underline;
     @apply font-bold;
   }
 
