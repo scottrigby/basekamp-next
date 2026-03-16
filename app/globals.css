@@ -35,6 +35,10 @@
     @apply font-bold;
   }
 
+  footer a {
+    @apply text-gray-700 underline;
+  }
+
   ol {
     @apply list-decimal pl-8 mb-4;
   }

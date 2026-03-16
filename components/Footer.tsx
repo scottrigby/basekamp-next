@@ -9,7 +9,7 @@ export default function Footer() {
       <footer className="p-4 pt-8 pb-8 bg-gray-200">
         <p className="mb-0">
           This site is licensed under{" "}
-          <Link className="text-gray-700" href={"https://creativecommons.org/licenses/by-nc-sa/4.0/"}>
+          <Link href={"https://creativecommons.org/licenses/by-nc-sa/4.0/"}>
             CC BY-NC-SA 4.0
           </Link>
           {cc.map((name) => (
@@ -21,7 +21,10 @@ export default function Footer() {
               height={18}
               className="inline ml-1"
             />
-          ))}
+          ))}{" "}
+          <Link href="/site-map" className="ml-2">
+            Site map
+          </Link>
         </p>
       </footer>
     </>
