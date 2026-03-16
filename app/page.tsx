@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <div>
+    <>
       <h1>About</h1>
       <div className="sm:grid sm:grid-cols-8">
         <div className="sm:col-span-5 sm:mr-4">
@@ -37,12 +37,11 @@ export default function Page() {
           <Image
             width={600}
             height={450}
-            style={{ width: "600px", height: "auto" }}
             src="/EAM_600.jpg"
             alt="East Art Map, installation by Irwin, at Basekamp space, 2006."
           />
         </div>
       </div>
-    </div>
+    </>
   );
 }

@@ -20,7 +20,6 @@ export default function Page() {
             alt="Portfolio Day installation and performance by Basekamp group, UArts 1999. Pictured David Dempewolf (left) and Scott Rigby (right)"
             width={600}
             height={450}
-            className="float-right ml-4 mb-4 max-w-s"
           ></Image>
         </div>
       </div>
