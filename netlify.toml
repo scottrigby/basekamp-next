@@ -120,3 +120,10 @@ status = 302
 from = "http://lists.basekamp.com"
 to = "https://basekamp.com"
 status = 302
+
+## External redirects
+
+[[redirects]]
+from = "/accessibility-remediation"
+to = "https://github.com/users/scottrigby/projects/4/views/1"
+status = 302

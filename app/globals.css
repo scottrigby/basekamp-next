@@ -43,6 +43,14 @@
     @apply list-disc pl-8 mb-4;
   }
 
+  dt {
+    @apply font-bold;
+  }
+
+  dd {
+    @apply ms-4;
+  }
+
   /* better sitewide visual a11y tabbing */
   /* match inline classes added to grid images in ImageSlider component */
   button,
